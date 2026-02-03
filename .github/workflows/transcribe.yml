@@ -1,0 +1,130 @@
+name: Audio -> Subtitles (Whisper)
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "视频链接（YouTube/B站等，yt-dlp 支持即可）"
+        required: true
+        type: string
+      model:
+        description: "Whisper 模型：tiny/base/small/medium/large（越大越准越慢）"
+        required: false
+        default: "small"
+        type: string
+      language:
+        description: "语言代码（例如 zh / en；留空自动识别）"
+        required: false
+        default: ""
+        type: string
+      output_format:
+        description: "字幕格式：srt 或 vtt"
+        required: false
+        default: "srt"
+        type: string
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    env:
+      YTDLP_COOKIES_TXT: ${{ secrets.YTDLP_COOKIES_TXT }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js (for yt-dlp JS challenges)
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install system deps (ffmpeg)
+        shell: bash
+        run: |
+          set -euo pipefail
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          ffmpeg -version
+
+      - name: Install Python deps
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m pip install -U pip
+          python -m pip install -U yt-dlp openai-whisper
+
+      - name: Write cookies.txt (optional)
+        if: ${{ env.YTDLP_COOKIES_TXT != '' }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          printf '%s' "$YTDLP_COOKIES_TXT" | tr -d '\r' > cookies.txt
+          test -s cookies.txt
+
+      - name: Download audio only
+        env:
+          URL: ${{ inputs.url }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p audio subs
+
+          EXTRA_ARGS=()
+          if [ -s cookies.txt ]; then
+            EXTRA_ARGS+=(--cookies cookies.txt)
+          fi
+
+          # 允许下载 EJS 远程组件，解决 YouTube JS challenge 导致“格式缺失”问题
+          REMOTE_ARGS=(--remote-components ejs:github)
+
+          # 用 id 命名避免标题含空格/特殊字符
+          yt-dlp \
+            --js-runtimes node \
+            "${REMOTE_ARGS[@]}" \
+            -f "bestaudio/best" \
+            -o "audio/%(id)s.%(ext)s" \
+            "${EXTRA_ARGS[@]}" \
+            "$URL"
+
+          echo "Downloaded:"
+          ls -la audio
+
+      - name: Transcribe (Whisper -> SRT/VTT)
+        env:
+          MODEL: ${{ inputs.model }}
+          LANG: ${{ inputs.language }}
+          FMT: ${{ inputs.output_format }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          AUDIO_FILE="$(find audio -maxdepth 1 -type f -print -quit)"
+          test -n "$AUDIO_FILE"
+
+          # whisper 支持 --output_format srt/vtt 等；这里按输入生成一种格式
+          if [ -n "${LANG:-}" ]; then
+            whisper "$AUDIO_FILE" --model "$MODEL" --language "$LANG" --output_dir subs --output_format "$FMT" --verbose False
+          else
+            whisper "$AUDIO_FILE" --model "$MODEL" --output_dir subs --output_format "$FMT" --verbose False
+          fi
+
+          echo "Subs:"
+          ls -la subs
+
+      - name: Ensure artifact not empty
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p subs
+          if [ -z "$(ls -A subs 2>/dev/null)" ]; then
+            echo "No subtitles generated. Check workflow logs." > subs/EMPTY.txt
+          fi
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: subtitles
+          path: subs/
