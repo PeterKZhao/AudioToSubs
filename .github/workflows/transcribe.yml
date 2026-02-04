@@ -20,7 +20,7 @@ on:
       output_format:
         description: "字幕格式：srt 或 vtt"
         required: false
-        default: "srt"
+        default: "txt"
         type: string
 
 jobs:
@@ -86,7 +86,7 @@ jobs:
             --js-runtimes node \
             "${REMOTE_ARGS[@]}" \
             -f "bestaudio/best" \
-            -o "audio/%(id)s.%(ext)s" \
+            -o "audio/%(title).200s.%(ext)s" \
             "${EXTRA_ARGS[@]}" \
             "$URL"
 
