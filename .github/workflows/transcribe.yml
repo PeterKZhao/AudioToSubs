@@ -113,6 +113,16 @@ jobs:
 
           echo "Subs:"
           ls -la subs
+      - name: Post-process TXT (remove newlines)
+        if: ${{ inputs.output_format == 'txt' }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          TXT_FILE="$(ls subs/*.txt | head -n 1)"
+          # 换行 -> 空格，并压缩连续空白
+          tr '\n' ' ' < "$TXT_FILE" | sed -E 's/[[:space:]]+/ /g' > "${TXT_FILE}.tmp"
+          mv "${TXT_FILE}.tmp" "$TXT_FILE"
+          echo "Rewritten (no newlines): $TXT_FILE"
 
       - name: Ensure artifact not empty
         shell: bash
