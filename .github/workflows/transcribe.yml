@@ -86,7 +86,8 @@ jobs:
             --js-runtimes node \
             "${REMOTE_ARGS[@]}" \
             -f "bestaudio/best" \
-            -o "audio/%(title).200s.%(ext)s" \
+            -o "audio/%(title).120B_%(id)s.%(ext)s" \
+            --windows-filenames \
             "${EXTRA_ARGS[@]}" \
             "$URL"
 
