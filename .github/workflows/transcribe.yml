@@ -42,17 +42,36 @@ jobs:
         with:
           node-version: "20"
 
+      - name: Cache apt packages
+        uses: actions/cache@v4
+        id: cache-apt
+        with:
+          path: |
+            /var/cache/apt/archives
+            /usr/bin/ffmpeg
+            /usr/bin/ffprobe
+          key: ${{ runner.os }}-apt-ffmpeg-v1
+          restore-keys: |
+            ${{ runner.os }}-apt-ffmpeg-
+
+      - name: Install ffmpeg
+        if: steps.cache-apt.outputs.cache-hit != 'true'
+        shell: bash
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Verify ffmpeg
+        shell: bash
+        run: |
+          ffmpeg -version
+          which ffmpeg
+
       - name: Setup Python with pip cache
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: 'pip'  # 现在可以找到 requirements.txt 了
-
-      - name: Cache apt packages (ffmpeg)
-        uses: awalsh128/cache-apt-pkgs-action@latest
-        with:
-          packages: ffmpeg
-          version: 1.0
+          cache: 'pip'
 
       - name: Install Python dependencies
         shell: bash
