@@ -46,15 +46,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: 'pip'  # 自动缓存 pip 包
-
-      - name: Create requirements.txt
-        shell: bash
-        run: |
-          cat > requirements.txt << 'EOF'
-          yt-dlp
-          openai-whisper
-          EOF
+          cache: 'pip'  # 现在可以找到 requirements.txt 了
 
       - name: Cache apt packages (ffmpeg)
         uses: awalsh128/cache-apt-pkgs-action@latest
