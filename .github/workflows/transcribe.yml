@@ -54,10 +54,15 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-apt-ffmpeg-
 
-      - name: Install ffmpeg
+      - name: Fix apt sources and install ffmpeg
         if: steps.cache-apt.outputs.cache-hit != 'true'
         shell: bash
         run: |
+          # 移除有问题的 Microsoft 源
+          sudo rm -f /etc/apt/sources.list.d/microsoft-prod.list
+          sudo rm -f /etc/apt/sources.list.d/azure-cli.list
+          
+          # 更新并安装 ffmpeg
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
