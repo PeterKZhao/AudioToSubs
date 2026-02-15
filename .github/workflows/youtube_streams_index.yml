@@ -1,0 +1,197 @@
+name: Build YouTube streams index (@dlw2023)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *" # 每 6 小时跑一次，可自行调整
+
+permissions:
+  contents: write
+
+concurrency:
+  group: youtube-streams-index
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install yt-dlp
+        run: |
+          python -m pip install --upgrade pip
+          pip install --upgrade yt-dlp
+
+      - name: Write cookies.txt (from secret)
+        env:
+          YTDLP_COOKIES_TXT: ${{ secrets.YTDLP_COOKIES_TXT }}
+        run: |
+          set -euo pipefail
+          COOKIES_FILE="$RUNNER_TEMP/youtube_cookies.txt"
+          # 重要：不要 echo（可能破坏换行）；用 printf 原样写出
+          printf '%s' "$YTDLP_COOKIES_TXT" > "$COOKIES_FILE"
+          chmod 600 "$COOKIES_FILE"
+          echo "COOKIES_FILE=$COOKIES_FILE" >> "$GITHUB_ENV"
+
+      - name: Fetch streams list + classify
+        env:
+          CHANNEL_STREAMS_URL: "https://www.youtube.com/@dlw2023/streams"
+        run: |
+          set -euo pipefail
+
+          python - << 'PY'
+          import csv, json, os, subprocess
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          channel_url = os.environ["CHANNEL_STREAMS_URL"]
+          cookies = os.environ["COOKIES_FILE"]
+
+          outdir = Path("data/youtube/dlw2023")
+          outdir.mkdir(parents=True, exist_ok=True)
+
+          flat_path = outdir / "streams_flat.json"
+          raw_jsonl_path = outdir / "streams_raw.jsonl"
+          csv_path = outdir / "streams_index.csv"
+          md_path = outdir / "streams_index.md"
+          summary_path = outdir / "summary.json"
+
+          # 1) 先平铺拿到所有视频 ID（更快）
+          flat_cmd = [
+              "yt-dlp",
+              "--cookies", cookies,
+              "--flat-playlist",
+              "-J",
+              channel_url,
+          ]
+          flat_text = subprocess.check_output(flat_cmd, text=True)
+          flat_path.write_text(flat_text, encoding="utf-8")
+
+          flat = json.loads(flat_text)
+          entries = flat.get("entries") or []
+          ids = []
+          seen = set()
+          for e in entries:
+              vid = (e or {}).get("id")
+              if vid and vid not in seen:
+                  seen.add(vid)
+                  ids.append(vid)
+
+          # 2) 对每个视频抓取详细元数据（用于 availability/live_status 等）
+          #    ignore-no-formats-error：即使无法下载格式也尽量拿到元数据
+          raw_lines = []
+          for vid in ids:
+              url = f"https://www.youtube.com/watch?v={vid}"
+              cmd = [
+                  "yt-dlp",
+                  "--cookies", cookies,
+                  "--skip-download",
+                  "--ignore-no-formats-error",
+                  "-j",
+                  url,
+              ]
+              p = subprocess.run(cmd, capture_output=True, text=True)
+              if p.returncode != 0 or not p.stdout.strip():
+                  # 不让单个失败中断整个流程
+                  continue
+              # 理论上只有一行 JSON；稳妥起见按行处理
+              for line in p.stdout.splitlines():
+                  line = line.strip()
+                  if line.startswith("{") and line.endswith("}"):
+                      raw_lines.append(line)
+
+          raw_jsonl_path.write_text("\n".join(raw_lines) + ("\n" if raw_lines else ""), encoding="utf-8")
+
+          def yyyymmdd_to_iso(s):
+              if not s or len(s) != 8:
+                  return ""
+              return f"{s[0:4]}-{s[4:6]}-{s[6:8]}"
+
+          rows = []
+          for line in raw_lines:
+              d = json.loads(line)
+              availability = d.get("availability") or ""
+              members_only = (availability == "subscriber_only")
+
+              upload_date = d.get("upload_date") or d.get("release_date") or ""
+              iso_date = yyyymmdd_to_iso(upload_date)
+
+              rows.append({
+                  "id": d.get("id") or "",
+                  "title": d.get("fulltitle") or d.get("title") or "",
+                  "url": d.get("webpage_url") or f"https://www.youtube.com/watch?v={d.get('id','')}",
+                  "upload_date": iso_date,
+                  "live_status": d.get("live_status") or "",
+                  "was_live": bool(d.get("was_live")) if d.get("was_live") is not None else "",
+                  "is_live": bool(d.get("is_live")) if d.get("is_live") is not None else "",
+                  "availability": availability,
+                  "members_only": members_only,
+              })
+
+          # 排序：日期倒序，其次 id
+          def sort_key(r):
+              return (r["upload_date"] or "0000-00-00", r["id"])
+          rows.sort(key=sort_key, reverse=True)
+
+          # 写 CSV
+          fieldnames = ["id","title","url","upload_date","live_status","was_live","is_live","availability","members_only"]
+          with csv_path.open("w", encoding="utf-8", newline="") as f:
+              w = csv.DictWriter(f, fieldnames=fieldnames)
+              w.writeheader()
+              w.writerows(rows)
+
+          # 写 Markdown（避免太大，展示前 200 条）
+          def md_escape(s: str) -> str:
+              return (s or "").replace("|", "\\|").replace("\n", " ").strip()
+
+          head = rows[:200]
+          md_lines = []
+          md_lines.append(f"# @dlw2023 Streams Index\n")
+          md_lines.append(f"- Source: {channel_url}\n")
+          md_lines.append(f"- Updated (UTC): {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')}\n")
+          md_lines.append(f"- Total entries: {len(rows)}\n")
+          md_lines.append("")
+          md_lines.append("| Date | Members | Live status | Title | URL |")
+          md_lines.append("|---|---:|---|---|---|")
+          for r in head:
+              md_lines.append(
+                  f"| {r['upload_date'] or ''} | {'Y' if r['members_only'] else 'N'} | {md_escape(r['live_status'])} | {md_escape(r['title'])} | {md_escape(r['url'])} |"
+              )
+          md_path.write_text("\n".join(md_lines) + "\n", encoding="utf-8")
+
+          # 写 summary
+          summary = {
+              "channel_streams_url": channel_url,
+              "updated_utc": datetime.now(timezone.utc).isoformat(),
+              "total_entries": len(rows),
+              "members_only_count": sum(1 for r in rows if r["members_only"]),
+              "public_count": sum(1 for r in rows if not r["members_only"]),
+          }
+          summary_path.write_text(json.dumps(summary, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+          print(f"Wrote: {csv_path}, {md_path}, {raw_jsonl_path}, {summary_path}")
+          PY
+
+      - name: Commit & push changes
+        run: |
+          set -euo pipefail
+          if git status --porcelain | grep -q '^'; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/youtube/dlw2023/
+            git commit -m "Update @dlw2023 streams index" || exit 0
+            git push
+          else
+            echo "No changes"
+          fi
