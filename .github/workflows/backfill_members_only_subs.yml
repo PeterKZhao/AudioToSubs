@@ -1,0 +1,186 @@
+name: Backfill members-only subs (dispatch transcribe.yml)
+
+on:
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: "每次投递多少个视频到 transcribe.yml"
+        required: false
+        default: "3"
+        type: string
+      max_pending:
+        description: "transcribe.yml 允许排队中的最大数量（queued+in_progress）"
+        required: false
+        default: "5"
+        type: string
+      langs:
+        description: "优先字幕语言（逗号分隔/可正则）"
+        required: false
+        default: "zh-Hans,zh-Hant,en.*"
+        type: string
+      whisper_model:
+        description: "Whisper模型：tiny/base/small/medium/large"
+        required: false
+        default: "small"
+        type: string
+
+  schedule:
+    # 例：每小时跑一次（UTC），不要卡整点可减少排队概率
+    - cron: "23 * * * *"
+
+permissions:
+  contents: read
+  actions: write   # 需要用 GITHUB_TOKEN 调用 workflow dispatch API
+
+concurrency:
+  group: backfill-members-only-dispatch
+  cancel-in-progress: true
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dispatch transcribe.yml
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          REF: ${{ github.ref_name }}
+          CSV_PATH: data/youtube/dlw2023/streams_index.csv
+          WORKFLOW_FILE: transcribe.yml
+
+          # schedule 触发时没有 inputs；这里读不到就让 Python 用默认值兜底
+          BATCH_SIZE: ${{ github.event.inputs.batch_size }}
+          MAX_PENDING: ${{ github.event.inputs.max_pending }}
+          LANGS: ${{ github.event.inputs.langs }}
+          WHISPER_MODEL: ${{ github.event.inputs.whisper_model }}
+
+        run: |
+          python - <<'PY'
+          import csv, json, os, time, urllib.request, urllib.error
+          from pathlib import Path
+
+          def env_int(name, default):
+            try:
+              v = (os.environ.get(name) or "").strip()
+              return int(v) if v else default
+            except Exception:
+              return default
+
+          def env_str(name, default):
+            v = (os.environ.get(name) or "").strip()
+            return v if v else default
+
+          token = os.environ["GH_TOKEN"].strip()
+          repo = os.environ["REPO"].strip()               # owner/repo
+          ref  = os.environ["REF"].strip() or "main"
+          csv_path = os.environ["CSV_PATH"].strip()
+          workflow_file = os.environ["WORKFLOW_FILE"].strip()
+
+          batch_size  = env_int("BATCH_SIZE", 3)
+          max_pending = env_int("MAX_PENDING", 5)
+          langs = env_str("LANGS", "zh-Hans,zh-Hant,en.*")
+          whisper_model = env_str("WHISPER_MODEL", "small")
+
+          api_base = "https://api.github.com"
+          headers = {
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/vnd.github+json",
+            "X-GitHub-Api-Version": "2022-11-28",
+            "User-Agent": "backfill-dispatcher",
+          }
+
+          def gh_request(method, url, data=None):
+            body = None
+            if data is not None:
+              body = json.dumps(data).encode("utf-8")
+              h = dict(headers)
+              h["Content-Type"] = "application/json"
+            else:
+              h = headers
+            req = urllib.request.Request(url, data=body, headers=h, method=method)
+            try:
+              with urllib.request.urlopen(req, timeout=30) as resp:
+                txt = resp.read().decode("utf-8") if resp.length != 0 else ""
+                return resp.status, txt
+            except urllib.error.HTTPError as e:
+              txt = e.read().decode("utf-8", errors="ignore")
+              return e.code, txt
+
+          # 1) 统计 transcribe.yml 当前 queued + in_progress 数量，避免无限堆队列
+          runs_url = f"{api_base}/repos/{repo}/actions/workflows/{workflow_file}/runs?per_page=50"
+          status, txt = gh_request("GET", runs_url)
+          pending = 0
+          if status == 200 and txt.strip():
+            j = json.loads(txt)
+            for r in j.get("workflow_runs", []):
+              if r.get("status") in ("queued", "in_progress"):
+                pending += 1
+          else:
+            print("WARN: cannot list workflow runs:", status, txt[:200])
+
+          slots = max(0, max_pending - pending)
+          if slots <= 0:
+            print(f"Pending={pending} >= max_pending={max_pending}. Skip dispatch.")
+            raise SystemExit(0)
+
+          # 2) 收集 subs/ 里已存在的 video_id（从目录名 *_<id> 提取）
+          done_ids = set()
+          subs_root = Path("subs")
+          if subs_root.exists():
+            for p in subs_root.glob("*/*/*_*"):
+              if p.is_dir():
+                # 目录名形如 20250101_ABCDEFGHIJK
+                name = p.name
+                if "_" in name:
+                  done_ids.add(name.split("_", 1)[1])
+
+          # 3) 从 streams_index.csv 取出 members_only=true 且未处理的 id
+          candidates = []
+          with open(csv_path, "r", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+              mo = (row.get("members_only") or "").strip().lower()
+              is_members = mo in ("true", "1", "y", "yes")
+              vid = (row.get("id") or "").strip()
+              date = (row.get("upload_date") or "").strip()
+              if is_members and vid and vid not in done_ids:
+                candidates.append((date, vid))
+
+          # 日期倒序（新 -> 旧）
+          candidates.sort(key=lambda x: (x[0] or "0000-00-00", x[1]), reverse=True)
+
+          to_dispatch = [vid for _, vid in candidates[: min(batch_size, slots)]]
+          if not to_dispatch:
+            print("No remaining members-only videos to dispatch.")
+            raise SystemExit(0)
+
+          # 4) dispatch 触发 transcribe.yml
+          dispatch_url = f"{api_base}/repos/{repo}/actions/workflows/{workflow_file}/dispatches"
+          for vid in to_dispatch:
+            video_url = f"https://www.youtube.com/watch?v={vid}"
+            payload = {
+              "ref": ref,
+              "inputs": {
+                "url": video_url,
+                "langs": langs,
+                "whisper_model": whisper_model,
+                "whisper_language": "",
+                "user_agent": "",
+              }
+            }
+            s, t = gh_request("POST", dispatch_url, payload)
+            if s not in (204, 201):
+              raise SystemExit(f"Dispatch failed for {vid}: HTTP {s} {t[:300]}")
+            print("Dispatched:", vid, video_url)
+            time.sleep(2)  # 温和一点，避免触发二级限流
+
+          print(f"Done. pending(before)={pending}, dispatched={len(to_dispatch)}")
+          PY
