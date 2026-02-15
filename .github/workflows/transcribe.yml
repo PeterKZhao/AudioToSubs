@@ -1,4 +1,4 @@
-name: Smart Subtitles (Download or Whisper)
+name: Smart Subtitles (Commit to Repo)
 
 on:
   workflow_dispatch:
@@ -28,6 +28,13 @@ on:
         default: ""
         type: string
 
+permissions:
+  contents: write  # 允许用 GITHUB_TOKEN push 回仓库 [web:28][web:31]
+
+concurrency:
+  group: smart-subtitles
+  cancel-in-progress: false
+
 jobs:
   smart_subs:
     runs-on: ubuntu-latest
@@ -35,7 +42,11 @@ jobs:
       YTDLP_COOKIES_TXT: ${{ secrets.YTDLP_COOKIES_TXT }}
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true # 让后面的 git push 直接可用 [web:42]
+          fetch-depth: 0
 
       - name: Setup Node.js (for yt-dlp JS challenges)
         uses: actions/setup-node@v4
@@ -54,7 +65,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: "pip"  # built-in pip cache
+          cache: "pip"
           cache-dependency-path: |
             requirements.txt
 
@@ -62,7 +73,7 @@ jobs:
         shell: bash
         run: |
           python -m pip install -U pip
-          # 必要工具：yt-dlp + openai-whisper（CPU 版）
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           pip install -U yt-dlp openai-whisper
 
       - name: Cache Whisper models
@@ -82,7 +93,6 @@ jobs:
       - name: Prepare folders
         shell: bash
         run: |
-          rm -rf subs work
           mkdir -p subs work
 
       - name: Detect subtitle availability (JSON)
@@ -94,14 +104,12 @@ jobs:
         shell: bash
         run: |
           python - <<'PY'
-          import json, os, re, subprocess, sys
+          import json, os, re, subprocess
 
           url = os.environ["URL"].strip()
           langs = os.environ.get("LANGS","").strip()
           ua = os.environ.get("UA","").strip()
-          patterns = []
-          for p in [x.strip() for x in langs.split(",") if x.strip()]:
-            patterns.append(re.compile(p))
+          patterns = [re.compile(x.strip()) for x in langs.split(",") if x.strip()]
 
           cmd = [
             "yt-dlp",
@@ -122,17 +130,16 @@ jobs:
           auto = info.get("automatic_captions") or {}
           keys = sorted(set(list(subs.keys()) + list(auto.keys())))
 
-          def matches(k: str) -> bool:
+          def ok(k: str) -> bool:
             for r in patterns:
               if r.fullmatch(k) or r.search(k):
                 return True
             return False
 
-          matched = [k for k in keys if matches(k)]
+          matched = [k for k in keys if ok(k)]
           mode = "download" if matched else "whisper"
 
-          out = os.environ["GITHUB_OUTPUT"]
-          with open(out, "a", encoding="utf-8") as f:
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as f:
             f.write(f"mode={mode}\n")
             f.write("matched_langs=" + ",".join(matched) + "\n")
 
@@ -201,8 +208,6 @@ jobs:
             "${COOKIE_ARGS[@]}" \
             "${UA_ARGS[@]}"
 
-          ls -lh work
-
       - name: Whisper generate subtitles (SRT+TXT+VTT)
         if: steps.postcheck.outputs.need_whisper == 'true'
         env:
@@ -222,8 +227,6 @@ jobs:
             --output_format "all" \
             "${LANG_ARGS[@]}"
 
-          ls -lh subs
-
       - name: Convert SRT -> LRC (simple)
         if: steps.postcheck.outputs.need_whisper == 'true'
         shell: bash
@@ -231,23 +234,20 @@ jobs:
           python - <<'PY'
           import glob, os, re
           def srt_time_to_lrc(t):
-            # "HH:MM:SS,mmm" -> "MM:SS.xx" (keep minutes from full time)
             hh, mm, rest = t.split(":")
             ss, ms = rest.split(",")
             total_mm = int(hh)*60 + int(mm)
             xx = int(ms)//10
             return f"{total_mm:02d}:{int(ss):02d}.{xx:02d}"
 
-          srt_files = glob.glob("subs/*.srt")
-          for srt in srt_files:
+          for srt in glob.glob("subs/*.srt"):
             with open(srt, "r", encoding="utf-8", errors="ignore") as f:
               lines = [x.rstrip("\n") for x in f]
 
             out = []
             i = 0
             while i < len(lines):
-              # block: index, time, text..., blank
-              if re.fullmatch(r"\d+", lines[i].strip() or ""):
+              if re.fullmatch(r"\d+", (lines[i].strip() or "")):
                 i += 1
                 if i < len(lines) and "-->" in lines[i]:
                   time_line = lines[i]
@@ -268,8 +268,24 @@ jobs:
           print("generated:", glob.glob("subs/*.lrc"))
           PY
 
-      - name: Upload subtitles artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: subtitles
-          path: subs/
+      - name: Commit & push subtitles (to current repo)
+        env:
+          URL: ${{ inputs.url }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # 只关心 subs/ 是否有变化
+          if [[ -z "$(git status --porcelain subs)" ]]; then
+            echo "No changes under subs/. Skip commit."
+            exit 0
+          fi
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add subs
+          git commit -m "Add subtitles: ${URL}" || exit 0
+
+          # 参考你另一个 workflow：直接 push（使用 checkout 持久化的凭据）
+          git push
