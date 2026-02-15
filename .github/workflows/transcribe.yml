@@ -1,4 +1,4 @@
-name: Smart Subtitles (Commit to Repo)
+name: Smart Subtitles (Commit Organized)
 
 on:
   workflow_dispatch:
@@ -29,7 +29,7 @@ on:
         type: string
 
 permissions:
-  contents: write  # 允许用 GITHUB_TOKEN push 回仓库 [web:28][web:31]
+  contents: write  # 允许 GITHUB_TOKEN 写入仓库 [web:28][web:31]
 
 concurrency:
   group: smart-subtitles
@@ -45,7 +45,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          persist-credentials: true # 让后面的 git push 直接可用 [web:42]
+          persist-credentials: true  # 让后面 git push 直接可用 [web:42]
           fetch-depth: 0
 
       - name: Setup Node.js (for yt-dlp JS challenges)
@@ -59,7 +59,6 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
           ffmpeg -version
-          which ffmpeg
 
       - name: Setup Python with pip cache
         uses: actions/setup-python@v5
@@ -69,7 +68,7 @@ jobs:
           cache-dependency-path: |
             requirements.txt
 
-      - name: Install Python dependencies
+      - name: Install dependencies
         shell: bash
         run: |
           python -m pip install -U pip
@@ -95,7 +94,10 @@ jobs:
         run: |
           mkdir -p subs work
 
-      - name: Detect subtitle availability (JSON)
+      # 关键：一次 yt-dlp -J 同时做两件事：
+      # 1) 计算“每视频目录” out_dir
+      # 2) 检测该视频是否有匹配语言字幕（subtitles/automatic_captions）
+      - name: Resolve out_dir + Detect subtitle availability
         id: detect
         env:
           URL: ${{ inputs.url }}
@@ -105,6 +107,7 @@ jobs:
         run: |
           python - <<'PY'
           import json, os, re, subprocess
+          from pathlib import Path
 
           url = os.environ["URL"].strip()
           langs = os.environ.get("LANGS","").strip()
@@ -125,7 +128,21 @@ jobs:
           if ua:
             cmd += ["--user-agent", ua]
 
-          info = json.loads(subprocess.check_output(cmd, text=True))
+          info_text = subprocess.check_output(cmd, text=True)
+          info = json.loads(info_text)
+
+          extractor = info.get("extractor_key") or info.get("extractor") or "unknown"
+          channel = info.get("channel_id") or info.get("uploader_id") or info.get("uploader") or "unknown"
+          upload_date = info.get("upload_date") or info.get("release_date") or "unknown-date"
+          vid = info.get("id") or "unknown-id"
+
+          out_dir = Path("subs") / extractor / channel / f"{upload_date}_{vid}"
+          out_dir.mkdir(parents=True, exist_ok=True)
+
+          # 保存溯源信息
+          (out_dir / "source_url.txt").write_text(url + "\n", encoding="utf-8")
+          (out_dir / "info.json").write_text(info_text + ("\n" if not info_text.endswith("\n") else ""), encoding="utf-8")
+
           subs = info.get("subtitles") or {}
           auto = info.get("automatic_captions") or {}
           keys = sorted(set(list(subs.keys()) + list(auto.keys())))
@@ -142,17 +159,21 @@ jobs:
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as f:
             f.write(f"mode={mode}\n")
             f.write("matched_langs=" + ",".join(matched) + "\n")
+            f.write(f"out_dir={out_dir.as_posix()}\n")
+            f.write(f"video_id={vid}\n")
 
           print("mode =", mode)
+          print("out_dir =", out_dir)
           print("matched_langs =", ",".join(matched) if matched else "(none)")
           PY
 
-      - name: Download existing subtitles (manual/auto)
+      - name: Download existing subtitles into per-video folder
         if: steps.detect.outputs.mode == 'download'
         env:
           URL: ${{ inputs.url }}
           LANGS: ${{ inputs.langs }}
           UA: ${{ inputs.user_agent }}
+          OUT_DIR: ${{ steps.detect.outputs.out_dir }}
         shell: bash
         run: |
           set -euo pipefail
@@ -168,17 +189,19 @@ jobs:
             --sub-langs "${LANGS}" \
             --sub-format "vtt/best" \
             --convert-subs srt \
-            -o "subs/%(title).200s_%(id)s.%(ext)s" \
+            -o "${OUT_DIR}/%(title).200s_%(id)s.%(ext)s" \
             "${URL}" \
             "${COOKIE_ARGS[@]}" \
             "${UA_ARGS[@]}"
 
       - name: Decide if Whisper is needed (fallback)
         id: postcheck
+        env:
+          OUT_DIR: ${{ steps.detect.outputs.out_dir }}
         shell: bash
         run: |
           shopt -s nullglob
-          files=(subs/*.srt subs/*.vtt subs/*.txt subs/*.lrc)
+          files=("${OUT_DIR}"/*.srt "${OUT_DIR}"/*.vtt "${OUT_DIR}"/*.txt "${OUT_DIR}"/*.lrc)
           if [[ "${{ steps.detect.outputs.mode }}" == "whisper" ]]; then
             echo "need_whisper=true" >> "$GITHUB_OUTPUT"
           elif (( ${#files[@]} == 0 )); then
@@ -203,16 +226,17 @@ jobs:
           yt-dlp \
             --js-runtimes node --remote-components ejs:github \
             -f "bestaudio/best" \
-            -o "work/%(title).200s_%(id)s.%(ext)s" \
+            -o "work/%(id)s.%(ext)s" \
             "${URL}" \
             "${COOKIE_ARGS[@]}" \
             "${UA_ARGS[@]}"
 
-      - name: Whisper generate subtitles (SRT+TXT+VTT)
+      - name: Whisper generate subtitles (SRT+TXT+VTT) into per-video folder
         if: steps.postcheck.outputs.need_whisper == 'true'
         env:
           MODEL: ${{ inputs.whisper_model }}
           WHISPER_LANG: ${{ inputs.whisper_language }}
+          OUT_DIR: ${{ steps.detect.outputs.out_dir }}
         shell: bash
         run: |
           set -euo pipefail
@@ -223,16 +247,20 @@ jobs:
 
           whisper "${AUDIO_FILE}" \
             --model "${MODEL}" \
-            --output_dir "subs" \
+            --output_dir "${OUT_DIR}" \
             --output_format "all" \
             "${LANG_ARGS[@]}"
 
       - name: Convert SRT -> LRC (simple)
         if: steps.postcheck.outputs.need_whisper == 'true'
+        env:
+          OUT_DIR: ${{ steps.detect.outputs.out_dir }}
         shell: bash
         run: |
           python - <<'PY'
           import glob, os, re
+          out_dir = os.environ["OUT_DIR"]
+
           def srt_time_to_lrc(t):
             hh, mm, rest = t.split(":")
             ss, ms = rest.split(",")
@@ -240,7 +268,7 @@ jobs:
             xx = int(ms)//10
             return f"{total_mm:02d}:{int(ss):02d}.{xx:02d}"
 
-          for srt in glob.glob("subs/*.srt"):
+          for srt in glob.glob(os.path.join(out_dir, "*.srt")):
             with open(srt, "r", encoding="utf-8", errors="ignore") as f:
               lines = [x.rstrip("\n") for x in f]
 
@@ -264,18 +292,18 @@ jobs:
             lrc = os.path.splitext(srt)[0] + ".lrc"
             with open(lrc, "w", encoding="utf-8") as f:
               f.write("\n".join(out).strip() + ("\n" if out else ""))
-
-          print("generated:", glob.glob("subs/*.lrc"))
           PY
 
-      - name: Commit & push subtitles (to current repo)
+      - name: Commit & push subtitles
         env:
           URL: ${{ inputs.url }}
+          OUT_DIR: ${{ steps.detect.outputs.out_dir }}
+          VIDEO_ID: ${{ steps.detect.outputs.video_id }}
         shell: bash
         run: |
           set -euo pipefail
 
-          # 只关心 subs/ 是否有变化
+          # 只提交 subs/，并且只有有变化才提交
           if [[ -z "$(git status --porcelain subs)" ]]; then
             echo "No changes under subs/. Skip commit."
             exit 0
@@ -285,7 +313,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git add subs
-          git commit -m "Add subtitles: ${URL}" || exit 0
-
-          # 参考你另一个 workflow：直接 push（使用 checkout 持久化的凭据）
+          git commit -m "Add subtitles: ${VIDEO_ID} (${URL})" || exit 0
           git push
