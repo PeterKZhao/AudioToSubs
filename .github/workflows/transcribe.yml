@@ -315,3 +315,106 @@ jobs:
           git add subs
           git commit -m "Add subtitles: ${VIDEO_ID} (${URL})" || exit 0
           git push
+      - name: Split large LRC files (if > 40k chars)
+        env:
+          OUT_DIR: ${{ steps.detect.outputs.out_dir }}
+        shell: bash
+        run: |
+          python - <<'PY'
+          import glob, os, re
+          from pathlib import Path
+
+          out_dir = os.environ["OUT_DIR"]
+          MAX_CHARS = 40000  # 4万字符限制
+
+          def extract_text_from_lrc(lrc_content):
+            """从LRC内容中提取纯文本（去除时间戳）"""
+            lines = lrc_content.strip().split('\n')
+            text_only = []
+            for line in lines:
+              # 匹配 [mm:ss.xx] 格式的时间戳
+              match = re.match(r'\[(\d+):(\d+\.\d+)\]\s*(.*)', line)
+              if match:
+                text_only.append(match.group(3))
+            return ''.join(text_only)
+
+          def count_chars(lrc_content):
+            """统计LRC文件的实际字符数（不含时间戳）"""
+            text = extract_text_from_lrc(lrc_content)
+            return len(text)
+
+          def split_lrc_by_chars(lrc_lines, max_chars):
+            """按字符数拆分LRC文件"""
+            chunks = []
+            current_chunk = []
+            current_char_count = 0
+            
+            for line in lrc_lines:
+              # 提取该行的文本内容
+              match = re.match(r'\[(\d+):(\d+\.\d+)\]\s*(.*)', line.strip())
+              if match:
+                text = match.group(3)
+                text_len = len(text)
+                
+                # 如果加上这行会超过限制，且当前chunk非空，则开始新chunk
+                if current_char_count + text_len > max_chars and current_chunk:
+                  chunks.append(current_chunk)
+                  current_chunk = [line]
+                  current_char_count = text_len
+                else:
+                  current_chunk.append(line)
+                  current_char_count += text_len
+              else:
+                # 非标准行（如空行、元数据）保留在当前chunk
+                if current_chunk:  # 只有当chunk非空时才添加
+                  current_chunk.append(line)
+            
+            # 添加最后一个chunk
+            if current_chunk:
+              chunks.append(current_chunk)
+            
+            return chunks
+
+          # 处理所有LRC文件
+          lrc_files = glob.glob(os.path.join(out_dir, "*.lrc"))
+          
+          for lrc_path in lrc_files:
+            with open(lrc_path, "r", encoding="utf-8", errors="ignore") as f:
+              content = f.read()
+            
+            char_count = count_chars(content)
+            print(f"检查文件: {os.path.basename(lrc_path)} ({char_count} 字符)")
+            
+            # 如果超过4万字，进行拆分
+            if char_count > MAX_CHARS:
+              print(f"  ⚠️  超过 {MAX_CHARS} 字符，开始拆分...")
+              
+              # 创建chunks子文件夹
+              chunks_dir = Path(out_dir) / "lrc_chunks"
+              chunks_dir.mkdir(exist_ok=True)
+              
+              # 拆分LRC
+              lines = [line.rstrip('\n') for line in content.split('\n')]
+              chunks = split_lrc_by_chars(lines, MAX_CHARS)
+              
+              # 保存拆分后的文件
+              base_name = os.path.splitext(os.path.basename(lrc_path))[0]
+              for idx, chunk_lines in enumerate(chunks, 1):
+                chunk_filename = f"{base_name}_part{idx}.lrc"
+                chunk_path = chunks_dir / chunk_filename
+                
+                with open(chunk_path, "w", encoding="utf-8") as f:
+                  f.write('\n'.join(chunk_lines))
+                  if chunk_lines and not chunk_lines[-1].endswith('\n'):
+                    f.write('\n')
+                
+                # 统计本chunk字符数
+                chunk_chars = count_chars('\n'.join(chunk_lines))
+                print(f"  ✓ 生成: {chunk_filename} ({chunk_chars} 字符)")
+              
+              print(f"  完成拆分，共 {len(chunks)} 个文件")
+            else:
+              print(f"  ✓ 无需拆分")
+          
+          print("\nLRC文件处理完成！")
+          PY
