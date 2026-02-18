@@ -2,9 +2,9 @@
 
 - Source: https://www.youtube.com/@dlw2023/streams
 
-- Updated (UTC): 2026-02-18 03:40:12
+- Updated (UTC): 2026-02-18 07:36:18
 
-- Total entries: 551
+- Total entries: 549
 
 
 | Date | Members | Live status | Title | URL |
@@ -54,7 +54,6 @@
 | 2025-12-08 | N | was_live | 信号测试｜成为老王来了的会员 | https://www.youtube.com/watch?v=_3bDdTDidto |
 | 2025-12-06 | Y | was_live | 周五欢乐玄学大放送：神与神棍，如何帮助亲人通过死亡大关，性力教的科学道理，赚了100万的您可以打赏我了 | https://www.youtube.com/watch?v=XH4yujI4_Qw |
 | 2025-12-04 | Y | was_live | 圣上推翻旧金山和约，台湾又还给日本了｜论香港大火以灾乱港｜中国多印钱70万亿为何没有通货膨胀｜美国通过台湾保障法案｜芳华二创就是呼唤文革2.0｜徐勤先受审视频泄密打邓打江捧胡捧叶 | https://www.youtube.com/watch?v=MIKpai00TUs |
-| 2025-12-04 | Y | was_live | VIP干货：性技男四大错与女三大误｜指舌枪臀趾草莓保鲜膜润滑液实战法｜如何双修之射精时跳屌狮子吼坐禅法 | https://www.youtube.com/watch?v=Hxdn2P35p9Y |
 | 2025-12-02 | Y | was_live | “王道乐土”满洲国与郑孝胥真相｜国共两党、日本人、溥仪都不想让你知道的故事 | https://www.youtube.com/watch?v=L3-aJ0dkE9c |
 | 2025-11-29 | Y | was_live | 小女孩轻松遥视证明万物有灵，震惊爸爸写信爆料｜干细胞返老还童疗法的爆料｜没想到边控与纪委酷吏轮到了我｜二十年阴症的治愈过程 | https://www.youtube.com/watch?v=mYG6nzEkb2U |
 | 2025-11-27 | Y | was_live | 王小洪危矣静待官宣｜香港大火烧的蹊跷｜佘智江陈志大起底｜ | https://www.youtube.com/watch?v=tqRX8WQ9gTk |
@@ -80,7 +79,6 @@
 | 2025-10-29 | N | was_live | 硬蹭施琅皇上真要打台湾了？｜聊聊黄金下跌｜聊聊A股上涨 | https://www.youtube.com/watch?v=rOQJq7qXIcs |
 | 2025-10-28 | N | was_live | 四中全会四大怪：1，为什么抓捕9上将会前官宣异常？2，为什么张升民一枝独秀？3，为什么递补中委跳过军人？4，为什么张又侠快睡着了？ | https://www.youtube.com/watch?v=PBEWx5ekdxo |
 | 2025-10-24 | Y | was_live | VIP36：美元、黄金与美股，如何抓住黄金大潮，揭秘颐和黄金的商业计划 | https://www.youtube.com/watch?v=_6dbZT47PYE |
-| 2025-10-23 | Y | was_live | 四中全会最权威总结｜大傻逼老王直播切腹谢罪！｜ | https://www.youtube.com/watch?v=GoOBZBebWTg |
 | 2025-10-21 | N | was_live | 中华田园基督徒为什么不能进天堂｜避世修行者的孩子如何重返社会｜犯错误不是关键有没有家族点拨才是关键｜大学同学托梦 | https://www.youtube.com/watch?v=BPOrVwfa_64 |
 | 2025-10-19 | N | was_live | 四中全会召开国内媒体一片死寂｜起底大热胡春华｜二创鸣谢素材来自中日政经频道 | https://www.youtube.com/watch?v=OafsSVRhzlk |
 | 2025-10-18 | Y | was_live | VIP35解密海航2：陈峰的第一桶金｜谁是贯君｜王健为什么必须死！ | https://www.youtube.com/watch?v=dNQKTE0Yyxs |
@@ -209,3 +207,5 @@
 | 2025-05-17 | Y | was_live | 中美贸易谈判何立峰丧权辱国：论习主席才是美国的大救星｜下半场讲鬼故事：唱戏的纸扎小人 | https://www.youtube.com/watch?v=w-VGUyZ7QyI |
 | 2025-05-15 | Y | was_live | VIP9:《抬头看见北极光》（2）：如何利用太子党与秘书帮，老美股市破万点开始于命中出现，王京阳与叶静子，暗恋张泉灵，大嫂的雪白肉体！ | https://www.youtube.com/watch?v=e5QPN-1Dicc |
 | 2025-05-15 | Y | was_live | 揭穿一切邪教：老王手把手教你制造邪教，宗教就是这样炼成的！｜论邪教与宗教的没有区别 | https://www.youtube.com/watch?v=LpLFRSk5XqY |
+| 2025-05-14 | Y | was_live | 拿兴教外遇少妇的困扰：我是廉价妓女还是享受人生？｜一大堆人生十字路口教友来信！拿兴教是棋盘路？ | https://www.youtube.com/watch?v=Nl6e_mj1mjE |
+| 2025-05-13 | Y | was_live | 川普怂了：中美贸易战第一回合结束，论川普犯了蒋委员长剿匪的错误！｜未来60日美股走势、黄金走势、日元、人民币走势清晰见底 | https://www.youtube.com/watch?v=_mnJMVa3-rE |
