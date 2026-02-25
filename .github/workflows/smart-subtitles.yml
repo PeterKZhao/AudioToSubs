@@ -1,0 +1,228 @@
+name: Smart Subtitles (Commit Organized)
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "视频链接（B站/YouTube等）"
+        required: true
+        type: string
+      langs:
+        description: "优先字幕语言（逗号分隔/可正则）"
+        required: false
+        default: "zh-Hans,zh-Hant,en.*"
+        type: string
+      whisper_model:
+        description: "Whisper模型：tiny/base/small/medium/large"
+        required: false
+        default: "small"
+        type: string
+      whisper_language:
+        description: "Whisper识别语言（留空自动检测）"
+        required: false
+        default: ""
+        type: string
+      user_agent:
+        description: "可选：浏览器UA"
+        required: false
+        default: ""
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: smart-subtitles
+  cancel-in-progress: false
+
+jobs:
+  smart_subs:
+    runs-on: ubuntu-latest
+    env:
+      YTDLP_COOKIES_TXT: ${{ secrets.YTDLP_COOKIES_TXT }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Setup Node.js (for yt-dlp JS challenges)
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install ffmpeg
+        shell: bash
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          ffmpeg -version
+
+      - name: Setup Python with pip cache
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: |
+            requirements.txt
+
+      - name: Install dependencies
+        shell: bash
+        run: |
+          python -m pip install -U pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install -U yt-dlp openai-whisper
+
+      - name: Cache Whisper models
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/whisper
+          key: whisper-models-${{ inputs.whisper_model }}
+          restore-keys: |
+            whisper-models-
+
+      - name: Write cookies.txt (optional)
+        if: ${{ env.YTDLP_COOKIES_TXT != '' }}
+        shell: bash
+        run: |
+          printf '%s' "$YTDLP_COOKIES_TXT" | tr -d '\r' > cookies.txt
+
+      - name: Prepare folders
+        shell: bash
+        run: |
+          mkdir -p subs work
+
+      - name: Resolve out_dir + Detect subtitle availability
+        id: detect
+        env:
+          URL: ${{ inputs.url }}
+          LANGS: ${{ inputs.langs }}
+          UA: ${{ inputs.user_agent }}
+        shell: bash
+        run: python .github/scripts/smart_subs/detect.py
+
+      - name: Download existing subtitles into per-video folder
+        if: steps.detect.outputs.mode == 'download'
+        env:
+          URL: ${{ inputs.url }}
+          LANGS: ${{ inputs.langs }}
+          UA: ${{ inputs.user_agent }}
+          OUT_DIR: ${{ steps.detect.outputs.out_dir }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          UA_ARGS=()
+          if [[ -n "${UA}" ]]; then UA_ARGS=(--user-agent "${UA}"); fi
+          COOKIE_ARGS=()
+          if [[ -f cookies.txt ]]; then COOKIE_ARGS=(--cookies cookies.txt); fi
+
+          yt-dlp \
+            --js-runtimes node --remote-components ejs:github \
+            --skip-download \
+            --write-subs --write-auto-subs \
+            --sub-langs "${LANGS}" \
+            --sub-format "vtt/best" \
+            --convert-subs srt \
+            -o "${OUT_DIR}/%(title).200s_%(id)s.%(ext)s" \
+            "${URL}" \
+            "${COOKIE_ARGS[@]}" \
+            "${UA_ARGS[@]}"
+
+      - name: Decide if Whisper is needed (fallback)
+        id: postcheck
+        env:
+          OUT_DIR: ${{ steps.detect.outputs.out_dir }}
+        shell: bash
+        run: |
+          shopt -s nullglob
+          files=("${OUT_DIR}"/*.srt "${OUT_DIR}"/*.vtt "${OUT_DIR}"/*.txt "${OUT_DIR}"/*.lrc)
+          if [[ "${{ steps.detect.outputs.mode }}" == "whisper" ]]; then
+            echo "need_whisper=true" >> "$GITHUB_OUTPUT"
+          elif (( ${#files[@]} == 0 )); then
+            echo "need_whisper=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "need_whisper=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Download audio for Whisper
+        if: steps.postcheck.outputs.need_whisper == 'true'
+        env:
+          URL: ${{ inputs.url }}
+          UA: ${{ inputs.user_agent }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          UA_ARGS=()
+          if [[ -n "${UA}" ]]; then UA_ARGS=(--user-agent "${UA}"); fi
+          COOKIE_ARGS=()
+          if [[ -f cookies.txt ]]; then COOKIE_ARGS=(--cookies cookies.txt); fi
+
+          yt-dlp \
+            --js-runtimes node --remote-components ejs:github \
+            -f "bestaudio/best" \
+            -o "work/%(id)s.%(ext)s" \
+            "${URL}" \
+            "${COOKIE_ARGS[@]}" \
+            "${UA_ARGS[@]}"
+
+      - name: Whisper generate subtitles (SRT+TXT+VTT) into per-video folder
+        if: steps.postcheck.outputs.need_whisper == 'true'
+        env:
+          MODEL: ${{ inputs.whisper_model }}
+          WHISPER_LANG: ${{ inputs.whisper_language }}
+          OUT_DIR: ${{ steps.detect.outputs.out_dir }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          AUDIO_FILE="$(ls -1 work/* | head -n 1)"
+
+          LANG_ARGS=()
+          if [[ -n "${WHISPER_LANG}" ]]; then LANG_ARGS=(--language "${WHISPER_LANG}"); fi
+
+          whisper "${AUDIO_FILE}" \
+            --model "${MODEL}" \
+            --output_dir "${OUT_DIR}" \
+            --output_format "all" \
+            "${LANG_ARGS[@]}"
+
+      - name: Convert SRT -> LRC (simple)
+        if: steps.postcheck.outputs.need_whisper == 'true'
+        env:
+          OUT_DIR: ${{ steps.detect.outputs.out_dir }}
+        shell: bash
+        run: python .github/scripts/smart_subs/srt_to_lrc.py
+
+      - name: Extract plain text subtitles (no timestamps)
+        env:
+          OUT_DIR: ${{ steps.detect.outputs.out_dir }}
+        shell: bash
+        run: python .github/scripts/smart_subs/extract_txt.py
+
+      - name: Split large subtitle files (LRC + TXT, if > 40k bytes)
+        env:
+          OUT_DIR: ${{ steps.detect.outputs.out_dir }}
+        shell: bash
+        run: python .github/scripts/smart_subs/split_chunks.py
+
+      - name: Commit & push subtitles
+        env:
+          URL: ${{ inputs.url }}
+          OUT_DIR: ${{ steps.detect.outputs.out_dir }}
+          VIDEO_ID: ${{ steps.detect.outputs.video_id }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [[ -z "$(git status --porcelain subs)" ]]; then
+            echo "No changes under subs/. Skip commit."
+            exit 0
+          fi
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add subs
+          git commit -m "Add subtitles: ${VIDEO_ID} (${URL})" || exit 0
+          git push
