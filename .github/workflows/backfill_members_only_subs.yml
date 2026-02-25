@@ -3,10 +3,6 @@ name: Backfill members-only subs (dispatch transcribe.yml)
 on:
   workflow_dispatch:
     inputs:
-      channel:
-        description: "频道名称 (对应 data/youtube/ 下的目录名，如 dlw2023)"
-        required: true
-        type: string
       batch_size:
         description: "每次投递多少个视频到 transcribe.yml"
         required: false
@@ -27,6 +23,9 @@ on:
         required: false
         default: "small"
         type: string
+  schedule:
+    # 例：每小时跑一次（UTC），不要卡整点可减少排队概率
+    - cron: "23 * * * *"
 
 permissions:
   contents: read
@@ -54,7 +53,7 @@ jobs:
           REPO: ${{ github.repository }}
           REF: ${{ github.ref_name }}
           # 动态读取输入的 channel 来拼接路径
-          CSV_PATH: data/youtube/${{ github.event.inputs.channel }}/streams_index.csv
+          CSV_PATH: data/youtube/dlw2023/streams_index.csv
           WORKFLOW_FILE: transcribe.yml
 
           BATCH_SIZE: ${{ github.event.inputs.batch_size }}
@@ -88,11 +87,6 @@ jobs:
           max_pending = env_int("MAX_PENDING", 5)
           langs = env_str("LANGS", "zh-Hans,zh-Hant,en.*")
           whisper_model = env_str("WHISPER_MODEL", "small")
-
-          # 检查对应的 CSV 文件是否存在
-          if not os.path.exists(csv_path):
-            print(f"Error: 找不到该频道的索引文件，路径不存在 -> {csv_path}")
-            raise SystemExit(1)
 
           api_base = "https://api.github.com"
           headers = {
