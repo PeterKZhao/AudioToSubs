@@ -10,7 +10,7 @@ on:
       langs:
         description: "优先字幕语言（逗号分隔/可正则）"
         required: false
-        default: "zh-Hans,zh-Hant"
+        default: "zh-Hans,zh-Hant,en.*"
         type: string
       whisper_model:
         description: "Whisper模型：tiny/base/small/medium/large"
@@ -334,8 +334,7 @@ jobs:
           print("纯文本提取完成！")
           PY
 
-      # ★ 拆分步骤移到 Commit 之前，确保分片文件能被提交
-      - name: Split large subtitle files (LRC + TXT, if > 40k chars)
+      - name: Split large subtitle files (LRC + TXT, if > 40k bytes)
         env:
           OUT_DIR: ${{ steps.detect.outputs.out_dir }}
         shell: bash
@@ -345,27 +344,27 @@ jobs:
           from pathlib import Path
 
           out_dir = os.environ["OUT_DIR"]
-          MAX_CHARS = 40000
+          MAX_BYTES = 40000  # 以 UTF-8 字节数为单位，与 Notepad++ 一致
 
           # ── LRC 工具函数 ──────────────────────────────────────────
-          def lrc_text_only(content):
+          def lrc_bytes_only(content):
             text = []
             for line in content.strip().splitlines():
               m = re.match(r"\[(\d+):(\d+\.\d+)\]\s*(.*)", line)
               if m:
                 text.append(m.group(3))
-            return "".join(text)
+            return len("".join(text).encode("utf-8"))
 
-          def split_lrc(lines, max_chars):
-            chunks, cur, cur_len = [], [], 0
+          def split_lrc(lines, max_bytes):
+            chunks, cur, cur_bytes = [], [], 0
             for line in lines:
               m = re.match(r"\[(\d+):(\d+\.\d+)\]\s*(.*)", line.strip())
               if m:
-                tlen = len(m.group(3))
-                if cur_len + tlen > max_chars and cur:
-                  chunks.append(cur); cur = [line]; cur_len = tlen
+                tbytes = len(m.group(3).encode("utf-8"))
+                if cur_bytes + tbytes > max_bytes and cur:
+                  chunks.append(cur); cur = [line]; cur_bytes = tbytes
                 else:
-                  cur.append(line); cur_len += tlen
+                  cur.append(line); cur_bytes += tbytes
               else:
                 if cur:
                   cur.append(line)
@@ -374,14 +373,14 @@ jobs:
             return chunks
 
           # ── TXT 工具函数 ──────────────────────────────────────────
-          def split_txt(lines, max_chars):
-            chunks, cur, cur_len = [], [], 0
+          def split_txt(lines, max_bytes):
+            chunks, cur, cur_bytes = [], [], 0
             for line in lines:
-              line_len = len(line)
-              if cur_len + line_len + 1 > max_chars and cur:
-                chunks.append(cur); cur = [line]; cur_len = line_len
+              line_bytes = len((line + "\n").encode("utf-8"))
+              if cur_bytes + line_bytes > max_bytes and cur:
+                chunks.append(cur); cur = [line]; cur_bytes = line_bytes
               else:
-                cur.append(line); cur_len += line_len + 1
+                cur.append(line); cur_bytes += line_bytes
             if cur:
               chunks.append(cur)
             return chunks
@@ -391,20 +390,20 @@ jobs:
             with open(fpath, "r", encoding="utf-8", errors="ignore") as f:
               content = f.read()
 
-            char_count = count_fn(content)
+            byte_count = count_fn(content)
             fname = os.path.basename(fpath)
-            print(f"检查: {fname}  ({char_count} 字符)")
+            print(f"检查: {fname}  ({byte_count} 字节)")
 
-            if char_count <= MAX_CHARS:
+            if byte_count <= MAX_BYTES:
               print(f"  ✓ 无需拆分")
               return
 
-            print(f"  ⚠️  超过 {MAX_CHARS} 字符，开始拆分...")
+            print(f"  ⚠️  超过 {MAX_BYTES} 字节，开始拆分...")
             chunks_dir = Path(out_dir) / subdir_name
             chunks_dir.mkdir(exist_ok=True)
 
             lines = [l.rstrip("\n") for l in content.split("\n")]
-            chunks = split_fn(lines, MAX_CHARS)
+            chunks = split_fn(lines, MAX_BYTES)
             base = os.path.splitext(fname)[0]
             ext  = os.path.splitext(fname)[1]
 
@@ -415,15 +414,15 @@ jobs:
                 f.write("\n".join(chunk_lines))
                 if chunk_lines and not chunk_lines[-1].endswith("\n"):
                   f.write("\n")
-              chunk_chars = count_fn("\n".join(chunk_lines))
-              print(f"  ✓ {chunk_name}  ({chunk_chars} 字符)")
+              chunk_bytes = count_fn("\n".join(chunk_lines))
+              print(f"  ✓ {chunk_name}  ({chunk_bytes} 字节)")
 
             print(f"  完成，共 {len(chunks)} 个分片")
 
           # ── 处理 LRC ─────────────────────────────────────────────
           print("=== 处理 LRC 文件 ===")
           for fp in sorted(glob.glob(os.path.join(out_dir, "*.lrc"))):
-            process_file(fp, lrc_text_only, split_lrc, "lrc_chunks")
+            process_file(fp, lrc_bytes_only, split_lrc, "lrc_chunks")
 
           # ── 处理 TXT ─────────────────────────────────────────────
           print("\n=== 处理 TXT 文件 ===")
@@ -431,12 +430,16 @@ jobs:
           for fp in sorted(glob.glob(os.path.join(out_dir, "*.txt"))):
             if os.path.basename(fp) in skip_names:
               continue
-            process_file(fp, lambda c: len(c), split_txt, "txt_chunks")
+            process_file(
+              fp,
+              lambda c: len(c.encode("utf-8")),
+              split_txt,
+              "txt_chunks"
+            )
 
           print("\n所有文件处理完成！")
           PY
 
-      # ★ Commit 在拆分之后，分片文件会一起被提交
       - name: Commit & push subtitles
         env:
           URL: ${{ inputs.url }}
