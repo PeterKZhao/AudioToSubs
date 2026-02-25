@@ -1,0 +1,299 @@
+markets. What's wrong with this extreme specialization? It turns people into cogs in a machine. Imagine an ancient
+craftsman who understands the entire process of making a chair: selecting wood, designing the style, cutting, carving, polishing, and painting. He possesses complete skills and can work independently. What about the workers in modern factories? They tighten a screw on an assembly line, repeating the same action for eight hours. They are cogs
+in the system. What are the
+characteristics of a cog?
+Replaceable. If one part breaks, just replace it. Low cost, high efficiency. But what about the cog itself? It's being optimized out at 35 because younger cogs are cheaper.
+Industry decline, skills depreciate, nowhere to go.
+This is vulnerability. In the past few years, Silicon Valley has experienced massive layoffs, with major companies
+laying off over 100,000 people. Many of these people were highly specialized; they were
+n't software engineers, but backend engineers specializing in maintaining the Meta
+Newsfeed algorithm or data scientists specializing in optimizing specific modules of
+Google Ads' bidding system. Their skills are valuable within their current company, but outside of that company, many find it difficult to find similar work because their skills are too narrow, too reliant on a specific company's technology stack, toolchain, and
+business logic. Switching companies significantly diminishes the value of this experience. In contrast, consider those with "barbell" skills—note, we're talking about the barbell itself, not just being argumentative. Leonardo da Vinci was a painter, engineer, scientist, and anatomist; Hayek was an economist, psychologist, philosopher, and jurist; Taleb himself was a trader, statistician, philosopher, and writer. These individuals possess multiple skills; if one path fails, others do. More importantly, knowledge from different fields can be cross-
+fertilized, generating unique insights. But why do modern enterprises promote extreme specialization? "
+Asymmetric Risk" provides the answer: because
+companies
+need replaceable parts, not indispensable talent. Replaceable parts are cheap, easy to manage, and can be laid off easily.
+Irreplaceable talent, on the other hand, has bargaining power, is difficult to manage, and is costly. Therefore, HR and management consultants advocate specialization because specialization makes you vulnerable, dependent, and easily controlled. Your vulnerability is their management convenience. This logic of
+specialization leading to "component-like" skills
+has an even more extreme manifestation in
+China: the separation of arts and
+sciences in education. On the surface... This is a product of limited educational resources, but it has gradually become fully institutionalized, even forming a culture. Those who study science look down on those who study humanities, and vice versa. This is like the ruling art of slave
+owners: those who are literate are not allowed to carry swords, and those who carry swords are not allowed to be literate. The result is that those who carry swords look down on those who are literate, and vice versa. Both sides feel superior, while the slave owners remain unperturbed. In
+reality, true elites should receive a general education. Those who only receive
+specialized education, or even only skills training, are precisely the advanced components. Modernity also has a tenet: economies of scale and
+centralized management. From small workshops to large factories, from local banks to multinational banks, from decentralized production to global supply chains, the larger the scale, the lower the marginal cost and the higher the
+efficiency.
+This certainly makes sense from a technical perspective. But Taleb asks what the cost is. The cost is vulnerability. Hayek pointed out long ago that decentralized systems are more stable. The closure of a small restaurant does not affect the overall health of other restaurant industries. The closure of a large bank impacts the entire financial system. Why? Because centralization
+creates systemic interconnectedness. In 2008,
+Lehman Brothers declared bankruptcy. With assets of $600 billion and a leverage ratio exceeding 30, the collapse of Lehman Brothers
+would normally be a normal market shakeout.
+However, Lehman was
+too large, with complex business relationships with all major financial institutions. Its collapse caused widespread suffering, freezing global credit, causing stock market crashes, and plunging the
+economy into recession. Governments were forced to intervene and
+bail out other large banks: AIG, Citigroup, Bank of America, and Goldman Sachs, using taxpayer money totaling $700 billion. This is the "too big to fail" phenomenon. On the surface, it appears to be rescuing the market, but in reality, it's creating moral hazard. What is moral hazard? If you don't bear the consequences of losses, you'll take excessive risks.
+Bankers
+knew that as long as their banks were large enough, the government wouldn't dare let them fail. So what did they do? They leveraged wildly, 30 or 40 times, using $1 billion of their own capital to leverage $30 or $40 billion in assets. Why did
+they dare do this? Because it was a free option. If things went up, they made money and received
+huge bonuses; if things went down, they lost money, and the government bailed them out.
+This is the core critique of "Asymmetric Risk": socializing risk, privatizing returns,
+taxpayers bearing losses, and bankers receiving bonuses.
+Scott, from a state perspective, points out
+that high modernism favors centralization. Centralization is easier to control and easier to read. A large factory is easier to manage than a thousand small workshops; a central bank is easier to regulate than 100 local banks; a standardized supply chain is easier to coordinate than countless local suppliers. But what are the costs of centralization? First, it eliminates diversity; second, it eliminates the trial-and-error mechanism; and finally, it
+creates the risk of single points of failure. Taleb's
+diagnosis is that small restaurants like this will go bankrupt. This is because they are fragile, but precisely because they are individually fragile, the entire catering industry is antifragile. Inferior restaurants are eliminated, and high-quality restaurants survive. The industry continues to evolve. Big banks cannot fail, which seems stable, but
+this destroys the system's learning mechanism. Mistakes are not punished, risks accumulate, and eventually, a larger crisis erupts. Individual fragility is a prerequisite for system antifragility, but "too big to fail" destroys this mechanism.
+Individuals are protected, the system cannot learn from the accumulation of risks, and eventually, the entire system collapses. What's worse, who designed this system? Bankers, regulators, and politicians. They have jointly created a system where risk is socialized and returns are privatized. They reap the benefits of upward movement, while taxpayers, depositors, and ordinary people
+bear the risks of downward
+movement. The four lesions are: expert rule equals the
+separation of decision-making and consequences. Modernity has a deep-seated belief that complex problems require experts. We should listen to the experts. Economic policies are designed by economists, war decisions are discussed by think tank experts, financial products are priced by PhDs in mathematics, and urban planning is done by architects.
+This seems reasonable—leave professional matters to professionals.
+But Taleb asked a crucial question: do these experts bear the consequences? The
+answer is no. That's the problem.
+Before the subprime crisis, what were economists saying? "Housing prices wo
+n't fall nationwide. This has never happened in the past 70 years. Our models show the risk is manageable." What were rating agencies doing? Giving CDOs AAA ratings, the highest credit rating on par with US Treasury bonds. What were
+investment banks saying? "These structured products are
+safe and suitable for pension funds and insurance companies." In 2008,
+housing prices crashed, and the financial system collapsed. What happened to those experts?
+Economists continued to serve as
+consultants, publishing books and giving speeches,
+earning hundreds of thousands of dollars per session. Rating agencies continued to rate and charge fees. Some investment bank executives were fired, but they left with hefty severance packages—tens of millions of dollars in severance pay. No one bore any
+substantial consequences for wrong predictions, wrong ratings, or wrong product design. This is the greatest paradox of modernity: a complete separation of decision-making power and risk-bearing. In modern society, experts sit in their offices, making decisions using models, data, and jargon, decisions that affect the lives of millions.
+However,
+experts bear no consequences.
+If they're wrong, they can just move to another organization and continue being experts. Taleb calls these experts "knowledgeable idiots." They have PhDs, can use technical terms, and understand complex models, but they live in a world of egalitarianism and don't understand extremistism. Their models work in normal times but collapse in extreme times. Worse still, they don't know they don't know.
+This is what Hayek called fatal arrogance. What is the essence of expert rule? People with techne but no mediocre skills are making decisions for
+people with mediocre skills but no techne, and the former don't bear the consequences. This is the greatest irony of modernity. The lesion is that
+institutional
+design equals systemic
+risk transfer. Here, I won't talk about the US CDO; I'll give you a more relevant case: China's real estate. This is a textbook
+example of a risk transfer system. Let's see clearly how the money flows and how the risk is transferred. First, let
+'s look at how the money flows. A homebuyer buys a house for 3 million yuan, with a down payment of 900,000 yuan. The remaining 2.1 million yuan is a 30-year mortgage. Where does this money end up? After the homebuyer signs the contract, the bank directly transfers the 2.1 million yuan loan to the developer. At
+this point, the house may have only just started construction, but the
+developer has already received 3 million yuan in cash. Of this 3 million yuan, half, or 1.5 million yuan, is land transfer fees. Adding hundreds of thousands more in various
+taxes and fees, 2 million yuan flows into local government finances. The remaining 600,000 yuan is construction costs. The developer's actual gross profit is only 400,000 yuan, and the net profit is even lower. However, years of
+propaganda have focused on how greedy developers are, demanding they have a moral compass. And look at how ineffective the oversight is! According
+to regulations, pre-sale
+funds should be used for designated purposes, deposited into a escrow account, and allocated according to project progress. But in reality, the local government is the land seller, the pre-sale fund supervisor, and the tax collector. They and the developers are a community of interest. The government wants land sales revenue, tax revenue, and GDP; the
+developers want land, pre-sale permits, and approvals. Both sides are tied together, so oversight becomes a mere formality. Developers submit false project progress reports, and the regulatory departments turn a blind eye and approve them. Even more directly, developers
+don't deposit the pre-sale funds into the escrow account at all; instead, they use them to pay off old debts
+and acquire new land, like a Ponzi scheme. As long as housing prices rise and new projects sell, the cash flow continues; once
+housing prices fall, the
+chain breaks. The inability to ensure funds are used for their intended purpose is not a technical issue, but rather a problem with the profit structure. Then consider how the risks are transferred. Once
+homebuyers
+sign the contract, they enter a 30-year
+risk trap. First, there's the risk of
+unfinished projects.
+The developer uses the money to acquire new land, and if the project's funding chain breaks, it becomes unfinished. Your 900,000 yuan down payment is lost, and you still have to repay the 2.1 million yuan loan. Why? Because the purchase contract is with the developer, and the
+mortgage contract is with the bank.
+If the developer absconds, your debt remains, and defaulting on the loan has serious consequences. Second, there's the risk of poor quality upon delivery. Pre-sale funds
+may be misappropriated, leading to
+shoddy workmanship, wall cracks, leaks, and elevator malfunctions. These problems only become apparent after delivery,
+and you
+cannot refuse to accept the property, otherwise it's considered a breach of contract. If you accept the property and go to the developer,
+after the warranty period, you might have to fight a two- or three-year lawsuit. Even if you win, the
+developer is just a project company with
+no assets, so the
+judgment
+cannot be enforced. You're still paying a 30-year mortgage and living in a leaky, cracked house. Third, there's the risk of
+falling
+property prices. The largest land suppliers are often large speculators, much like high-priced private placements in the stock market. First, they use scarcity marketing, releasing only a small amount of land each year, driving up land prices.
+Buying a house at a high price means taking over when the government is cashing out at a high price. Your land transfer
+fees go directly into the government's treasury. After successfully raising funds at a high price, the government can't sell land and has to lower prices to sell it off. As long as the land cost is low enough, they
+can keep lowering prices to sell off. Meanwhile, the big players who cashed out at the high price
+have already received their
+land transfer fees into the treasury, gained their political achievements, and may have already been promoted. If house prices fall, that's the next administration's problem, your problem. In the end, who will bail them out? In 2021, Evergrande and Country Garden went bankrupt,
+leaving millions of houses unfinished. The government guaranteed delivery,
+but where did the money come from? Local governments couldn't come up with it, so the
+central government issued bonds and set up a special fund. In the end, all taxpayers
+footed the bill. What's even more ironic is that the guarantee of delivery only guarantees completion, not quality. Many projects lack water and electricity, elevators, and exterior walls that haven't been plastered or painted. Buyers
+receive half-finished houses and have to spend their own money on renovations, but the 30-year mortgage cannot be reduced by a penny. The
+logic of the whole system is that
+homebuyers pay the down payment plus a 30-year mortgage, and the bulk of the money flows
+into the government's pre-sale funds. Regulation is ineffective because the interests of the government, developers, and banks are intertwined. Unfinished
+projects and declining quality result in all
+liquidity risks being transferred to homebuyers. Mortgage defaults have extremely serious consequences, leading to credit blacklisting, asset seizures, and even price gouging. Ultimately, the entire taxpayer foots the bill to ensure delivery. This is not a market economy; it's a systemic risk transfer mechanism. Taleb argues that elites design the system to gain profits and transfer risk, while ordinary
+people bear the consequences. Local governments
+sell land for political achievements, officials get promoted, and the debt is left to the next administration. Banks lend money to earn interest, and the state
+bails out bad debts.
+Developers expand with high leverage, becoming "
+too big to fail," and when they collapse, the government bails them out. Only homebuyers are locked in for 30 years, bearing all the risks with no way out. Before 2021, the problem of rising
+housing prices
+was masked;
+after 2021, the problem of falling housing prices was fully exposed,
+but it was too late. The
+wealth of tens of millions of families has
+evaporated, and millions of houses have become unfinished projects. This is the core of asymmetric
+risk. The criticism is that decision-
+makers don't bear the consequences, and those who bear the risk have no decision-making power. Now, let me summarize the common characteristics of these five ailments. From an antifragile perspective, they are all concave structures:
+over-optimization leads to small profits in normal times. 5% cost reduction leads to massive losses during crises and 50% losses from production stoppages. Extreme specialization results in stable wages during normal times, but skills
+depreciate after unemployment. Centralization is efficient during normal times,
+but carries systemic risk during collapse. Expert rule appears scientific during normal times, but models fail during extremes. Financialization
+collects fees and interest during normal times, but
+shifts losses during crises. From the perspective of asymmetric risk, all of these are risk transfers. Over-optimization results in CEOs receiving short-term bonuses, while the next CEO bears the supply chain risk. Extremely specialized companies gain management convenience, but employees bear the risk of unemployment.
+Centralized banks receive bonuses, while taxpayers bear the bailout costs. Expert rule results in
+experts receiving consulting fees, and the public bears the burden of failed decisions. Financialization turns financial institutions into reapers. The core insight is that modernity doesn't make the world safer, but rather makes the elite safer, making you more vulnerable. The essence of
+constructing rationalism
+is doing these things in the name of rationality, science, and professionalism. First, it deprives you of your choice; second, it destroys your
+honor;
+third, it increases your dependence; and finally, it
+transfers the risk to you. The more you optimize, the more vulnerable you become; the more specialized you are, the more dependent you are on the system; the more centralized you are, the more passive you become; the more you listen to experts, the
+more likely you are to be scammed; the more financialized you are, the more the
+risk is transferred to you. Understanding the root cause... The question now is, what do you do? Ideally, you would change the system, but that's difficult, requires generations of effort, and success isn't guaranteed. We'll discuss this more realistic choice later: protect yourself first. Taleb's strategy can be divided into two levels. The first level is "voting with your feet"—choosing those with skin in the game. The second level is self-transformation—changing yourself
+from concave to convex. The core principle of the first level, "voting with your feet," is to
+take responsibility for yourself as much as possible. If you must rely on others, choose agents who share your risks. The first strategy is to make your own investment decisions. Don't entrust your money to mutual funds. Why? Because the business model of mutual
+funds is to achieve scale and collect management fees. Whether you make a profit or loss, they still collect their management fees. This is a typical example of
+concave risk; they gain
+upside returns, while you bear
+downside risks. So what do you do? Learn to invest and make your own decisions. Buffett's advice is not to invest in things you don't understand. This isn't about avoiding investment, but about learning until you understand. A more
+extreme example is
+cryptocurrency. You put your coins on an exchange thinking it's safe, but
+you're actually transferring the risk to the exchange. What happens if the exchange goes bankrupt? Haven't the lessons from
+Mt. Gox and FTX been enough? Keep your private keys safe using a hardware wallet. Although it's inconvenient, the risk is in your hands. What if you lose your private keys? That's your responsibility, but at least no one can run away with your money. The
+old adage in the crypto world is "Not your keys, not your coins." The third strategy is to make your professional skills transferable. Don't rely on a single employer,
+and don't let your skills only apply to one company. Why are mid-level managers at large
+companies laid off at 35? Because their skills are specific to a particular company's system. What happens when those skills depreciate outside that system? Learn more
+transferable skills. English is globally applicable, programming is cross-industry, writing is cross-domain, and data analysis is needed everywhere. These skills are yours, not dependent on an employer.
+Even if you change jobs, industries, or countries, these
+skills remain. The fourth strategy
+is to maintain
+geographical mobility. Don't lock yourself into one country. Get a passport, visa, learn a foreign language, and understand immigration policies. These are things you can do now. Don't wait until a crisis hits to try and escape; by then, it
+will be too late. Look at history: how many European Jews in the 1930s couldn't escape because they weren't prepared? Those who obtained visas in advance, learned English, and had overseas connections survived. Many who thought things wouldn't be so bad didn't survive. I'm not saying a crisis will definitely come; I'm saying keep your
+options open and take control of your destiny. The
+fifth strategy is to verify information yourself. Don't just rely on one media outlet.
+Don't just listen to one voice. Find original sources and verify them
+yourself. When you see news, find how different media outlets report on it. When you see research, find the original papers.
+Don't just look at media interpretations. It's tiring, but it's the only way to maintain independent judgment. Modern media and social media are creating information, feeding you what you want to see, not what you should see, like a cocoon. If you don't actively break free, you'll be trapped inside. The sixth strategy is not to
+outsource education. Do
+n't completely hand over your child's education to schools. Schools teach standardized things suitable for the industrial age. The future needs creativity, independent thinking, and problem-solving skills. Schools can't teach these; you have to teach them yourself. Broaden
+your child's horizons, discuss issues with them, teach them critical thinking, and encourage them to question authority. These are your responsibilities as parents and cannot be outsourced. The
+core of the
+first level is to keep control, decision-making power, and risk in your own hands. Is it troublesome? Yes, it is, but it's the only way to be antifragile.
+Because as long as there are intermediaries, there's a possibility of risk
+transfer; as long as there are agents, there's a problem of conflicting interests. The reality is, we
+can't do everything ourselves. We can't open our own bank, manufacture our own
+mobile phones, or run our own schools. So the second principle is to choose agents who share your risks. Here, we'll only use investment as an example. A simple yet effective criterion is to prioritize companies where the founder is the CEO. Why? Because the "skin in the game" for founders and professional managers is completely different. How do professional managers make money? High salaries, bonuses, stock options. When the company's stock price rises, they
+exercise their options, cash out, and leave. If the company runs into problems, they jump ship to another company for a higher salary because their resume now includes the
+title of CEO of a large company. Their downside risk is limited; the worst-case scenario is being fired and receiving a large severance package to find another job. Their upside potential is also limited.
+No matter how well they perform, they are still just employees and can't truly share in the company's growth. So what are their incentives? Short-term performance to make the stock price look good during their tenure, then cash out and leave.
+What about founders and CEOs? Most of their wealth is tied to company stock, which usually has a lock-
+up period and cannot be cashed out
+easily. More importantly, this is their "child," their "career," their "reputation." If the company fails, they not only lose wealth, but their entire life
+is ruined. If Musk messes up Tesla, where can he go? If Bezos messes up Amazon, what can he do? If Zuckerberg's Facebook collapses, what is the meaning of his life? They are tied to their companies; the success or failure of the company is their success or failure. This binding creates perfect incentive alignment.
+Founders are more responsible for the company's long-
+term value because that is their
+own value. They will avoid the trap of short-termism because they can't escape it. They will be
+more cautious in taking risks
+because if they lose, they lose everything. Data also proves this: in the S&P 500, companies led by founders have significantly higher long-term
+returns than companies led
+by professional managers. Companies that continue to thrive after founders leave management are generally because they leave behind an excellent corporate culture and good governance structure, forcing subsequent
+professional managers to continue the original development path. The second level is self-antifragility. Identifying people with "skin in the game" is
+only the first step. More importantly, it's about transforming yourself from concave to convex. Taleb
+gives several core principles. The first principle is the barbell strategy, the core of which is extreme differentiation. Clear out the middle ground. Don't aim for medium risk and medium return; aim for 90% extreme safety and 10% extreme risk. Why is the
+middle ground dangerous? The mathematics of "Antifragile" tells you that medium-risk assets are often concave. They usually yield small
+profits of 8% to 12% annualized, but suffer huge losses during crises, with principal losses of 50% to 80%. "Asymmetric Risk" explains why there are so many medium-risk products. Because this is designed by financial institutions, they receive fixed income from management fees while you bear the risk. The complex, concave nature of the product masks the
+true risk,
+thus eliminating the middle ground. Let me explain in detail how Taleb's Black Swan Fund operates. This is a perfect example of a barbell strategy. 90% to 95% of the funds are placed in
+short-term US Treasury
+bonds, which have good liquidity,
+almost zero risk, and can be
+readily converted to cash. 5% to 10% of the funds are used to buy deep out-of-the-money put options. Profits are only made when the
+market crashes; they are cheap normally because everyone thinks it's impossible. The key
+characteristic of this strategy is that it loses a little each year, with
+option premiums going
+down the drain, resulting in an annualized cost of 1% to 5%. During crises, like the 2008 financial crisis when the S&P 500 fell 40%, the Black Swan Fund doubled. During the 2020 pandemic, when the
+S&P 500 fell more than 30% in one quarter, the Black Swan
+Fund earned 36 times its initial investment. During the bull market from 2009 to 2019, the fund lost a little each year, causing distress for investors. However, when a crisis hits, while others suffer huge losses, the Black Swan Fund makes a
+massive profit, compensating for several years' worth of costs
+and generating substantial profits. The key insight is... Taleb doesn't need to predict when a crisis will come; he only needs to know that a crisis will definitely come. His barbell strategy
+allows him to
+not only avoid losses during crises but also make huge profits. How can ordinary people apply this? It doesn't necessarily mean buying options. You can learn his core
+logic: place most of your
+assets in
+extremely safe places to ensure your life is unaffected by market fluctuations; place a small portion of your assets in extremely risky
+places. Even if you lose everything in the worst-case scenario, that's only a small portion, and your life remains unaffected. In the best-case scenario, you can
+multiply your assets tenfold or a hundredfold. How to implement a business barbell strategy? Have a relatively low-stress job as the stable end, and then do side hustles, entrepreneurial projects, or content creation as the risk end. There are
+many success stories. For example, Dangnian Mingyue, a
+customs officer, is the stable end; writing "Those Things of the Ming Dynasty" is the risk end. The book eventually sold millions of copies, and his royalties far exceeded his salary. Liu Shen Leilei, a Xinhua News Agency reporter, is the stable end; writing for a public account is the risk end. He only became a full-time self-media creator after gaining millions of followers. Liu Cixin, a
+power station engineer at Niangziguan, is the stable end; writing novels while working is the risk end. He only
+resigned after writing "The Three-Body Problem." There's also Aunt Liu Zhongjing. Self-media websites and book royalties are stable income sources, which already surpasses his income as a forensic doctor or university professor in China. The "President of the Republic of China" is the risky side.
+Although you might find it laughable, the returns on this risky side are astronomical.
+Taleb himself is an example: a New York University professor and Wall Street
+trader is a stable side; writing books, giving speeches, and being an online celebrity is a risky side. I've seen too many bosses in China go all in, only to have their financing fail, their companies collapse, and they go bankrupt. There's no way out;
+one failure equals game over. My lesson is:
+never put all your eggs in one basket. My income sources include investment returns as a stable side, consulting services as a stable side, and content creation as a risky side. Content creation is a typical option: limited downside—at worst, nobody reads it; limited time investment;
+unlimited upside—if it goes viral, its influence grows
+exponentially, bringing more consulting opportunities and commercialization possibilities. Putting myself in the shoes of today's young people, I'd give some advice. If I were only in my twenties, I would finish my PhD at Peking University, then be selected for a government position, or go abroad to study and immigrate, aiming for a government public utility industry.
+After securing a stable job, I'd then seek growth opportunities in other areas outside of work. The second principle is subtraction thinking: don't pursue the best, but avoid the worst.
+Munger
+said, "I only want to know where I'm going to die, and then I'll never go there." This is subtraction thinking. Knowing what not to do is more important than knowing what to do. What is subtraction thinking in investing? What is foolish investing? High leverage—you can't afford to lose. Not understanding the risks of things you don't understand. Needing constant
+upward movement to make money. Moral hazard on the other side—gambling with your money. If you avoid these
+four types, you've already
+won against most people. What is subtraction thinking in life? Taleb's health strategy isn't eating superfoods, taking supplements, or complex nutrition plans, but rather eating less processed food, less sugar, and intermittent fasting. Why? Because our bodies have evolved over millions of years, adapted to irregular eating habits, natural foods, and plenty of movement. Modern life is the opposite: eating processed food every meal and sitting all day. So returning to a natural state and doing subtraction is itself healthy. What is
+subtraction thinking in this channel? Why is this channel high-barrier? Videos over 30 minutes require thought; we talk about frameworks,
+not code. This will lose many viewers who want quick answers, specific stock recommendations, or chasing trends. But this is precisely subtraction thinking—
+by setting a high barrier to entry. By filtering out these viewers, I avoid satisfying unrealistic desires. The third principle is maintaining selectivity. People's nostalgia for youth
+is essentially nostalgia for
+infinite possibilities. At
+20, you can be anyone, go anywhere, and do anything. By 40, most people are locked in—locked in by their
+careers, their identities, and their past choices. How do we maintain selectivity? First, maintain the ability to learn. Not what you learn, but the ability to
+learn. Most people stop learning
+after leaving school; their brains become rigid, they only do familiar things, and they panic when faced with new things. This
+is why people are eliminated at 35—
+not because of age,
+but because they stopped learning at 25. Maintaining the ability to learn means always being exposed to new things, always stepping
+out of your comfort zone, and always challenging your understanding. Second, learn
+transferable knowledge.
+What is transferable? English is
+useful in any country. Writing is useful in any industry because clear expression is useful. Programming thinking breaks down problems, and logical reasoning is useful
+everywhere. Data analysis is needed for business and research. This knowledge is not dependent on a specific job or industry; it is
+your own. Third, learn basic subjects because they are meta-knowledge. Mathematics teaches you abstract thinking, and physics teaches you causal reasoning. History teaches you pattern recognition, philosophy teaches you concept analysis.
+These abilities are fundamental; once mastered, learning anything concrete becomes incredibly fast. In contrast, those who only
+learn applied skills—like Excel, a
+particular software program,
+or a specific operation—have very short half-lives, becoming obsolete in two or
+three years. The half-life of fundamental disciplines, however, can be decades or even centuries. Finally, it's about maintaining physical and mental plasticity. A rigid body cannot adapt to new environments, and a rigid mind cannot accept new perspectives. Consider those who successfully immigrate: they maintain an open mind, are willing to learn new cultures, and are willing to change themselves. Those who fail often cling to old habits, refuse to learn, and complain about their environment. Taleb's
+concept of antifragility, at the individual level, is this kind of
+adaptive plasticity. Individuals can save themselves, but what about systems? If the problem of modernity is constructive rationalism and experts overstepping centralized power, what is the solution? The right-wing critique of modernity provides a clear answer: the
+core principle is mandatory skin-in-the-game, making decision-makers equal to risk-takers. This is
+n't Taleb's invention; it's the wisdom of humanity accumulated over thousands of years. How did ancient Rome do it? Architects designed bridges, and the architects stood beneath them.
+Generals led troops into battle alongside their soldiers. Sons of senators were required to serve in the military.
+How did the Code of Hammurabi stipulate this? If a house collapsed and killed someone, the architect's son was executed. If an eye surgery failed, the doctor's hand was cut off. What
+is business ethics? Reputation equals the greatest asset; one act of deception equals a lifetime of dishonesty. The Mediterranean trade network operated on reputation for centuries. Why was it effective? Because decision-makers knew they would bear the consequences of their mistakes, so they were cautious, conservative, and respected tradition. What should we do in modern times? In the
+financial system, bankers trade with their
+own money,
+returning to a partnership model. If hedge funds underperform, fund managers lose money along with them. Eliminate the "too
+big to fail" mentality, allowing banks to go bankrupt. CEO compensation should be
+linked to 10-year long-term performance, not quarterly performance. In the political system, failed decisions lead to the resignation of officials and legal liability. Politicians who advocate war should send their children to war first. Debts incurred during their term are personally attributed; there are no golden parachutes. In the expert system, consultants are paid based on results, not time. Economists who make incorrect
+predictions
+face license revocation, mandatory portfolio disclosure, and public
+disclosure of
+conflicts of interest. The second principle is localism: small-scale equals automatic risk sharing. Hayek, Scott, and
+Jacobs agree
+that small-scale is superior to large-scale. Why? First, small-scale enforces risk sharing. If a mayor's policies fail, he encounters voters daily and
+cannot escape them. Brussels'
+bureaucratic policies affected Greece, while he remained comfortable in Belgium without consequences. Second, small-scale diversifies risk. A policy failure in one state does not affect other states, making the system antifragile. A policy failure in the
+central government affects the entire country, making the system fragile. Third, small-scale allows for trial and error. A centralized system leaves no room for error; if one fails, everyone perishes.
+Historical comparisons show the impact on Europe. In contrast to East Asia, where Europe remained unified for
+centuries over the past two millennia, with hundreds of small states,
+city-states, and principalities competing, learning through trial and error, and giving rise to modern science,
+democracy, and the
+Industrial Revolution, East Asia pursued unification. The Qin Dynasty's prefecture-county system and centralized power led to overexpansion, collapse, fragmentation, and reunification—a cycle repeated for 2,000 years.
+Why was Europe more successful?
+Because decentralization allowed for trial and error. One country's failure didn't affect others; one country innovated,
+and others learned. With unification, the emperor's mistakes were implemented nationwide; errors resulted in national catastrophe. Talebhayek advocated decentralization, local autonomy, and federalism over centralization; small states were superior to large states, and city-states to empires. Liu Zhongjing's theory of the various Xia states is a right-wing critique of modernity applied in the Chinese context. A unified empire is fragile; a collapse means total
+collapse. The small states of the various Xia states are anti-fragile, diversifying risk
+and allowing for individual trial and error.
+You may disagree with his political views, but theoretically, a fragmented system of small states is indeed more stable than unification. However, in reality, the system is difficult to change in the short
+term. Why? Because the current system favors the elite, who reap upward
+benefits. The risk is being shifted to you.
+Why would they want to change? The inertia of the system is enormous. There are too-to-fail banks, a powerful central government, and a financialized economy—all of which have huge vested
+interest groups. So what can you do? It depends on where you are. If you are
+in the free world, then congratulations, you have the potential to drive change. But don't misunderstand, I'm not saying you have to convince the majority, or that you have to wait for
+51% to agree before you can change anything. In *Asymmetric Risk*, Taleb offers a counterintuitive insight: changing the world doesn't require a majority, only a
+determined minority. He cites Kosher as an example. American Jews make up only 2% of the population, and those who strictly adhere to Kosher laws are even fewer. But if you go to the supermarket, you'll see many food products with Kosher certification.
+Why?
+Because Jews are an uncompromising minority; they absolutely refuse to eat non-Kosher food.
+Others, however, are
+indifferent to whether it's Kosher or non-Kosher. So how do food companies choose? They
+make everything Kosher, so that Jews can eat it, and others can eat it too, maximizing the market. The result is that the 2% of determined minorities changed the standards of the entire

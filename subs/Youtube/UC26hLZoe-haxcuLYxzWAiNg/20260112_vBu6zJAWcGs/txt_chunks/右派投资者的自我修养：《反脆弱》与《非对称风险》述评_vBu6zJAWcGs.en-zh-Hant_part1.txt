@@ -1,0 +1,296 @@
+Hello everyone, this is Brain Master.
+Today we continue the Taleb series,
+discussing the books *Antifragile* and *Asymmetric Risk*.
+But before diving into the specifics,
+I'd like to provide a broader context: two drastically different paths in the
+critique of modernity.
+This isn't a new issue;
+since the birth of modernity,
+reflection and critique have never ceased.
+However, one phenomenon is noteworthy:
+in current mainstream academic discourse and cultural discussions,
+almost all critiques of modernity you hear
+come from the left.
+From Marx's critique of capitalism to the
+Frankfurt School of the 20th century,
+postmodernism, cultural studies, and critical theory—
+these theories, while each with their own emphasis, share
+a common logical starting point: the
+problem with modernity is its lack of radicalism, and the
+solution is more radical change.
+But here lies a profound paradox: when these critics point to the alienation of
+capitalism and the
+chaos of the market,
+they often place their hopes on a rationally planned social form. The most radical experiment in
+rational planning in the 20th century—
+the Soviet Union's centrally planned economy—was precisely one of the most extreme manifestations of modernity.
+It attempted to reconstruct the entire society using science and reason, but the result was systemic disaster. This raises a question... Is there
+another critique of modernity? Not that modernity isn't radical enough, but that it's too arrogant; not that it demands more planning,
+but that it acknowledges the fundamental limitations of planning; not that it seeks to deconstruct tradition,
+but that it
+restores the wisdom destroyed by modernity. The answer is yes, and it has a complete intellectual lineage. In the following content, I will do three things: First, I will outline this intellectual tradition obscured by mainstream discourse, allowing you to see clearly Taleb's position in an intellectual movement that has lasted for two
+and a half centuries.
+Second, using
+this framework, I will dissect several core problems created by modernity, helping you understand the source of vulnerability. Finally, I will discuss the strategies individuals can adopt based on this understanding. So let's begin this intellectual journey. Our story begins in 1789, at the moment known as the "triumph of
+reason." On July 14, 1789, the people of Paris stormed the Bastille. This event sparked jubilation among intellectuals throughout Europe. The bastions of the old regime had been overthrown; the age of reason had finally arrived. Humanity could redesign society according to the principles of reason. But one voice
+said,
+"Wait, this could be a disaster." Edmund Burke, British Whig politician and philosopher,
+November 1790 Just over a year after the outbreak of the French Revolution, he published *Reflections on the
+French Revolution*.
+This book was fiercely attacked by radicals at the time, but later history proved his predictions
+accurate. Burke's core arguments can be summarized in three levels. First, tradition is not superstition, but the crystallization of the wisdom of generations. Those seemingly irrational institutions, customs, and traditions have been formed in the long course of historical
+evolution. Their survival
+to this day
+demonstrates their adaptability. You may examine them with contemporary rational standards, find them illogical, and then overthrow them to establish new rational institutions. But the problem is that your rationality is limited; you only see the surface logic of things. The wisdom inherent in
+tradition is often
+implicit, situational, and difficult to articulate. Burke gave the example of the English common law system. This legal system was not designed by a single legislator, but accumulated case by case. On the surface, it
+appears chaotic, contradictory, and lacking in systematicity. But it is precisely this chaos that allows it to be
+applicable to various specific situations and to be fine-tuned while maintaining continuity. In contrast, the French Revolution attempted to start from scratch
+and
+establish a completely new legal system based on rational principles. The result? Frequent constitutional changes, constant legal alterations,
+and the collapse of social order. Secondly,
+society is an organism,
+not a machine. A mechanistic view of society prevailed during the Enlightenment, viewing society as a clock, composed of
+various parts that could be disassembled and reassembled according to a blueprint. Burke argued this was a fundamental error. Society is
+more like a large tree,
+slowly growing over generations and centuries. It has unseen roots, complex nutrient cycles, and countless delicate balances. You can prune branches and graft new shoots, but you cannot uproot it and expect to replant it. The French Revolution's mistake was treating society as a machine. They thought they could reassemble French society according to a
+rational blueprint of liberty, equality, and fraternity.
+The result? The Reign of Terror, the Jacobin dictatorship, Napoleon's military dictatorship, and years of war in Europe. Thirdly,
+gradual reform is superior to radical revolution.
+Burke did not oppose reform; in fact, he supported American independence and internal reforms in Britain. However, he advocated a conservative reform—gradual and prudent adjustments based on respect for tradition. British history is a prime example of this gradual reform, from the Magna Carta to the Glorious Revolution, from the expansion of parliamentary power to the gradual popularization of suffrage.
+Each step was an adjustment within the existing framework, preserving what was good. Eliminating the bad is a
+slow process, potentially
+taking generations,
+but it's relatively safe and won't lead to the overall collapse of society. The French approach is radical: overthrowing everything
+and starting from scratch.
+This process is fast and seems satisfying, but it's extremely dangerous because you're destroying not only bad institutions but also unseen but crucial social connections, customs, and trust.
+Burke famously said that society is a partnership—not just between the living, but between the living, the dead, and the unborn. What does this mean? When undertaking social change, you can't only consider the demands of the living; you must also
+respect the legacy left by predecessors—those time-tested institutions and wisdom. You must also be responsible for future generations; you can't deprive them of their choices for the sake of present rational ideals.
+This is the starting point of conservatism. It's important to emphasize that conservatism here is
+not about clinging to the old ways or rejecting all change, but about preserving what has stood the test of time. In Taleb's
+later terminology, it's the Lindy effect: the longer something exists, the longer it's expected to continue existing. Burke
+tells us that tradition has value, but he didn't delve into the underlying epistemological mechanisms: why tradition contains wisdom, and why rational planning fails. Hayek, an Austrian economist and 1974 Nobel laureate in economics, systematically answered this question in the 20th century. His core contribution to the critique of modernity is a seemingly simple yet profoundly influential insight: the problem of knowledge. In 1945, Hayek published a paper, "The Application of Knowledge in Society," a work of less than 20 pages that fundamentally changed our understanding of planned economies. He posed the question:
+Why is central planning impossible? Note that it's not about
+difficulty or inefficiency, but about impossibility. This is a fundamental epistemological obstacle. Traditional critics of socialism would say that planned economies fail because of bureaucratic corruption, insufficient incentives, and abuse of power.
+Hayek argued that even if all these problems were solved, even if you had a group of completely honest and diligent planners, planned economies would still fail. Why? Because knowledge is dispersed. Countless pieces of knowledge
+exist in the world,
+but this knowledge is not concentrated in one place, not held by a single brain or computer. It is dispersed in everyone's mind, and most of it is context-
+specific and tacit. Let me
+give you an example: a farmer in a mountain village in Yunnan who has been growing tea for 30 years. What does he know? He knows the soil characteristics of this hillside, and he knows which plots of land are suitable for which varieties. Knowing there's been more rain this year, how to adjust the harvest time, knowing which month's tea is of the best quality—this knowledge is specific, accumulated from 30 years of experience. Can you write this knowledge into a
+manual? You
+can, but you can never fully convey it because it involves too many subtle judgments, too many unspoken secrets.
+This is what Michael Polanyi calls tacit knowledge—that is, we know far more than we can articulate. Now the question arises: how can an
+agricultural bureaucrat sitting in Beijing grasp the
+tea-growing knowledge of a certain mountain village in Yunnan?
+Impossible. But if he needs to formulate a national agricultural plan, he must make decisions. What can he do? He can only simplify, using statistical data, averages, and standardized indicators. Yunnan Province has 1 million mu of tea plantations, with an estimated yield of 100,000 tons. This
+figure seems scientific, but in reality, it erases all local differences and all contextual knowledge. The result? The plan is out of touch with reality, resource allocation is inefficient, and ultimately the entire system malfunctions. So how does the market solve this problem? The answer is the price mechanism. Price is a signal system; it compresses scattered knowledge into a number. Suppose a certain
+area in Yunnan experiences
+drought this year, resulting in reduced
+tea production. This information doesn't need to be reported to Beijing or analyzed by experts; it will immediately be reflected in tea prices. Prices rise, and tea merchants will adjust their purchasing plans. Consumers will reduce their purchases or seek alternatives; farmers who grow other crops will consider switching to tea. The entire adjustment process requires no central planning; everyone simply needs to make decisions based on price signals that suit their own circumstances.
+This is what Hayek called spontaneous order—the result of human action, but not a product of human design.
+Markets are spontaneous orders; no one designed them, yet they function well. Languages ​​are spontaneous orders; no one designed English or Chinese, yet
+they have evolved complex grammars and rich expressive capabilities. Common law is a spontaneous order; cases accumulate to form a legal system. These spontaneous orders share a common characteristic: they can utilize dispersed
+knowledge, adapt to changing circumstances, and achieve coordination without central control. In contrast, rationally designed orders, such as planned economies, Esperanto, and codified laws, often function poorly because they cannot utilize local knowledge or adapt to complex situations. In his 1973 book, *Law, Legislation, and Liberty*, Hayek proposed a key concept:
+constructive rationalism. This is the core ailment of modernity. What is constructive rationalism?
+It is the belief that human reason can design everything and construct society from scratch. The philosophical origins of
+this thought can be traced back to Descartes, who said, "I think, therefore I am." His method began with questioning everything, retaining only the certain, and then rationally reconstructing the knowledge system. This method achieved great success
+in the natural sciences and mathematics. However, the problem is that
+people
+apply the same method to the social sphere. The leaders of the French Revolution said that the old regime was irrational and that we should rebuild society using rational principles. The Soviet Bolsheviks
+said that capitalism was chaotic and that we should plan the economy scientifically. Hayek called this kind of thinking fatal arrogance. You think you know a lot, but in reality you know very little. You think you can
+design society, but in reality you ca
+n't even design a village. Why? Because the knowledge upon which social order depends far exceeds what any individual, organization, or even any era can grasp.
+Those spontaneously evolved institutions, customs, and rules contain the trial-and-error experience of several generations over hundreds of years.
+You use
+rational standards to examine them, find them unreasonable, and then try to replace them with a better design. But your "
+better" is often based on simplifying complexity and ignoring tacit knowledge. As
+Burke predicted, those rationally designed social experiments often end in disaster. Hayek theoretically demonstrated the impossibility of central planning, but one question remains unresolved: what is the
+specific mechanism of failure? How did those
+ambitious
+social reform projects gradually turn into disasters? This question was systematically answered by Yale University politician
+James Scott in his 1998 book, *The State Perspective: Why Projects Seeking to Improve the Human Condition Fail*. Scott's work can be seen as an autopsy report on the social engineering disasters of the 20th century. He studied a series of
+cases, including German scientific forestry, Soviet collective farms, the village of Ugama in Tanzania, and Brasilia, the new capital of Brazil, attempting to find
+common patterns of failure. Scott first defined an ideology he called High Modernism, a belief system that reached its peak in the first half of the 20th century. Its core tenets were: first, science and technology could solve all social problems; second, rational planning was superior to
+tradition and custom; third,
+society could be
+designed like a machine; fourth, standardization, simplification, and measurability were signs of progress; and finally, experts knew better than ordinary people what was beneficial to
+society. This ideology
+transcended left and right. The Soviet planned economy was High Modernism; the American urban redevelopment movement was High Modernism; Le Corbusier's Radiant City design was High Modernism; and Robert Moses's transformation of New York City was also High Modernism. The allure of modernism lies in its promise to end chaos and disorder with
+reason and science, creating a
+better world. The technological advancements of the 20th century—electricity, steel, concrete, automobiles—seemed to prove this promise achievable.
+Scott's second
+key concept is readability. For a state to manage society, it needs to understand it. However, traditional societies were
+unreadable. Village layouts were chaotic, landholdings were irregular, surnames were inconsistent, and units of measurement varied from place to place. This posed
+a problem for the state: how to collect taxes, how to conscript soldiers, how to control
+population movement. Thus, modern states initiated a series of readability projects: standardizing surnames (previously many only had given names), standardizing units of measurement, land surveying and registration, censuses and household registration systems, and grid-based urban planning. On the surface, these were all advancements; they indeed improved administrative efficiency. However, the problem is that in the pursuit of readability, those unreadable but crucial elements were often
+destroyed. Let me give you a
+concrete example:
+scientific forestry in Germany. At the end of the 18th century, Prussian forestry officials faced the problem of how to increase timber production. What were traditional German forests like?
+A mixture of various trees: oak, beech, maple, spruce, varying in height and age. The understory
+also contained
+shrubs and herbaceous plants. For forestry officials, this type of forest was unreadable; they couldn't accurately calculate timber reserves, predict future yields, or manage them effectively. So they invented scientific forestry. First, they cleared the existing mixed forests,
+then planted a single tree species, usually spruce, planted in neat rows with uniform spacing, and harvested simultaneously. The result was a forest that became a timber factory, appearing from the air
+as orderly as an army formation. Forestry
+officials could now accurately
+calculate how many trees were per hectare and how many cubic meters of timber could be harvested in 10 years. The first generation was a huge success; timber production increased dramatically, and
+Prussian forestry science became
+a model for all of Europe. The second
+generation? Disaster! Trees began to die off in large numbers, pests and diseases spread, and the soil degraded. By the second harvest cycle, yields had plummeted. What happened? Those chaotic traditional forests had complex ecosystems. Different tree species were interdependent; understory plants protected the soil; dead branches and leaves provided nutrients; and birds controlled pests. This was a balanced system that had evolved over thousands of years.
+Monoculture
+plantations destroyed this system. Without diversity, pests and diseases spread easily; without understory vegetation,
+soil erosion occurred; and
+without dead branches and leaves… Nutrient cycling is disrupted. The first generation relies on the reserves accumulated by the original forest. The second generation depletes these reserves, leading to system collapse. This is the readability trap. To make forests easier to manage and calculate, you simplify their complexity. But it is precisely this complexity that maintains the health of the forest. Let's look at a
+larger-scale case: the Soviet collective farms. In 1929, Stalin launched a comprehensive collectivization movement. The logic was simple: small-scale farming was inefficient, fragmented, and wasteful of resources. If land were centralized, mechanized
+farming, and scientific management, yields would
+certainly increase significantly.
+Experts in Moscow developed detailed plans. Each collective farm had standards for what to plant, how much fertilizer to use, and when to sow and harvest. However, there was a problem: these standards were based on averages. In reality, every piece of land
+is unique. What do
+farmers in a Ukrainian village know? They know that the land north of the village has poor drainage and is prone to waterlogging in spring, making it unsuitable for
+wheat. They know that the soil on the eastern slope is poor but suitable for buckwheat.
+They know that this year's rainfall is heavy, requiring a few days' delay in
+sowing, otherwise the seeds will rot in the ground. This knowledge is what Hayek called local knowledge, and Scott called Metis, or practical
+wisdom. However, after collectivization, this knowledge was neglected. Moscow's directive was to plant wheat, so wheat was planted regardless of the land's suitability. The directive was to sow on March 15th, so March
+15th was sowed, regardless of the year's
+weather conditions. Farmers knew this would lead to failure, but they had no decision-making power, and even if they objected, they were suppressed as
+wealthy
+peasants. As a result, the Ukrainian famine of 1932-1933 saw millions starve to death in Europe's breadbasket.
+This was not a natural disaster, but a
+man-made, systemic catastrophe—the inevitable consequence of expert knowledge attempting to replace practical wisdom. Scott introduces two ancient Greek concepts in his book, which form the core of his analytical framework: one is Techne,
+technical knowledge—knowledge that can be coded, taught, and standardized, such as knowledge in agricultural textbooks, soil pH, nitrogen, phosphorus, and potassium ratios, and pest and disease control plans. The other is Metis, practical wisdom—situational, experiential,
+and ineffable knowledge, such as an old farmer's judgment in a specific situation: whether to water more this year, or whether this land is suitable for planting corn.
+A core assumption of modernity is that Techne can replace Metis; as long as we scientize and standardize knowledge, we no longer need those empiricist elements. Scott argues that this is a fundamental mistake. It's not that Techne is unimportant, but rather that it cannot replace Metis. An agricultural
+PhD might know all the theories of soil science, but if he hasn't actually farmed, his knowledge is
+abstract.
+A farmer who has farmed for 30 years, while not understanding chemical equations, possesses the wisdom to handle specific situations. The best scenario is a combination of both: Techne provides general principles, while Metis allows for flexible
+application in specific contexts. The worst scenario is using Techne to suppress Metis, with experts sitting
+in offices directing thousands of specific situations using standardized procedures.
+Scott summarizes four necessary conditions for the failure of high-modernism projects: First, administrative order and readability—the state needs to simplify complex social realities; second, a high-modernist ideology—believing that scientific planning is superior to traditional experience;
+third, an authoritarian state—having the power and will to implement radical change; and finally, a lack of checks and balances—no civil
+society or local power to resist. Disaster occurs when all four conditions are present. If any one is missing, the project may only be inefficient, not a major catastrophe. For example, urban redevelopment in the United States also has high-modernist characteristics,
+but
+because of a relatively active civil society, the degree of destruction is limited. In contrast, authoritarian states like the Soviet Union and Tanzania... The
+damage caused by the high
+modernist ideology was far greater. Now let's shift our focus from forests and farmlands to cities. In 1961, a housewife with no urban planning degree or architectural background
+published a book that revolutionized the entire urban planning industry. Her name was Jane Jacobs, and the book was *The Death and Life of Great American Cities*. Jacobs lived in Greenwich Village, New York, a typical chaotic neighborhood where old and new buildings were mixed together, the streets were narrow and winding, and small shops, cafes, and bars lined the ground floors of residential buildings. According to the
+prevailing urban planning theories at
+the time, such neighborhoods were slums and should be demolished to make way for
+modern residential areas. Robert Moses, the urban czar of New York, was preparing to do just that. He planned to build a highway through Greenwich Village, cutting the neighborhood in half.
+Jacobs organized residents to protest and ultimately stopped the project. But more importantly, during the protest, she began to ponder a question: why were the neighborhoods that experts thought should be
+demolished the most vibrant and livable? Her answer challenged the theoretical foundation of the
+entire modern urban planning system. Through observing Greenwich Village, Jacobs summarized four elements. The first was mixed-use: residential, commercial, and
+office spaces were mixed together. Why was this important? Mixed-use development means the streets are active all day. Commuters pass by in the morning, people eat lunch nearby, delivery trucks come and go in the afternoon, people buy groceries and go to bars in the evening, and small restaurants are still open late at night. With people, there are eyes on the street – shop owners, residents, and passersby form an informal monitoring network, more effective than any police patrol.
+The second is short blocks. Long blocks and wide roads may seem grand, but they
+reduce people's choices; you're limited to fixed routes, and chance encounters are fewer. Short
+blocks mean you can walk down one street or turn into another alley, encountering different people and discovering different shops each time. This randomness is the source of urban vitality. The third is a mix of old and new buildings. Why not
+all new
+buildings? Because new buildings have high rents, only affordable for large corporations and chains. Old buildings are cheaper, affordable for small
+shops, entrepreneurs, and artists. A mix of old and new buildings means rent diversity, allowing people from different income levels to coexist, and creating ecological diversity within the neighborhood. The fourth is high density. This is the most counterintuitive. Traditional
+planning theory
+equates high density with overcrowding, dirt, and unhealthiness, so density should be reduced to make people comfortable.
+Jacobs was wrong. Moderate high density is a prerequisite for urban vitality. Too few people make the
+streets deserted; too many people exceed the infrastructure's capacity, which certainly causes problems. However, in the middle ground, density means enough customers to support various
+small shops, enough neighbors to form communities, and enough street life. Robert Moses's
+modern urban planning is exactly the opposite: functional zoning, residential areas for living, commercial areas for commerce, office areas for offices, wide boulevards to reduce corners,
+demolishing and rebuilding old
+buildings, constructing modern high-rise apartments, reducing density to allow the city
+to breathe. Sounds rational, right? But what happened? Take the Pruitt Igor Apartments as an example. This public housing project in St. Louis, built in the 1950s, was designed by a famous architect and reflected the most advanced
+planning concepts of the time. High-rise buildings allowed more open space for
+greenery. Functional zoning, residential areas away from commercial areas, wide spacing for good lighting, modern facilities, elevators, heating, and indoor toilets—it won architectural awards after completion. Ten years later, it became a high-crime area. Elevators broke down and no one repaired them; the hallways reeked of
+urine; drug trafficking was openly conducted; residents moved out en masse. Completed in 1972, less than 20 years later… In 2000, the government decided to demolish it. Why did it fail? Because the functional zoning left the streets empty most of the time.
+People who worked during the day went to other areas, leaving only the elderly
+and children. At night, the shops were closed, and without people, the streets lacked
+vigilance and safety. Because high-rise buildings in
+large blocks destroyed the sense of community.
+You might live upstairs for 10 years and still not know your upstairs neighbor. Without small shops, without street corner encounters, there was no daily interaction. Because demolishing
+old buildings eliminated rental diversity, only low-income people remained, creating a concentration of poverty and a lack of economic vitality. What was Jacobs' insight? The city is a complex self-organizing system, not a machine that can be designed from scratch. Those seemingly chaotic traditional neighborhoods, winding streets, mixed old and
+new buildings, and
+mixed residential and commercial spaces, precisely contain the wisdom accumulated over generations. This chaos is functional, a delicate balance that maintains the city's vitality. When you replace it with rational planning, demolishing and rebuilding neat grid functional zoning, you destroy not only buildings, but the entire social network, informal order, and local knowledge.
+This is completely consistent with Scott's analysis. High modernist
+urban planning simplified the complexity of
+the city for readability and ignored residents' local knowledge for the sake of scientific management. The result is not a rational city, but a dead city. Now all the pieces of the puzzle are ready. Let's see how Taleb synthesizes this tradition and makes original contributions. What did Taleb inherit from
+Burke? First, the Lindy effect: the longer something exists, the longer its expected remaining lifespan. Second, respect for tradition: time is the most rigorous selection mechanism.
+Third, gradualism: small improvements are better than large revolutions.
+From Hayek, Taleb inherited the limitations of knowledge: we know far less than we think. He inherited the idea that spontaneous order is superior to rational design: market language and common law are evolutionary. He also inherited opposition to centralization: centralized power equals the risk of single-point failure. From Scott, Taleb learned about Metis versus
+Techne: practical wisdom cannot be replaced by expert knowledge. He learned to oppose
+high modernism: standardization often destroys complexity. He also learned the importance of local knowledge: every situation is unique. From Jacobs, Taleb saw that bottom-up is superior to top-down: organic evolutionary order is more robust. He
+saw the value of diversity:
+uniformity is a sign of fragility. He also saw that apparent chaos may be a deeper order; don't be misled by appearances. So what are Taleb's original contributions? First, there's the mathematization. While Burke, Hayek, Scott, and
+Jacobs all presented qualitative analyses—insights, case studies, and arguments—Taleb reformulated these insights using mathematical language. For example, what is fragility? It's not a vague concept, but rather mathematical concavity: when volatility increases, your losses increase more than when volatility decreases. What is antifragility? It's convexity: the ability to benefit from volatility. The greater the
+volatility, the greater your gains. What are the benefits of this mathematization? It allows intuition to be precisely expressed, arguments to be rigorously proven, and strategies to be quantified and implemented. Second, there's the
+concept of "skin in the game," Taleb's core original concept. Scott distinguished between Metis and Techne, but his primary focus was on the nature of knowledge. Taleb asks who bears the consequences. Why
+is Metis reliable?
+Not because it's more scientific, but because those who possess Metis must bear the consequences.
+Farmers who plant wrong crops starve; captains who make wrong judgments sink. Why is Techne dangerous?
+Not because it's inaccurate,
+but because those who possess Techne often don't bear the consequences.
+Economists who predict wrong continue to collect consulting fees. When a city planner's design fails, they can try designing another
+city. This transforms an epistemological problem into an
+ethical one: who has the right to make decisions? The answer is those who bear the consequences. The third original contribution is the concept of
+antifragility itself. This transcends traditional robustness. Traditional risk management aims for strength—the ability to withstand shocks
+and remain unchanged, like building a sufficiently strong bridge to withstand a once-in-a-century flood. Taleb argues that this is insufficient; better is antifragility—not only able to withstand shocks but also to benefit from them. For example, the human immune system doesn't maintain health by isolating itself from all pathogens, but by developing
+antibodies through contact with a small number of pathogens, becoming stronger. A completely sterile environment actually weakens the immune system. This insight is missing in traditional conservative thought. Burke and Hayek emphasize non-destruction, a defensive approach. Taleb points out an offensive strategy: proactively seeking moderate pressure and benefiting from
+chaos. The fourth contribution is the integration of disciplines.
+Taleb is
+not a philosopher, economist, or mathematician; he is a hybrid of these three, plus
+history, biology,
+and religion. He uses option pricing theory to analyze social phenomena, evolutionary biology to understand institutional change, and probability theory to critique economic models. Using the ethics of Mediterranean merchants to reflect on modern finance—this interdisciplinary synthesis allows him to examine the same problem from multiple angles, discover connections others cannot see, and understand the genealogy of thought.
+Now let's use this framework to dissect the specific problems created by modernity. We now know the core logic of right-wing criticism: constructivist rationalism is a fatal arrogance; experts' knowledge is far more limited than they think; spontaneous order is superior to rational design. So, in reality, what systemic problems has modernity caused? I'll analyze five core lesions for you. Lesion one: over-optimization eliminates redundancy, which equals
+vulnerability. Modernity has a core
+tenet:
+efficiency above all else, eliminating
+waste. The classic expression of this tenet comes from Adam Smith's *The Wealth of Nations*: division of
+labor increases efficiency. Then there's Taylor's *The Principles of
+Scientific Management*: every action should be optimized. Then there's Toyota's lean production, just-in-time, zero inventory. Throughout the 20th century, industrial society pursued the same goal: eliminating redundancy and increasing efficiency. But is redundancy really waste? Taleb says redundancy is insurance; eliminating redundancy eliminates the buffer and creates vulnerability. Let's
+analyze the case of the just-in-time supply chain. In the 1970s, Toyota invented the just-in-time
+production method. The
+logic is simple:
+inventory ties up capital and space, which is wasteful. If demand can be accurately predicted, and parts are
+delivered precisely when needed,
+inventory is unnecessary. This seems perfect under normal circumstances: reduced costs, improved cash flow, and shareholder satisfaction. Manufacturers worldwide are learning this approach, and by the 2000s,
+it had become an industry standard. Not only the automotive industry,
+but also electronics, clothing, and food—all
+manufacturing industries were reducing inventory.
+Further, to reduce costs, the supply chain became globalized: chips were manufactured in Taiwan, assembled in China, and parts were imported from Japan, South Korea, Germany, and the United States.
+This leveraged the comparative
+advantages of each location. Further still, to
+avoid
+redundant construction, many key components had only one supplier.
+For example, only TSMC could produce certain special chips, and the main production area for certain rare earth materials was in China. This achieved economies of scale, reducing costs. The
+entire system operated with the precision of a Swiss watch during normal times. Then, in 2020, the pandemic hit. China locked down cities, factories shut down, and parts supplies were cut off. Within weeks, global car
+production lines came to a standstill, not because of a lack of workers or demand, but because of a shortage of a small component—perhaps a sensor or a chip.
+In 2021, a global chip shortage occurred. Automakers could
+n't buy chips and had to reduce production. Consumers wanted to buy cars, but… 4S stores have no cars in stock, and you have to wait several months. In 2022,
+Shanghai was locked down for two months, and Tesla's Shanghai factory stopped production, affecting the global supply chain. This is a perfect example of
+concaveness. Normally, small profits are made, and inventory costs are reduced by 5% to 10%. During a crisis, huge losses occur, and the losses from production stoppages can be several times the normal profits. But why do companies still do this? "Asymmetric Risk" tells you the answer. The
+CEO's incentive mechanism: The CEO's term is usually 3-5 years. His bonuses and stock options are tied to short-term performance and stock price. Reducing inventory immediately improves financial statements,
+increases profit margins, and raises stock prices. The CEO receives a large bonus during his term and then jumps ship or retires. Supply chain disruptions are a problem 5 or 10 years later, and it's the next CEO's problem. He gains the upside, while shareholders, employees, and consumers
+bear the downside risk. This is systemic risk transfer. It should be noted that Taleb is not criticizing Toyota's
+original "just-in-time
+" concept. The original Toyota approach actually contained many antifragile elements, emphasizing the geographical proximity of suppliers, valuing long-term relationships, and maintaining a certain buffer. What Taleb criticizes is the version later transformed by Wall Street's financialization, with single-supplier
+extreme inventory spanning long supply chains, and
+financial indicators as the sole objective. This is the distortion of manufacturing caused by excessive
+financialization. A similar logic is even more evident in the financial sector. During the 1990s and 2000s, when Greenspan was Chairman of the Federal Reserve, his policy philosophy was to eliminate small fluctuations and pursue
+stability. A slight economic downturn would lead to interest rate cuts and a slight stock market decline; the goal of quantitative easing was to ensure stable economic growth and a stable market rise.
+This was
+known as the Greenspan put option. The market knew that
+if there was risk, the Federal Reserve would bail it out. The result? A decreased risk awareness. Since the Federal Reserve would
+bail out, why
+not increase leverage? Thus, leverage ratios increased, the
+real estate bubble grew larger, and financial derivatives became increasingly complex. Small fluctuations were eliminated, but people became less and less risk-averse. It's like the paradox of forest fire prevention. The
+US Forest Service's policy used to be to
+extinguish every spark, which sounded very responsible, right? The result? Decades later, the accumulation of dead branches led to massive fires that burned for months. Why? Because in nature, forests experience small fires every few years, burning away dead branches and clearing space. These small fires are the ecosystem's
+cleaning
+mechanism. If you extinguish all the
+small fires, fuel accumulates, eventually leading to a massive fire that burns down the entire forest. The same applies to the financial system. Small crises and recessions, which are mechanisms for cleaning up excessive speculation and eliminating bad assets, are smoothed out. Risks accumulate in the shadows, eventually erupting into systemic crises. The
+subprime
+mortgage crisis nearly caused the global
+financial system to collapse. This wasn't a black swan event, but the inevitable result of over a decade of policies aimed at eliminating volatility. Planners, in order to control the system,
+need to make it readable, simplified, standardized, and noise-eliminating. However, the resilience of complex systems comes precisely from those seemingly chaotic diversityes and seemingly wasteful redundancies. If you eliminate them all for optimization, it may seem more efficient under normal circumstances,
+but the system becomes fragile.
+Once a shock occurs, the entire system collapses. Extreme specialization
+equals single-point failure risk. Another core tenet of modernity is that the more specialized the division of labor, the higher the efficiency. Adam Smith, in the opening of *The Wealth of
+Nations*, uses the example
+of needle makers to illustrate the benefits of specialization. One worker completes all the processes, making 20 needles a day. After specialization, 10 workers make 48,000 needles a day, increasing
+efficiency by 240 times. This is indeed the foundation of modern industry. Without specialization, there would be no Industrial Revolution, and no current level of productivity. However, modern society has pushed the division of labor to
+extremes. It's no longer about being a doctor, but an orthopedic surgeon specializing in left knee cartilage degeneration; no longer about being an engineer,
+but a software engineer specializing in React front-end frameworks and Redux state management; no longer about understanding economics, but a macroeconomist studying monetary policy transmission mechanisms and the asymmetric effects in emerging
