@@ -306,7 +306,6 @@ jobs:
           for srt_path in sorted(glob.glob(os.path.join(out_dir, "*.srt"))):
             txt_path = os.path.splitext(srt_path)[0] + ".txt"
 
-            # Whisper 路径已生成 .txt，跳过避免覆盖
             if os.path.exists(txt_path):
               print(f"已存在，跳过: {os.path.basename(txt_path)}")
               continue
@@ -335,28 +334,7 @@ jobs:
           print("纯文本提取完成！")
           PY
 
-      - name: Commit & push subtitles
-        env:
-          URL: ${{ inputs.url }}
-          OUT_DIR: ${{ steps.detect.outputs.out_dir }}
-          VIDEO_ID: ${{ steps.detect.outputs.video_id }}
-        shell: bash
-        run: |
-          set -euo pipefail
-
-          if [[ -z "$(git status --porcelain subs)" ]]; then
-            echo "No changes under subs/. Skip commit."
-            exit 0
-          fi
-
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          git add subs
-          git commit -m "Add subtitles: ${VIDEO_ID} (${URL})" || exit 0
-          git push
-
-      # ★ 同时拆分 .lrc 和 .txt，超过4万字符则分片
+      # ★ 拆分步骤移到 Commit 之前，确保分片文件能被提交
       - name: Split large subtitle files (LRC + TXT, if > 40k chars)
         env:
           OUT_DIR: ${{ steps.detect.outputs.out_dir }}
@@ -371,7 +349,6 @@ jobs:
 
           # ── LRC 工具函数 ──────────────────────────────────────────
           def lrc_text_only(content):
-            """提取LRC纯文本字符（去掉时间戳）"""
             text = []
             for line in content.strip().splitlines():
               m = re.match(r"\[(\d+):(\d+\.\d+)\]\s*(.*)", line)
@@ -398,14 +375,13 @@ jobs:
 
           # ── TXT 工具函数 ──────────────────────────────────────────
           def split_txt(lines, max_chars):
-            """按行边界拆分，不截断单行"""
             chunks, cur, cur_len = [], [], 0
             for line in lines:
               line_len = len(line)
               if cur_len + line_len + 1 > max_chars and cur:
                 chunks.append(cur); cur = [line]; cur_len = line_len
               else:
-                cur.append(line); cur_len += line_len + 1  # +1 代表换行符
+                cur.append(line); cur_len += line_len + 1
             if cur:
               chunks.append(cur)
             return chunks
@@ -451,12 +427,33 @@ jobs:
 
           # ── 处理 TXT ─────────────────────────────────────────────
           print("\n=== 处理 TXT 文件 ===")
-          skip_names = {"source_url.txt"}   # 溯源文件不拆
+          skip_names = {"source_url.txt"}
           for fp in sorted(glob.glob(os.path.join(out_dir, "*.txt"))):
             if os.path.basename(fp) in skip_names:
               continue
-            # count_fn 对 TXT 直接数全文字符
             process_file(fp, lambda c: len(c), split_txt, "txt_chunks")
 
           print("\n所有文件处理完成！")
           PY
+
+      # ★ Commit 在拆分之后，分片文件会一起被提交
+      - name: Commit & push subtitles
+        env:
+          URL: ${{ inputs.url }}
+          OUT_DIR: ${{ steps.detect.outputs.out_dir }}
+          VIDEO_ID: ${{ steps.detect.outputs.video_id }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [[ -z "$(git status --porcelain subs)" ]]; then
+            echo "No changes under subs/. Skip commit."
+            exit 0
+          fi
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add subs
+          git commit -m "Add subtitles: ${VIDEO_ID} (${URL})" || exit 0
+          git push
