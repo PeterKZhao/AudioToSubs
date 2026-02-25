@@ -137,13 +137,16 @@ jobs:
           out_dir.mkdir(parents=True, exist_ok=True)
 
           (out_dir / "source_url.txt").write_text(url + "\n", encoding="utf-8")
-          (out_dir / "info.json").write_text(info_text + ("\n" if not info_text.endswith("\n") else ""), encoding="utf-8")
+          (out_dir / "info.json").write_text(
+            info_text + ("\n" if not info_text.endswith("\n") else ""),
+            encoding="utf-8"
+          )
 
           subs = info.get("subtitles") or {}
           auto = info.get("automatic_captions") or {}
           keys = sorted(set(list(subs.keys()) + list(auto.keys())))
 
-          def ok(k: str) -> bool:
+          def ok(k):
             for r in patterns:
               if r.fullmatch(k) or r.search(k):
                 return True
@@ -290,7 +293,6 @@ jobs:
               f.write("\n".join(out).strip() + ("\n" if out else ""))
           PY
 
-      # ★ 新增：从 SRT 提取无时间轴纯文本
       - name: Extract plain text subtitles (no timestamps)
         env:
           OUT_DIR: ${{ steps.detect.outputs.out_dir }}
@@ -312,7 +314,6 @@ jobs:
             with open(srt_path, "r", encoding="utf-8", errors="ignore") as f:
               content = f.read()
 
-            # 按空行分块，逐块提取文本行
             blocks = re.split(r"\n\s*\n", content.strip())
             text_lines = []
             for block in blocks:
@@ -320,9 +321,9 @@ jobs:
                 line = line.strip()
                 if not line:
                   continue
-                if re.fullmatch(r"\d+", line):          # 跳过序号
+                if re.fullmatch(r"\d+", line):
                   continue
-                if re.match(r"\d{2}:\d{2}:\d{2},\d{3}\s*-->", line):  # 跳过时间戳
+                if re.match(r"\d{2}:\d{2}:\d{2},\d{3}\s*-->", line):
                   continue
                 text_lines.append(line)
 
@@ -355,7 +356,8 @@ jobs:
           git commit -m "Add subtitles: ${VIDEO_ID} (${URL})" || exit 0
           git push
 
-      - name: Split large LRC files (if > 40k chars)
+      # ★ 同时拆分 .lrc 和 .txt，超过4万字符则分片
+      - name: Split large subtitle files (LRC + TXT, if > 40k chars)
         env:
           OUT_DIR: ${{ steps.detect.outputs.out_dir }}
         shell: bash
@@ -367,70 +369,94 @@ jobs:
           out_dir = os.environ["OUT_DIR"]
           MAX_CHARS = 40000
 
-          def extract_text_from_lrc(lrc_content):
-            lines = lrc_content.strip().split("\n")
-            text_only = []
+          # ── LRC 工具函数 ──────────────────────────────────────────
+          def lrc_text_only(content):
+            """提取LRC纯文本字符（去掉时间戳）"""
+            text = []
+            for line in content.strip().splitlines():
+              m = re.match(r"\[(\d+):(\d+\.\d+)\]\s*(.*)", line)
+              if m:
+                text.append(m.group(3))
+            return "".join(text)
+
+          def split_lrc(lines, max_chars):
+            chunks, cur, cur_len = [], [], 0
             for line in lines:
-              match = re.match(r"\[(\d+):(\d+\.\d+)\]\s*(.*)", line)
-              if match:
-                text_only.append(match.group(3))
-            return "".join(text_only)
-
-          def count_chars(lrc_content):
-            return len(extract_text_from_lrc(lrc_content))
-
-          def split_lrc_by_chars(lrc_lines, max_chars):
-            chunks = []
-            current_chunk = []
-            current_char_count = 0
-            for line in lrc_lines:
-              match = re.match(r"\[(\d+):(\d+\.\d+)\]\s*(.*)", line.strip())
-              if match:
-                text = match.group(3)
-                text_len = len(text)
-                if current_char_count + text_len > max_chars and current_chunk:
-                  chunks.append(current_chunk)
-                  current_chunk = [line]
-                  current_char_count = text_len
+              m = re.match(r"\[(\d+):(\d+\.\d+)\]\s*(.*)", line.strip())
+              if m:
+                tlen = len(m.group(3))
+                if cur_len + tlen > max_chars and cur:
+                  chunks.append(cur); cur = [line]; cur_len = tlen
                 else:
-                  current_chunk.append(line)
-                  current_char_count += text_len
+                  cur.append(line); cur_len += tlen
               else:
-                if current_chunk:
-                  current_chunk.append(line)
-            if current_chunk:
-              chunks.append(current_chunk)
+                if cur:
+                  cur.append(line)
+            if cur:
+              chunks.append(cur)
             return chunks
 
-          for lrc_path in glob.glob(os.path.join(out_dir, "*.lrc")):
-            with open(lrc_path, "r", encoding="utf-8", errors="ignore") as f:
+          # ── TXT 工具函数 ──────────────────────────────────────────
+          def split_txt(lines, max_chars):
+            """按行边界拆分，不截断单行"""
+            chunks, cur, cur_len = [], [], 0
+            for line in lines:
+              line_len = len(line)
+              if cur_len + line_len + 1 > max_chars and cur:
+                chunks.append(cur); cur = [line]; cur_len = line_len
+              else:
+                cur.append(line); cur_len += line_len + 1  # +1 代表换行符
+            if cur:
+              chunks.append(cur)
+            return chunks
+
+          # ── 通用拆分入口 ──────────────────────────────────────────
+          def process_file(fpath, count_fn, split_fn, subdir_name):
+            with open(fpath, "r", encoding="utf-8", errors="ignore") as f:
               content = f.read()
 
-            char_count = count_chars(content)
-            print(f"检查文件: {os.path.basename(lrc_path)} ({char_count} 字符)")
+            char_count = count_fn(content)
+            fname = os.path.basename(fpath)
+            print(f"检查: {fname}  ({char_count} 字符)")
 
-            if char_count > MAX_CHARS:
-              print(f"  ⚠️  超过 {MAX_CHARS} 字符，开始拆分...")
-              chunks_dir = Path(out_dir) / "lrc_chunks"
-              chunks_dir.mkdir(exist_ok=True)
-
-              lines = [line.rstrip("\n") for line in content.split("\n")]
-              chunks = split_lrc_by_chars(lines, MAX_CHARS)
-              base_name = os.path.splitext(os.path.basename(lrc_path))[0]
-
-              for idx, chunk_lines in enumerate(chunks, 1):
-                chunk_filename = f"{base_name}_part{idx}.lrc"
-                chunk_path = chunks_dir / chunk_filename
-                with open(chunk_path, "w", encoding="utf-8") as f:
-                  f.write("\n".join(chunk_lines))
-                  if chunk_lines and not chunk_lines[-1].endswith("\n"):
-                    f.write("\n")
-                chunk_chars = count_chars("\n".join(chunk_lines))
-                print(f"  ✓ 生成: {chunk_filename} ({chunk_chars} 字符)")
-
-              print(f"  完成拆分，共 {len(chunks)} 个文件")
-            else:
+            if char_count <= MAX_CHARS:
               print(f"  ✓ 无需拆分")
+              return
 
-          print("\nLRC文件处理完成！")
+            print(f"  ⚠️  超过 {MAX_CHARS} 字符，开始拆分...")
+            chunks_dir = Path(out_dir) / subdir_name
+            chunks_dir.mkdir(exist_ok=True)
+
+            lines = [l.rstrip("\n") for l in content.split("\n")]
+            chunks = split_fn(lines, MAX_CHARS)
+            base = os.path.splitext(fname)[0]
+            ext  = os.path.splitext(fname)[1]
+
+            for idx, chunk_lines in enumerate(chunks, 1):
+              chunk_name = f"{base}_part{idx}{ext}"
+              chunk_path = chunks_dir / chunk_name
+              with open(chunk_path, "w", encoding="utf-8") as f:
+                f.write("\n".join(chunk_lines))
+                if chunk_lines and not chunk_lines[-1].endswith("\n"):
+                  f.write("\n")
+              chunk_chars = count_fn("\n".join(chunk_lines))
+              print(f"  ✓ {chunk_name}  ({chunk_chars} 字符)")
+
+            print(f"  完成，共 {len(chunks)} 个分片")
+
+          # ── 处理 LRC ─────────────────────────────────────────────
+          print("=== 处理 LRC 文件 ===")
+          for fp in sorted(glob.glob(os.path.join(out_dir, "*.lrc"))):
+            process_file(fp, lrc_text_only, split_lrc, "lrc_chunks")
+
+          # ── 处理 TXT ─────────────────────────────────────────────
+          print("\n=== 处理 TXT 文件 ===")
+          skip_names = {"source_url.txt"}   # 溯源文件不拆
+          for fp in sorted(glob.glob(os.path.join(out_dir, "*.txt"))):
+            if os.path.basename(fp) in skip_names:
+              continue
+            # count_fn 对 TXT 直接数全文字符
+            process_file(fp, lambda c: len(c), split_txt, "txt_chunks")
+
+          print("\n所有文件处理完成！")
           PY
