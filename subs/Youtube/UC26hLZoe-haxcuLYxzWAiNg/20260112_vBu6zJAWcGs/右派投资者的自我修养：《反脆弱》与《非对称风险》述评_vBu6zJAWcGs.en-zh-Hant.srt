@@ -284,1291 +284,1291 @@ later terminology, it's the Lindy effect: the longer something exists, the longe
 
 72
 00:05:30,166 --> 00:05:33,000
-tells us that tradition has value, but he didn't delve into the underlying epistemological mechanisms: why tradition contains wisdom, and why rational planning fails. Hayek, an Austrian economist and 1974 Nobel laureate in economics, systematically answered this question in the 20th century. His core contribution to the critique of modernity is a seemingly simple yet profoundly influential insight: the problem of knowledge. In 1945, Hayek published a paper, "The Application of Knowledge in Society," a work of less than 20 pages that fundamentally changed our understanding of planned economies. He posed the question: Why is central planning impossible? Note that it's not about
+tells us that tradition has value, but he didn't delve into the underlying epistemological mechanisms: why tradition contains wisdom, and why rational planning fails. Hayek, an Austrian economist and 1974 Nobel laureate in economics, systematically answered this question in the 20th century. His core contribution to the critique of modernity is a seemingly simple yet profoundly influential insight: the problem of knowledge. In 1945, Hayek published a paper, "The Application of Knowledge in Society," a work of less than 20 pages that fundamentally changed our understanding of planned economies. He posed the question:
 
 73
+00:05:40,100 --> 00:05:40,900
+Why is central planning impossible? Note that it's not about
+
+74
 00:05:58,900 --> 00:06:00,900
 difficulty or inefficiency, but about impossibility. This is a fundamental epistemological obstacle. Traditional critics of socialism would say that planned economies fail because of bureaucratic corruption, insufficient incentives, and abuse of power.
 
-74
+75
 00:06:07,200 --> 00:06:08,600
 Hayek argued that even if all these problems were solved, even if you had a group of completely honest and diligent planners, planned economies would still fail. Why? Because knowledge is dispersed. Countless pieces of knowledge
 
-75
+76
 00:06:08,800 --> 00:06:10,800
 exist in the world,
 
-76
+77
 00:06:16,400 --> 00:06:19,166
 but this knowledge is not concentrated in one place, not held by a single brain or computer. It is dispersed in everyone's mind, and most of it is context-
 
-77
+78
 00:06:21,366 --> 00:06:23,566
 specific and tacit. Let me
 
-78
+79
 00:06:37,700 --> 00:06:39,433
 give you an example: a farmer in a mountain village in Yunnan who has been growing tea for 30 years. What does he know? He knows the soil characteristics of this hillside, and he knows which plots of land are suitable for which varieties. Knowing there's been more rain this year, how to adjust the harvest time, knowing which month's tea is of the best quality—this knowledge is specific, accumulated from 30 years of experience. Can you write this knowledge into a
 
-79
+80
 00:06:39,966 --> 00:06:42,466
 manual? You
 
-80
+81
 00:06:50,166 --> 00:06:51,900
 can, but you can never fully convey it because it involves too many subtle judgments, too many unspoken secrets.
 
-81
+82
 00:06:56,666 --> 00:06:58,966
 This is what Michael Polanyi calls tacit knowledge—that is, we know far more than we can articulate. Now the question arises: how can an
 
-82
+83
 00:06:59,466 --> 00:07:01,666
 agricultural bureaucrat sitting in Beijing grasp the
 
-83
+84
 00:07:14,766 --> 00:07:17,400
 tea-growing knowledge of a certain mountain village in Yunnan?
 
-84
+85
 00:07:17,700 --> 00:07:19,966
 Impossible. But if he needs to formulate a national agricultural plan, he must make decisions. What can he do? He can only simplify, using statistical data, averages, and standardized indicators. Yunnan Province has 1 million mu of tea plantations, with an estimated yield of 100,000 tons. This
 
-85
+86
 00:07:31,500 --> 00:07:32,600
 figure seems scientific, but in reality, it erases all local differences and all contextual knowledge. The result? The plan is out of touch with reality, resource allocation is inefficient, and ultimately the entire system malfunctions. So how does the market solve this problem? The answer is the price mechanism. Price is a signal system; it compresses scattered knowledge into a number. Suppose a certain
 
-86
+87
 00:07:32,933 --> 00:07:34,700
 area in Yunnan experiences
 
-87
+88
 00:07:42,133 --> 00:07:43,533
 drought this year, resulting in reduced
 
-88
+89
 00:07:45,533 --> 00:07:47,900
 tea production. This information doesn't need to be reported to Beijing or analyzed by experts; it will immediately be reflected in tea prices. Prices rise, and tea merchants will adjust their purchasing plans. Consumers will reduce their purchases or seek alternatives; farmers who grow other crops will consider switching to tea. The entire adjustment process requires no central planning; everyone simply needs to make decisions based on price signals that suit their own circumstances.
 
-89
+90
 00:08:01,266 --> 00:08:03,966
 This is what Hayek called spontaneous order—the result of human action, but not a product of human design.
 
-90
+91
 00:08:11,466 --> 00:08:14,133
 Markets are spontaneous orders; no one designed them, yet they function well. Languages ​​are spontaneous orders; no one designed English or Chinese, yet
 
-91
+92
 00:08:18,466 --> 00:08:20,166
 they have evolved complex grammars and rich expressive capabilities. Common law is a spontaneous order; cases accumulate to form a legal system. These spontaneous orders share a common characteristic: they can utilize dispersed
 
-92
+93
 00:08:32,000 --> 00:08:33,500
 knowledge, adapt to changing circumstances, and achieve coordination without central control. In contrast, rationally designed orders, such as planned economies, Esperanto, and codified laws, often function poorly because they cannot utilize local knowledge or adapt to complex situations. In his 1973 book, *Law, Legislation, and Liberty*, Hayek proposed a key concept:
 
-93
+94
 00:08:33,900 --> 00:08:36,100
 constructive rationalism. This is the core ailment of modernity. What is constructive rationalism?
 
-94
+95
 00:08:46,200 --> 00:08:48,666
 It is the belief that human reason can design everything and construct society from scratch. The philosophical origins of
 
-95
-00:08:51,933 --> 00:08:54,066
-this idea can be traced back to Descartes, who said, "I think, therefore I am." His method began with questioning everything, retaining only the certain, and then rationally reconstructing the knowledge system. This method achieved great success
-
 96
+00:08:51,933 --> 00:08:54,066
+this thought can be traced back to Descartes, who said, "I think, therefore I am." His method began with questioning everything, retaining only the certain, and then rationally reconstructing the knowledge system. This method achieved great success
+
+97
 00:08:55,600 --> 00:08:57,666
 in the natural sciences and mathematics. However, the problem is that
 
-97
+98
 00:09:09,000 --> 00:09:11,066
 people
 
-98
+99
 00:09:11,066 --> 00:09:13,200
 apply the same method to the social sphere. The leaders of the French Revolution said that the old regime was irrational and that we should rebuild society using rational principles. The Soviet Bolsheviks
 
-99
+100
 00:09:13,466 --> 00:09:15,866
 said that capitalism was chaotic and that we should plan the economy scientifically. Hayek called this kind of thinking fatal arrogance. You think you know a lot, but in reality you know very little. You think you can
 
-100
+101
 00:09:18,233 --> 00:09:20,000
 design society, but in reality you ca
 
-101
+102
 00:09:26,933 --> 00:09:28,966
 n't even design a village. Why? Because the knowledge upon which social order depends far exceeds what any individual, organization, or even any era can grasp.
 
-102
+103
 00:09:38,133 --> 00:09:40,800
 Those spontaneously evolved institutions, customs, and rules contain the trial-and-error experience of several generations over hundreds of years.
 
-103
+104
 00:09:40,833 --> 00:09:42,733
 You use
 
-104
+105
 00:09:48,933 --> 00:09:50,533
 rational standards to examine them, find them unreasonable, and then try to replace them with a better design. But your "
 
-105
+106
 00:09:55,766 --> 00:09:58,366
 better" is often based on simplifying complexity and ignoring tacit knowledge. As
 
-106
+107
 00:10:02,200 --> 00:10:04,200
 Burke predicted, those rationally designed social experiments often end in disaster. Hayek theoretically demonstrated the impossibility of central planning, but one question remains unresolved: what is the
 
-107
+108
 00:10:05,633 --> 00:10:07,400
 specific mechanism of failure? How did those
 
-108
+109
 00:10:07,633 --> 00:10:09,366
 ambitious
 
-109
+110
 00:10:12,400 --> 00:10:14,266
 social reform projects gradually turn into disasters? This question was systematically answered by Yale University politician
 
-110
+111
 00:10:14,800 --> 00:10:18,500
 James Scott in his 1998 book, *The State Perspective: Why Projects Seeking to Improve the Human Condition Fail*. Scott's work can be seen as an autopsy report on the social engineering disasters of the 20th century. He studied a series of
 
-111
+112
 00:10:31,500 --> 00:10:32,433
 cases, including German scientific forestry, Soviet collective farms, the village of Ugama in Tanzania, and Brasilia, the new capital of Brazil, attempting to find
 
-112
+113
 00:10:32,466 --> 00:10:34,733
 common patterns of failure. Scott first defined an ideology he called High Modernism, a belief system that reached its peak in the first half of the 20th century. Its core tenets were: first, science and technology could solve all social problems; second, rational planning was superior to
 
-113
+114
 00:10:38,066 --> 00:10:40,266
 tradition and custom; third,
 
-114
+115
 00:10:51,366 --> 00:10:52,966
 society could be
 
-115
+116
 00:10:52,966 --> 00:10:55,033
 designed like a machine; fourth, standardization, simplification, and measurability were signs of progress; and finally, experts knew better than ordinary people what was beneficial to
 
-116
+117
 00:10:55,266 --> 00:10:58,233
 society. This ideology
 
-117
+118
 00:10:58,233 --> 00:11:01,066
 transcended left and right. The Soviet planned economy was High Modernism; the American urban redevelopment movement was High Modernism; Le Corbusier's Radiant City design was High Modernism; and Robert Moses's transformation of New York City was also High Modernism. The allure of modernism lies in its promise to end chaos and disorder with
 
-118
+119
 00:11:10,033 --> 00:11:12,033
 reason and science, creating a
 
-119
+120
 00:11:13,033 --> 00:11:15,566
 better world. The technological advancements of the 20th century—electricity, steel, concrete, automobiles—seemed to prove this promise achievable.
 
-120
+121
 00:11:21,466 --> 00:11:23,433
 Scott's second
 
-121
+122
 00:11:23,466 --> 00:11:25,433
 key concept is readability. For a state to manage society, it needs to understand it. However, traditional societies were
 
-122
+123
 00:11:29,266 --> 00:11:31,466
 unreadable. Village layouts were chaotic, landholdings were irregular, surnames were inconsistent, and units of measurement varied from place to place. This posed
 
-123
+124
 00:11:31,633 --> 00:11:33,766
 a problem for the state: how to collect taxes, how to conscript soldiers, how to control
 
-124
+125
 00:11:46,333 --> 00:11:48,400
 population movement. Thus, modern states initiated a series of readability projects: standardizing surnames (previously many only had given names), standardizing units of measurement, land surveying and registration, censuses and household registration systems, and grid-based urban planning. On the surface, these were all advancements; they indeed improved administrative efficiency. However, the problem is that in the pursuit of readability, those unreadable but crucial elements were often
 
-125
+126
 00:11:48,400 --> 00:11:48,966
 destroyed. Let me give you a
 
-126
+127
 00:11:48,966 --> 00:11:50,533
 concrete example:
 
-127
+128
 00:11:55,766 --> 00:11:57,733
 scientific forestry in Germany. At the end of the 18th century, Prussian forestry officials faced the problem of how to increase timber production. What were traditional German forests like?
 
-128
+129
 00:12:01,333 --> 00:12:04,300
 A mixture of various trees: oak, beech, maple, spruce, varying in height and age. The understory
 
-129
+130
 00:12:07,300 --> 00:12:10,000
 also contained
 
-130
+131
 00:12:21,066 --> 00:12:24,300
 shrubs and herbaceous plants. For forestry officials, this type of forest was unreadable; they couldn't accurately calculate timber reserves, predict future yields, or manage them effectively. So they invented scientific forestry. First, they cleared the existing mixed forests,
 
-131
+132
 00:12:24,466 --> 00:12:25,433
 then planted a single tree species, usually spruce, planted in neat rows with uniform spacing, and harvested simultaneously. The result was a forest that became a timber factory, appearing from the air
 
-132
+133
 00:12:25,466 --> 00:12:28,466
 as orderly as an army formation. Forestry
 
-133
+134
 00:12:33,433 --> 00:12:34,933
 officials could now accurately
 
-134
+135
 00:12:34,933 --> 00:12:37,533
 calculate how many trees were per hectare and how many cubic meters of timber could be harvested in 10 years. The first generation was a huge success; timber production increased dramatically, and
 
-135
+136
 00:12:49,266 --> 00:12:52,333
 Prussian forestry science became
 
-136
+137
 00:12:58,833 --> 00:13:00,600
 a model for all of Europe. The second
 
-137
+138
 00:13:00,800 --> 00:13:02,566
 generation? Disaster! Trees began to die off in large numbers, pests and diseases spread, and the soil degraded. By the second harvest cycle, yields had plummeted. What happened? Those chaotic traditional forests had complex ecosystems. Different tree species were interdependent; understory plants protected the soil; dead branches and leaves provided nutrients; and birds controlled pests. This was a balanced system that had evolved over thousands of years.
 
-138
+139
 00:13:02,600 --> 00:13:04,833
 Monoculture
 
-139
+140
 00:13:16,133 --> 00:13:17,366
 plantations destroyed this system. Without diversity, pests and diseases spread easily; without understory vegetation,
 
-140
+141
 00:13:17,366 --> 00:13:18,833
 soil erosion occurred; and
 
-141
+142
 00:13:32,300 --> 00:13:34,066
 without dead branches and leaves… Nutrient cycling is disrupted. The first generation relies on the reserves accumulated by the original forest. The second generation depletes these reserves, leading to system collapse. This is the readability trap. To make forests easier to manage and calculate, you simplify their complexity. But it is precisely this complexity that maintains the health of the forest. Let's look at a
 
-142
+143
 00:13:34,300 --> 00:13:37,900
 larger-scale case: the Soviet collective farms. In 1929, Stalin launched a comprehensive collectivization movement. The logic was simple: small-scale farming was inefficient, fragmented, and wasteful of resources. If land were centralized, mechanized
 
-143
+144
 00:13:38,100 --> 00:13:40,000
 farming, and scientific management, yields would
 
-144
+145
 00:13:43,700 --> 00:13:45,866
 certainly increase significantly.
 
-145
+146
 00:13:57,000 --> 00:13:59,233
 Experts in Moscow developed detailed plans. Each collective farm had standards for what to plant, how much fertilizer to use, and when to sow and harvest. However, there was a problem: these standards were based on averages. In reality, every piece of land
 
-146
+147
 00:14:01,833 --> 00:14:03,466
 is unique. What do
 
-147
+148
 00:14:11,633 --> 00:14:13,433
 farmers in a Ukrainian village know? They know that the land north of the village has poor drainage and is prone to waterlogging in spring, making it unsuitable for
 
-148
+149
 00:14:14,533 --> 00:14:16,733
 wheat. They know that the soil on the eastern slope is poor but suitable for buckwheat.
 
-149
+150
 00:14:19,800 --> 00:14:21,733
 They know that this year's rainfall is heavy, requiring a few days' delay in
 
-150
+151
 00:14:29,333 --> 00:14:30,233
 sowing, otherwise the seeds will rot in the ground. This knowledge is what Hayek called local knowledge, and Scott called Metis, or practical
 
-151
+152
 00:14:48,166 --> 00:14:49,866
 wisdom. However, after collectivization, this knowledge was neglected. Moscow's directive was to plant wheat, so wheat was planted regardless of the land's suitability. The directive was to sow on March 15th, so March
 
-152
+153
 00:14:50,166 --> 00:14:50,966
 15th was sowed, regardless of the year's
 
-153
+154
 00:15:02,266 --> 00:15:04,066
 weather conditions. Farmers knew this would lead to failure, but they had no decision-making power, and even if they objected, they were suppressed as
 
-154
+155
 00:15:08,000 --> 00:15:09,933
 wealthy
 
-155
+156
 00:15:10,000 --> 00:15:11,466
 peasants. As a result, the Ukrainian famine of 1932-1933 saw millions starve to death in Europe's breadbasket.
 
-156
+157
 00:15:11,633 --> 00:15:14,533
 This was not a natural disaster, but a
 
-157
+158
 00:15:14,900 --> 00:15:16,200
 man-made, systemic catastrophe—the inevitable consequence of expert knowledge attempting to replace practical wisdom. Scott introduces two ancient Greek concepts in his book, which form the core of his analytical framework: one is Techne,
 
-158
+159
 00:15:30,166 --> 00:15:31,766
 technical knowledge—knowledge that can be coded, taught, and standardized, such as knowledge in agricultural textbooks, soil pH, nitrogen, phosphorus, and potassium ratios, and pest and disease control plans. The other is Metis, practical wisdom—situational, experiential,
 
-159
+160
 00:15:36,300 --> 00:15:38,200
 and ineffable knowledge, such as an old farmer's judgment in a specific situation: whether to water more this year, or whether this land is suitable for planting corn.
 
-160
+161
 00:15:40,400 --> 00:15:42,333
 A core assumption of modernity is that Techne can replace Metis; as long as we scientize and standardize knowledge, we no longer need those empiricist elements. Scott argues that this is a fundamental mistake. It's not that Techne is unimportant, but rather that it cannot replace Metis. An agricultural
 
-161
+162
 00:15:57,333 --> 00:16:00,333
 PhD might know all the theories of soil science, but if he hasn't actually farmed, his knowledge is
 
-162
+163
 00:16:04,966 --> 00:16:05,900
 abstract.
 
-163
+164
 00:16:12,633 --> 00:16:14,933
 A farmer who has farmed for 30 years, while not understanding chemical equations, possesses the wisdom to handle specific situations. The best scenario is a combination of both: Techne provides general principles, while Metis allows for flexible
 
-164
+165
 00:16:17,500 --> 00:16:18,600
 application in specific contexts. The worst scenario is using Techne to suppress Metis, with experts sitting
 
-165
+166
 00:16:27,466 --> 00:16:29,000
 in offices directing thousands of specific situations using standardized procedures.
 
-166
+167
 00:16:29,133 --> 00:16:31,900
 Scott summarizes four necessary conditions for the failure of high-modernism projects: First, administrative order and readability—the state needs to simplify complex social realities; second, a high-modernist ideology—believing that scientific planning is superior to traditional experience;
 
-167
+168
 00:16:42,900 --> 00:16:44,700
 third, an authoritarian state—having the power and will to implement radical change; and finally, a lack of checks and balances—no civil
 
-168
-00:16:48,400 --> 00:16:50,300
-society or local power to resist. Disaster occurs when all four conditions are present. If any one is missing, the project may only be inefficient, not a
-
 169
-00:17:02,133 --> 00:17:03,333
-major catastrophe. For example, urban redevelopment in the United States also has high-modernist characteristics, but because of a relatively active civil society, the degree of destruction is limited. In contrast, authoritarian states like the Soviet Union and Tanzania... The
+00:16:48,400 --> 00:16:50,300
+society or local power to resist. Disaster occurs when all four conditions are present. If any one is missing, the project may only be inefficient, not a major catastrophe. For example, urban redevelopment in the United States also has high-modernist characteristics,
 
 170
+00:16:50,300 --> 00:16:51,733
+but
+
+171
+00:16:51,933 --> 00:16:53,933
+because of a relatively active civil society, the degree of destruction is limited. In contrast, authoritarian states like the Soviet Union and Tanzania... The
+
+172
 00:17:03,333 --> 00:17:05,133
 damage caused by the high
 
-171
+173
 00:17:06,266 --> 00:17:08,800
 modernist ideology was far greater. Now let's shift our focus from forests and farmlands to cities. In 1961, a housewife with no urban planning degree or architectural background
 
-172
+174
 00:17:09,066 --> 00:17:10,500
 published a book that revolutionized the entire urban planning industry. Her name was Jane Jacobs, and the book was *The Death and Life of Great American Cities*. Jacobs lived in Greenwich Village, New York, a typical chaotic neighborhood where old and new buildings were mixed together, the streets were narrow and winding, and small shops, cafes, and bars lined the ground floors of residential buildings. According to the
 
-173
+175
 00:17:29,000 --> 00:17:32,533
 prevailing urban planning theories at
 
-174
+176
 00:17:35,566 --> 00:17:36,966
 the time, such neighborhoods were slums and should be demolished to make way for
 
-175
-00:17:39,066 --> 00:17:41,133
-modern residential areas. Robert Moses, the urban czar of New York, was preparing to do just that. He planned to build a highway in Greenwich Village, cutting the neighborhood in half.
-
-176
-00:17:48,933 --> 00:17:49,633
-Jacobs organized residents to protest and ultimately stopped the project. But more importantly, during the protest, she began to think about why the neighborhoods that experts thought should be
-
 177
-00:17:53,466 --> 00:17:55,800
-demolished were precisely the most vibrant and livable. Her answer challenged the theoretical foundation of the
+00:17:39,066 --> 00:17:41,133
+modern residential areas. Robert Moses, the urban czar of New York, was preparing to do just that. He planned to build a highway through Greenwich Village, cutting the neighborhood in half.
 
 178
-00:17:57,466 --> 00:17:59,766
-entire modern urban planning system. Through
+00:17:48,933 --> 00:17:49,633
+Jacobs organized residents to protest and ultimately stopped the project. But more importantly, during the protest, she began to ponder a question: why were the neighborhoods that experts thought should be
 
 179
-00:18:07,800 --> 00:18:10,333
-observing Greenwich Village, Jacobs summarized four elements. The first was mixed-use, with residential, commercial, and office spaces mixed together. Why was this important? Mixed-use
+00:17:53,466 --> 00:17:55,800
+demolished the most vibrant and livable? Her answer challenged the theoretical foundation of the
 
 180
-00:18:16,000 --> 00:18:18,900
-development means the streets are active all day. Commuters pass by in the morning, people eat lunch nearby, delivery trucks come and go in the afternoon, people buy groceries and go to bars in the evening, and small restaurants are still open late at night. With people, the streets have eyes—shop owners, residents, and passersby form an informal monitoring network,
+00:17:57,466 --> 00:17:59,766
+entire modern urban planning system. Through observing Greenwich Village, Jacobs summarized four elements. The first was mixed-use: residential, commercial, and
 
 181
-00:18:41,300 --> 00:18:43,900
-more effective than any police patrol. The second is short blocks. Long blocks and wide roads may seem grand, but they
+00:18:22,866 --> 00:18:24,533
+office spaces were mixed together. Why was this important? Mixed-use development means the streets are active all day. Commuters pass by in the morning, people eat lunch nearby, delivery trucks come and go in the afternoon, people buy groceries and go to bars in the evening, and small restaurants are still open late at night. With people, there are eyes on the street – shop owners, residents, and passersby form an informal monitoring network, more effective than any police patrol.
 
 182
-00:18:51,033 --> 00:18:53,966
-reduce people's choices; you're limited to fixed routes, and chance encounters are fewer. Short blocks mean you can walk down one street or turn into another alley, encountering different people and discovering different shops each time.
+00:18:38,666 --> 00:18:41,300
+The second is short blocks. Long blocks and wide roads may seem grand, but they
 
 183
-00:18:54,200 --> 00:18:56,200
-This randomness is the source of urban vitality. The third is a mix of old and new buildings. Why not all new
+00:18:51,033 --> 00:18:53,966
+reduce people's choices; you're limited to fixed routes, and chance encounters are fewer. Short
 
 184
-00:18:59,166 --> 00:19:00,833
-buildings? Because new buildings
+00:18:54,200 --> 00:18:56,200
+blocks mean you can walk down one street or turn into another alley, encountering different people and discovering different shops each time. This randomness is the source of urban vitality. The third is a mix of old and new buildings. Why not
 
 185
-00:19:04,733 --> 00:19:06,433
-have high rents, only affordable for large corporations and chains. Old buildings are cheaper, affordable for small shops, entrepreneurs, and artists. A mix of old and new buildings means rent diversity, allowing
+00:18:57,566 --> 00:18:59,166
+all new
 
 186
-00:19:06,566 --> 00:19:08,733
-people from different income levels to coexist, and creating ecological diversity within the neighborhood. The fourth is
+00:18:59,166 --> 00:19:00,833
+buildings? Because new buildings have high rents, only affordable for large corporations and chains. Old buildings are cheaper, affordable for small
 
 187
-00:19:08,900 --> 00:19:10,500
-high density. This is the most counterintuitive. Traditional
+00:19:17,600 --> 00:19:20,700
+shops, entrepreneurs, and artists. A mix of old and new buildings means rent diversity, allowing people from different income levels to coexist, and creating ecological diversity within the neighborhood. The fourth is high density. This is the most counterintuitive. Traditional
 
 188
 00:19:21,000 --> 00:19:23,933
-planning
+planning theory
 
 189
 00:19:27,266 --> 00:19:29,300
-theory equates high density with overcrowding, dirt, and unhealthiness, so density should be reduced to make people comfortable. Jacobs was wrong. Moderate high density is a prerequisite for urban vitality. Too few people make
+equates high density with overcrowding, dirt, and unhealthiness, so density should be reduced to make people comfortable.
 
 190
-00:19:37,266 --> 00:19:39,300
-the streets deserted; too many people exceed the infrastructure's capacity, which certainly causes problems. However, in the middle ground, density means enough customers to support various small shops, enough neighbors to form communities,
+00:19:29,400 --> 00:19:31,266
+Jacobs was wrong. Moderate high density is a prerequisite for urban vitality. Too few people make the
 
 191
-00:19:39,466 --> 00:19:41,433
-and enough street life. Robert Moses's
+00:19:37,266 --> 00:19:39,300
+streets deserted; too many people exceed the infrastructure's capacity, which certainly causes problems. However, in the middle ground, density means enough customers to support various
 
 192
-00:19:46,766 --> 00:19:49,366
-modern urban planning is exactly the opposite: functional zoning, residential areas for living, commercial areas for commerce, office areas for offices, wide boulevards to reduce corners, demolishing and
+00:19:43,400 --> 00:19:46,600
+small shops, enough neighbors to form communities, and enough street life. Robert Moses's
 
 193
-00:19:52,033 --> 00:19:53,766
-rebuilding old buildings, constructing modern high-rise apartments, reducing density to allow the city
+00:19:46,766 --> 00:19:49,366
+modern urban planning is exactly the opposite: functional zoning, residential areas for living, commercial areas for commerce, office areas for offices, wide boulevards to reduce corners,
 
 194
-00:20:03,400 --> 00:20:05,400
-to breathe. Sounds rational, right? But what happened? Take the Pruitt Igor Apartments as an example. This public housing
+00:19:50,866 --> 00:19:51,966
+demolishing and rebuilding old
 
 195
-00:20:05,400 --> 00:20:07,033
-project in St. Louis, built in the 1950s, was designed by a famous
+00:19:52,033 --> 00:19:53,766
+buildings, constructing modern high-rise apartments, reducing density to allow the city
 
 196
-00:20:09,766 --> 00:20:12,900
-architect and
+00:20:03,400 --> 00:20:05,400
+to breathe. Sounds rational, right? But what happened? Take the Pruitt Igor Apartments as an example. This public housing project in St. Louis, built in the 1950s, was designed by a famous architect and reflected the most advanced
 
 197
 00:20:17,333 --> 00:20:20,133
-reflected the most advanced planning concepts of the time. High-rise buildings allowed more open space for greenery. Functional zoning, residential areas away from commercial areas, wide spacing for good lighting, modern facilities, elevators, heating, and indoor toilets—it won architectural awards after completion. Ten years later, it became a high-crime area. Elevators broke down and no
+planning concepts of the time. High-rise buildings allowed more open space for
 
 198
-00:20:41,300 --> 00:20:44,166
-one repaired them; the hallways reeked of urine; drug trafficking was openly conducted; residents moved out en masse. Completed in 1972, less than 20 years later… In 2000, the government decided to demolish it. Why did it fail? Because the functional zoning left the streets empty most of the time. People who worked during the day went to other areas, leaving only the elderly
+00:20:20,733 --> 00:20:23,000
+greenery. Functional zoning, residential areas away from commercial areas, wide spacing for good lighting, modern facilities, elevators, heating, and indoor toilets—it won architectural awards after completion. Ten years later, it became a high-crime area. Elevators broke down and no one repaired them; the hallways reeked of
 
 199
+00:20:36,633 --> 00:20:38,566
+urine; drug trafficking was openly conducted; residents moved out en masse. Completed in 1972, less than 20 years later… In 2000, the government decided to demolish it. Why did it fail? Because the functional zoning left the streets empty most of the time.
+
+200
+00:20:41,300 --> 00:20:44,166
+People who worked during the day went to other areas, leaving only the elderly
+
+201
 00:20:44,366 --> 00:20:46,300
 and children. At night, the shops were closed, and without people, the streets lacked
 
-200
+202
 00:20:50,400 --> 00:20:52,533
 vigilance and safety. Because high-rise buildings in
 
-201
+203
 00:20:59,000 --> 00:21:00,866
 large blocks destroyed the sense of community.
 
-202
-00:21:08,000 --> 00:21:10,500
-You might live upstairs for 10 years and still not know your upstairs neighbor. Without small shops, without street corner encounters, there was no daily interaction. Because demolishing old buildings eliminated rental diversity, only low-income people remained, creating a concentration of poverty and a lack of economic vitality. What was Jacobs' insight? The
-
-203
-00:21:16,166 --> 00:21:19,200
-city is a complex self-organizing system, not a machine that can be designed from scratch. Those seemingly chaotic traditional neighborhoods, winding streets,
-
 204
-00:21:19,633 --> 00:21:21,833
-mixed old and
+00:21:08,000 --> 00:21:10,500
+You might live upstairs for 10 years and still not know your upstairs neighbor. Without small shops, without street corner encounters, there was no daily interaction. Because demolishing
 
 205
+00:21:19,633 --> 00:21:21,833
+old buildings eliminated rental diversity, only low-income people remained, creating a concentration of poverty and a lack of economic vitality. What was Jacobs' insight? The city is a complex self-organizing system, not a machine that can be designed from scratch. Those seemingly chaotic traditional neighborhoods, winding streets, mixed old and
+
+206
 00:21:22,000 --> 00:21:23,800
 new buildings, and
 
-206
-00:21:32,766 --> 00:21:34,566
-mixed residential and commercial spaces, precisely contain the wisdom accumulated over generations. This chaos is functional, a delicate
-
 207
-00:21:34,566 --> 00:21:36,166
-balance that maintains the
+00:21:32,766 --> 00:21:34,566
+mixed residential and commercial spaces, precisely contain the wisdom accumulated over generations. This chaos is functional, a delicate balance that maintains the city's vitality. When you replace it with rational planning, demolishing and rebuilding neat grid functional zoning, you destroy not only buildings, but the entire social network, informal order, and local knowledge.
 
 208
-00:21:38,966 --> 00:21:41,133
-city's vitality. When you replace it with rational planning, demolishing and rebuilding neat grid functional zoning, you destroy not only buildings, but the entire social network, informal order, and local knowledge.
-
-209
 00:21:43,066 --> 00:21:44,633
 This is completely consistent with Scott's analysis. High modernist
 
-210
+209
 00:21:44,766 --> 00:21:46,366
-urban planning
+urban planning simplified the complexity of
+
+210
+00:21:53,466 --> 00:21:56,500
+the city for readability and ignored residents' local knowledge for the sake of scientific management. The result is not a rational city, but a dead city. Now all the pieces of the puzzle are ready. Let's see how Taleb synthesizes this tradition and makes original contributions. What did Taleb inherit from
 
 211
-00:21:49,300 --> 00:21:50,466
-simplified the complexity of the city for readability and ignored
+00:22:12,366 --> 00:22:16,133
+Burke? First, the Lindy effect: the longer something exists, the longer its expected remaining lifespan. Second, respect for tradition: time is the most rigorous selection mechanism.
 
 212
-00:21:50,466 --> 00:21:51,733
-residents' local knowledge for the sake of scientific management. The result is not a
+00:22:25,666 --> 00:22:27,600
+Third, gradualism: small improvements are better than large revolutions.
 
 213
-00:21:53,466 --> 00:21:56,500
-rational city, but a dead city. Now all the pieces of the puzzle are ready. Let's see how Taleb synthesizes this tradition and makes
+00:22:34,900 --> 00:22:35,833
+From Hayek, Taleb inherited the limitations of knowledge: we know far less than we think. He inherited the idea that spontaneous order is superior to rational design: market language and common law are evolutionary. He also inherited opposition to centralization: centralized power equals the risk of single-point failure. From Scott, Taleb learned about Metis versus
 
 214
-00:21:58,766 --> 00:22:01,666
-original contributions. What did Taleb inherit from
-
-215
-00:22:12,366 --> 00:22:16,133
-Burke? First, the Lindy effect: the longer something exists, the longer its expected remaining lifespan. Second, respect for tradition: time is the most rigorous selection mechanism. Third,
-
-216
-00:22:25,666 --> 00:22:27,600
-gradualism: small improvements are better than large revolutions. From Hayek, Taleb inherited the limitations of knowledge: we know far less than we think. He inherited the idea that spontaneous order is superior to rational design: market language and common law are evolutionary. He also inherited opposition to centralization: centralized power equals the risk of single-point failure.
-
-217
-00:22:34,900 --> 00:22:35,833
-From Scott, Taleb learned about Metis versus
-
-218
 00:22:35,833 --> 00:22:36,900
 Techne: practical wisdom cannot be replaced by expert knowledge. He learned to oppose
 
-219
+215
 00:22:44,700 --> 00:22:47,466
-high modernism: standardization often destroys complexity. He also learned the importance of local knowledge: every situation is unique. From Jacobs, Taleb saw that bottom-up is superior to top-down: organic evolutionary order is more robust. He saw the value of diversity:
+high modernism: standardization often destroys complexity. He also learned the importance of local knowledge: every situation is unique. From Jacobs, Taleb saw that bottom-up is superior to top-down: organic evolutionary order is more robust. He
 
-220
+216
+00:22:57,233 --> 00:22:59,066
+saw the value of diversity:
+
+217
 00:23:13,100 --> 00:23:14,600
 uniformity is a sign of fragility. He also saw that apparent chaos may be a deeper order; don't be misled by appearances. So what are Taleb's original contributions? First, there's the mathematization. While Burke, Hayek, Scott, and
 
-221
+218
 00:23:19,633 --> 00:23:21,166
 Jacobs all presented qualitative analyses—insights, case studies, and arguments—Taleb reformulated these insights using mathematical language. For example, what is fragility? It's not a vague concept, but rather mathematical concavity: when volatility increases, your losses increase more than when volatility decreases. What is antifragility? It's convexity: the ability to benefit from volatility. The greater the
 
-222
+219
 00:23:39,766 --> 00:23:41,266
-volatility, the greater your gains. What are the benefits of this mathematization? It allows intuition to be precisely expressed, arguments to be rigorously proven, and strategies to be quantified and implemented. Second, there's the concept of "skin in the game," Taleb's core original concept.
+volatility, the greater your gains. What are the benefits of this mathematization? It allows intuition to be precisely expressed, arguments to be rigorously proven, and strategies to be quantified and implemented. Second, there's the
 
-223
-00:23:44,333 --> 00:23:45,033
-Scott distinguished between Metis and Techne, but his primary
-
-224
+220
 00:23:45,033 --> 00:23:46,066
-focus was on the nature of knowledge. Taleb asks who bears the consequences. Why is Metis reliable?
+concept of "skin in the game," Taleb's core original concept. Scott distinguished between Metis and Techne, but his primary focus was on the nature of knowledge. Taleb asks who bears the consequences. Why
 
-225
+221
+00:23:46,233 --> 00:23:48,633
+is Metis reliable?
+
+222
 00:23:48,833 --> 00:23:50,800
 Not because it's more scientific, but because those who possess Metis must bear the consequences.
 
-226
+223
 00:23:53,266 --> 00:23:55,933
-Farmers who plant wrong crops starve; captains who make wrong judgments sink. Why is Techne
+Farmers who plant wrong crops starve; captains who make wrong judgments sink. Why is Techne dangerous?
+
+224
+00:24:10,633 --> 00:24:12,666
+Not because it's inaccurate,
+
+225
+00:24:12,666 --> 00:24:14,266
+but because those who possess Techne often don't bear the consequences.
+
+226
+00:24:14,266 --> 00:24:16,800
+Economists who predict wrong continue to collect consulting fees. When a city planner's design fails, they can try designing another
 
 227
-00:24:00,000 --> 00:24:02,033
-dangerous? Not because it's inaccurate, but because those who possess Techne often don't bear the consequences. Economists who predict wrong continue to
+00:24:22,900 --> 00:24:24,533
+city. This transforms an epistemological problem into an
 
 228
-00:24:02,100 --> 00:24:04,633
-collect consulting fees.
+00:24:28,500 --> 00:24:31,466
+ethical one: who has the right to make decisions? The answer is those who bear the consequences. The third original contribution is the concept of
 
 229
-00:24:04,866 --> 00:24:07,233
-When a city planner's design fails, they can try designing another city.
+00:24:36,966 --> 00:24:39,166
+antifragility itself. This transcends traditional robustness. Traditional risk management aims for strength—the ability to withstand shocks
 
 230
-00:24:17,433 --> 00:24:19,733
-This transforms an epistemological problem into an
+00:24:39,233 --> 00:24:40,900
+and remain unchanged, like building a sufficiently strong bridge to withstand a once-in-a-century flood. Taleb argues that this is insufficient; better is antifragility—not only able to withstand shocks but also to benefit from them. For example, the human immune system doesn't maintain health by isolating itself from all pathogens, but by developing
 
 231
-00:24:28,500 --> 00:24:31,466
-ethical one: who has the right to make decisions? The answer is those who bear the
+00:24:58,766 --> 00:25:01,033
+antibodies through contact with a small number of pathogens, becoming stronger. A completely sterile environment actually weakens the immune system. This insight is missing in traditional conservative thought. Burke and Hayek emphasize non-destruction, a defensive approach. Taleb points out an offensive strategy: proactively seeking moderate pressure and benefiting from
 
 232
-00:24:31,466 --> 00:24:32,866
-consequences. The third original contribution is the concept of antifragility itself. This transcends traditional robustness. Traditional risk management aims for strength—the ability to withstand shocks and remain unchanged, like
+00:25:12,566 --> 00:25:15,066
+chaos. The fourth contribution is the integration of disciplines.
 
 233
-00:24:39,233 --> 00:24:40,900
-building a sufficiently strong bridge to withstand a once-in-a-century flood. Taleb argues that this is insufficient; better is antifragility—not only able to withstand shocks but also to benefit from them. For example, the human immune system doesn't maintain health by isolating itself from all pathogens, but by developing antibodies through contact with a small number of pathogens, becoming
+00:25:16,700 --> 00:25:19,400
+Taleb is
 
 234
-00:24:46,733 --> 00:24:48,433
-stronger. A completely sterile environment actually weakens the immune system. This insight is missing
+00:25:19,933 --> 00:25:22,733
+not a philosopher, economist, or mathematician; he is a hybrid of these three, plus
 
 235
-00:24:48,700 --> 00:24:50,733
-in traditional conservative thought. Burke and
+00:25:22,800 --> 00:25:24,866
+history, biology,
 
 236
-00:24:58,766 --> 00:25:01,033
-Hayek emphasize non-destruction, a defensive approach. Taleb points out an offensive strategy: proactively seeking moderate pressure and benefiting from chaos. The fourth contribution is the integration of
+00:25:27,100 --> 00:25:28,900
+and religion. He uses option pricing theory to analyze social phenomena, evolutionary biology to understand institutional change, and probability theory to critique economic models. Using the ethics of Mediterranean merchants to reflect on modern finance—this interdisciplinary synthesis allows him to examine the same problem from multiple angles, discover connections others cannot see, and understand the genealogy of thought.
 
 237
-00:25:19,933 --> 00:25:22,733
-disciplines. Taleb is not a philosopher, economist, or mathematician; he is a hybrid of these three, plus history, biology, and religion. He uses option pricing theory to analyze social phenomena, evolutionary biology to understand institutional change, and probability theory to critique economic models. Using the ethics of Mediterranean merchants to
+00:25:47,333 --> 00:25:49,500
+Now let's use this framework to dissect the specific problems created by modernity. We now know the core logic of right-wing criticism: constructivist rationalism is a fatal arrogance; experts' knowledge is far more limited than they think; spontaneous order is superior to rational design. So, in reality, what systemic problems has modernity caused? I'll analyze five core lesions for you. Lesion one: over-optimization eliminates redundancy, which equals
 
 238
-00:25:22,800 --> 00:25:24,866
-reflect on modern finance—this interdisciplinary synthesis allows him to examine the same problem from multiple
-
-239
-00:25:31,400 --> 00:25:32,733
-angles, discover connections others cannot see, and understand the genealogy of thought. Now let's use
-
-240
-00:25:47,333 --> 00:25:49,500
-this framework to dissect the specific problems created by modernity. We now know the core logic of right-wing criticism: constructivist rationalism is a fatal arrogance; experts' knowledge is far more limited than they think; spontaneous order is superior to rational design. So, in reality, what systemic problems has modernity caused? I'll analyze five core lesions for you. Lesion one:
-
-241
-00:26:00,966 --> 00:26:02,800
-over-optimization eliminates redundancy, which equals
-
-242
 00:26:03,066 --> 00:26:04,933
 vulnerability. Modernity has a core
 
-243
+239
 00:26:05,133 --> 00:26:06,433
 tenet:
 
-244
+240
 00:26:06,566 --> 00:26:08,333
 efficiency above all else, eliminating
 
-245
+241
 00:26:09,866 --> 00:26:11,666
 waste. The classic expression of this tenet comes from Adam Smith's *The Wealth of Nations*: division of
 
-246
+242
 00:26:13,266 --> 00:26:14,733
-labor increases efficiency. Then there's Taylor's *The Principles of Scientific Management*: every action should be optimized. Then there's Toyota's lean production, just-in-time, zero inventory. Throughout the 20th century, industrial society pursued the same goal: eliminating redundancy and increasing efficiency.
+labor increases efficiency. Then there's Taylor's *The Principles of
+
+243
+00:26:22,166 --> 00:26:23,900
+Scientific Management*: every action should be optimized. Then there's Toyota's lean production, just-in-time, zero inventory. Throughout the 20th century, industrial society pursued the same goal: eliminating redundancy and increasing efficiency. But is redundancy really waste? Taleb says redundancy is insurance; eliminating redundancy eliminates the buffer and creates vulnerability. Let's
+
+244
+00:26:26,466 --> 00:26:28,566
+analyze the case of the just-in-time supply chain. In the 1970s, Toyota invented the just-in-time
+
+245
+00:26:28,733 --> 00:26:30,966
+production method. The
+
+246
+00:26:31,333 --> 00:26:33,966
+logic is simple:
 
 247
-00:26:15,166 --> 00:26:16,666
-But is redundancy really waste? Taleb says redundancy is
-
-248
-00:26:16,666 --> 00:26:19,866
-insurance; eliminating redundancy eliminates the buffer and creates vulnerability. Let's
-
-249
-00:26:26,466 --> 00:26:28,566
-analyze the case of the just-in-time supply chain. In the 1970s,
-
-250
-00:26:34,133 --> 00:26:36,433
-Toyota invented the just-in-time production method. The logic is simple:
-
-251
 00:26:36,833 --> 00:26:39,366
 inventory ties up capital and space, which is wasteful. If demand can be accurately predicted, and parts are
 
-252
+248
 00:26:42,766 --> 00:26:45,066
-delivered precisely when needed, inventory is unnecessary. This seems perfect under normal circumstances: reduced costs, improved cash flow, and shareholder satisfaction.
+delivered precisely when needed,
+
+249
+00:26:56,500 --> 00:26:57,866
+inventory is unnecessary. This seems perfect under normal circumstances: reduced costs, improved cash flow, and shareholder satisfaction. Manufacturers worldwide are learning this approach, and by the 2000s,
+
+250
+00:26:58,066 --> 00:26:59,566
+it had become an industry standard. Not only the automotive industry,
+
+251
+00:26:59,666 --> 00:27:01,266
+but also electronics, clothing, and food—all
+
+252
+00:27:03,100 --> 00:27:04,566
+manufacturing industries were reducing inventory.
 
 253
-00:26:51,733 --> 00:26:52,766
-Manufacturers worldwide are learning this approach, and by the 2000s,
+00:27:04,566 --> 00:27:05,700
+Further, to reduce costs, the supply chain became globalized: chips were manufactured in Taiwan, assembled in China, and parts were imported from Japan, South Korea, Germany, and the United States.
 
 254
-00:26:58,066 --> 00:26:59,566
-it had become an industry standard. Not only the automotive industry, but also electronics, clothing, and food—all manufacturing industries were reducing inventory.
-
-255
-00:27:04,566 --> 00:27:05,700
-Further, to reduce costs, the supply chain became
-
-256
-00:27:10,900 --> 00:27:12,466
-globalized: chips were manufactured in Taiwan, assembled in China, and parts were imported from Japan, South Korea, Germany, and the United States.
-
-257
 00:27:21,066 --> 00:27:23,300
 This leveraged the comparative
 
-258
+255
 00:27:23,500 --> 00:27:26,333
-advantages of each location. Further still,
+advantages of each location. Further still, to
+
+256
+00:27:26,666 --> 00:27:27,900
+avoid
+
+257
+00:27:27,900 --> 00:27:28,833
+redundant construction, many key components had only one supplier.
+
+258
+00:27:28,900 --> 00:27:31,100
+For example, only TSMC could produce certain special chips, and the main production area for certain rare earth materials was in China. This achieved economies of scale, reducing costs. The
 
 259
-00:27:26,666 --> 00:27:27,900
-to avoid redundant construction, many key components had only one supplier.
-
-260
-00:27:28,900 --> 00:27:31,100
-For example, for a certain type of chip, only
-
-261
-00:27:33,233 --> 00:27:34,166
-TSMC
-
-262
-00:27:35,166 --> 00:27:38,433
-could produce it globally; for a certain rare earth material, the main production area was in China. This achieved economies of scale, reducing costs. The
-
-263
 00:27:40,200 --> 00:27:42,033
 entire system operated with the precision of a Swiss watch during normal times. Then, in 2020, the pandemic hit. China locked down cities, factories shut down, and parts supplies were cut off. Within weeks, global car
 
-264
+260
 00:27:45,500 --> 00:27:48,200
-production lines came to a standstill, not because of a lack of workers or demand, but because of a shortage of a small component—perhaps a sensor, perhaps a chip.
+production lines came to a standstill, not because of a lack of workers or demand, but because of a shortage of a small component—perhaps a sensor or a chip.
 
-265
+261
 00:27:53,966 --> 00:27:56,766
 In 2021, a global chip shortage occurred. Automakers could
 
-266
+262
 00:27:57,133 --> 00:27:59,733
 n't buy chips and had to reduce production. Consumers wanted to buy cars, but… 4S stores have no cars in stock, and you have to wait several months. In 2022,
 
-267
+263
 00:28:00,966 --> 00:28:03,400
-Shanghai was locked down for two months, and Tesla's Shanghai factory stopped production, affecting the global supply chain. This is a perfect example of concaveness. Normally, small profits are made, and inventory costs are reduced by
+Shanghai was locked down for two months, and Tesla's Shanghai factory stopped production, affecting the global supply chain. This is a perfect example of
+
+264
+00:28:24,133 --> 00:28:26,500
+concaveness. Normally, small profits are made, and inventory costs are reduced by 5% to 10%. During a crisis, huge losses occur, and the losses from production stoppages can be several times the normal profits. But why do companies still do this? "Asymmetric Risk" tells you the answer. The
+
+265
+00:28:26,566 --> 00:28:29,533
+CEO's incentive mechanism: The CEO's term is usually 3-5 years. His bonuses and stock options are tied to short-term performance and stock price. Reducing inventory immediately improves financial statements,
+
+266
+00:28:48,866 --> 00:28:50,566
+increases profit margins, and raises stock prices. The CEO receives a large bonus during his term and then jumps ship or retires. Supply chain disruptions are a problem 5 or 10 years later, and it's the next CEO's problem. He gains the upside, while shareholders, employees, and consumers
+
+267
+00:28:59,100 --> 00:29:03,066
+bear the downside risk. This is systemic risk transfer. It should be noted that Taleb is not criticizing Toyota's
 
 268
-00:28:13,366 --> 00:28:14,966
-5% to 10%. During a crisis, huge losses occur, and the losses from production stoppages can be
-
-269
-00:28:31,133 --> 00:28:33,766
-several times the normal profits. But why do companies
-
-270
-00:28:37,733 --> 00:28:39,466
-still do this? "Asymmetric Risk" tells you the answer. The CEO's incentive mechanism: The CEO's term is usually 3-5 years. His bonuses and stock options are tied to short-term
-
-271
-00:28:39,466 --> 00:28:41,866
-performance and stock price. Reducing
-
-272
-00:28:42,300 --> 00:28:45,166
-inventory immediately improves financial statements, increases profit margins, and raises stock prices. The
-
-273
-00:28:47,900 --> 00:28:48,866
-CEO receives a large bonus during his term and then jumps ship or retires. Supply chain disruptions are a problem 5 or 10 years later, and it's the next CEO's problem.
-
-274
-00:28:48,866 --> 00:28:50,566
-He gains the upside, while shareholders, employees, and consumers
-
-275
-00:28:59,100 --> 00:29:03,066
-bear the downside risk. This is systemic risk transfer. It should be noted that Taleb is not
-
-276
-00:29:06,300 --> 00:29:07,333
-criticizing Toyota's
-
-277
 00:29:07,566 --> 00:29:09,300
 original "just-in-time
 
-278
+269
 00:29:09,300 --> 00:29:11,066
 " concept. The original Toyota approach actually contained many antifragile elements, emphasizing the geographical proximity of suppliers, valuing long-term relationships, and maintaining a certain buffer. What Taleb criticizes is the version later transformed by Wall Street's financialization, with single-supplier
 
-279
+270
 00:29:17,233 --> 00:29:19,100
-extreme inventory spanning long supply chains, and financial indicators as the sole objective. This is the distortion of manufacturing caused by excessive
+extreme inventory spanning long supply chains, and
 
-280
+271
+00:29:22,233 --> 00:29:22,933
+financial indicators as the sole objective. This is the distortion of manufacturing caused by excessive
+
+272
 00:29:22,933 --> 00:29:25,333
 financialization. A similar logic is even more evident in the financial sector. During the 1990s and 2000s, when Greenspan was Chairman of the Federal Reserve, his policy philosophy was to eliminate small fluctuations and pursue
 
-281
+273
 00:29:25,333 --> 00:29:26,233
-stability. A slight economic downturn would lead to interest rate cuts and a slight
+stability. A slight economic downturn would lead to interest rate cuts and a slight stock market decline; the goal of quantitative easing was to ensure stable economic growth and a stable market rise.
 
-282
+274
 00:29:36,400 --> 00:29:38,400
-stock market decline; the goal of quantitative easing was to ensure stable economic growth and a stable market rise. This was known as the Greenspan put option. The market knew that
+This was
 
-283
+275
+00:29:38,800 --> 00:29:42,833
+known as the Greenspan put option. The market knew that
+
+276
 00:29:46,700 --> 00:29:49,800
 if there was risk, the Federal Reserve would bail it out. The result? A decreased risk awareness. Since the Federal Reserve would
 
-284
+277
 00:29:49,833 --> 00:29:52,566
 bail out, why
 
-285
+278
 00:29:52,566 --> 00:29:53,700
-not increase leverage? Thus,
+not increase leverage? Thus, leverage ratios increased, the
 
-286
+279
 00:29:55,900 --> 00:29:58,800
-leverage ratios increased, the real estate bubble grew larger, and financial derivatives became increasingly complex. Small fluctuations were eliminated, but people became less and less risk-averse. It's like the paradox of forest fire prevention. The
+real estate bubble grew larger, and financial derivatives became increasingly complex. Small fluctuations were eliminated, but people became less and less risk-averse. It's like the paradox of forest fire prevention. The
 
-287
+280
 00:29:59,000 --> 00:30:02,033
 US Forest Service's policy used to be to
 
-288
+281
 00:30:08,433 --> 00:30:10,533
 extinguish every spark, which sounded very responsible, right? The result? Decades later, the accumulation of dead branches led to massive fires that burned for months. Why? Because in nature, forests experience small fires every few years, burning away dead branches and clearing space. These small fires are the ecosystem's
 
-289
+282
 00:30:13,066 --> 00:30:14,433
 cleaning
 
-290
+283
 00:30:14,533 --> 00:30:16,033
 mechanism. If you extinguish all the
 
-291
+284
 00:30:32,566 --> 00:30:34,066
 small fires, fuel accumulates, eventually leading to a massive fire that burns down the entire forest. The same applies to the financial system. Small crises and recessions, which are mechanisms for cleaning up excessive speculation and eliminating bad assets, are smoothed out. Risks accumulate in the shadows, eventually erupting into systemic crises. The
 
-292
+285
 00:30:42,633 --> 00:30:43,800
 2008
 
-293
+286
 00:30:44,600 --> 00:30:45,466
 subprime
 
-294
+287
 00:30:45,466 --> 00:30:46,333
 mortgage crisis nearly caused the global
 
-295
+288
 00:30:47,700 --> 00:30:50,300
-financial system to collapse. This wasn't a black swan event,
+financial system to collapse. This wasn't a black swan event, but the inevitable result of over a decade of policies aimed at eliminating volatility. Planners, in order to control the system,
+
+289
+00:30:56,566 --> 00:30:57,766
+need to make it readable, simplified, standardized, and noise-eliminating. However, the resilience of complex systems comes precisely from those seemingly chaotic diversityes and seemingly wasteful redundancies. If you eliminate them all for optimization, it may seem more efficient under normal circumstances,
+
+290
+00:31:05,000 --> 00:31:06,366
+but the system becomes fragile.
+
+291
+00:31:15,566 --> 00:31:16,700
+Once a shock occurs, the entire system collapses. Extreme specialization
+
+292
+00:31:20,700 --> 00:31:23,366
+equals single-point failure risk. Another core tenet of modernity is that the more specialized the division of labor, the higher the efficiency. Adam Smith, in the opening of *The Wealth of
+
+293
+00:31:25,633 --> 00:31:27,566
+Nations*, uses the example
+
+294
+00:31:27,566 --> 00:31:29,066
+of needle makers to illustrate the benefits of specialization. One worker completes all the processes, making 20 needles a day. After specialization, 10 workers make 48,000 needles a day, increasing
+
+295
+00:31:38,633 --> 00:31:39,500
+efficiency by 240 times. This is indeed the foundation of modern industry. Without specialization, there would be no Industrial Revolution, and no current level of productivity. However, modern society has pushed the division of labor to
 
 296
-00:30:53,533 --> 00:30:55,400
-but the
-
-297
-00:30:55,400 --> 00:30:56,566
-inevitable result of over a decade of policies aimed at eliminating volatility. Planners, in order to control the system, need to make it readable, simplified, standardized, and noise-eliminating. However, the resilience of complex systems comes precisely from those seemingly chaotic diversityes and seemingly wasteful redundancies. If you eliminate them all for optimization, it
-
-298
-00:30:56,566 --> 00:30:57,766
-may seem more efficient under normal circumstances,
-
-299
-00:31:05,000 --> 00:31:06,366
-but the system becomes fragile. Once a shock occurs, the entire system
-
-300
-00:31:16,700 --> 00:31:19,166
-collapses. Extreme specialization equals single-point failure risk. Another core tenet of modernity is that the more specialized the division of labor, the higher the efficiency. Adam Smith, in the opening of *
-
-301
-00:31:37,033 --> 00:31:38,600
-The Wealth of Nations*, uses the example of needle makers to illustrate the benefits of specialization. One worker completes all the processes, making 20 needles a day. After specialization, 10 workers make 48,000 needles a day,
-
-302
-00:31:38,633 --> 00:31:39,500
-increasing efficiency by 240 times. This is indeed the foundation of modern industry. Without specialization, there would be no Industrial Revolution, and no current level of productivity. However, modern society has pushed the division of labor to
-
-303
 00:31:51,700 --> 00:31:55,366
 extremes. It's no longer about being a doctor, but an orthopedic surgeon specializing in left knee cartilage degeneration; no longer about being an engineer,
 
-304
+297
 00:32:00,466 --> 00:32:03,433
-but a software engineer specializing in React
+but a software engineer specializing in React front-end frameworks and Redux state management; no longer about understanding economics, but a macroeconomist studying monetary policy transmission mechanisms and the asymmetric effects in emerging
 
-305
+298
 00:32:03,833 --> 00:32:06,833
-front-end frameworks and
+markets. What's wrong with this extreme specialization? It turns people into cogs in a machine. Imagine an ancient
 
-306
-00:32:13,266 --> 00:32:14,200
-Redux state management; no longer about understanding economics, but a macroeconomist studying monetary policy transmission mechanisms and the asymmetric effects in emerging markets. What's wrong with this
-
-307
+299
 00:32:17,266 --> 00:32:20,866
-extreme specialization? It turns people into cogs in a machine. Imagine an ancient craftsman who understands the entire process of making a chair: selecting wood, designing the style, cutting, carving, polishing, and painting. He possesses complete skills and can work independently. What about the workers in modern factories? They tighten a screw on an assembly line, repeating the same action for eight hours. They are cogs in the system. What are the
+craftsman who understands the entire process of making a chair: selecting wood, designing the style, cutting, carving, polishing, and painting. He possesses complete skills and can work independently. What about the workers in modern factories? They tighten a screw on an assembly line, repeating the same action for eight hours. They are cogs
 
-308
+300
+00:32:27,400 --> 00:32:29,700
+in the system. What are the
+
+301
 00:32:34,166 --> 00:32:35,700
-characteristics of a cog? Replaceable. If one part
+characteristics of a cog?
 
-309
-00:32:38,400 --> 00:32:39,566
-breaks, just replace it. Low cost, high efficiency. But what about the cog itself? It's being optimized out at 35 because younger cogs are cheaper.
+302
+00:32:35,866 --> 00:32:37,166
+Replaceable. If one part breaks, just replace it. Low cost, high efficiency. But what about the cog itself? It's being optimized out at 35 because younger cogs are cheaper.
 
-310
+303
 00:32:41,566 --> 00:32:44,500
 Industry decline, skills depreciate, nowhere to go.
 
-311
+304
 00:32:46,400 --> 00:32:48,533
-This is vulnerability. In the past few years, Silicon Valley has experienced massive layoffs, with major companies laying
+This is vulnerability. In the past few years, Silicon Valley has experienced massive layoffs, with major companies
 
-312
+305
 00:32:50,500 --> 00:32:51,700
-off over 100,000 people. Many of these people were highly specialized; they were
+laying off over 100,000 people. Many of these people were highly specialized; they were
 
-313
+306
 00:32:55,400 --> 00:32:56,666
 n't software engineers, but backend engineers specializing in maintaining the Meta
 
-314
+307
 00:33:05,766 --> 00:33:07,433
 Newsfeed algorithm or data scientists specializing in optimizing specific modules of
 
-315
+308
 00:33:07,900 --> 00:33:09,100
 Google Ads' bidding system. Their skills are valuable within their current company, but outside of that company, many find it difficult to find similar work because their skills are too narrow, too reliant on a specific company's technology stack, toolchain, and
 
-316
+309
 00:33:27,466 --> 00:33:30,866
-business logic. Switching companies significantly diminishes the value of this experience. In contrast, consider those with "barbell" skills—note, we're talking about the barbell itself, not just being argumentative. Leonardo da Vinci was a painter, engineer, scientist, and anatomist; Hayek was an economist, psychologist, philosopher, and jurist; Taleb himself was a trader, statistician, philosopher, and writer. These individuals possess multiple skills; if one path fails, others do. More importantly, knowledge from different fields can be cross-fertilized, generating unique insights. But why do modern enterprises promote extreme specialization? "
+business logic. Switching companies significantly diminishes the value of this experience. In contrast, consider those with "barbell" skills—note, we're talking about the barbell itself, not just being argumentative. Leonardo da Vinci was a painter, engineer, scientist, and anatomist; Hayek was an economist, psychologist, philosopher, and jurist; Taleb himself was a trader, statistician, philosopher, and writer. These individuals possess multiple skills; if one path fails, others do. More importantly, knowledge from different fields can be cross-
+
+310
+00:33:47,233 --> 00:33:48,800
+fertilized, generating unique insights. But why do modern enterprises promote extreme specialization? "
+
+311
+00:33:49,766 --> 00:33:51,066
+Asymmetric Risk" provides the answer: because
+
+312
+00:33:59,766 --> 00:34:01,766
+companies
+
+313
+00:34:01,766 --> 00:34:05,866
+need replaceable parts, not indispensable talent. Replaceable parts are cheap, easy to manage, and can be laid off easily.
+
+314
+00:34:06,033 --> 00:34:07,966
+Irreplaceable talent, on the other hand, has bargaining power, is difficult to manage, and is costly. Therefore, HR and management consultants advocate specialization because specialization makes you vulnerable, dependent, and easily controlled. Your vulnerability is their management convenience. This logic of
+
+315
+00:34:12,433 --> 00:34:13,333
+specialization leading to "component-like" skills
+
+316
+00:34:22,400 --> 00:34:24,133
+has an even more extreme manifestation in
 
 317
-00:33:49,766 --> 00:33:51,066
-Asymmetric Risk" provides the
+00:34:24,466 --> 00:34:26,100
+China: the separation of arts and
 
 318
-00:33:56,333 --> 00:33:59,200
-answer: because companies need replaceable parts, not indispensable talent. Replaceable parts are cheap, easy to manage, and can be laid off easily. Irreplaceable talent, on the other hand, has bargaining power, is difficult to
+00:34:28,833 --> 00:34:30,666
+sciences in education. On the surface... This is a product of limited educational resources, but it has gradually become fully institutionalized, even forming a culture. Those who study science look down on those who study humanities, and vice versa. This is like the ruling art of slave
 
 319
-00:33:59,766 --> 00:34:01,766
-manage, and is costly. Therefore, HR and management consultants advocate specialization because specialization makes you vulnerable, dependent, and easily controlled. Your vulnerability is their management convenience. This
+00:34:30,666 --> 00:34:33,433
+owners: those who are literate are not allowed to carry swords, and those who carry swords are not allowed to be literate. The result is that those who carry swords look down on those who are literate, and vice versa. Both sides feel superior, while the slave owners remain unperturbed. In
 
 320
-00:34:06,033 --> 00:34:07,966
-logic of specialization leading to "component-like" specialization has an even more extreme manifestation in China: the separation of arts and sciences in education. On the surface... This is a product of limited educational resources,
-
-321
-00:34:16,233 --> 00:34:17,700
-but it has gradually become fully institutionalized, even forming a culture. Those who study science look down on those who study humanities, and vice versa. This is like the
-
-322
-00:34:30,666 --> 00:34:33,433
-ruling art of slave owners: those who are literate are not allowed to carry swords, and those who carry swords are not allowed to be literate. The result is that those who carry swords look down on those who are literate, and vice versa. Both sides feel superior, while the slave owners remain unperturbed. In
-
-323
 00:34:42,166 --> 00:34:44,366
 reality, true elites should receive a general education. Those who only receive
 
-324
+321
 00:34:52,666 --> 00:34:54,866
-specialized education, or even only skills training, are precisely the advanced components. Modernity also has a
+specialized education, or even only skills training, are precisely the advanced components. Modernity also has a tenet: economies of scale and
+
+322
+00:35:01,066 --> 00:35:03,466
+centralized management. From small workshops to large factories, from local banks to multinational banks, from decentralized production to global supply chains, the larger the scale, the lower the marginal cost and the higher the
+
+323
+00:35:08,300 --> 00:35:10,233
+efficiency.
+
+324
+00:35:12,133 --> 00:35:14,100
+This certainly makes sense from a technical perspective. But Taleb asks what the cost is. The cost is vulnerability. Hayek pointed out long ago that decentralized systems are more stable. The closure of a small restaurant does not affect the overall health of other restaurant industries. The closure of a large bank impacts the entire financial system. Why? Because centralization
 
 325
-00:35:04,133 --> 00:35:05,700
-tenet: economies of scale
+00:35:14,233 --> 00:35:15,700
+creates systemic interconnectedness. In 2008,
 
 326
-00:35:05,700 --> 00:35:08,300
-and centralized management. From small workshops to large factories, from local banks to multinational banks, from decentralized production to global supply chains, the larger the scale, the lower the marginal cost and the higher the efficiency. This certainly makes sense from a technical perspective. But Taleb asks what the cost is. The cost is vulnerability. Hayek pointed out long ago that decentralized systems are
+00:35:15,866 --> 00:35:17,333
+Lehman Brothers declared bankruptcy. With assets of $600 billion and a leverage ratio exceeding 30, the collapse of Lehman Brothers
 
 327
-00:35:08,300 --> 00:35:10,233
-more stable. The closure of a small restaurant does not affect the overall health of
+00:35:27,000 --> 00:35:28,133
+would normally be a normal market shakeout.
 
 328
-00:35:28,466 --> 00:35:30,066
-other restaurant industries. The
+00:35:41,700 --> 00:35:43,400
+However, Lehman was
 
 329
-00:35:30,200 --> 00:35:32,000
-closure of a large bank impacts the
+00:35:45,233 --> 00:35:47,066
+too large, with complex business relationships with all major financial institutions. Its collapse caused widespread suffering, freezing global credit, causing stock market crashes, and plunging the
 
 330
-00:35:33,866 --> 00:35:35,633
-entire financial system. Why? Because centralization creates systemic interconnectedness. In 2008, Lehman Brothers declared bankruptcy. With assets of $600 billion and a leverage ratio exceeding 30, the collapse of Lehman Brothers would normally be a normal market shakeout.
+00:35:47,200 --> 00:35:48,066
+economy into recession. Governments were forced to intervene and
 
 331
-00:35:41,700 --> 00:35:43,400
-However,
+00:35:54,600 --> 00:35:56,833
+bail out other large banks: AIG, Citigroup, Bank of America, and Goldman Sachs, using taxpayer money totaling $700 billion. This is the "too big to fail" phenomenon. On the surface, it appears to be rescuing the market, but in reality, it's creating moral hazard. What is moral hazard? If you don't bear the consequences of losses, you'll take excessive risks.
 
 332
-00:35:45,233 --> 00:35:47,066
-Lehman was too large, with complex business relationships with all major financial institutions. Its collapse caused widespread suffering, freezing global credit, causing stock market crashes, and plunging the
-
-333
-00:35:47,200 --> 00:35:48,066
-economy into
-
-334
-00:35:48,066 --> 00:35:48,866
-recession. Governments were
-
-335
-00:35:50,000 --> 00:35:51,133
-forced to intervene and
-
-336
-00:35:54,600 --> 00:35:56,833
-bail out other large banks: AIG, Citigroup, Bank of America, and Goldman Sachs, using taxpayer money totaling $700 billion. This is the "too big to fail" scenario. On the
-
-337
-00:36:04,300 --> 00:36:06,500
-surface, it appears to be rescuing the market, but in reality, it's creating moral hazard. What is moral hazard? If you don't bear the consequences of losses, you will over-risk.
-
-338
 00:36:09,066 --> 00:36:11,366
 Bankers
 
-339
+333
 00:36:16,200 --> 00:36:18,900
-knew that as long as their banks were large enough, the government wouldn't dare let them fail. So what did they do? They leveraged wildly, 30 or 40 times, using $1 billion of their own capital to leverage $30 or $40 billion in assets. Why did they dare do this?
+knew that as long as their banks were large enough, the government wouldn't dare let them fail. So what did they do? They leveraged wildly, 30 or 40 times, using $1 billion of their own capital to leverage $30 or $40 billion in assets. Why did
+
+334
+00:36:18,966 --> 00:36:20,766
+they dare do this? Because it was a free option. If things went up, they made money and received
+
+335
+00:36:25,800 --> 00:36:27,466
+huge bonuses; if things went down, they lost money, and the government bailed them out.
+
+336
+00:36:29,700 --> 00:36:30,866
+This is the core critique of "Asymmetric Risk": socializing risk, privatizing returns,
+
+337
+00:36:36,500 --> 00:36:38,133
+taxpayers bearing losses, and bankers receiving bonuses.
+
+338
+00:36:41,133 --> 00:36:42,233
+Scott, from a state perspective, points out
+
+339
+00:36:55,666 --> 00:36:58,500
+that high modernism favors centralization. Centralization is easier to control and easier to read. A large factory is easier to manage than a thousand small workshops; a central bank is easier to regulate than 100 local banks; a standardized supply chain is easier to coordinate than countless local suppliers. But what are the costs of centralization? First, it eliminates diversity; second, it eliminates the trial-and-error mechanism; and finally, it
 
 340
-00:36:18,966 --> 00:36:20,766
-Because it was a free option. If things went up,
+00:36:58,733 --> 00:37:00,633
+creates the risk of single points of failure. Taleb's
 
 341
-00:36:25,800 --> 00:36:27,466
-they made money and received huge bonuses; if things went down, they lost money, and the government bailed them out.
+00:37:23,366 --> 00:37:25,500
+diagnosis is that small restaurants like this will go bankrupt. This is because they are fragile, but precisely because they are individually fragile, the entire catering industry is antifragile. Inferior restaurants are eliminated, and high-quality restaurants survive. The industry continues to evolve. Big banks cannot fail, which seems stable, but
 
 342
-00:36:29,700 --> 00:36:30,866
-This is the core critique of "Asymmetric Risk": socializing risk, privatizing returns, taxpayers bearing losses, and bankers receiving
+00:37:30,100 --> 00:37:32,033
+this destroys the system's learning mechanism. Mistakes are not punished, risks accumulate, and eventually, a larger crisis erupts. Individual fragility is a prerequisite for system antifragility, but "too big to fail" destroys this mechanism.
 
 343
-00:36:38,133 --> 00:36:40,866
-bonuses.
+00:37:39,366 --> 00:37:41,333
+Individuals are protected, the system cannot learn from the accumulation of risks, and eventually, the entire system collapses. What's worse, who designed this system? Bankers, regulators, and politicians. They have jointly created a system where risk is socialized and returns are privatized. They reap the benefits of upward movement, while taxpayers, depositors, and ordinary people
 
 344
-00:36:41,133 --> 00:36:42,233
-Scott, from a state perspective, points out that
+00:37:48,633 --> 00:37:50,500
+bear the risks of downward
 
 345
-00:36:55,666 --> 00:36:58,500
-high modernism favors centralization. Centralization is easier to control and easier to read. A large factory is easier to manage than a thousand small workshops; a central bank is easier to regulate than 100 local banks; a standardized supply chain is easier to coordinate than countless local suppliers. But what are the costs of centralization? First, it eliminates diversity; second, it eliminates the trial-and-error mechanism; and finally, it
+00:37:50,500 --> 00:37:52,233
+movement. The four lesions are: expert rule equals the
 
 346
-00:36:58,733 --> 00:37:00,633
-creates the risk of single points of failure. Taleb
+00:38:09,966 --> 00:38:12,366
+separation of decision-making and consequences. Modernity has a deep-seated belief that complex problems require experts. We should listen to the experts. Economic policies are designed by economists, war decisions are discussed by think tank experts, financial products are priced by PhDs in mathematics, and urban planning is done by architects.
 
 347
-00:37:20,500 --> 00:37:23,100
-'s diagnosis is that small restaurants like this will go bankrupt. This is because they are fragile, but precisely because they are individually fragile, the entire catering industry is antifragile. Inferior restaurants are eliminated, and high-quality restaurants survive. The industry continues to evolve. Big banks cannot fail, which seems stable, but this destroys the system's learning mechanism. Mistakes are not punished, risks accumulate, and eventually,
-
-348
-00:37:25,500 --> 00:37:27,800
-a larger crisis erupts. Individual fragility is a prerequisite for system antifragility, but "too big to fail" destroys
-
-349
-00:37:30,100 --> 00:37:32,033
-this mechanism. Individuals are protected, the system cannot learn from the accumulation of risks, and eventually, the entire system collapses. What's worse, who designed this system? Bankers, regulators, and politicians. They have jointly created
-
-350
-00:38:01,733 --> 00:38:04,566
-a system where risk is socialized and returns are privatized. They reap the benefits of upward movement, while taxpayers, depositors, and ordinary people bear the risks of downward movement. The four lesions are: expert rule equals the separation of decision-making and consequences. Modernity has a deep-seated belief that complex problems require experts. We should listen to the experts. Economic policies are
-
-351
-00:38:04,566 --> 00:38:05,500
-designed by
-
-352
-00:38:05,800 --> 00:38:07,733
-economists, war decisions are discussed by think tank experts, financial products are priced by PhDs in mathematics, and
-
-353
-00:38:09,966 --> 00:38:12,366
-urban planning is done by architects.
-
-354
 00:38:15,700 --> 00:38:17,533
 This seems reasonable—leave professional matters to professionals.
 
-355
+348
 00:38:18,200 --> 00:38:20,500
 But Taleb asked a crucial question: do these experts bear the consequences? The
 
-356
+349
 00:38:20,533 --> 00:38:22,000
 answer is no. That's the problem.
 
-357
+350
 00:38:22,133 --> 00:38:23,633
-Before the subprime crisis, what were
+Before the subprime crisis, what were economists saying? "Housing prices wo
 
-358
-00:38:30,800 --> 00:38:32,466
-economists saying? "Housing prices won't fall nationwide. This has never happened in the past 70 years. Our models show the risk is manageable."
+351
+00:38:26,733 --> 00:38:29,500
+n't fall nationwide. This has never happened in the past 70 years. Our models show the risk is manageable." What were rating agencies doing? Giving CDOs AAA ratings, the highest credit rating on par with US Treasury bonds. What were
 
-359
-00:38:32,666 --> 00:38:33,400
-What were rating agencies doing? Giving CDOs AAA ratings, the highest credit rating on par with US Treasury bonds. What were
-
-360
+352
 00:38:42,233 --> 00:38:43,700
 investment banks saying? "These structured products are
 
-361
+353
 00:38:43,700 --> 00:38:45,500
-safe and suitable for pension funds and insurance
+safe and suitable for pension funds and insurance companies." In 2008,
 
-362
-00:38:46,933 --> 00:38:48,400
-companies." In 2008, housing prices
+354
+00:38:51,833 --> 00:38:53,700
+housing prices crashed, and the financial system collapsed. What happened to those experts?
 
-363
-00:38:53,700 --> 00:38:54,633
-crashed, and the financial system collapsed. What happened to those experts?
-
-364
+355
 00:38:56,066 --> 00:38:58,866
 Economists continued to serve as
 
-365
+356
 00:39:02,033 --> 00:39:03,600
 consultants, publishing books and giving speeches,
 
-366
+357
 00:39:03,600 --> 00:39:04,933
-earning hundreds of thousands of dollars per session. Rating agencies continued to rate and charge fees. Some investment bank executives were fired, but they left with hefty severance packages—tens of millions of dollars in severance pay. No one bore any substantial consequences for wrong predictions, wrong ratings, or wrong product
+earning hundreds of thousands of dollars per session. Rating agencies continued to rate and charge fees. Some investment bank executives were fired, but they left with hefty severance packages—tens of millions of dollars in severance pay. No one bore any
+
+358
+00:39:11,900 --> 00:39:13,266
+substantial consequences for wrong predictions, wrong ratings, or wrong product design. This is the greatest paradox of modernity: a complete separation of decision-making power and risk-bearing. In modern society, experts sit in their offices, making decisions using models, data, and jargon, decisions that affect the lives of millions.
+
+359
+00:39:13,433 --> 00:39:15,700
+However,
+
+360
+00:39:17,866 --> 00:39:19,000
+experts bear no consequences.
+
+361
+00:39:19,000 --> 00:39:20,700
+If they're wrong, they can just move to another organization and continue being experts. Taleb calls these experts "knowledgeable idiots." They have PhDs, can use technical terms, and understand complex models, but they live in a world of egalitarianism and don't understand extremistism. Their models work in normal times but collapse in extreme times. Worse still, they don't know they don't know.
+
+362
+00:39:39,000 --> 00:39:41,500
+This is what Hayek called fatal arrogance. What is the essence of expert rule? People with techne but no mediocre skills are making decisions for
+
+363
+00:39:45,833 --> 00:39:47,066
+people with mediocre skills but no techne, and the former don't bear the consequences. This is the greatest irony of modernity. The lesion is that
+
+364
+00:39:47,433 --> 00:39:49,866
+institutional
+
+365
+00:39:55,466 --> 00:39:58,600
+design equals systemic
+
+366
+00:40:13,800 --> 00:40:16,666
+risk transfer. Here, I won't talk about the US CDO; I'll give you a more relevant case: China's real estate. This is a textbook
 
 367
-00:39:09,200 --> 00:39:11,533
-design. This is the greatest paradox of modernity: a complete separation of decision-making power and risk-bearing. In modern society, experts sit in their
+00:40:17,000 --> 00:40:20,100
+example of a risk transfer system. Let's see clearly how the money flows and how the risk is transferred. First, let
 
 368
-00:39:19,000 --> 00:39:20,700
-offices, making decisions
+00:40:30,300 --> 00:40:31,466
+'s look at how the money flows. A homebuyer buys a house for 3 million yuan, with a down payment of 900,000 yuan. The remaining 2.1 million yuan is a 30-year mortgage. Where does this money end up? After the homebuyer signs the contract, the bank directly transfers the 2.1 million yuan loan to the developer. At
 
 369
-00:39:26,466 --> 00:39:30,000
-using models, data, and jargon, decisions that affect the lives of millions. However, experts bear no consequences. If they're wrong, they can just move to another organization and continue being experts. Taleb calls these experts "
+00:40:32,633 --> 00:40:35,200
+this point, the house may have only just started construction, but the
 
 370
-00:39:39,000 --> 00:39:41,500
-knowledgeable idiots." They have PhDs, can use technical terms, and understand complex models, but they live in a world of egalitarianism and don't understand extremistism. Their models work in normal times but collapse in extreme times. Worse still, they don't know they don't know. This is what Hayek called fatal arrogance. What is the essence of expert rule? People with techne but no mediocre skills are making decisions for people with mediocre skills
+00:40:46,433 --> 00:40:47,533
+developer has already received 3 million yuan in cash. Of this 3 million yuan, half, or 1.5 million yuan, is land transfer fees. Adding hundreds of thousands more in various
 
 371
-00:40:07,266 --> 00:40:09,100
-but no techne, and the former don't bear the consequences. This is the greatest irony of modernity. The lesion is that institutional design equals systemic risk transfer. Here, I won't talk about the US CDO; I'll give you a more relevant case: China's real estate. This is a textbook example of a risk transfer system. Let's see clearly how the money
+00:41:03,300 --> 00:41:07,266
+taxes and fees, 2 million yuan flows into local government finances. The remaining 600,000 yuan is construction costs. The developer's actual gross profit is only 400,000 yuan, and the net profit is even lower. However, years of
 
 372
-00:40:09,233 --> 00:40:11,066
-flows and how the risk is transferred. First, let
+00:41:07,733 --> 00:41:11,700
+propaganda have focused on how greedy developers are, demanding they have a moral compass. And look at how ineffective the oversight is! According
 
 373
-00:40:30,300 --> 00:40:31,466
-'s look at how the money flows. A homebuyer buys a house for 3 million yuan, with a down payment of 900,000 yuan. The remaining 2.1 million yuan is a 30-year mortgage. Where does this money end up? After the homebuyer signs the contract, the bank directly transfers the 2.1 million yuan loan to the developer. At this point, the house may have only just started construction,
+00:41:17,100 --> 00:41:19,133
+to regulations, pre-sale
 
 374
-00:40:32,633 --> 00:40:35,200
-but the
+00:41:21,700 --> 00:41:24,000
+funds should be used for designated purposes, deposited into a escrow account, and allocated according to project progress. But in reality, the local government is the land seller, the pre-sale fund supervisor, and the tax collector. They and the developers are a community of interest. The government wants land sales revenue, tax revenue, and GDP; the
 
 375
-00:40:46,433 --> 00:40:47,533
-developer has already received 3 million yuan in cash. Of this 3 million yuan, half, or 1.5 million yuan, is land transfer fees. Adding hundreds of thousands more in various taxes and fees, 2 million yuan flows into
-
-376
-00:40:59,133 --> 00:41:00,266
-local government finances. The remaining 600,000 yuan is construction costs. The developer's actual gross profit is only 400,000 yuan, and the net profit is even lower. However, years of
-
-377
-00:41:07,733 --> 00:41:11,700
-propaganda have focused on how greedy developers are, demanding they have a moral compass. And look at how ineffective the oversight is!
-
-378
-00:41:17,100 --> 00:41:19,133
-According to regulations, pre-sale
-
-379
-00:41:21,700 --> 00:41:24,000
-funds should be used for designated purposes, deposited into a escrow account, and allocated according to project progress. But in reality, the local government is the land seller, the pre-sale fund escrow account holder, and the tax revenue recipient.
-
-380
 00:41:32,666 --> 00:41:34,400
-They and the developers are a community of interest. The government wants land sales revenue, tax revenue, and GDP; the
-
-381
-00:41:38,700 --> 00:41:40,200
 developers want land, pre-sale permits, and approvals. Both sides are tied together, so oversight becomes a mere formality. Developers submit false project progress reports, and the regulatory departments turn a blind eye and approve them. Even more directly, developers
 
-382
-00:41:40,300 --> 00:41:42,066
+376
+00:41:34,600 --> 00:41:35,900
 don't deposit the pre-sale funds into the escrow account at all; instead, they use them to pay off old debts
 
-383
+377
 00:41:55,766 --> 00:41:58,066
-and acquire new land, like a Ponzi scheme. As long as housing prices
+and acquire new land, like a Ponzi scheme. As long as housing prices rise and new projects sell, the cash flow continues; once
+
+378
+00:41:58,366 --> 00:41:59,933
+housing prices fall, the
+
+379
+00:41:59,933 --> 00:42:01,166
+chain breaks. The inability to ensure funds are used for their intended purpose is not a technical issue, but rather a problem with the profit structure. Then consider how the risks are transferred. Once
+
+380
+00:42:02,633 --> 00:42:04,066
+homebuyers
+
+381
+00:42:04,066 --> 00:42:05,000
+sign the contract, they enter a 30-year
+
+382
+00:42:25,300 --> 00:42:27,900
+risk trap. First, there's the risk of
+
+383
+00:42:28,333 --> 00:42:29,433
+unfinished projects.
 
 384
-00:41:58,366 --> 00:41:59,933
-rise and new projects sell, the cash flow continues; once housing prices fall, the
+00:42:29,433 --> 00:42:30,933
+The developer uses the money to acquire new land, and if the project's funding chain breaks, it becomes unfinished. Your 900,000 yuan down payment is lost, and you still have to repay the 2.1 million yuan loan. Why? Because the purchase contract is with the developer, and the
 
 385
-00:41:59,933 --> 00:42:01,166
-chain breaks. The inability to ensure funds are used for their intended purpose is not a technical issue,
+00:42:30,933 --> 00:42:34,000
+mortgage contract is with the bank.
 
 386
-00:42:11,566 --> 00:42:13,933
-but rather a problem with the profit structure. Then consider how the risks are transferred. Once homebuyers sign the contract, they enter a 30-year risk trap. First, there's the risk of unfinished projects. The developer uses the money to acquire new land, and if the project's funding chain breaks, it becomes unfinished. Your
+00:42:39,300 --> 00:42:41,666
+If the developer absconds, your debt remains, and defaulting on the loan has serious consequences. Second, there's the risk of poor quality upon delivery. Pre-sale funds
 
 387
-00:42:13,966 --> 00:42:15,766
-900,000 yuan down payment is
+00:42:47,066 --> 00:42:47,900
+may be misappropriated, leading to
 
 388
-00:42:18,166 --> 00:42:19,366
-lost, and you still have to repay the 2.1
+00:42:47,900 --> 00:42:49,066
+shoddy workmanship, wall cracks, leaks, and elevator malfunctions. These problems only become apparent after delivery,
 
 389
-00:42:34,200 --> 00:42:36,400
-million yuan loan. Why? Because the purchase contract is with the developer, and the mortgage contract is with the bank.
+00:42:49,300 --> 00:42:51,533
+and you
 
 390
-00:42:39,300 --> 00:42:41,666
-If the developer absconds, your debt remains, and defaulting on the loan has serious consequences. Second, there's the risk of poor quality upon delivery. Pre-sale funds may be misappropriated, leading to shoddy workmanship, wall cracks, leaks, and elevator malfunctions.
+00:42:51,600 --> 00:42:52,900
+cannot refuse to accept the property, otherwise it's considered a breach of contract. If you accept the property and go to the developer,
 
 391
-00:42:42,233 --> 00:42:45,500
-These problems only become apparent after delivery, and you
+00:42:53,133 --> 00:42:55,300
+after the warranty period, you might have to fight a two- or three-year lawsuit. Even if you win, the
 
 392
-00:42:57,700 --> 00:42:59,433
-cannot refuse to accept the property, otherwise it's considered a breach of contract. If you
+00:43:02,566 --> 00:43:04,733
+developer is just a project company with
 
 393
 00:43:04,800 --> 00:43:06,766
-accept the property and go to the developer, after the warranty period, you might have to fight a two- or three-year lawsuit. Even if you win, the developer is just a project company with no assets, so the
+no assets, so the
 
 394
 00:43:07,000 --> 00:43:10,066
@@ -1576,459 +1576,459 @@ judgment
 
 395
 00:43:10,066 --> 00:43:11,966
-cannot be enforced. You're still paying a 30-year mortgage and living in a leaky, cracked house. Third, there's the risk of falling property prices. The
+cannot be enforced. You're still paying a 30-year mortgage and living in a leaky, cracked house. Third, there's the risk of
 
 396
-00:43:12,200 --> 00:43:14,200
-largest land suppliers are often large speculators, much like high-priced private placements in the stock market. First, they use
+00:43:14,666 --> 00:43:18,266
+falling
 
 397
 00:43:26,166 --> 00:43:28,400
-scarcity marketing, releasing only a small amount of land each year, driving up land prices.
+property prices. The largest land suppliers are often large speculators, much like high-priced private placements in the stock market. First, they use scarcity marketing, releasing only a small amount of land each year, driving up land prices.
 
 398
 00:43:31,900 --> 00:43:33,633
-Buying a house at a high price means
+Buying a house at a high price means taking over when the government is cashing out at a high price. Your land transfer
 
 399
-00:43:34,866 --> 00:43:36,133
-taking over when the government is cashing out at a high price. Your land transfer fees go
+00:43:42,833 --> 00:43:45,333
+fees go directly into the government's treasury. After successfully raising funds at a high price, the government can't sell land and has to lower prices to sell it off. As long as the land cost is low enough, they
 
 400
-00:43:42,833 --> 00:43:45,333
-directly into the government's treasury. After successfully raising funds at a high price, the government can't sell land and has to lower prices to sell it off. As long as the land cost is low enough, they can keep lowering prices to sell off. Meanwhile, the big players who cashed out at the high price have already
+00:43:45,633 --> 00:43:47,833
+can keep lowering prices to sell off. Meanwhile, the big players who cashed out at the high price
 
 401
 00:43:48,033 --> 00:43:50,333
-received their
+have already received their
 
 402
 00:43:51,833 --> 00:43:53,533
-land transfer fees into
+land transfer fees into the treasury, gained their political achievements, and may have already been promoted. If house prices fall, that's the next administration's problem, your problem. In the end, who will bail them out? In 2021, Evergrande and Country Garden went bankrupt,
 
 403
-00:43:56,900 --> 00:43:59,800
-the treasury, gained their political achievements, and may have already been promoted. If house prices fall, that's the next administration's problem, your problem. In the end, who will bail them out? In 2021, Evergrande and Country Garden went bankrupt,
-
-404
 00:44:00,300 --> 00:44:02,466
 leaving millions of houses unfinished. The government guaranteed delivery,
 
-405
+404
 00:44:21,300 --> 00:44:22,600
-but where did the money come from?
+but where did the money come from? Local governments couldn't come up with it, so the
+
+405
+00:44:22,766 --> 00:44:25,200
+central government issued bonds and set up a special fund. In the end, all taxpayers
 
 406
-00:44:22,766 --> 00:44:25,200
-Local governments couldn't come up with it, so the central government issued bonds and set up a special fund. In the end, all taxpayers footed the bill. What's even more ironic is that the guarantee of delivery only guarantees completion, not quality. Many projects lack water and electricity,
+00:44:27,500 --> 00:44:29,166
+footed the bill. What's even more ironic is that the guarantee of delivery only guarantees completion, not quality. Many projects lack water and electricity, elevators, and exterior walls that haven't been plastered or painted. Buyers
 
 407
-00:44:25,400 --> 00:44:27,466
-elevators, and exterior walls that haven't been plastered
+00:44:31,766 --> 00:44:33,000
+receive half-finished houses and have to spend their own money on renovations, but the 30-year mortgage cannot be reduced by a penny. The
 
 408
-00:44:27,500 --> 00:44:29,166
-or painted. Buyers receive half-finished
+00:44:45,433 --> 00:44:47,666
+logic of the whole system is that
 
 409
-00:44:31,766 --> 00:44:33,000
-houses and have to spend their own money on renovations, but the 30-year mortgage
+00:44:47,800 --> 00:44:49,666
+homebuyers pay the down payment plus a 30-year mortgage, and the bulk of the money flows
 
 410
-00:44:47,800 --> 00:44:49,666
-cannot be reduced by a penny. The logic of the whole system is that homebuyers pay the down payment plus a 30-year mortgage, and the bulk of the money flows into the government's pre-sale funds. Regulation is ineffective because the interests of the government, developers, and banks are intertwined. Unfinished
+00:44:49,666 --> 00:44:50,866
+into the government's pre-sale funds. Regulation is ineffective because the interests of the government, developers, and banks are intertwined. Unfinished
 
 411
 00:44:56,400 --> 00:44:57,866
-projects and
+projects and declining quality result in all
 
 412
-00:44:59,266 --> 00:45:00,233
-declining quality result in all
+00:45:04,066 --> 00:45:05,566
+liquidity risks being transferred to homebuyers. Mortgage defaults have extremely serious consequences, leading to credit blacklisting, asset seizures, and even price gouging. Ultimately, the entire taxpayer foots the bill to ensure delivery. This is not a market economy; it's a systemic risk transfer mechanism. Taleb argues that elites design the system to gain profits and transfer risk, while ordinary
 
 413
-00:45:04,066 --> 00:45:05,566
-liquidity risks being
+00:45:08,300 --> 00:45:09,633
+people bear the consequences. Local governments
 
 414
-00:45:06,266 --> 00:45:08,000
-transferred to
+00:45:13,833 --> 00:45:15,800
+sell land for political achievements, officials get promoted, and the debt is left to the next administration. Banks lend money to earn interest, and the state
 
 415
-00:45:08,300 --> 00:45:09,633
-homebuyers. Mortgage defaults have extremely serious consequences, leading to credit blacklisting, asset seizures, and even the need to make up for price differences. Ultimately, ensuring delivery is paid for by all taxpayers. This is not a market economy; it's a systemic risk transfer mechanism. Taleb argues that elites design the system to gain profits and transfer risk, while ordinary people bear the consequences. Local governments sell land for political achievements, officials get promoted, and the
+00:45:15,966 --> 00:45:18,166
+bails out bad debts.
 
 416
-00:45:20,066 --> 00:45:22,200
-debt is left to the next administration. Banks lend money to earn interest, and the state bails out bad debts. Developers expand with high
+00:45:27,400 --> 00:45:28,366
+Developers expand with high leverage, becoming "
 
 417
-00:45:31,166 --> 00:45:33,166
-leverage, becoming "too big to fail," and when they collapse, the government bails them out. Only homebuyers are locked in for 30 years, bearing all the risks with no way out. Before 2021, the problem of rising housing prices was masked;
+00:45:29,500 --> 00:45:30,800
+too big to fail," and when they collapse, the government bails them out. Only homebuyers are locked in for 30 years, bearing all the risks with no way out. Before 2021, the problem of rising
 
 418
-00:45:39,466 --> 00:45:40,900
-after
+00:45:31,166 --> 00:45:33,166
+housing prices
 
 419
-00:45:53,833 --> 00:45:55,500
-2021, the problem of falling housing prices was fully exposed, but it was too late. The wealth of tens of millions of families has
+00:45:33,433 --> 00:45:35,066
+was masked;
 
 420
+00:45:39,466 --> 00:45:40,900
+after 2021, the problem of falling housing prices was fully exposed,
+
+421
+00:45:41,900 --> 00:45:43,266
+but it was too late. The
+
+422
+00:45:51,866 --> 00:45:52,733
+wealth of tens of millions of families has
+
+423
 00:45:55,500 --> 00:45:57,166
 evaporated, and millions of houses have become unfinished projects. This is the core of asymmetric
 
-421
+424
 00:45:57,966 --> 00:46:00,100
 risk. The criticism is that decision-
 
-422
-00:46:00,333 --> 00:46:02,866
-makers don't bear the consequences,
-
-423
-00:46:02,933 --> 00:46:04,633
-and those who bear the risk have
-
-424
-00:46:04,633 --> 00:46:05,533
-no decision-making power. Now, let me summarize the common characteristics of these five ailments. From an antifragile perspective, they are all concave structures: over-optimization leads to
-
 425
-00:46:07,233 --> 00:46:08,666
-small profits in normal times. 5% cost reduction leads to massive losses during crises and 50% losses from production
+00:46:00,333 --> 00:46:02,866
+makers don't bear the consequences, and those who bear the risk have no decision-making power. Now, let me summarize the common characteristics of these five ailments. From an antifragile perspective, they are all concave structures:
 
 426
-00:46:11,033 --> 00:46:13,233
-stoppages. Extreme specialization results in stable
+00:46:02,933 --> 00:46:04,633
+over-optimization leads to small profits in normal times. 5% cost reduction leads to massive losses during crises and 50% losses from production stoppages. Extreme specialization results in stable wages during normal times, but skills
 
 427
-00:46:13,533 --> 00:46:16,366
-wages
+00:46:20,166 --> 00:46:21,033
+depreciate after unemployment. Centralization is efficient during normal times,
 
 428
-00:46:16,700 --> 00:46:19,300
-during normal times, but skills depreciate after unemployment. Centralization is efficient during normal times,
+00:46:21,033 --> 00:46:22,266
+but carries systemic risk during collapse. Expert rule appears scientific during normal times, but models fail during extremes. Financialization
 
 429
-00:46:21,033 --> 00:46:22,266
-but carries systemic risk during collapse. Expert rule appears
+00:46:26,066 --> 00:46:27,900
+collects fees and interest during normal times, but
 
 430
 00:46:29,233 --> 00:46:30,766
-scientific during normal times, but the model fails during extremes. Financialization collects fees and interest during normal times, but shifts
+shifts losses during crises. From the perspective of asymmetric risk, all of these are risk transfers. Over-optimization results in CEOs receiving short-term bonuses, while the next CEO bears the supply chain risk. Extremely specialized companies gain management convenience, but employees bear the risk of unemployment.
 
 431
-00:46:30,833 --> 00:46:31,466
-losses during crises. From the perspective of asymmetric risk, all of these
+00:46:43,400 --> 00:46:44,500
+Centralized banks receive bonuses, while taxpayers bear the bailout costs. Expert rule results in
 
 432
-00:46:32,700 --> 00:46:33,800
-are risk transfers. Over-optimization results in CEOs receiving short-
+00:46:44,500 --> 00:46:45,766
+experts receiving consulting fees, and the public bears the burden of failed decisions. Financialization turns financial institutions into reapers. The core insight is that modernity doesn't make the world safer, but rather makes the elite safer, making you more vulnerable. The essence of
 
 433
-00:46:38,000 --> 00:46:39,500
-term bonuses, while the next CEO bears the supply chain risk. Extremely
+00:46:45,800 --> 00:46:47,433
+constructing rationalism
 
 434
-00:46:44,500 --> 00:46:45,766
-specialized companies gain management convenience, while employees bear the risk of unemployment. Centralized banks receive bonuses, while taxpayers bear the bailout costs. Expert rule
+00:46:48,366 --> 00:46:49,600
+is doing these things in the name of rationality, science, and professionalism. First, it deprives you of your choice; second, it destroys your
 
 435
-00:46:45,800 --> 00:46:47,433
-results in experts receiving consulting fees, and the public bears the burden of failed decisions. Financialization turns financial institutions into reapers. The core
+00:46:59,400 --> 00:47:00,833
+honor;
 
 436
-00:46:48,366 --> 00:46:49,600
-insight is that modernity doesn't make the world safer, but rather makes the elite safer, making you more vulnerable. The essence of constructing rationalism is doing these things in the name of
+00:47:04,966 --> 00:47:07,400
+third, it increases your dependence; and finally, it
 
 437
-00:47:03,366 --> 00:47:04,866
-rationality, science, and professionalism. First, it deprives you of your choice; second, it destroys your honor; third, it increases your dependence; and
+00:47:15,800 --> 00:47:18,200
+transfers the risk to you. The more you optimize, the more vulnerable you become; the more specialized you are, the more dependent you are on the system; the more centralized you are, the more passive you become; the more you listen to experts, the
 
 438
-00:47:22,900 --> 00:47:25,433
-finally, it transfers the risk to you. The more you optimize, the more vulnerable you become; the more
+00:47:18,400 --> 00:47:20,100
+more likely you are to be scammed; the more financialized you are, the more the
 
 439
 00:47:27,000 --> 00:47:29,433
-specialized you are, the more dependent you are on the
+risk is transferred to you. Understanding the root cause... The question now is, what do you do? Ideally, you would change the system, but that's difficult, requires generations of effort, and success isn't guaranteed. We'll discuss this more realistic choice later: protect yourself first. Taleb's strategy can be divided into two levels. The first level is "voting with your feet"—choosing those with skin in the game. The second level is self-transformation—changing yourself
 
 440
-00:47:30,766 --> 00:47:32,700
-system; the more centralized you are, the more passive you become; the more you listen to experts, the more likely you are to be scammed; the more financialized you are, the more the risk is transferred to you. Understanding the root cause... The question now is, what do you do? Ideally, you would change the system, but that's difficult, requires generations of effort, and success is
+00:47:44,966 --> 00:47:46,066
+from concave to convex. The core principle of the first level, "voting with your feet," is to
 
 441
-00:47:51,166 --> 00:47:52,200
-n't guaranteed. We'll discuss this more realistic choice
+00:48:05,900 --> 00:48:08,300
+take responsibility for yourself as much as possible. If you must rely on others, choose agents who share your risks. The first strategy is to make your own investment decisions. Don't entrust your money to mutual funds. Why? Because the business model of mutual
 
 442
-00:47:52,666 --> 00:47:53,666
-later: protect yourself first. Taleb's strategy can be divided into two levels. The first level is "voting with your feet"—choosing those with skin in the game. The second level is self
+00:48:11,366 --> 00:48:14,133
+funds is to achieve scale and collect management fees. Whether you make a profit or loss, they still collect their management fees. This is a typical example of
 
 443
-00:48:03,966 --> 00:48:05,900
--transformation—changing yourself from concave to convex. The core principle of the first level, "voting with your feet," is to
+00:48:16,200 --> 00:48:19,900
+concave risk; they gain
 
 444
-00:48:05,900 --> 00:48:08,300
-take responsibility for yourself as much as possible. If you must rely on others, choose agents who share your risks. The first strategy is to make your own investment decisions. Don't entrust your money to mutual funds. Why? Because the business model
+00:48:19,900 --> 00:48:21,333
+upside returns, while you bear
 
 445
-00:48:11,366 --> 00:48:14,133
-of mutual funds is to achieve scale and collect management fees. Whether you make a profit or loss, they still collect their management fees. This is a typical example of
+00:48:29,233 --> 00:48:31,433
+downside risks. So what do you do? Learn to invest and make your own decisions. Buffett's advice is not to invest in things you don't understand. This isn't about avoiding investment, but about learning until you understand. A more
 
 446
-00:48:14,533 --> 00:48:16,200
-concave risk; they gain upside returns, while you bear downside risks. So what do you do? Learn to invest and make your own decisions.
+00:48:36,133 --> 00:48:37,700
+extreme example is
 
 447
-00:48:16,200 --> 00:48:19,900
-Buffett's advice is not to invest in things you don't understand. This isn't about avoiding investment, but about learning until you understand. A
+00:48:38,166 --> 00:48:41,033
+cryptocurrency. You put your coins on an exchange thinking it's safe, but
 
 448
-00:48:36,133 --> 00:48:37,700
-more extreme example is
+00:48:45,400 --> 00:48:47,166
+you're actually transferring the risk to the exchange. What happens if the exchange goes bankrupt? Haven't the lessons from
 
 449
-00:48:38,166 --> 00:48:41,033
-cryptocurrency. You put your
+00:49:03,833 --> 00:49:05,766
+Mt. Gox and FTX been enough? Keep your private keys safe using a hardware wallet. Although it's inconvenient, the risk is in your hands. What if you lose your private keys? That's your responsibility, but at least no one can run away with your money. The
 
 450
-00:48:47,466 --> 00:48:50,066
-coins on an exchange thinking it's safe, but you're actually transferring the risk to the exchange. What happens if the exchange goes bankrupt? Haven't the lessons from
+00:49:09,700 --> 00:49:11,300
+old adage in the crypto world is "Not your keys, not your coins." The third strategy is to make your professional skills transferable. Don't rely on a single employer,
 
 451
-00:49:03,833 --> 00:49:05,766
-Mt. Gox and
+00:49:13,900 --> 00:49:15,866
+and don't let your skills only apply to one company. Why are mid-level managers at large
 
 452
-00:49:05,900 --> 00:49:09,233
-FTX been enough? Keep your private keys safe using a hardware wallet. Although it's inconvenient, the risk is in your hands.
+00:49:17,466 --> 00:49:19,133
+companies laid off at 35? Because their skills are specific to a particular company's system. What happens when those skills depreciate outside that system? Learn more
 
 453
-00:49:09,700 --> 00:49:11,300
-What if you lose your private keys? That's your
+00:49:28,400 --> 00:49:30,366
+transferable skills. English is globally applicable, programming is cross-industry, writing is cross-domain, and data analysis is needed everywhere. These skills are yours, not dependent on an employer.
 
 454
-00:49:11,366 --> 00:49:13,866
-responsibility, but at least no one can run
+00:49:47,700 --> 00:49:48,466
+Even if you change jobs, industries, or countries, these
 
 455
-00:49:24,700 --> 00:49:26,500
-away with your money. The old adage in the crypto world is "Not your keys, not your coins." The third strategy is to make your professional skills transferable. Don't rely on a single employer,
+00:49:52,900 --> 00:49:53,966
+skills remain. The fourth strategy
 
 456
-00:49:26,600 --> 00:49:28,366
-and don't let your skills only apply to one company. Why are mid-level managers at large companies laid off at 35? Because their
+00:49:53,966 --> 00:49:55,466
+is to maintain
 
 457
-00:49:32,766 --> 00:49:34,800
-skills are specific to a particular company's system. What happens when those skills depreciate outside that system? Learn more transferable skills. English is globally applicable, programming is cross-industry, writing is cross-domain, and data analysis is needed everywhere. These skills are yours, not dependent on an
+00:49:55,800 --> 00:49:58,033
+geographical mobility. Don't lock yourself into one country. Get a passport, visa, learn a foreign language, and understand immigration policies. These are things you can do now. Don't wait until a crisis hits to try and escape; by then, it
 
 458
-00:49:36,700 --> 00:49:37,733
-employer. Even if
+00:50:09,300 --> 00:50:12,733
+will be too late. Look at history: how many European Jews in the 1930s couldn't escape because they weren't prepared? Those who obtained visas in advance, learned English, and had overseas connections survived. Many who thought things wouldn't be so bad didn't survive. I'm not saying a crisis will definitely come; I'm saying keep your
 
 459
-00:49:44,033 --> 00:49:45,900
-you change jobs, industries, or countries, these skills remain. The fourth strategy
+00:50:14,700 --> 00:50:17,000
+options open and take control of your destiny. The
 
 460
-00:49:53,966 --> 00:49:55,466
-is to maintain geographical mobility. Don't lock yourself into one country. Get a
+00:50:17,500 --> 00:50:20,533
+fifth strategy is to verify information yourself. Don't just rely on one media outlet.
 
 461
-00:49:58,300 --> 00:50:00,100
-passport, visa, learn a foreign language, and understand immigration policies. These are things you can do now. Don't wait until a crisis hits to try and escape; by then, it will be too late. Look at history: how many European Jews in the 1930s couldn't escape because they weren't prepared? Those who obtained visas in advance, learned English, and had overseas
+00:50:20,700 --> 00:50:22,200
+Don't just listen to one voice. Find original sources and verify them
 
 462
-00:50:14,700 --> 00:50:17,000
-connections survived. Many who thought things wouldn't be so bad didn't survive. I'm not saying a crisis will definitely come; I'm saying keep your options open and take control of your destiny. The
+00:50:35,033 --> 00:50:36,833
+yourself. When you see news, find how different media outlets report on it. When you see research, find the original papers.
 
 463
-00:50:17,500 --> 00:50:20,533
-fifth strategy is to verify information yourself.
+00:50:38,200 --> 00:50:39,966
+Don't just look at media interpretations. It's tiring, but it's the only way to maintain independent judgment. Modern media and social media are creating information, feeding you what you want to see, not what you should see, like a cocoon. If you don't actively break free, you'll be trapped inside. The sixth strategy is not to
 
 464
-00:50:20,700 --> 00:50:22,200
-Don't just rely on one media outlet. Don't just listen to one voice. Find original sources and verify them yourself. When
+00:50:41,600 --> 00:50:43,400
+outsource education. Do
 
 465
-00:50:26,800 --> 00:50:28,833
-you see news, find how different media outlets report on it. When you see research, find the original papers.
+00:50:56,866 --> 00:50:58,433
+n't completely hand over your child's education to schools. Schools teach standardized things suitable for the industrial age. The future needs creativity, independent thinking, and problem-solving skills. Schools can't teach these; you have to teach them yourself. Broaden
 
 466
-00:50:38,200 --> 00:50:39,966
-Don't just look at media interpretations. It's tiring, but it's the only way to maintain independent judgment. Modern media and social media are creating information, feeding you what you want to see,
+00:51:05,566 --> 00:51:07,733
+your child's horizons, discuss issues with them, teach them critical thinking, and encourage them to question authority. These are your responsibilities as parents and cannot be outsourced. The
 
 467
-00:50:41,600 --> 00:50:43,400
-not what you should see, like a cocoon. If you don't actively break free, you'll be trapped inside. The sixth
+00:51:08,000 --> 00:51:10,966
+core of the
 
 468
-00:50:45,800 --> 00:50:47,833
-strategy
+00:51:12,833 --> 00:51:15,900
+first level is to keep control, decision-making power, and risk in your own hands. Is it troublesome? Yes, it is, but it's the only way to be antifragile.
 
 469
-00:50:50,866 --> 00:50:53,400
-is not to outsource education. Do
+00:51:24,000 --> 00:51:26,700
+Because as long as there are intermediaries, there's a possibility of risk
 
 470
-00:50:56,866 --> 00:50:58,433
-n't completely hand over
+00:51:30,000 --> 00:51:31,933
+transfer; as long as there are agents, there's a problem of conflicting interests. The reality is, we
 
 471
-00:51:05,566 --> 00:51:07,733
-your child's education to schools. Schools teach
+00:51:48,933 --> 00:51:49,800
+can't do everything ourselves. We can't open our own bank, manufacture our own
 
 472
-00:51:12,833 --> 00:51:15,900
-standardized things suitable for the industrial age. The future needs creativity, independent thinking, and problem-solving skills. Schools can't teach these; you have to teach them yourself. Broaden your child's horizons, discuss issues with them, teach them critical thinking, and encourage them to question authority. These are your responsibilities as parents and cannot be outsourced. The core of the first level is to keep control, decision-making power, and risk in your
+00:51:51,200 --> 00:51:54,233
+mobile phones, or run our own schools. So the second principle is to choose agents who share your risks. Here, we'll only use investment as an example. A simple yet effective criterion is to prioritize companies where the founder is the CEO. Why? Because the "skin in the game" for founders and professional managers is completely different. How do professional managers make money? High salaries, bonuses, stock options. When the company's stock price rises, they
 
 473
-00:51:16,133 --> 00:51:17,633
-own hands. Is it troublesome? Yes, it is, but it's the only way to be antifragile.
+00:52:06,300 --> 00:52:08,833
+exercise their options, cash out, and leave. If the company runs into problems, they jump ship to another company for a higher salary because their resume now includes the
 
 474
-00:51:24,000 --> 00:51:26,700
-Because as long as there are intermediaries, there's a possibility of risk transfer; as long as there are agents, there's a problem of conflicting interests. The
+00:52:14,333 --> 00:52:16,233
+title of CEO of a large company. Their downside risk is limited; the worst-case scenario is being fired and receiving a large severance package to find another job. Their upside potential is also limited.
 
 475
-00:51:45,833 --> 00:51:48,700
-reality is, we
+00:52:21,100 --> 00:52:22,333
+No matter how well they perform, they are still just employees and can't truly share in the company's growth. So what are their incentives? Short-term performance to make the stock price look good during their tenure, then cash out and leave.
 
 476
-00:51:48,933 --> 00:51:49,800
-can't do everything ourselves. We can't open our own bank, manufacture our own mobile phones, or run our own schools. So the second principle is to choose agents who share your
+00:52:27,133 --> 00:52:29,266
+What about founders and CEOs? Most of their wealth is tied to company stock, which usually has a lock-
 
 477
-00:51:56,266 --> 00:51:57,833
-risks. Here, we'll only use investment as an example. A simple yet effective criterion is to prioritize companies where the founder is the CEO. Why?
+00:52:33,433 --> 00:52:35,833
+up period and cannot be cashed out
 
 478
-00:52:02,066 --> 00:52:04,666
-Because the "skin in the game" for founders and professional managers is completely different. How do professional managers make money? High salaries, bonuses, stock options. When the company's stock price rises, they exercise their options, cash out, and leave. If the company runs into problems, they jump ship to another company for a higher salary because their resume now includes the title of CEO of a large company. Their downside risk is limited; the worst-case scenario is being fired and receiving a large severance package to find another job. Their upside potential is also limited. No matter how well they perform, they are still just employees and
+00:52:42,600 --> 00:52:43,733
+easily. More importantly, this is their "child," their "career," their "reputation." If the company fails, they not only lose wealth, but their entire life
 
 479
-00:52:31,466 --> 00:52:32,800
-can't truly share in the company's growth. So what are their incentives? Short-term performance to make the stock price look good during their tenure, then cash out and leave. What about founders and CEOs? Most of their wealth is tied
+00:52:54,233 --> 00:52:55,866
+is ruined. If Musk messes up Tesla, where can he go? If Bezos messes up Amazon, what can he do? If Zuckerberg's Facebook collapses, what is the meaning of his life? They are tied to their companies; the success or failure of the company is their success or failure. This binding creates perfect incentive alignment.
 
 480
-00:52:36,066 --> 00:52:38,866
-to company
+00:53:03,900 --> 00:53:05,700
+Founders are more responsible for the company's long-
 
 481
-00:52:38,866 --> 00:52:41,300
-stock, which usually has a lock-up period and cannot be cashed out easily. More importantly, this is their "child," their "career," their "reputation." If the company fails, they
+00:53:11,200 --> 00:53:13,000
+term value because that is their
 
 482
-00:52:41,300 --> 00:52:42,466
-not only lose wealth, but their entire life
+00:53:13,100 --> 00:53:17,166
+own value. They will avoid the trap of short-termism because they can't escape it. They will be
 
 483
-00:52:54,233 --> 00:52:55,866
-is ruined. If Musk messes up
+00:53:17,233 --> 00:53:18,700
+more cautious in taking risks
 
 484
-00:53:03,900 --> 00:53:05,700
-Tesla, where can he go? If Bezos messes up Amazon, what can he do? If Zuckerberg's Facebook collapses, what is the meaning of his life? They are tied to their companies; the success or failure of the company is their success or failure. This binding creates perfect incentive alignment. Founders are more responsible for the company
+00:53:21,066 --> 00:53:22,600
+because if they lose, they lose everything. Data also proves this: in the S&P 500, companies led by founders have significantly higher long-term
 
 485
-00:53:07,666 --> 00:53:09,733
-'s long-
+00:53:22,600 --> 00:53:24,233
+returns than companies led
 
 486
-00:53:11,200 --> 00:53:13,000
-term value because that is
+00:53:24,433 --> 00:53:25,633
+by professional managers. Companies that continue to thrive after founders leave management are generally because they leave behind an excellent corporate culture and good governance structure, forcing subsequent
 
 487
-00:53:13,100 --> 00:53:17,166
-their own value. They will avoid the trap of short-termism because they can't escape it. They will be more cautious in
+00:53:48,700 --> 00:53:51,133
+professional managers to continue the original development path. The second level is self-antifragility. Identifying people with "skin in the game" is
 
 488
-00:53:22,600 --> 00:53:24,233
-taking risks because if they lose, they lose everything. Data also proves this: in the S&P 500, companies led
+00:53:51,133 --> 00:53:52,066
+only the first step. More importantly, it's about transforming yourself from concave to convex. Taleb
 
 489
-00:53:24,433 --> 00:53:25,633
-by founders have significantly higher long-term returns than companies led by professional managers. Companies that continue to thrive after founders leave management are
+00:54:01,333 --> 00:54:02,866
+gives several core principles. The first principle is the barbell strategy, the core of which is extreme differentiation. Clear out the middle ground. Don't aim for medium risk and medium return; aim for 90% extreme safety and 10% extreme risk. Why is the
 
 490
-00:53:44,366 --> 00:53:47,366
-generally because they leave behind an excellent corporate culture and good governance structure, forcing subsequent
-
-491
-00:53:48,700 --> 00:53:51,133
-professional managers to continue the original development path. The second level is self-antifragility. Identifying people with "skin in the game" is only the first step. More importantly, it's about transforming yourself from
-
-492
-00:54:00,100 --> 00:54:01,300
-concave to convex. Taleb gives several core principles. The first principle is the barbell strategy, the core of which is extreme differentiation. Clear out the middle ground. Don't aim for medium risk and medium return; aim for 90% extreme safety and 10% extreme risk. Why is the
-
-493
 00:54:06,066 --> 00:54:07,733
 middle ground dangerous? The mathematics of "Antifragile" tells you that medium-risk assets are often concave. They usually yield small
 
-494
+491
 00:54:12,300 --> 00:54:14,466
-profits of 8% to 12% annualized, but suffer huge losses of 50% to 80% principal loss during crises. "Asymmetric Risk" explains
+profits of 8% to 12% annualized, but suffer huge losses during crises, with principal losses of 50% to 80%. "Asymmetric Risk" explains why there are so many medium-risk products. Because this is designed by financial institutions, they receive fixed income from management fees while you bear the risk. The complex, concave nature of the product masks the
+
+492
+00:54:16,500 --> 00:54:19,066
+true risk,
+
+493
+00:54:19,300 --> 00:54:21,233
+thus eliminating the middle ground. Let me explain in detail how Taleb's Black Swan Fund operates. This is a perfect example of a barbell strategy. 90% to 95% of the funds are placed in
+
+494
+00:54:21,266 --> 00:54:22,266
+short-term US Treasury
 
 495
-00:54:19,300 --> 00:54:21,233
-why there are so many medium-risk products. Because this is designed by financial institutions, they receive
+00:54:27,833 --> 00:54:30,266
+bonds, which have good liquidity,
 
 496
 00:54:30,333 --> 00:54:31,966
-fixed income from management fees while you bear the risk. The complex, concave nature of the product masks the true risk, thus eliminating the middle ground. Let me explain in detail how Taleb's Black Swan Fund operates. This is a perfect example of a barbell strategy. 90% to 95% of the funds are placed in short-term US Treasury bonds, which have good liquidity, almost zero risk, and can be
+almost zero risk, and can be
 
 497
 00:54:31,966 --> 00:54:33,100
-readily converted to cash. 5% to 10% of the funds are used to buy deep out-of-the-money put options. Profits are
+readily converted to cash. 5% to 10% of the funds are used to buy deep out-of-the-money put options. Profits are only made when the
 
 498
-00:54:38,700 --> 00:54:40,433
-only made
-
-499
-00:54:42,933 --> 00:54:44,700
-when the
-
-500
 00:54:45,900 --> 00:54:47,833
 market crashes; they are cheap normally because everyone thinks it's impossible. The key
 
-501
+499
 00:54:51,300 --> 00:54:52,733
-characteristic of this strategy is that it loses a little each year, with option premiums going down the drain, resulting in an annualized cost of 1% to 5%. During crises, like the 2008 financial crisis when the S&
+characteristic of this strategy is that it loses a little each year, with
+
+500
+00:54:57,833 --> 00:55:00,500
+option premiums going
+
+501
+00:55:08,333 --> 00:55:09,500
+down the drain, resulting in an annualized cost of 1% to 5%. During crises, like the 2008 financial crisis when the S&P 500 fell 40%, the Black Swan Fund doubled. During the 2020 pandemic, when the
 
 502
-00:54:52,966 --> 00:54:54,733
-P 500 fell 40%, the
+00:55:16,033 --> 00:55:17,200
+S&P 500 fell more than 30% in one quarter, the Black Swan
 
 503
-00:54:57,833 --> 00:55:00,500
-Black Swan Fund doubled. During the 2020 pandemic, when the
+00:55:17,233 --> 00:55:18,633
+Fund earned 36 times its initial investment. During the bull market from 2009 to 2019, the fund lost a little each year, causing distress for investors. However, when a crisis hits, while others suffer huge losses, the Black Swan Fund makes a
 
 504
-00:55:16,033 --> 00:55:17,200
-S&P 500 fell more than 30% in one quarter, the Black Swan Fund earned 36 times its initial investment. During the bull market from 2009 to 2019, the fund lost a little each year, causing distress for investors. However, when a crisis hits, while others suffer huge losses, the Black Swan Fund makes a
-
-505
 00:55:23,900 --> 00:55:25,433
 massive profit, compensating for several years' worth of costs
 
-506
+505
 00:55:29,333 --> 00:55:30,833
 and generating substantial profits. The key insight is... Taleb doesn't need to predict when a crisis will come; he only needs to know that a crisis will definitely come. His barbell strategy
 
-507
+506
 00:55:30,966 --> 00:55:32,333
-allows him to not only avoid losses during
+allows him to
+
+507
+00:55:32,333 --> 00:55:34,333
+not only avoid losses during crises but also make huge profits. How can ordinary people apply this? It doesn't necessarily mean buying options. You can learn his core
 
 508
-00:55:40,866 --> 00:55:43,433
-crises but also make huge profits. How can ordinary people apply this? It doesn't necessarily mean buying options. You can learn his core logic: place most of your
+00:55:43,700 --> 00:55:45,533
+logic: place most of your
 
 509
 00:55:50,533 --> 00:55:52,400
@@ -2036,525 +2036,561 @@ assets in
 
 510
 00:55:52,400 --> 00:55:56,066
-extremely safe places to ensure your life is unaffected by market fluctuations; place a small portion of your
+extremely safe places to ensure your life is unaffected by market fluctuations; place a small portion of your assets in extremely risky
 
 511
-00:56:00,266 --> 00:56:02,633
-assets in extremely risky places. Even if you lose everything in the worst-case scenario, that's only a small portion, and your life remains unaffected. In the best-case scenario, you can multiply your assets
+00:55:56,433 --> 00:55:58,266
+places. Even if you lose everything in the worst-case scenario, that's only a small portion, and your life remains unaffected. In the best-case scenario, you can
 
 512
 00:56:03,700 --> 00:56:05,733
-tenfold or a hundredfold.
+multiply your assets tenfold or a hundredfold. How to implement a business barbell strategy? Have a relatively low-stress job as the stable end, and then do side hustles, entrepreneurial projects, or content creation as the risk end. There are
 
 513
 00:56:11,900 --> 00:56:14,300
-How to implement a business barbell strategy? Have a relatively low-stress job as the stable end, and then do side hustles, entrepreneurial projects, or content creation as the risk end. There are many success stories. For example, Dangnian Mingyue, a
+many success stories. For example, Dangnian Mingyue, a
 
 514
 00:56:14,433 --> 00:56:16,333
-customs officer, is the
+customs officer, is the stable end; writing "Those Things of the Ming Dynasty" is the risk end. The book eventually sold millions of copies, and his royalties far exceeded his salary. Liu Shen Leilei, a Xinhua News Agency reporter, is the stable end; writing for a public account is the risk end. He only became a full-time self-media creator after gaining millions of followers. Liu Cixin, a
 
 515
-00:56:16,533 --> 00:56:18,600
-stable end; writing "Those Things
+00:56:28,533 --> 00:56:30,833
+power station engineer at Niangziguan, is the stable end; writing novels while working is the risk end. He only
 
 516
-00:56:26,300 --> 00:56:28,366
-of the Ming Dynasty" is the risk end. The book eventually sold millions of copies, and his royalties far exceeded his salary. Liu Shen Leilei, a Xinhua News Agency reporter, is the stable end; writing for a public account is the risk end. He only became a full-time self-media creator after gaining millions of followers. Liu Cixin, a power station
+00:56:42,800 --> 00:56:44,700
+resigned after writing "The Three-Body Problem." There's also Aunt Liu Zhongjing. Self-media websites and book royalties are stable income sources, which already surpasses his income as a forensic doctor or university professor in China. The "President of the Republic of China" is the risky side.
 
 517
-00:56:28,533 --> 00:56:30,833
-engineer at Niangziguan, is the stable end; writing novels while working is
+00:56:45,800 --> 00:56:47,133
+Although you might find it laughable, the returns on this risky side are astronomical.
 
 518
-00:56:35,566 --> 00:56:36,633
-the risk end. He only resigned after writing "The Three-Body Problem." There's also Aunt Liu Zhongjing. Self-media websites and book royalties are stable
+00:56:47,133 --> 00:56:48,966
+Taleb himself is an example: a New York University professor and Wall Street
 
 519
-00:56:38,366 --> 00:56:42,500
-income sources, which already surpasses his income as a forensic doctor or university professor in China. The "President of the Republic of China" is the risky side. Although you might find it laughable, the returns on
+00:57:09,933 --> 00:57:11,200
+trader is a stable side; writing books, giving speeches, and being an online celebrity is a risky side. I've seen too many bosses in China go all in, only to have their financing fail, their companies collapse, and they go bankrupt. There's no way out;
 
 520
-00:56:54,000 --> 00:56:55,100
-this risky side are astronomical. Taleb himself is an example: a New York University professor and
+00:57:11,400 --> 00:57:12,366
+one failure equals game over. My lesson is:
 
 521
-00:57:06,533 --> 00:57:08,600
-Wall Street
+00:57:25,866 --> 00:57:28,400
+never put all your eggs in one basket. My income sources include investment returns as a stable side, consulting services as a stable side, and content creation as a risky side. Content creation is a typical option: limited downside—at worst, nobody reads it; limited time investment;
 
 522
-00:57:13,633 --> 00:57:15,633
-trader is a stable side; writing books, giving speeches, and being an online celebrity is a risky side. I've seen too many bosses in China go all in, only to have their financing fail, their companies collapse, and they go
+00:57:31,066 --> 00:57:32,600
+unlimited upside—if it goes viral, its influence grows
 
 523
-00:57:25,866 --> 00:57:28,400
-bankrupt. There's no way out; one failure equals game over. My lesson is: never put all your eggs in one basket. My income sources include investment returns as a stable side, consulting services as a stable side, and content creation as a risky side. Content creation is a typical option: limited downside—at worst, nobody reads it; limited time investment; unlimited upside—if it goes
+00:57:34,466 --> 00:57:37,033
+exponentially, bringing more consulting opportunities and commercialization possibilities. Putting myself in the shoes of today's young people, I'd give some advice. If I were only in my twenties, I would finish my PhD at Peking University, then be selected for a government position, or go abroad to study and immigrate, aiming for a government public utility industry.
 
 524
-00:57:37,066 --> 00:57:39,866
-viral, its influence
+00:57:55,466 --> 00:57:56,700
+After securing a stable job, I'd then seek growth opportunities in other areas outside of work. The second principle is subtraction thinking: don't pursue the best, but avoid the worst.
 
 525
-00:57:43,000 --> 00:57:44,800
-increases exponentially, bringing more consulting opportunities and commercialization possibilities. Putting myself in the shoes of today's young people, I'd give some advice. If I were only in my twenties, I would finish my PhD at Peking University, then be selected for a government position, or go abroad to study and immigrate, aiming for a
+00:58:02,566 --> 00:58:03,800
+Munger
 
 526
-00:58:04,000 --> 00:58:04,900
-government public utility industry. After securing a stable job, I'd then seek growth opportunities in other areas outside of work. The second principle is subtraction thinking: don't pursue the best, but avoid the worst. Munger said, "I only want to know where I'm going to die, and then I'll never go there." This
+00:58:05,933 --> 00:58:07,400
+said, "I only want to know where I'm going to die, and then I'll never go there." This is subtraction thinking. Knowing what not to do is more important than knowing what to do. What is subtraction thinking in investing? What is foolish investing? High leverage—you can't afford to lose. Not understanding the risks of things you don't understand. Needing constant
 
 527
-00:58:07,400 --> 00:58:08,466
-is subtraction thinking. Knowing what not to do is more important than knowing what to do. What is
-
-528
-00:58:14,600 --> 00:58:15,700
-subtraction thinking in investing? What is foolish investing? High leverage—you can't afford to lose. Not understanding the risks of things you don't understand. Needing
-
-529
-00:58:23,533 --> 00:58:24,533
-constant
-
-530
 00:58:24,766 --> 00:58:26,133
 upward movement to make money. Moral hazard on the other side—gambling with your money. If you avoid these
 
-531
+528
 00:58:27,033 --> 00:58:29,200
-four types, you've already won against most people. What is subtraction thinking in life? Taleb's health strategy isn't eating superfoods, taking supplements, or complex nutrition plans, but rather eating less processed food, less sugar, and intermittent fasting. Why? Because our bodies have evolved over millions of years, adapted to
+four types, you've already
+
+529
+00:58:35,666 --> 00:58:38,266
+won against most people. What is subtraction thinking in life? Taleb's health strategy isn't eating superfoods, taking supplements, or complex nutrition plans, but rather eating less processed food, less sugar, and intermittent fasting. Why? Because our bodies have evolved over millions of years, adapted to irregular eating habits, natural foods, and plenty of movement. Modern life is the opposite: eating processed food every meal and sitting all day. So returning to a natural state and doing subtraction is itself healthy. What is
+
+530
+00:58:44,500 --> 00:58:47,233
+subtraction thinking in this channel? Why is this channel high-barrier? Videos over 30 minutes require thought; we talk about frameworks,
+
+531
+00:59:02,700 --> 00:59:03,533
+not code. This will lose many viewers who want quick answers, specific stock recommendations, or chasing trends. But this is precisely subtraction thinking—
 
 532
-00:58:51,933 --> 00:58:53,033
-irregular eating habits, natural foods, and plenty of movement. Modern life is the opposite: eating processed food every meal and sitting all day. So returning to a natural state and doing subtraction is itself healthy. What is subtraction thinking in this channel? Why is this channel high-barrier? Videos over 30 minutes require thought; we talk about frameworks,
+00:59:12,433 --> 00:59:14,033
+by setting a high barrier to entry. By filtering out these viewers, I avoid satisfying unrealistic desires. The third principle is maintaining selectivity. People's nostalgia for youth
 
 533
-00:59:02,700 --> 00:59:03,533
-not code. This will lose many viewers who want quick answers, specific stock recommendations, or chasing trends. But this
+00:59:16,300 --> 00:59:18,300
+is essentially nostalgia for
 
 534
-00:59:16,300 --> 00:59:18,300
-is precisely subtraction thinking—by setting a high barrier to entry. By filtering out these viewers, I avoid satisfying unrealistic desires. The third principle is maintaining selectivity.
+00:59:21,733 --> 00:59:22,733
+infinite possibilities. At
 
 535
-00:59:27,800 --> 00:59:30,866
-People's nostalgia for youth is essentially nostalgia for infinite possibilities. At
+00:59:31,066 --> 00:59:33,066
+20, you can be anyone, go anywhere, and do anything. By 40, most people are locked in—locked in by their
 
 536
-00:59:31,066 --> 00:59:33,066
-20, you can be anyone, go anywhere, and do anything. By 40, most people are locked in—locked in by their careers, their identities, and their past choices. How do we
+00:59:34,433 --> 00:59:35,900
+careers, their identities, and their past choices. How do we maintain selectivity? First, maintain the ability to learn. Not what you learn, but the ability to
 
 537
-00:59:34,433 --> 00:59:35,900
-maintain selectivity?
+00:59:36,000 --> 00:59:37,433
+learn. Most people stop learning
 
 538
-00:59:44,866 --> 00:59:47,033
-First, maintain the ability to learn. Not what you learn, but the ability to learn. Most people stop learning after leaving school; their brains become rigid, they only do familiar things, and they panic when faced with new things. This is why people are eliminated at 35—
+00:59:40,300 --> 00:59:41,600
+after leaving school; their brains become rigid, they only do familiar things, and they panic when faced with new things. This
 
 539
+00:59:44,866 --> 00:59:47,033
+is why people are eliminated at 35—
+
+540
 00:59:47,166 --> 00:59:48,266
 not because of age,
 
-540
-00:59:48,300 --> 00:59:49,666
-but because they stopped learning at 25. Maintaining the ability to learn means always being exposed to new things, always
-
 541
-00:59:52,600 --> 00:59:53,900
-stepping out of your comfort zone, and always challenging your understanding. Second, learn transferable knowledge. What is transferable? English is
+00:59:48,300 --> 00:59:49,666
+but because they stopped learning at 25. Maintaining the ability to learn means always being exposed to new things, always stepping
 
 542
-00:59:56,633 --> 00:59:58,400
-useful in any country. Writing is useful in any industry because clear expression is useful. Programming
+00:59:52,600 --> 00:59:53,900
+out of your comfort zone, and always challenging your understanding. Second, learn
 
 543
-00:59:58,633 --> 01:00:00,466
-thinking breaks down problems, and logical reasoning is useful everywhere. Data analysis is needed for business and research. This knowledge is not dependent on a specific job or industry; it is
+00:59:54,033 --> 00:59:55,300
+transferable knowledge.
 
 544
+00:59:55,300 --> 00:59:56,600
+What is transferable? English is
+
+545
+00:59:56,633 --> 00:59:58,400
+useful in any country. Writing is useful in any industry because clear expression is useful. Programming thinking breaks down problems, and logical reasoning is useful
+
+546
+01:00:06,300 --> 01:00:09,466
+everywhere. Data analysis is needed for business and research. This knowledge is not dependent on a specific job or industry; it is
+
+547
 01:00:11,300 --> 01:00:12,500
 your own. Third, learn basic subjects because they are meta-knowledge. Mathematics teaches you abstract thinking, and physics teaches you causal reasoning. History teaches you pattern recognition, philosophy teaches you concept analysis.
 
-545
-01:00:12,733 --> 01:00:14,233
-These abilities are fundamental; once mastered, learning anything concrete becomes incredibly fast.
-
-546
-01:00:35,133 --> 01:00:36,900
-In contrast, those who only learn applied skills—like Excel, a particular software program, or a specific operation—have very short half-lives, becoming obsolete in two or three years. The half-life of fundamental disciplines, however, can be decades
-
-547
-01:00:50,600 --> 01:00:52,333
-or even centuries. Finally, it's about maintaining physical and mental plasticity. A rigid body cannot adapt to new environments, and a rigid mind cannot accept new perspectives. Consider those who successfully immigrate: they maintain an open
-
 548
-01:00:57,633 --> 01:00:59,533
-mind, are willing to learn new cultures, and are willing to change themselves. Those who fail often cling to old habits, refuse to learn, and complain about their environment. Taleb's concept of antifragility,
+01:00:12,733 --> 01:00:14,233
+These abilities are fundamental; once mastered, learning anything concrete becomes incredibly fast. In contrast, those who only
 
 549
-01:00:59,633 --> 01:01:01,100
-at the individual level, is this kind of
+01:00:14,233 --> 01:00:15,666
+learn applied skills—like Excel, a
 
 550
-01:01:02,500 --> 01:01:05,100
-adaptive plasticity. Individuals can save themselves, but what about systems? If the problem of modernity is constructive rationalism and experts overstepping centralized power, what is the solution? The right-
+01:00:20,833 --> 01:00:23,066
+particular software program,
 
 551
-01:01:05,766 --> 01:01:08,533
-wing critique of modernity provides a clear answer: the core principle is mandatory skin-in-the-game, making decision-makers equal to risk-takers. This is
+01:00:23,066 --> 01:00:24,833
+or a specific operation—have very short half-lives, becoming obsolete in two or
 
 552
+01:00:48,000 --> 01:00:50,600
+three years. The half-life of fundamental disciplines, however, can be decades or even centuries. Finally, it's about maintaining physical and mental plasticity. A rigid body cannot adapt to new environments, and a rigid mind cannot accept new perspectives. Consider those who successfully immigrate: they maintain an open mind, are willing to learn new cultures, and are willing to change themselves. Those who fail often cling to old habits, refuse to learn, and complain about their environment. Taleb's
+
+553
+01:00:57,633 --> 01:00:59,533
+concept of antifragility, at the individual level, is this kind of
+
+554
+01:01:02,500 --> 01:01:05,100
+adaptive plasticity. Individuals can save themselves, but what about systems? If the problem of modernity is constructive rationalism and experts overstepping centralized power, what is the solution? The right-wing critique of modernity provides a clear answer: the
+
+555
+01:01:05,766 --> 01:01:08,533
+core principle is mandatory skin-in-the-game, making decision-makers equal to risk-takers. This is
+
+556
 01:01:28,133 --> 01:01:29,266
 n't Taleb's invention; it's the wisdom of humanity accumulated over thousands of years. How did ancient Rome do it? Architects designed bridges, and the architects stood beneath them.
 
-553
+557
 01:01:31,800 --> 01:01:34,066
 Generals led troops into battle alongside their soldiers. Sons of senators were required to serve in the military.
 
-554
-01:01:38,466 --> 01:01:40,533
-How did the Code of Hammurabi stipulate this? If a house collapsed and killed someone, the architect's son was executed. If an eye surgery failed, the doctor's hand was cut off.
-
-555
-01:01:53,666 --> 01:01:55,066
-What is business ethics? Reputation equals the greatest asset; one act of deception equals a lifetime of dishonesty. The Mediterranean trade network operated on reputation for centuries. Why was it effective? Because decision-makers knew they would bear the consequences of their mistakes,
-
-556
-01:02:14,500 --> 01:02:17,266
-so they were cautious, conservative, and respected tradition. What should we do in modern times? In the financial system, bankers trade with their own money, returning to a partnership model. If hedge funds underperform, fund managers lose money along with them. Eliminate the "
-
-557
-01:02:26,100 --> 01:02:28,466
-too big to fail" mentality, allowing banks to go bankrupt. CEO compensation should be
-
 558
-01:02:28,700 --> 01:02:30,466
-linked to 10-year long-term performance, not quarterly performance. In the political system, failed decisions lead to the resignation of officials and legal accountability. Politicians who advocate war should send their children to war first. Debts incurred during their term are personally attributed; there are no golden parachutes. In the expert system, consultants are paid based on results, not time. Economists who make incorrect
+01:01:38,466 --> 01:01:40,533
+How did the Code of Hammurabi stipulate this? If a house collapsed and killed someone, the architect's son was executed. If an eye surgery failed, the doctor's hand was cut off. What
 
 559
-01:02:48,733 --> 01:02:50,166
-predictions face license
+01:01:53,666 --> 01:01:55,066
+is business ethics? Reputation equals the greatest asset; one act of deception equals a lifetime of dishonesty. The Mediterranean trade network operated on reputation for centuries. Why was it effective? Because decision-makers knew they would bear the consequences of their mistakes, so they were cautious, conservative, and respected tradition. What should we do in modern times? In the
 
 560
-01:02:54,966 --> 01:02:56,166
-revocation, mandatory portfolio disclosure, and public disclosure of conflicts of interest. The second principle is localism: small-scale equals automatic risk-sharing. Hayek, Scott, and Jacobs agree that small-scale is superior to large-scale. Why? First, small-scale enforces risk-sharing. If a mayor's policies fail, he encounters
+01:02:08,266 --> 01:02:10,900
+financial system, bankers trade with their
 
 561
-01:02:56,400 --> 01:02:57,700
-voters
+01:02:10,900 --> 01:02:11,900
+own money,
 
 562
-01:02:57,700 --> 01:02:59,433
-daily and
+01:02:12,333 --> 01:02:14,500
+returning to a partnership model. If hedge funds underperform, fund managers lose money along with them. Eliminate the "too
 
 563
-01:03:06,700 --> 01:03:08,100
-cannot escape them. Brussels' bureaucratic policies affected Greece, while he remained comfortable in Belgium without consequences. Second, small-scale diversifies risk. A policy failure in one state does not affect other states, making the
+01:02:26,100 --> 01:02:28,466
+big to fail" mentality, allowing banks to go bankrupt. CEO compensation should be
 
 564
-01:03:08,100 --> 01:03:09,233
-system antifragile. A
+01:02:28,700 --> 01:02:30,466
+linked to 10-year long-term performance, not quarterly performance. In the political system, failed decisions lead to the resignation of officials and legal liability. Politicians who advocate war should send their children to war first. Debts incurred during their term are personally attributed; there are no golden parachutes. In the expert system, consultants are paid based on results, not time. Economists who make incorrect
 
 565
-01:03:15,933 --> 01:03:18,600
-policy failure in the central government affects the entire country, making the system fragile. Third, small-scale allows for trial and error. A centralized system leaves no room for error; if one fails, everyone perishes. Historical comparisons show the impact on Europe. In contrast to East Asia, which has remained largely unified for
+01:02:48,733 --> 01:02:50,166
+predictions
 
 566
-01:03:25,266 --> 01:03:27,133
-centuries, Europe has seen hundreds of small states, city-states, and principalities compete, learn through trial and error, and develop modern science, democracy, and the
+01:02:50,366 --> 01:02:51,966
+face license revocation, mandatory portfolio disclosure, and public
 
 567
-01:03:51,300 --> 01:03:54,300
-Industrial Revolution. East Asia, on the other hand, pursued unification, exemplified by the Qin Dynasty's centralized system of prefectures and counties. Each unification was followed by overexpansion, collapse, fragmentation, and then reunification, a cycle repeated for 2,000 years.
+01:02:54,966 --> 01:02:56,166
+disclosure of
 
 568
+01:02:56,400 --> 01:02:57,700
+conflicts of interest. The second principle is localism: small-scale equals automatic risk sharing. Hayek, Scott, and
+
+569
+01:03:01,500 --> 01:03:03,100
+Jacobs agree
+
+570
+01:03:03,100 --> 01:03:06,200
+that small-scale is superior to large-scale. Why? First, small-scale enforces risk sharing. If a mayor's policies fail, he encounters voters daily and
+
+571
+01:03:06,700 --> 01:03:08,100
+cannot escape them. Brussels'
+
+572
+01:03:10,733 --> 01:03:11,966
+bureaucratic policies affected Greece, while he remained comfortable in Belgium without consequences. Second, small-scale diversifies risk. A policy failure in one state does not affect other states, making the system antifragile. A policy failure in the
+
+573
+01:03:11,966 --> 01:03:14,033
+central government affects the entire country, making the system fragile. Third, small-scale allows for trial and error. A centralized system leaves no room for error; if one fails, everyone perishes.
+
+574
+01:03:15,933 --> 01:03:18,600
+Historical comparisons show the impact on Europe. In contrast to East Asia, where Europe remained unified for
+
+575
+01:03:25,266 --> 01:03:27,133
+centuries over the past two millennia, with hundreds of small states,
+
+576
+01:03:35,066 --> 01:03:37,566
+city-states, and principalities competing, learning through trial and error, and giving rise to modern science,
+
+577
+01:03:45,466 --> 01:03:46,900
+democracy, and the
+
+578
+01:03:51,300 --> 01:03:54,300
+Industrial Revolution, East Asia pursued unification. The Qin Dynasty's prefecture-county system and centralized power led to overexpansion, collapse, fragmentation, and reunification—a cycle repeated for 2,000 years.
+
+579
 01:03:54,300 --> 01:03:55,366
 Why was Europe more successful?
 
-569
-01:03:55,400 --> 01:03:58,200
-Because decentralization allowed for trial and error. The failure of one state didn't affect others; one state innovated, and others learned. With unification, the emperor's mistakes were implemented nationwide, leading to
-
-570
-01:03:59,466 --> 01:04:01,833
-national catastrophe. Talebhayek advocated decentralization, local autonomy,
-
-571
-01:04:23,800 --> 01:04:25,433
-and federalism
-
-572
-01:04:27,266 --> 01:04:28,866
-over centralization; small states were superior to large states, and city-states to empires. Liu Zhongjing's theory of the various Xia states is a right-wing critique of modernity applied in the Chinese context. A unified empire is fragile; a single collapse
-
-573
-01:04:41,466 --> 01:04:43,233
-leads to total collapse. The small states of the various Xia states are anti-fragile,
-
-574
-01:04:43,233 --> 01:04:45,033
-diversifying risk and allowing for individual experimentation. You may disagree with his political views, but theoretically, a fragmented system of small states is indeed more stable than a unified one. However, in reality, the system is difficult to change in the short term. Why? Because the current system favors the elite, who reap upward benefits. The risk is being shifted to you.
-
-575
-01:04:55,200 --> 01:04:55,800
-Why would they want to change? The
-
-576
-01:05:11,666 --> 01:05:13,033
-inertia of
-
-577
-01:05:14,066 --> 01:05:15,266
-the system is enormous. There are too-to-fail banks, a powerful central government, and a
-
-578
-01:05:15,466 --> 01:05:16,966
-financialized economy—
-
-579
-01:05:16,966 --> 01:05:18,000
-all of which have huge vested interest groups. So what can you do? It depends on where you are. If you are in the free world, then congratulations, you have the potential to drive change. But don't misunderstand, I'm not saying you have to convince the majority, or that you have to wait for 51% to agree before you can change anything. In *Asymmetric Risk*, Taleb offers a counterintuitive insight: changing the world doesn't require a majority, only a
-
 580
-01:05:29,566 --> 01:05:31,266
-determined
+01:03:55,400 --> 01:03:58,200
+Because decentralization allowed for trial and error. One country's failure didn't affect others; one country innovated,
 
 581
-01:05:31,266 --> 01:05:34,233
-minority. He cites
+01:04:12,166 --> 01:04:13,700
+and others learned. With unification, the emperor's mistakes were implemented nationwide; errors resulted in national catastrophe. Talebhayek advocated decentralization, local autonomy, and federalism over centralization; small states were superior to large states, and city-states to empires. Liu Zhongjing's theory of the various Xia states is a right-wing critique of modernity applied in the Chinese context. A unified empire is fragile; a collapse means total
 
 582
-01:05:49,533 --> 01:05:51,633
-Kosher as an example. American Jews make up only 2% of the population, and those who strictly adhere to Kosher laws are even fewer. But if you go to the supermarket, you'll see many food products with Kosher certification. Why? Because Jews are an uncompromising minority; they absolutely refuse to eat non-Kosher food.
+01:04:13,700 --> 01:04:15,200
+collapse. The small states of the various Xia states are anti-fragile, diversifying risk
 
 583
-01:05:55,166 --> 01:05:56,366
-Others, however, are indifferent to whether it's Kosher or non-Kosher. So how do food companies choose? They make everything Kosher, so that Jews can eat it, and others can eat it too,
+01:04:23,800 --> 01:04:25,433
+and allowing for individual trial and error.
 
 584
-01:06:10,300 --> 01:06:12,066
-maximizing the market. The result is that the 2% of determined minorities changed the standards of the entire food industry. The key to this
+01:04:27,266 --> 01:04:28,866
+You may disagree with his political views, but theoretically, a fragmented system of small states is indeed more stable than unification. However, in reality, the system is difficult to change in the short
 
 585
-01:06:14,500 --> 01:06:16,266
-is that the silent majority
+01:04:29,133 --> 01:04:32,066
+term. Why? Because the current system favors the elite, who reap upward
 
 586
-01:06:18,133 --> 01:06:19,733
-always loses to the determined minority because the majority is
+01:04:43,233 --> 01:04:45,033
+benefits. The risk is being shifted to you.
 
 587
-01:06:28,933 --> 01:06:30,300
-flexible, while the minority is uncompromising. When one side has to compromise and the other refuses to compromise, the side that refuses to compromise will ultimately win. What does this mean for you? You don't need to convince 51% of voters;
+01:04:55,200 --> 01:04:55,800
+Why would they want to change? The inertia of the system is enormous. There are too-to-fail banks, a powerful central government, and a financialized economy—all of which have huge vested
 
 588
-01:06:39,800 --> 01:06:40,933
-you just need to find that 3% to 5% of staunch minorities and take consistent action in your community, your city, your state. Attend city council hearings—every time, speak every time. Vote for a mayor who is truly accountable to the community. Mobilize your friends to vote too. Push for transparency in local budgets—watch every expenditure. Support school district reform. Participate in
+01:04:55,866 --> 01:04:58,833
+interest groups. So what can you do? It depends on where you are. If you are
 
 589
-01:06:46,633 --> 01:06:48,800
-parent committees. These may seem small, but the key is consistency and persistence.
+01:05:06,066 --> 01:05:07,666
+in the free world, then congratulations, you have the potential to drive change. But don't misunderstand, I'm not saying you have to convince the majority, or that you have to wait for
 
 590
-01:06:57,866 --> 01:06:59,966
-Most people are too lazy to attend city council meetings, too lazy to examine budgets, too lazy to vote. As long as you and a small group persist, you
+01:05:28,266 --> 01:05:29,466
+51% to agree before you can change anything. In *Asymmetric Risk*, Taleb offers a counterintuitive insight: changing the world doesn't require a majority, only a
 
 591
-01:07:02,166 --> 01:07:03,233
-can change decisions because these things are irrelevant to others, but essential to you. The final equilibrium will be based
+01:05:42,833 --> 01:05:43,700
+determined minority. He cites Kosher as an example. American Jews make up only 2% of the population, and those who strictly adhere to Kosher laws are even fewer. But if you go to the supermarket, you'll see many food products with Kosher certification.
 
 592
-01:07:03,466 --> 01:07:05,433
-on your standards. History is full of
+01:05:47,933 --> 01:05:49,500
+Why?
 
 593
-01:07:11,466 --> 01:07:13,700
-examples. The abolitionist movement in
+01:05:49,533 --> 01:05:51,633
+Because Jews are an uncompromising minority; they absolutely refuse to eat non-Kosher food.
 
 594
-01:07:14,066 --> 01:07:16,900
-the United States initially had only a small number of radicals supporting abolition, but their unwavering and persistent action ultimately changed the entire country. The
+01:05:52,833 --> 01:05:53,966
+Others, however, are
 
 595
-01:07:16,900 --> 01:07:18,633
-civil rights movement started with only a minority of Black and white leftists,
+01:05:57,566 --> 01:05:58,700
+indifferent to whether it's Kosher or non-Kosher. So how do food companies choose? They
 
 596
-01:07:19,766 --> 01:07:21,433
-but their
+01:05:58,700 --> 01:05:59,700
+make everything Kosher, so that Jews can eat it, and others can eat it too, maximizing the market. The result is that the 2% of determined minorities changed the standards of the entire
 
 597
-01:07:27,666 --> 01:07:29,833
-refusal to compromise ultimately led to the enactment of civil rights legislation. The environmental movement, the women's rights movement, and the legalization of same-sex marriage—which of these started by convincing the majority? It's always the case that a small,
+01:06:05,266 --> 01:06:06,300
+food industry. The key to this is that the silent majority always loses to the determined minority because the majority is flexible, while the minority is uncompromising. When one side has to compromise and the other
 
 598
-01:07:40,866 --> 01:07:43,566
-determined minority acts first, and then the more flexible majority gradually accepts. This insight is especially important for local politics. Why? Because local political participation is extremely low. In city council elections, voter turnout is often only in the teens. This means that if you can organize just 2% to 3% of committed voters, you can determine the
+01:06:20,866 --> 01:06:22,433
+refuses to compromise, the side that refuses to compromise will ultimately win. What does this mean for you?
 
 599
-01:07:43,566 --> 01:07:45,433
-composition of the city council. And the city council controls budgets, zoning, education, and law enforcement—things that directly affect
+01:06:24,433 --> 01:06:26,333
+You don't need to convince 51% of voters; you just need to find that 3% to 5% of staunch minorities and take consistent action in your community, your city, your state. Attend city
 
 600
-01:08:09,400 --> 01:08:13,066
-your quality of life. So if you're in the free world, don't think, "I'm just one person, I can't change anything." You don't need to change everyone; you just need to find that 3% of
+01:06:27,766 --> 01:06:28,933
+council hearings—every time, speak every time. Vote for a mayor who is truly
 
 601
-01:08:16,800 --> 01:08:19,800
-like-minded
+01:06:28,933 --> 01:06:30,300
+accountable to the community. Mobilize your friends to vote too. Push for transparency in local budgets—watch every
 
 602
-01:08:20,000 --> 01:08:21,600
-people and act decisively. At the local level, that's enough. But if you're not in the free world, the possibility of
+01:06:37,000 --> 01:06:38,533
+expenditure. Support school district
 
 603
-01:08:25,233 --> 01:08:26,566
-institutional change is
+01:06:39,800 --> 01:06:40,933
+reform. Participate in
 
 604
-01:08:28,066 --> 01:08:29,433
-extremely slim. So my advice is simple: abandon the idea of ​​change. Don't be like those selfless officials who take the world as their responsibility. Don't waste your energy on things you can't change.
+01:06:46,633 --> 01:06:48,800
+parent committees. These may seem small, but the key is consistency and persistence. Most people are too lazy to attend city council meetings, too lazy to examine budgets, too lazy to vote. As long as you and a small group persist,
 
 605
-01:08:35,900 --> 01:08:38,100
-Adults should only filter, not change. What you need to do is manage yourself and your family, invest your time and resources in things you can control: improve your skills, accumulate wealth, maintain your health, educate your children, build connections, and
+01:06:49,033 --> 01:06:50,300
+you can change decisions because these things are
 
 606
-01:08:44,600 --> 01:08:47,300
-most importantly, gain the right to choose as soon as possible: get a passport and visa, learn a foreign language, understand immigration policies, accumulate transferable skills and assets, so that you have the ability to leave when necessary and the ability to choose a better institutional environment. Voting with your feet is your most practical choice. Remember Taleb's core insight: Don't try to
+01:06:50,400 --> 01:06:51,966
+irrelevant to others,
 
 607
+01:06:56,700 --> 01:06:57,833
+but essential to you. The
+
+608
+01:07:05,433 --> 01:07:07,333
+final equilibrium will be based on your standards. History is full of examples. The abolitionist movement in the United States initially had only a small number of radicals supporting abolition, but their unwavering and persistent action ultimately changed the entire
+
+609
+01:07:07,533 --> 01:07:09,333
+country. The civil
+
+610
+01:07:11,466 --> 01:07:13,700
+rights movement started with only a minority of Black and white leftists, but their refusal to compromise ultimately led to the
+
+611
+01:07:16,900 --> 01:07:18,633
+enactment of civil rights legislation. The environmental movement, the women's rights movement, and the legalization of same-sex marriage—which of these started by convincing the majority? It's always the case that a small, determined
+
+612
+01:07:25,200 --> 01:07:27,666
+minority acts first, and then the more flexible majority gradually accepts. This insight is especially important for local politics. Why? Because local political participation is extremely low. In city council elections, voter turnout is often only in the teens.
+
+613
+01:07:45,900 --> 01:07:47,866
+This means that if you can organize just 2% to 3% of the committed voters, you can determine the composition of the city council. And the city council controls budgets, zoning, education, and law enforcement—things that directly affect your quality of life. So
+
+614
+01:07:55,500 --> 01:07:56,900
+if you're in the free world, don't think, "I'm just one person, I can't change anything."
+
+615
+01:08:02,900 --> 01:08:05,500
+You don't need to change everyone;
+
+616
+01:08:05,633 --> 01:08:09,366
+you just need to find that 3% of like-minded people and act decisively. At the local level, that's enough. But if you're not in the free world, the possibility of institutional change is extremely slim. So my
+
+617
+01:08:13,233 --> 01:08:14,800
+advice is simple:
+
+618
+01:08:16,800 --> 01:08:19,800
+abandon the idea of ​​change. Don't be like those selfless officials who take the world as their responsibility. Don't waste your energy on things you can't change. Adults should only filter, not change. What you need to do is manage yourself and
+
+619
+01:08:20,000 --> 01:08:21,600
+your family, invest your time and resources in things
+
+620
+01:08:38,266 --> 01:08:39,966
+you can control: improve your skills, accumulate wealth, maintain your health, educate your children, build connections, and most importantly, gain the right to choose as soon as possible: get a passport and visa, learn a foreign language, understand immigration policies, accumulate transferable skills and assets,
+
+621
+01:08:40,000 --> 01:08:41,200
+so that you have the ability to leave when necessary and the ability to choose a better institutional environment. Voting with your feet is your most practical choice. Remember Taleb
+
+622
+01:08:44,600 --> 01:08:47,300
+'s core insight: Don't try to
+
+623
 01:08:56,833 --> 01:08:58,233
 change a system you can't change; instead, empower yourself to exit it.
 
-608
-01:09:04,900 --> 01:09:08,333
-Antifragility isn't about fighting a boulder; it's about ensuring you're not underneath it when it falls. Now let's return to the initial question: What's wrong with modernity? The left says the problem is capitalist private ownership and market chaos; the solution is more state
-
-609
-01:09:19,600 --> 01:09:22,533
-intervention, central
-
-610
-01:09:22,700 --> 01:09:23,800
-planning, and expert
-
-611
-01:09:29,933 --> 01:09:32,100
-governance. The right says the problem is constructive rationalism, experts overstepping central authority; the solution is traditional wisdom, local autonomy, and spontaneous order. Taleb stands on the right side. He is the latest representative of the intellectual lineage of Burke, Hayek, Scott, and Jacobs. He uses *Antifragile* to tell you about the structural fragility created by modernity. He uses *Asymmetric Risk* to tell
-
-612
-01:09:35,933 --> 01:09:38,233
-you about the risk transfer mechanism behind modernity. What is the complete
-
-613
-01:09:44,233 --> 01:09:46,600
-four-part logic? *Fooled by Randomness* talks about humility; success may be luck, don't be overconfident. *The Black
-
-614
-01:09:50,933 --> 01:09:52,766
-Swan* talks about accepting uncertainty; extreme events are unpredictable, but they determine history. *Antifragile* talks about
-
-615
-01:09:52,766 --> 01:09:54,733
-transforming structures—don't predict the future, but rather enable yourself to benefit from chaos. *Asymmetric Risk* talks about identifying risk transfer—understanding who is transferring risk to you. Why is this relevant to our generation? Global geopolitical risks are surging,
-
-616
-01:10:12,400 --> 01:10:15,400
-supply chain restructuring, financial decoupling, and inflation eroding wealth. The 2008 financial crisis, the 2020 pandemic, and the 2022 Russia-
-
-617
-01:10:20,366 --> 01:10:23,400
-Ukraine war have all proven that what you thought was impossible can happen. Most people are unprepared, or even unaware, that everything they're used to can be
-
-618
-01:10:23,500 --> 01:10:26,000
-destroyed
-
-619
-01:10:26,200 --> 01:10:28,666
-in an instant. What can you do?
-
-620
-01:10:31,200 --> 01:10:32,433
-Vote with your feet. Choose people and institutions with skin in the game. Stay away from experts who gamble with your money. Vote with your money. Use a
-
-621
-01:10:34,400 --> 01:10:36,666
-barbell strategy: mostly extremely safe, plus a small amount of extremely risky. Maintain liquidity.
-
-622
-01:10:36,733 --> 01:10:39,200
-Don't lock
-
-623
-01:10:39,333 --> 01:10:41,700
-yourself into a path. Adopt an antifragile, subtractive mindset to avoid foolishness. Maintain a diverse range of skills and income. Remember Taleb's words: Fragile people seek prediction; antifragile people seek choice. The wind can extinguish a
-
 624
-01:10:41,900 --> 01:10:44,200
-candle, but it can
+01:09:04,900 --> 01:09:08,333
+Antifragility isn't about fighting a boulder; it's about ensuring you're not underneath it when it falls. Now let's return to the initial question: What's wrong with modernity? The left says the problem is capitalist private ownership and market chaos; the solution is more state intervention, central planning, and expert governance. The right says the problem is constructive rationalism, experts overstepping
 
 625
-01:10:44,300 --> 01:10:46,133
-make a fire burn brighter.
+01:09:16,600 --> 01:09:19,600
+central authority; the solution is traditional wisdom,
 
 626
-01:10:50,366 --> 01:10:52,066
-What we need is not more planning, but more humility; not
+01:09:19,600 --> 01:09:22,533
+local autonomy, and spontaneous order. Taleb stands on the right side.
 
 627
-01:10:56,066 --> 01:10:59,400
-more expert rule, but more risk-sharing; not greater centralization, but more
+01:09:29,933 --> 01:09:32,100
+He is the latest representative of the intellectual lineage of Burke, Hayek, Scott, and Jacobs. He uses *Antifragile* to tell you about the structural fragility created by modernity. He uses *Asymmetric Risk* to tell you about the risk transfer mechanism behind modernity. What is the complete four-part logic? *Fooled by Randomness* talks about humility; success may be luck, don't be overconfident. *The Black Swan* talks about accepting uncertainty; extreme events are unpredictable, but they determine history. *Antifragile*
 
 628
-01:11:03,333 --> 01:11:05,366
-decentralized local
+01:09:55,066 --> 01:09:58,300
+talks about transforming structures not by predicting the
 
 629
-01:11:05,566 --> 01:11:08,566
-autonomy.
+01:09:58,400 --> 01:10:00,966
+future, but by enabling yourself to
 
 630
-01:11:10,133 --> 01:11:11,900
-Taleb's
+01:10:01,966 --> 01:10:03,966
+benefit from chaos. *Asymmetric Risk* talks about identifying risk transfer; understanding who is transferring risk to you. Why is this relevant to our
 
 631
-01:11:14,866 --> 01:11:17,333
-ideas are not academic luxuries, but survival necessities. When poor, cultivate your own virtue and protect yourself. Make yourself
+01:10:04,066 --> 01:10:05,433
+generation? Global geopolitical risks are surging, supply chain restructuring, financial decoupling, and inflation eroding wealth. The 2008 financial crisis, the 2020 pandemic, and the 2022 Russia-Ukraine war have all proven that what you thought was impossible can happen. Most people are unprepared, or even unaware, that everything they're used to can be destroyed in an instant. What
 
 632
-01:11:17,566 --> 01:11:19,133
-antifragile. When successful, export order and understand the world. Vote with your money. Push for
+01:10:06,566 --> 01:10:08,866
+can you do? Vote with your
 
 633
-01:11:23,300 --> 01:11:25,533
-reform when the opportunity arises. But
+01:10:15,466 --> 01:10:17,400
+feet. Choose
 
 634
-01:11:25,766 --> 01:11:27,800
-whatever you do, never believe in the absence of skin. Those in the game,
+01:10:23,500 --> 01:10:26,000
+people and institutions with skin in the game.
 
 635
-01:11:31,666 --> 01:11:32,666
-don't leave your fate in the hands of
+01:10:26,200 --> 01:10:28,666
+Stay away from experts who gamble with your money.
 
 636
+01:10:31,200 --> 01:10:32,433
+Vote with your money. Use a barbell strategy: mostly extremely safe, plus a small amount of extremely risky. Maintain liquidity. Don't lock yourself into a path. Adopt an antifragile, subtractive mindset to avoid foolishness. Maintain a diverse range of skills and income.
+
+637
+01:10:34,400 --> 01:10:36,666
+Remember Taleb's words: Fragile people seek prediction; antifragile people seek choice. The wind
+
+638
+01:10:36,733 --> 01:10:39,200
+can extinguish a candle, but it can make a
+
+639
+01:10:44,300 --> 01:10:46,133
+fire burn brighter.
+
+640
+01:10:50,366 --> 01:10:52,066
+What we need is not more planning, but more humility; not more expert
+
+641
+01:10:56,066 --> 01:10:59,400
+rule, but more risk-sharing; not greater centralization, but more
+
+642
+01:11:03,333 --> 01:11:05,366
+decentralized local autonomy.
+
+643
+01:11:10,133 --> 01:11:11,900
+Taleb's ideas are not academic luxuries, but survival necessities. When poor, cultivate your own virtue and protect yourself. Make yourself
+
+644
+01:11:17,566 --> 01:11:19,133
+antifragile. When successful, export order and understand the world. Vote with your money. Push for reform when the opportunity arises. But whatever you do, never believe in the absence of skin. Those in the game, don't leave your fate in the hands of
+
+645
 01:13:09,600 --> 01:13:11,166
 others.
 
-637
+646
 01:13:11,233 --> 01:13:12,433
 Maintain your options and
 
-638
+647
 01:13:12,433 --> 01:13:13,500
 wait for your opportunity.
 
-639
+648
 01:13:13,633 --> 01:13:14,500
 Thanks for watching, see
 
-640
+649
 01:13:14,500 --> 01:13:15,733
 you next time!
 
