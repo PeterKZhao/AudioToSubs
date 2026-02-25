@@ -1,0 +1,89 @@
+name: Build YouTube streams index
+
+on:
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: "YouTube 频道 handle 或完整 URL（例：@dlw2023）"
+        required: true
+        default: "@dlw2023"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: youtube-streams-index
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install yt-dlp
+        run: |
+          python -m pip install --upgrade pip
+          pip install --upgrade yt-dlp
+
+      - name: Write cookies.txt (from secret)
+        env:
+          YTDLP_COOKIES_TXT: ${{ secrets.YTDLP_COOKIES_TXT }}
+        run: |
+          set -euo pipefail
+          COOKIES_FILE="$RUNNER_TEMP/youtube_cookies.txt"
+          printf '%s' "$YTDLP_COOKIES_TXT" > "$COOKIES_FILE"
+          chmod 600 "$COOKIES_FILE"
+          echo "COOKIES_FILE=$COOKIES_FILE" >> "$GITHUB_ENV"
+
+      - name: Resolve channel info
+        env:
+          CHANNEL_INPUT: ${{ github.event.inputs.channel }}
+        run: |
+          set -euo pipefail
+          if [[ "$CHANNEL_INPUT" == http* ]]; then
+            BASE="${CHANNEL_INPUT%/streams}"
+            CHANNEL_STREAMS_URL="${BASE}/streams"
+          else
+            HANDLE="${CHANNEL_INPUT}"
+            [[ "$HANDLE" != @* ]] && HANDLE="@${HANDLE}"
+            CHANNEL_STREAMS_URL="https://www.youtube.com/${HANDLE}/streams"
+          fi
+          CHANNEL_DIR=$(
+            echo "$CHANNEL_INPUT" \
+            | sed 's|https://www\.youtube\.com/||' \
+            | sed 's|^@||' \
+            | sed 's|/.*||' \
+            | tr '[:upper:]' '[:lower:]' \
+            | tr -cd '[:alnum:]_-'
+          )
+          echo "CHANNEL_STREAMS_URL=$CHANNEL_STREAMS_URL" >> "$GITHUB_ENV"
+          echo "CHANNEL_DIR=$CHANNEL_DIR"               >> "$GITHUB_ENV"
+          echo "Resolved → URL: $CHANNEL_STREAMS_URL  DIR: $CHANNEL_DIR"
+
+      - name: Fetch streams list + classify
+        run: python .github/scripts/fetch_streams.py
+
+      - name: Commit & push changes
+        run: |
+          set -euo pipefail
+          if git status --porcelain | grep -q '^'; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/youtube/
+            git commit -m "Update ${{ github.event.inputs.channel }} streams index" || exit 0
+            git push
+          else
+            echo "No changes to commit"
+          fi
