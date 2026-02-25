@@ -1,0 +1,1260 @@
+1
+00:00:00,266 --> 00:00:01,700
+Hello everyone, this is Brain Master.
+
+2
+00:00:01,800 --> 00:00:03,533
+Today we're talking about oil prices.
+
+3
+00:00:03,900 --> 00:00:06,333
+Recently, Maduro was arrested in Venezuela,
+
+4
+00:00:06,466 --> 00:00:08,766
+and now Iran's internal political and economic pressures are
+
+5
+00:00:08,766 --> 00:00:10,000
+also reaching a critical point.
+
+6
+00:00:10,166 --> 00:00:12,866
+Both countries happen to be major oil producers. Some
+
+7
+00:00:12,966 --> 00:00:15,566
+viewers requested a video on oil prices.
+
+8
+00:00:15,866 --> 00:00:17,000
+I happened to be planning to copy
+
+9
+00:00:17,000 --> 00:00:19,166
+Buffett's investment in Occidental Petroleum after he bought
+
+10
+00:00:19,166 --> 00:00:20,600
+his shares,
+
+11
+00:00:20,733 --> 00:00:21,900
+because I had previously reviewed
+
+12
+00:00:21,900 --> 00:00:23,666
+Buffett's investment in PetroChina (CNOOC) – buying in 2003 and
+
+13
+00:00:23,800 --> 00:00:26,100
+selling in 2007, making
+
+14
+00:00:28,000 --> 00:00:28,933
+eight times his initial investment and
+
+15
+00:00:29,066 --> 00:00:31,066
+nearly 50% annualized return.
+
+16
+00:00:31,133 --> 00:00:33,933
+So I know Buffett is incredibly skilled in this area and
+
+17
+00:00:33,966 --> 00:00:35,266
+can be trusted.
+
+18
+00:00:35,400 --> 00:00:37,133
+However, I didn't completely copy him. I
+
+19
+00:00:37,200 --> 00:00:39,666
+bought CNOOC, which I'm more familiar with.
+
+20
+00:00:39,800 --> 00:00:42,166
+But my analytical framework for oil prices was
+
+21
+00:00:42,166 --> 00:00:44,700
+formed during this investment process.
+
+22
+00:00:44,966 --> 00:00:47,133
+Today, I'll use a completely new perspective to break down the issue of oil prices.
+
+23
+00:00:50,166 --> 00:00:51,866
+I think this way of thinking
+
+24
+00:00:51,866 --> 00:00:54,266
+should be applicable to most resource-based, internationally priced dollar-denominated commodities. Let me first explain the structure of this video. I've
+
+25
+00:00:57,566 --> 00:00:59,500
+divided the factors affecting oil prices into four layers based on time cycles: ultra-long-term, long-term, medium-term, and short-term. These
+
+26
+00:01:01,400 --> 00:01:03,400
+four lines are
+
+27
+00:01:07,400 --> 00:01:09,200
+superimposed...
+
+28
+00:01:09,233 --> 00:01:11,566
+You'll then be able to clearly see where oil prices are currently and which direction they're heading. Let's start by looking at a super long-term perspective of at least 50 years. How much have oil prices
+
+29
+00:01:15,266 --> 00:01:18,166
+increased in these 50 years?
+
+30
+00:01:20,533 --> 00:01:22,766
+Before the first oil crisis in 1973,
+
+31
+00:01:22,833 --> 00:01:24,200
+oil was $3 a barrel; now it's over $60, a little over 20 times. How does that 20-fold increase over 50 years compare? Let's compare it to other commodities. In
+
+32
+00:01:31,533 --> 00:01:34,666
+1973, the median home price in the US was $28,000; now it's $420,000, a 15-fold increase.
+
+33
+00:01:37,266 --> 00:01:38,333
+Public university tuition was over $
+
+34
+00:01:38,333 --> 00:01:40,233
+500 a year in 1973; now it's $10,000, nearly 20 times. Gold was $100 in 1973;
+
+35
+00:01:40,233 --> 00:01:41,233
+now it's $4,600, a 46-fold increase. Oil
+
+36
+00:01:41,233 --> 00:01:42,666
+has increased 20 times—not a huge increase, but
+
+37
+00:01:49,333 --> 00:01:50,600
+not a small one either.
+
+38
+00:01:50,766 --> 00:01:51,766
+But have you noticed that it's essentially the same thing that has depreciated? The
+
+39
+00:01:53,233 --> 00:01:54,266
+money you have—
+
+40
+00:01:54,633 --> 00:01:55,933
+one dollar in 1973—is worth only $0.17 today. That's an 83% loss over 50 years.
+
+41
+00:02:00,733 --> 00:02:02,933
+So it's not entirely that oil has become more expensive; the key is that money has become less valuable. Let's take
+
+42
+00:02:04,666 --> 00:02:06,300
+Venezuela as an example. In
+
+43
+00:02:06,433 --> 00:02:09,200
+2012, the minimum wage was $360 a month. Life wasn't rich, but it was manageable. By 2019, however, the minimum wage was less than $1 a month. You heard right, just one
+
+44
+00:02:15,266 --> 00:02:16,200
+dollar.
+
+45
+00:02:16,366 --> 00:02:17,700
+What happened in between? Hyperinflation. The inflation rate was 130,000% in 2018, and the International Monetary Fund estimated it would
+
+46
+00:02:22,966 --> 00:02:26,233
+reach 10,000,000% in 2019. There were three
+
+47
+00:02:26,533 --> 00:02:28,566
+currency reforms: five zeros were removed in 2018, and six more in 2021, a total of
+
+48
+00:02:28,866 --> 00:02:30,666
+eleven zeros. To put that into perspective, 1 trillion bolivars in a bank in 2021 would only be worth one dollar
+
+49
+00:02:38,366 --> 00:02:39,866
+by 2025. The official exchange rate of the bolivar depreciated by 1.2 trillion times, while the black market rate depreciated by 80 trillion times. Venezuela has the world's largest oil reserves, 303 billion barrels, more than Saudi Arabia, but ordinary people can't afford oil. Why? Because oil is an international commodity priced in US dollars. The
+
+50
+00:02:39,866 --> 00:02:43,233
+Venezuelan currency is practically worthless. The Venezuelan
+
+51
+00:02:43,433 --> 00:02:46,066
+currency has depreciated by 80 trillion times in just a few years. The US dollar has depreciated by 83% in 50 years. While the speeds differ, the
+
+52
+00:02:51,000 --> 00:02:52,033
+direction is the same. All
+
+53
+00:02:57,333 --> 00:02:59,233
+fiat currencies
+
+54
+00:03:00,000 --> 00:03:03,400
+depreciate in the long run; the only difference is the rate. This topic was thoroughly discussed in the foreign exchange episode, so I won't elaborate further here. In the long run, fiat currencies, including the US dollar, will underperform those commodities with no depreciation and limited supply, such as gold and land. Note that houses are an exception; houses
+
+55
+00:03:03,666 --> 00:03:06,233
+depreciate, and after 50 years, the depreciation of a house is zero. What's
+
+56
+00:03:23,766 --> 00:03:25,833
+valuable is the land beneath it. Oil is another such commodity; every barrel used is one less, it's non-renewable, and it doesn't depreciate. This kind of scarce, valuable hard currency will definitely resist inflation in the long run. Therefore, the
+
+57
+00:03:29,166 --> 00:03:31,133
+price of oil has increased 20 times in the past 50 years. It's not that oil has become more
+
+58
+00:03:31,200 --> 00:03:32,866
+expensive; it's that money has become less valuable. Will this logic change?
+
+59
+00:03:36,733 --> 00:03:37,533
+No, as long as humanity continues to print money and oil remains non-renewable, oil prices will continue to rise in
+
+60
+00:03:41,066 --> 00:03:42,533
+the very long term. Of course, there's a prerequisite: oil must maintain its irreplaceable use value. Many people will say that if the
+
+61
+00:03:42,933 --> 00:03:45,533
+energy
+
+62
+00:03:46,666 --> 00:03:48,000
+transition is successful in 50 years, everyone drives electric cars, and industry uses clean energy, oil will be downgraded from the lifeblood of civilization to an ordinary commodity.
+
+63
+00:03:48,133 --> 00:03:49,433
+This logic then fails. Let me
+
+64
+00:04:00,833 --> 00:04:01,866
+explain this to you thoroughly using first principles:
+
+65
+00:04:01,866 --> 00:04:03,933
+before the breakthrough of nuclear energy
+
+66
+00:04:05,233 --> 00:04:06,633
+technology, oil is destined to be
+
+67
+00:04:09,633 --> 00:04:11,066
+irreplaceable. There is a hard constraint in physics called energy density. The energy density of gasoline is equivalent to 8.9 kWh per liter, while that of lithium batteries is 0.7 kWh per liter. What does this mean? For the same volume, gasoline can store more than
+
+68
+00:04:22,466 --> 00:04:25,833
+12 times the energy of a lithium battery. This is why a 50-liter tank of gasoline can take you 500 kilometers, while an electric car needs to carry a battery pack weighing several hundred kilograms to travel only 300 kilometers. As for hydrogen fuel cells, even when hydrogen is compressed to 700 atmospheres, the energy density is only 1.4 kWh per liter, still only
+
+69
+00:04:33,233 --> 00:04:35,066
+1/6 of that of gasoline. Moreover,
+
+70
+00:04:35,766 --> 00:04:37,766
+you need to
+
+71
+00:04:40,466 --> 00:04:43,166
+use carbon fiber high-pressure tanks, which are costly and dangerous to store. The construction cost of a hydrogen refueling station is more than 10 times that of a gas station. This is the law of physics; there's no way to overcome it. The ceiling of energy density is there, and you can't break through it. So, what will the energy transition reach in 50 years? Passenger cars may be mostly electrified because charging is convenient
+
+72
+00:05:04,233 --> 00:05:06,266
+in cities, and a
+
+73
+00:05:07,400 --> 00:05:10,133
+range of 300 kilometers will be sufficient. However, for long-distance transportation, such as ocean-going cargo ships, large trucks, and airplanes, batteries simply cannot power them. A cargo ship would need to carry thousands of tons of batteries to make a single transoceanic voyage, which is impractical due to cost and weight constraints. Furthermore, petrochemical raw materials, the clothes you wear, and the plastic building materials you use cannot be replaced by batteries.
+
+74
+00:05:10,600 --> 00:05:13,566
+Therefore, while the demand for oil may decrease, complete replacement is
+
+75
+00:05:30,700 --> 00:05:32,400
+not feasible due to the
+
+76
+00:05:32,666 --> 00:05:34,066
+laws of physics. For long-term factors affecting oil prices, we need to look at the increase in global urbanization. According to the UN's 2025 World Urbanization Outlook, by 2050, the
+
+77
+00:05:46,866 --> 00:05:49,066
+global urban population will increase by 2.2-2.5 billion. To put this into perspective, consider China from 2000 to 2010. In 2000, Beijing's
+
+78
+00:05:49,600 --> 00:05:51,600
+Third Ring Road was considered suburban; the area outside the Fourth Ring Road was mostly farmland. By 2010, the Fifth Ring Road was fully developed. In that decade, China's
+
+79
+00:05:51,600 --> 00:05:53,033
+urbanization rate rose from 36% to
+
+80
+00:05:54,233 --> 00:05:57,666
+50%, adding 200 million urban residents. And what about oil prices during that decade? They experienced an epic bull market. At the end of 2000, crude oil was around $20; by
+
+81
+00:06:06,233 --> 00:06:08,333
+July 2008, it was $
+
+82
+00:06:08,433 --> 00:06:12,033
+147, an increase of more than seven times. Of course, there are factors related to China's WTO accession and the pre-financial crisis bubble, but the main driving force is demand. 200 million people have moved from rural to urban areas, completely changing their lifestyles. There are also expectations that hundreds of millions more will move to cities in the future, making the move highly certain. Let's speculate first. How much does
+
+83
+00:06:12,066 --> 00:06:13,766
+urban residents use
+
+84
+00:06:13,933 --> 00:06:15,133
+oil
+
+85
+00:06:29,666 --> 00:06:32,433
+compared to rural residents? Ten times more. You might say it's just about driving a car more, but it's far more than that. Urban
+
+86
+00:06:32,433 --> 00:06:34,000
+life is surrounded by oil. The clothes you wear look like cloth, but they're actually polyester, nylon, and acrylic—90% of these synthetic fibers come from oil.
+
+87
+00:06:44,600 --> 00:06:45,533
+Globally, synthetic fibers account for over 60% of textiles. You might say you wear cotton, but cotton requires fertilizer, and 80% of fertilizer comes from oil and natural gas.
+
+88
+00:06:48,066 --> 00:06:50,100
+Your furniture's surface coating is made of oil; building materials and pipes are made of PVC; appliance casings are made of ABS plastic; phone cases are made of polycarbonate; packaging bags are
+
+89
+00:06:52,966 --> 00:06:55,733
+made of polyethylene. You might
+
+90
+00:06:59,166 --> 00:07:00,333
+say you can't live without plastic? If so, then don't live in an apartment building. Modern building waterproofing materials, insulation materials, adhesives are all petrochemical products; asphalt pavements are
+
+91
+00:07:01,933 --> 00:07:04,300
+made of oil. High-income countries use 20 times more plastic per capita than low-income countries, and fertilizer use is 10 times less. Let
+
+92
+00:07:18,466 --> 00:07:19,933
+me break down the uses of oil for you in detail. Transportation fuels account for 60-70%, this is the
+
+93
+00:07:30,133 --> 00:07:32,866
+largest segment. Gasoline, diesel, aviation kerosene, and marine heavy fuel oil
+
+94
+00:07:37,766 --> 00:07:39,466
+account for 25-30%. Petrochemical raw materials and industrial uses account for 5-10%, such as lubricating oil, asphalt, and petroleum coke. Petroleum is the primary fuel for transportation due to its highest energy density, as I've already discussed.
+
+95
+00:07:39,466 --> 00:07:40,533
+Here, let's analyze the demand structure for other uses. First, petrochemical raw
+
+96
+00:07:43,766 --> 00:07:47,833
+materials are the fastest growing segment. According to IEA data, global demand for petrochemical raw materials increased by over 12% from 2019 to 2024, with China contributing the majority of the
+
+97
+00:08:00,633 --> 00:08:03,966
+increase. Why? Because there are no large-scale substitutes for plastics. Biodegradable plastics cost 3-5 times more than ordinary plastics, and their global production capacity is only a few hundred thousand tons, while ordinary plastics account for hundreds of millions of tons annually. Second, the proportion of transportation fuel used in developed countries is indeed decreasing. In the US,
+
+98
+00:08:07,133 --> 00:08:10,066
+transportation fuel use in 2024 will be 4.3% lower than in 2019; in the EU, 7% lower; and in Japan, 11.8% lower. Electric vehicles, high-speed rail, and remote work are
+
+99
+00:08:10,166 --> 00:08:11,800
+all contributing. But what about
+
+100
+00:08:24,133 --> 00:08:27,100
+developing countries?
+
+101
+00:08:27,333 --> 00:08:31,266
+India's oil demand is projected to grow by 3.4% in 2024, making it the largest source of global growth. Southeast Asia will grow by 2.6%. This is the key point. India's urbanization rate is currently 35%, and
+
+102
+00:08:31,433 --> 00:08:32,866
+Africa's is even lower. Once these regions embark on a
+
+103
+00:08:35,200 --> 00:08:38,600
+rapid urbanization process, they will repeat China's experience in the
+
+104
+00:08:40,400 --> 00:08:43,400
+2000s, but on a larger scale. UN data indicates that the urban population will increase by 2.2-2.5 billion in the next 25 years, with
+
+105
+00:08:45,500 --> 00:08:47,033
+90% in Asia and
+
+106
+00:08:51,133 --> 00:08:52,200
+Africa.
+
+107
+00:08:52,300 --> 00:08:54,966
+This is more than double the urban population of China in the past. Consider that during China's rapid urbanization wave,
+
+108
+00:09:00,166 --> 00:09:03,166
+oil prices rose from $20 to $147, a sevenfold increase. This
+
+109
+00:09:05,433 --> 00:09:08,233
+next wave will be even larger; how much will prices
+
+110
+00:09:08,466 --> 00:09:11,100
+rise? Of course, supply-side responses, the development of alternative energy sources, and efficiency improvements will all have an impact. However, one thing is certain: the urbanization demand of over 2 billion people is unprecedented in human history. Currently, we are in a transitional period. China's economic engine has slowed down. In 2024, oil demand growth
+
+111
+00:09:16,266 --> 00:09:17,400
+will be only 0.8%, far lower than before the pandemic. Other developing economies have not
+
+112
+00:09:27,000 --> 00:09:28,800
+yet caught up, resulting in weak global oil demand growth. In
+
+113
+00:09:33,233 --> 00:09:36,600
+2024, global oil demand will only increase by 1.3% compared to 2019, and this 1.3% growth will almost entirely come from petrochemical raw materials. Non-petrochemical uses and transportation/industrial fuels will remain largely unchanged, while developed countries are experiencing declines. The rising prices in developing countries have offset each other, resulting in a pessimistic outlook as the market sees no
+
+114
+00:09:40,933 --> 00:09:43,533
+increase in demand. Furthermore, the threat of electric vehicles is rampant. The IEA predicts that oil demand will peak in
+
+115
+00:09:43,533 --> 00:09:46,566
+2030,
+
+116
+00:09:46,733 --> 00:09:48,400
+but the seeds have already been sown. Urbanization in populous countries like India, Indonesia, Vietnam, the Philippines, Nigeria, and Ethiopia is just beginning. The timing is
+
+117
+00:09:59,866 --> 00:10:00,733
+uncertain—it could be the
+
+118
+00:10:03,866 --> 00:10:05,666
+2030s or the 2040s—but the direction is clear. The question is, can the supply side keep up once it truly takes off? This is the second layer. Over the next 5-15 years, I predict that
+
+119
+00:10:05,666 --> 00:10:06,900
+oil prices will
+
+120
+00:10:17,066 --> 00:10:18,366
+likely fluctuate within a range of $30-$
+
+121
+00:10:18,366 --> 00:10:19,766
+150. The lower limit of
+
+122
+00:10:24,400 --> 00:10:25,466
+this range is the cost line. The global weighted average production cost is $30-$40, with the Middle East being the cheapest. Saudi Arabia's
+
+123
+00:10:27,666 --> 00:10:28,666
+oil field production cost is less than
+
+124
+00:10:28,666 --> 00:10:31,866
+$10 per barrel, Kuwait's is $15, and Iraq and Iran are all below $20. However, not all oil
+
+125
+00:10:32,133 --> 00:10:34,633
+is this cheap
+
+126
+00:10:34,866 --> 00:10:38,266
+globally. The break-even point for US shale oil is around $40-$60,
+
+127
+00:10:38,566 --> 00:10:39,700
+Canadian
+
+128
+00:10:39,700 --> 00:10:42,600
+oil sands are $50-$70, Brazilian deep-sea oil fields are $40-
+
+129
+00:10:42,800 --> 00:10:44,166
+$60, and North Sea oil fields are $50-$70.
+
+130
+00:10:44,366 --> 00:10:46,666
+Below $30, these
+
+131
+00:10:46,766 --> 00:10:49,166
+high-cost production capacities will be shut down on a
+
+132
+00:11:02,433 --> 00:11:05,100
+large scale,
+
+133
+00:11:05,100 --> 00:11:06,400
+automatically shrinking supply.
+
+134
+00:11:06,600 --> 00:11:08,633
+This is similar to the shutdown price of Bitcoin. Veteran miners in the crypto world
+
+135
+00:11:08,866 --> 00:11:10,366
+know that
+
+136
+00:11:10,433 --> 00:11:12,866
+Bitcoin bottoms out during each bear market when it falls to the shutdown price for most miners. Because at this price, those who would have sold immediately after mining won't sell, and some miners who were planning to enter the market simply
+
+137
+00:11:12,966 --> 00:11:15,400
+buy coins directly. Bitcoin has a fixed output; regardless of the number of miners, the production capacity won't change. However, oil is accompanied by a significant reduction in production capacity. So unless no one wants oil, once it hits the shutdown price for most oil fields, a reversal is
+
+138
+00:11:26,666 --> 00:11:27,800
+inevitable. After the Chinese stock market crash in 2015, oil prices plummeted from over $100 to $30. The shale
+
+139
+00:11:28,000 --> 00:11:29,266
+oil revolution led to a surge in US
+
+140
+00:11:29,266 --> 00:11:31,300
+production. OPEC didn't cut production,
+
+141
+00:11:31,466 --> 00:11:33,266
+so everyone was competing to sell at a loss.
+
+142
+00:11:37,433 --> 00:11:39,633
+That year, over 100 US shale oil companies went bankrupt, the number of drilling rigs
+
+143
+00:11:40,433 --> 00:11:42,900
+dropped from 1,600 to 400, and production fell from 9.6 million barrels per day to 8.8 million barrels per day. The entire industry suffered heavy losses. I saw that crash very clearly. Commodity cycles can send an industry plummeting from its peak to rock bottom and then back up again. When supply contracts, oil
+
+144
+00:11:44,233 --> 00:11:45,533
+prices rebound quickly. In April 2020, negative oil
+
+145
+00:11:51,366 --> 00:11:54,033
+prices even occurred; WTI crude futures reached -$37. However, that was an extreme anomaly. Pandemic lockdowns and overflowing storage facilities meant futures holders had nowhere to store their
+
+146
+00:12:08,600 --> 00:12:10,066
+oil and were essentially paying others to take over their contracts. Spot prices have never been negative, and prices quickly returned to above $30. Therefore, $30 is the floor; once it's breached, the market will quickly recover. The upper limit of this platform is the demand-bearing capacity of $150. In
+
+147
+00:12:10,366 --> 00:12:12,766
+July 2008, oil prices surged to
+
+148
+00:12:12,966 --> 00:12:16,233
+$147. What were the consequences? A global economic collapse. That year, the US CPI rose by more than 5%, inflation
+
+149
+00:12:17,900 --> 00:12:20,433
+spiraled out of control. High
+
+150
+00:12:20,566 --> 00:12:22,966
+oil prices
+
+151
+00:12:23,100 --> 00:12:25,233
+pushed up transportation and production costs, crushing consumption. In the second half of
+
+152
+00:12:37,200 --> 00:12:38,533
+2008, the financial crisis erupted, and
+
+153
+00:12:38,666 --> 00:12:40,633
+oil prices plummeted from $147 to $40 within a few months. In March 2022, with the outbreak of the Russia-Ukraine war, Brent crude oil approached $140. Countries around
+
+154
+00:12:41,900 --> 00:12:43,300
+the world are getting restless. The
+
+155
+00:12:43,500 --> 00:12:45,633
+US released 180 million barrels from its strategic reserves in
+
+156
+00:12:53,133 --> 00:12:56,666
+one go, followed by Europe and Japan. OPEC also softened its stance and said it would increase production, causing oil prices to quickly fall back to $70-90.
+
+157
+00:12:59,866 --> 00:13:02,033
+Nearing $150, this is essentially a tax on the economy. Every $10 increase in oil prices reduces global GDP growth by
+
+158
+00:13:05,033 --> 00:13:06,766
+0.1-0.2 percentage points. Oil accounts for 3% to 4% of global GDP, but it is a fundamental energy source. A price
+
+159
+00:13:08,100 --> 00:13:10,033
+surge will affect all industries, and high
+
+160
+00:13:10,233 --> 00:13:12,800
+oil prices will accelerate substitution.
+
+161
+00:13:16,333 --> 00:13:17,700
+Every surge in oil prices has triggered an energy revolution. The energy efficiency standards for nuclear power and
+
+162
+00:13:23,900 --> 00:13:25,433
+natural
+
+163
+00:13:27,933 --> 00:13:29,933
+gas emerged after the oil crisis of the 1970s. The high oil prices of 2008 spurred the US shale oil revolution and the
+
+164
+00:13:33,033 --> 00:13:34,933
+emergence of
+
+165
+00:13:34,933 --> 00:13:36,900
+electric vehicles. In 2022, the penetration rate of electric vehicles in Europe rose from 15% to 25%, and in China it rose to 50%. Oil-producing countries aren't stupid; excessively high prices are tantamount to digging their own graves. Saudi Arabia's fiscal break-even point is $80 to $85, but they know that oil prices cannot remain above $100 indefinitely. That would force the world to develop alternative energy sources, leading to a permanent contraction in demand. Therefore, $
+
+166
+00:13:47,700 --> 00:13:49,200
+150 is the ceiling;
+
+167
+00:13:51,066 --> 00:13:51,866
+exceeding it would be self-destructive for demand. In the medium term, oil prices will
+
+168
+00:13:53,133 --> 00:13:56,766
+fluctuate between $30 and $150. Why
+
+169
+00:13:57,600 --> 00:14:00,166
+can't they break through? Because both supply and demand are weak. Regarding demand, as mentioned earlier, we are currently in a transitional period. China is lagging behind, and demand in India and Africa hasn't picked up yet.
+
+170
+00:14:00,300 --> 00:14:02,500
+Global oil
+
+171
+00:14:02,500 --> 00:14:04,066
+demand in 2024 will only increase by 1.3% compared to
+
+172
+00:14:08,733 --> 00:14:12,566
+2019, with the increase almost entirely coming from petrochemical raw materials. Transportation and industrial fuels will remain roughly the same. On the supply side, there's a reluctance to invest,
+
+173
+00:14:12,566 --> 00:14:13,600
+which is the most crucial factor. In
+
+174
+00:14:23,633 --> 00:14:26,566
+2014, the US oil and gas industry's capital expenditure was $200 billion. At that time, oil prices were around $100,
+
+175
+00:14:29,233 --> 00:14:31,266
+and the
+
+176
+00:14:34,966 --> 00:14:38,566
+industry was very optimistic, rushing to expand. As a result, oil prices began to plummet in the second half of 2014, falling to $50 in 2015 and $30 in 2016. Shale oil companies suffered widespread losses, with over 100 going bankrupt. In 2023, US oil and gas capital expenditure will only be $142 billion, 30% lower than in
+
+177
+00:14:42,733 --> 00:14:45,233
+2014. Global upstream investment is
+
+178
+00:14:45,333 --> 00:14:46,933
+60% lower than in 2014. In 2022, the global oil and
+
+179
+00:14:48,800 --> 00:14:50,500
+gas industry generated a record
+
+180
+00:14:52,200 --> 00:14:56,000
+$1.4 trillion in free cash flow. That year, oil prices averaged around $100, and the industry made a fortune. However, this money wasn't used to invest in increasing production; instead, it was distributed to shareholders. The seven major international oil companies repurchased $41 billion worth of shares in 2022. PetroChina distributed
+
+181
+00:15:05,266 --> 00:15:06,666
+80.5 billion RMB in dividends in 2023, accounting for 50% of its net profit. In the first quarter of 2022,
+
+182
+00:15:15,300 --> 00:15:16,900
+53 US oil and gas companies
+
+183
+00:15:19,866 --> 00:15:22,900
+distributed $8.6 billion in dividends and share buybacks,
+
+184
+00:15:23,000 --> 00:15:24,700
+accounting for over 30% of their operating cash flow. Before the pandemic, this proportion was only 22%. The industry's mindset has changed. Previously,
+
+185
+00:15:26,966 --> 00:15:30,166
+the pursuit was growth; now it
+
+186
+00:15:37,866 --> 00:15:39,200
+'s returns. Previously, the more you exploited, the better; now it's about capital discipline. Why is this? First,
+
+187
+00:15:44,233 --> 00:15:45,300
+debt repayment. During the years of low oil prices from
+
+188
+00:15:45,633 --> 00:15:48,366
+2014 to 2020, many companies borrowed heavily to maintain operations. Now that oil prices have recovered, the primary task is to
+
+189
+00:15:48,400 --> 00:15:50,966
+repair balance sheets and reduce leverage. Second, there are no clear demand
+
+190
+00:15:56,400 --> 00:15:57,300
+signals.
+
+191
+00:15:57,433 --> 00:15:58,766
+China's growth is slowing,
+
+192
+00:15:58,766 --> 00:16:00,700
+other emerging economies are still developing, and the threat of electric vehicles is growing. If
+
+193
+00:16:02,600 --> 00:16:04,300
+you invest heavily in increasing production now, where will the demand be when the oil comes out in
+
+194
+00:16:04,300 --> 00:16:05,633
+three to five years? Thirdly, the
+
+195
+00:16:07,433 --> 00:16:08,866
+historical trauma of the
+
+196
+00:16:09,066 --> 00:16:12,000
+2014-2016 crash was devastating; over 100 companies went bankrupt, the entire industry nearly collapsed, and investors were terrified of losses. From 2010 to 2019, the US shale oil industry
+
+197
+00:16:12,066 --> 00:16:13,433
+burned through $300 billion in cash, with a
+
+198
+00:16:18,433 --> 00:16:21,833
+negative
+
+199
+00:16:21,833 --> 00:16:23,400
+return on investment. Shareholders were unhappy, demanding dividends, not growth. Fourthly, shareholder pressure. Institutional investors now have clear requirements for oil and gas companies: capital discipline, prioritizing dividends, and prohibiting blind expansion. If you dare say you want to increase production by 50%, the stock price will immediately plummet; if you say you want to
+
+200
+00:16:24,166 --> 00:16:25,566
+increase dividends, the
+
+201
+00:16:26,100 --> 00:16:27,900
+stock price will rise. The result is a decade of underinvestment across the industry. What are the consequences? Oil fields have a natural decay rate of 4% to 6%
+
+202
+00:16:27,933 --> 00:16:28,200
+annually; production from old oil fields will decline year by year. If you don't continuously invest in developing new
+
+203
+00:16:28,200 --> 00:16:30,600
+oil fields, total production
+
+204
+00:16:39,466 --> 00:16:40,400
+will drop. Moreover,
+
+205
+00:16:44,366 --> 00:16:46,066
+oil investment has a
+
+206
+00:16:47,966 --> 00:16:50,133
+long cycle; from deciding to invest to exploration, evaluation, design, construction, and production, onshore oil fields take 3 years, and offshore oil fields take 5 to 7 years. Shale oil is faster. However, this will take
+
+207
+00:17:02,300 --> 00:17:04,166
+1 to 2 years, so the medium term is a dilemma. Demand
+
+208
+00:17:06,833 --> 00:17:08,933
+is weak, and supply is hesitant to increase, causing oil prices to fluctuate within a range. A pandemic-
+
+209
+00:17:09,033 --> 00:17:10,066
+induced supply disruption or the Russia-Ukraine war could trigger a surge to the upper limit of the
+
+210
+00:17:11,333 --> 00:17:13,166
+range, around $150. Conversely, a major economic recession, financial crisis, or a black swan event like
+
+211
+00:17:14,233 --> 00:17:15,666
+a pandemic
+
+212
+00:17:16,900 --> 00:17:18,100
+could cause a sharp drop to the lower limit of the
+
+213
+00:17:18,100 --> 00:17:20,066
+range, around $30. But this range will eventually be broken, and the direction will be upward. Why am I so certain? Because the 10-year underinvestment on the supply side and the urbanization of over 2 billion people on the
+
+214
+00:17:33,300 --> 00:17:35,266
+demand
+
+215
+00:17:35,266 --> 00:17:37,833
+side will converge at some point in the future. At that time, the supply-demand gap will be larger than imagined. Returning to the present, it is now early 2026, and oil prices are at $60. Where will they
+
+216
+00:17:37,833 --> 00:17:39,666
+go in the short term? Let's look at the technical aspects first. In my previous video on candlestick technical analysis, I discussed two
+
+217
+00:17:39,733 --> 00:17:42,466
+postulates: first, prices fluctuate around value; second, fluctuations are always excessive. You can understand the central point of this oil price range as its value under the current supply and demand conditions. The price is currently moving from the optimistic level at the beginning of the Russia-Ukraine war. Swinging towards pessimism, once it peaks and falls, it will most likely eventually drop to the cost line for most people.
+
+218
+00:17:48,966 --> 00:17:50,233
+Having
+
+219
+00:17:53,600 --> 00:17:55,233
+analyzed the technicals, let's look at the fundamentals. Trump is playing a very big game, with the core objective of lowering oil prices. Why lower oil prices? There are two purposes. First, to reduce
+
+220
+00:18:20,133 --> 00:18:22,033
+domestic inflation in the US. Trump's biggest economic challenge right now is inflation. Too much money was printed during the pandemic; in 2022, the US CPI exceeded 9%, now down to around 3%, but still higher than the Fed's 2% target. How to lower inflation? The most important thing Trump can do is lower oil prices. He wants to increase tariffs on goods; how can he lower those? He wants to clear illegal immigrants;
+
+221
+00:18:37,966 --> 00:18:39,100
+how can he lower those? Only oil prices. Every $10 drop in
+
+222
+00:18:39,166 --> 00:18:41,933
+oil prices per barrel will likely reduce the US CPI by about 0.1-0.2 percentage points. Second, to curb oil-producing countries like Russia. The Russia-Ukraine war has been going on for almost three years. Many
+
+223
+00:18:45,966 --> 00:18:47,366
+people don't understand why Russia, with such a poor economy, can still hold on. The answer lies in oil prices. Russia's fiscal break-even point is at
+
+224
+00:18:49,633 --> 00:18:51,733
+$70-80 per barrel. Now, with oil prices at $60, Russia's finances are starting to tighten. Trump understands this clearly and wants to end the war. The most effective way is not negotiation, but to continue to suppress oil prices. If oil prices fall below $50,
+
+225
+00:19:04,266 --> 00:19:06,300
+Russia's finances will be completely unsustainable. Military spending accounts for more than 6% of Russia's GDP; a drop in oil prices will drastically reduce government revenue, making it impossible
+
+226
+00:19:13,566 --> 00:19:14,533
+to continue the war. Therefore,
+
+227
+00:19:16,566 --> 00:19:18,400
+suppressing oil prices both lowers
+
+228
+00:19:18,600 --> 00:19:20,333
+inflation and curbs Russia—killing
+
+229
+00:19:22,400 --> 00:19:25,333
+two birds with one stone. Trump plans to suppress oil prices through three approaches. The first is Venezuela. Recently, Maduro was arrested, and the US has essentially taken control of Venezuela's oil resource development. Venezuela's
+
+230
+00:19:39,200 --> 00:19:40,900
+current daily production is 900,000-940,000 barrels, more than half of the more than 2 million barrels in 2017. Why is infrastructure collapsing? Venezuela
+
+231
+00:19:41,433 --> 00:19:44,033
+'s oil is mainly heavy crude, accounting for
+
+232
+00:19:44,433 --> 00:19:47,400
+67.5% of total production. The core export product, Merey crude, has an API gravity of only
+
+233
+00:19:47,500 --> 00:19:50,333
+16 to 18 and a sulfur content of 3.5% to
+
+234
+00:19:54,933 --> 00:19:57,033
+5%. This
+
+235
+00:19:57,100 --> 00:19:59,233
+type of oil is difficult to refine, requiring specialized refineries, and diluents are needed for transportation. Venezuela is currently facing financial difficulties and cannot afford sufficient diluents. Many oil wells are producing oil but cannot transport it out. In addition, insufficient electricity and aging refinery facilities, coupled with US sanctions cutting off technology
+
+236
+00:20:06,333 --> 00:20:08,300
+and funding sources, further exacerbate the situation. The entire industry is trapped in a vicious cycle of capital shortage, aging
+
+237
+00:20:15,866 --> 00:20:17,300
+equipment, and
+
+238
+00:20:17,333 --> 00:20:20,000
+technological blockade. Even after Trump established a pro-American government, allowing American oil companies to invest and rebuild, this is not something that can be accomplished in a year or two. Chinese audiences should be well aware that these assets, ravaged by the state-owned economy, have
+
+239
+00:20:20,066 --> 00:20:21,866
+suffered years of corruption, insufficient investment, and petty
+
+240
+00:20:32,233 --> 00:20:34,500
+theft by
+
+241
+00:20:34,500 --> 00:20:36,000
+insiders. Much of Venezuela's oil infrastructure is essentially useless. How much investment is needed?
+
+242
+00:20:36,133 --> 00:20:37,433
+Hundreds of billions of dollars. How much time? 3-5 years. Currently, Chevron's daily production in Venezuela is 242,000 barrels, accounting for 27% of Venezuela's total production—this is already the fastest pace. If the US invests heavily,
+
+243
+00:20:40,000 --> 00:20:41,633
+Venezuela's daily
+
+244
+00:20:48,500 --> 00:20:52,366
+production could return to 2-2.5 million barrels in the next 3-5 years, with a potential increase of 1-1.5 million barrels. But this is 3-5 years from now. The second pillar is increased US production. The US doesn't lack oil. In March 2025, US crude oil production reached 13.49 million barrels per day, a record high. The
+
+245
+00:20:56,600 --> 00:20:58,433
+US is already the world's largest oil producer, holding the top spot for
+
+246
+00:20:58,500 --> 00:20:59,633
+six consecutive years. Moreover, the US has policy tools. Trump established the National Energy
+
+247
+00:20:59,733 --> 00:21:03,200
+Council, fully responsible for formulating energy policy, relaxing industry regulations, and accelerating project approvals. Increased
+
+248
+00:21:19,400 --> 00:21:21,833
+federal land and water leases, along with other
+
+249
+00:21:23,866 --> 00:21:25,700
+measures, mean that even with oil prices at $60 per barrel, US production can be
+
+250
+00:21:29,866 --> 00:21:31,066
+maintained at around 13.4 million barrels per day. This is because the break-even point for US shale oil is between $40 and $
+
+251
+00:21:35,800 --> 00:21:38,033
+60. Below $60, most production capacity can still be profitable. The policy is in place, but capacity expansion also takes time. From drilling to production,
+
+252
+00:21:41,633 --> 00:21:44,866
+shale oil production takes at least one to two years. The third leg is Iran's future. Trump's maximum pressure campaign against Iran has a clear objective: to cut off Iran's oil revenue and fundamentally weaken its geopolitical influence. Why? Because in geopolitical games,
+
+253
+00:21:55,933 --> 00:21:58,266
+Iran is a major supporter of several non-state armed forces in the Middle East. Hamas, Hezbollah, the Houthis, and Iraqi Shiite militias all have Iran backing them. What do these proxies do? They attack
+
+254
+00:21:58,266 --> 00:22:00,900
+Israel,
+
+255
+00:22:03,366 --> 00:22:05,133
+raid Saudi oil fields, blockade the Red Sea shipping lanes,
+
+256
+00:22:05,133 --> 00:22:07,633
+and threaten the Strait of Hormuz. The Strait of Hormuz carries 20% of global seaborne crude oil trade and 20% of LNG trade. As long as
+
+257
+00:22:10,733 --> 00:22:11,800
+Iran is in this shipping lane, there is risk, and oil prices will have a geopolitical
+
+258
+00:22:11,800 --> 00:22:14,566
+premium. 2019 Saudi Aramco's oil fields were attacked by
+
+259
+00:22:17,300 --> 00:22:18,766
+Houthi rebels, causing oil prices to surge 15% in a single day. In 2024, the Houthis
+
+260
+00:22:24,633 --> 00:22:26,033
+blockaded the Red Sea,
+
+261
+00:22:26,100 --> 00:22:27,600
+causing
+
+262
+00:22:28,033 --> 00:22:30,966
+global shipping costs to skyrocket. Trump's plan is to cut off Iran's
+
+263
+00:22:30,966 --> 00:22:34,400
+oil revenue. Once the economic foundation collapses, the political situation becomes unstable.
+
+264
+00:22:34,633 --> 00:22:37,233
+If Iran falls, the Middle East will be at peace. Without
+
+265
+00:22:40,833 --> 00:22:43,500
+proxy attacks on oil fields and threats to the Strait of Hormuz, the geopolitical risk premium disappears, and oil prices will fall. Moreover, in the long run, if a pro-US government comes to power after a change of government in Iran, the 3.2 million barrels
+
+266
+00:22:43,633 --> 00:22:45,566
+per day of production capacity will re-enter the market, significantly
+
+267
+00:22:48,300 --> 00:22:50,066
+increasing supply. How to
+
+268
+00:22:50,500 --> 00:22:53,166
+cut off Iran's revenue? What are the effects of sanctioning cruise terminal
+
+269
+00:22:57,633 --> 00:22:59,266
+intermediaries to attract investment in shipping fleets? Iran's
+
+270
+00:23:01,366 --> 00:23:03,333
+exports in December 2025 are projected at 19 million barrels, a 30% decrease from 27.2 million barrels in November.
+
+271
+00:23:08,566 --> 00:23:11,600
+Daily exports have dropped from 880,000 barrels to 610,000 barrels, and production is also declining. So now you know why Iran has recently experienced such a major crisis. Ultimately, it's because its fiscal foundation has suddenly collapsed. However, the possibility of a change of government in Iran is still far from certain, and sanctions
+
+272
+00:23:11,700 --> 00:23:13,133
+are being intensified. The regime is in turmoil, but no one can
+
+273
+00:23:30,700 --> 00:23:31,800
+say for sure when it will collapse. That's
+
+274
+00:23:31,800 --> 00:23:33,733
+why the decline is gradual rather than a sharp drop. All three pillars (oil, gas, and oil) need time. Maduro has been arrested in Venezuela, resolving the political issue, but infrastructure investment will take 3-5 years. The market is currently pricing in this expectation. Oil production has
+
+275
+00:23:38,233 --> 00:23:39,833
+n't materialized yet. US policy is in place, but shale oil production expansion will take one to two years. Drilling, fracturing, and pipeline laying all take time. Iran's situation is still very uncertain; currently, it's only under sanctions, and the regime has
+
+276
+00:23:46,833 --> 00:23:47,833
+n't collapsed. Even if it does, rebuilding
+
+277
+00:23:53,533 --> 00:23:56,166
+infrastructure and restoring production will take several more years. Therefore, in the short term, oil prices are in a bear market cycle following the peak of the bull market, compounded by the pandemic and the Russia-Ukraine war. In 2025,
+
+278
+00:24:01,833 --> 00:24:04,666
+Brent crude fell by 19%, and WTI by 20%, the largest drop in five years.
+
+279
+00:24:09,633 --> 00:24:11,166
+Currently, it's slightly above $60, trending downwards,
+
+280
+00:24:12,300 --> 00:24:13,500
+but not drastically, because incremental
+
+281
+00:24:13,500 --> 00:24:16,300
+supply takes time. Furthermore, geopolitical conflicts could escalate at any time. If Iran were to desperately
+
+282
+00:24:20,066 --> 00:24:22,233
+close the Strait of Hormuz, oil prices would immediately jump to
+
+283
+00:24:29,066 --> 00:24:30,933
+$100, although the probability is low. However, Iran closing the strait would face military retaliation from the international community, something Iran
+
+284
+00:24:32,333 --> 00:24:33,433
+cannot afford. However, the risks remain. The
+
+285
+00:24:38,033 --> 00:24:40,500
+conflict between Israel and Iran continues. Last June, the situation in the Middle East escalated, and after the conflict erupted targeting Iranian energy facilities,
+
+286
+00:24:42,233 --> 00:24:43,633
+WTI and Brent crude
+
+287
+00:24:43,800 --> 00:24:45,433
+oil prices both rose by more than 13% intraday, marking the largest single-day increase in 10 years. Later, the situation did not deteriorate further, and oil prices fell back. So the short-term path may be like this: the main
+
+288
+00:24:51,333 --> 00:24:52,633
+trend is to continue grinding down from 60 to 55 or 50. Trump's price-suppressing strategy is taking effect. Potential increases from
+
+289
+00:24:53,000 --> 00:24:55,200
+Venezuela and Iran are suppressing price expectations. US production capacity is expanding slowly, and
+
+290
+00:25:00,466 --> 00:25:01,833
+OPEC is expanding cautiously. If geopolitical conflicts or unexpected OPEC production cuts occur, there may be a
+
+291
+00:25:11,566 --> 00:25:15,600
+rebound to 70 or 75, but it won't last long because the fundamentals are based on expectations of increased supply. If an economic black swan event occurs, such as a global recession and a collapse in demand, it may quickly fall below 30, but the probability is not high. This is the short-term scenario. Now, let's
+
+292
+00:25:22,566 --> 00:25:24,333
+overlay these four time dimensions. You will find a startling picture. In the very long term, it is the fate of currency. As long as the fiat currency system exists and the printing press is still running, and oil's non-
+
+293
+00:25:33,066 --> 00:25:35,666
+renewable nature as the lifeblood of
+
+294
+00:25:35,900 --> 00:25:37,333
+industry remains unchanged, its
+
+295
+00:25:51,566 --> 00:25:53,066
+fiat currency pricing trend will be perpetually upward. This is the underlying theme. In the long term, it is the transition of national fortunes. The industrialization and urbanization of over 2 billion people in
+
+296
+00:25:53,166 --> 00:25:54,266
+India and Africa will create demand several times larger than China's at that time. The timing may vary, but the direction is irreversible. Once these giant engines ignite, demand won't just grow, it will explode. In the medium term, it will be a capital retaliatory move.
+
+297
+00:26:00,400 --> 00:26:01,366
+This is the most perplexing aspect: weak
+
+298
+00:26:05,533 --> 00:26:07,766
+supply and demand, range-bound trading. The upside is heavily resisted at $150, while the downside is strongly supported at $30. Everyone is hesitant to invest in production capacity, relying on existing reserves. However, it's crucial to remember that
+
+299
+00:26:07,833 --> 00:26:10,266
+long-term capital
+
+300
+00:26:16,133 --> 00:26:17,400
+expenditure will inevitably lead to a long-term production gap. In the short
+
+301
+00:26:19,033 --> 00:26:21,100
+term, it's just noise from the game: easing
+
+302
+00:26:24,200 --> 00:26:25,233
+geopolitical tensions, Trump's price pressure, increased US production, and
+
+303
+00:26:38,366 --> 00:26:40,533
+OPEC's internal competition. These factors are causing oil prices to exhibit a gradual, resistant decline in the main trend. I'm reminded of a famous
+
+304
+00:26:42,733 --> 00:26:44,900
+quote from the late analyst, the "King of Cycles," Nicholas Jintao. According to Zhou Jintao's analysis of the Kondratiev wave, we are currently in the long eve of transitioning from the recession phase to the recovery phase of the fifth Kondratiev wave since 2008.
+
+305
+00:26:53,966 --> 00:26:57,466
+Zhou Jintao
+
+306
+00:26:57,800 --> 00:27:00,566
+predicted this before his death. Supercycles in commodities often emerge at the end of the Kondratiev wave's recession and the beginning of its
+
+307
+00:27:05,766 --> 00:27:08,133
+recovery. This timeframe is highly likely to fall around 2030. Why 2030? Because this is precisely the moment when the consequences of long-term investment deficits become apparent, creating a
+
+308
+00:27:10,400 --> 00:27:12,066
+dramatic chemical reaction with the explosive demand from the next billion-strong economy. In the 2000s, oil prices soared from $20 to $147 over eight years. At
+
+309
+00:27:16,866 --> 00:27:18,233
+that time, the supply side was relatively healthy; as long as there was enough money, oil could be extracted. Even so, prices increased sevenfold.
+
+310
+00:27:21,033 --> 00:27:22,533
+What about the next Kondratiev wave? When a massive wave of demand
+
+311
+00:27:25,800 --> 00:27:28,933
+hits, where will oil prices
+
+312
+00:27:28,966 --> 00:27:31,000
+peak? This may be the last opportunity our
+
+313
+00:27:31,233 --> 00:27:32,666
+generation can seize, similar to Buffett's massive investment in PetroChina. That's all for
+
+314
+00:27:54,333 --> 00:27:55,666
+today's program. Let's
+
+315
+00:27:55,700 --> 00:27:57,800
+meet again next time for the next Kondratiev wave.
+
