@@ -101,7 +101,7 @@ jobs:
           LANGS: ${{ inputs.langs }}
           UA: ${{ inputs.user_agent }}
         shell: bash
-        run: python .github/scripts/smart_subs/detect.py
+        run: python scripts/smart_subs/detect.py
 
       - name: Download existing subtitles into per-video folder
         if: steps.detect.outputs.mode == 'download'
@@ -192,19 +192,19 @@ jobs:
         env:
           OUT_DIR: ${{ steps.detect.outputs.out_dir }}
         shell: bash
-        run: python .github/scripts/smart_subs/srt_to_lrc.py
+        run: python scripts/smart_subs/srt_to_lrc.py
 
       - name: Extract plain text subtitles (no timestamps)
         env:
           OUT_DIR: ${{ steps.detect.outputs.out_dir }}
         shell: bash
-        run: python .github/scripts/smart_subs/extract_txt.py
+        run: python scripts/smart_subs/extract_txt.py
 
       - name: Split large subtitle files (LRC + TXT, if > 40k bytes)
         env:
           OUT_DIR: ${{ steps.detect.outputs.out_dir }}
         shell: bash
-        run: python .github/scripts/smart_subs/split_chunks.py
+        run: python scripts/smart_subs/split_chunks.py
 
       - name: Commit & push subtitles
         env:
