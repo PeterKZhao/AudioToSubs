@@ -1,0 +1,1038 @@
+Hi
+friends, let
+'s talk about the topic that's been getting the
+most private messages I've received lately:
+stablecoins. On
+May 20th, the
+US Senate passed the
+crucial procedural vote on the Genius Bill for stablecoins.
+Shortly after,
+Hong Kong passed the Stablecoin Ordinance Bill. The
+EU, Singapore, the UK, South Korea, and many other countries have also
+launched their own stablecoin-
+related regulatory legislation within this year, creating a
+surge in legislation.
+Even Pan Gongsheng, the governor of the People's Bank of China,
+publicly discussed stablecoins for the first time in June. Meanwhile, in the
+market,
+Circle, the first stablecoin company to go public, saw its
+stock price rise by 750% in less than a month.
+Companies controlled by the Trump family have
+also issued their own stablecoins.
+Payment giants like PayPal and Stripe,
+major banks like JPMorgan Chase, Citigroup, and Goldman Sachs, and even
+domestic companies like JD.com, Ant Financial, and Xiaomi have all
+entered the stablecoin market.
+I believe many people subconsciously think that the
+concepts in the cryptocurrency world are just
+hype,
+just a way to make money,
+or that it's all a conspiracy by the US.
+But think about it: so many governments
+and major companies from so many countries and regions have rushed in. It's
+impossible that they're all just trying to make money
+or knowingly jumping into a trap.
+Right? Hey,
+why did
+everyone suddenly rush in?
+Is this stablecoin the future of the financial market?
+Come on, let's take a look at
+this chaotic battlefield of stablecoins. Hey,
+before we begin, let me say something.
+Recently, some people have been using the name "Little Lin" to create
+groups on social media,
+teaching people how to invest. There
+are even AI voiceovers. It
+'s all a scam!  !
+We will not send private messages, create
+groups,
+or teach you how to invest.
+Anyone who sees this is a scammer!  !  We've reported everything we've
+seen and heard from others,
+but this scammer is moving
+incredibly fast.
+So if you see anything like this, please
+report it for us.
+But most importantly, please do
+n't believe it!  !
+First, let's
+talk about the characteristics of stablecoins and
+some basic information about the stablecoin market.
+If you're thinking, "
+I just want to see what the US is thinking," or "
+I just want to see what other countries are doing,"
+then you can skip to this point. A
+stablecoin is
+a type of cryptocurrency,
+like Bitcoin and Ethereum,
+built on a blockchain.
+But its biggest difference is
+stability. The
+vast majority are pegged 1:1 to the US dollar.
+Currently, various private companies
+can issue their own stablecoins.
+For example, the stablecoin with the largest market capitalization right now is
+called Tether (USDT).
+It's issued by a company called Tether.
+You can take one US dollar to Tether,
+and Tether will take that dollar and
+create one
+USDT worth of Tether on the blockchain, which will be in
+your wallet.
+This coin
+can
+circulate freely on most blockchains in the crypto world.
+You can use it for payments,
+transactions, investments, etc.
+Now, let's think a little deeper.
+Why can Tether guarantee that USDT will remain
+stable at one US dollar?
+Why doesn't it fluctuate like Bitcoin? It's
+because it guarantees that it
+can issue one coin for one US dollar.
+At the same time, you can redeem one coin for one dollar.
+That is, the purchase price is one dollar, and the
+selling price is also one dollar, with
+no limit. So,
+if the market price is higher than one dollar,
+you can buy from Tether
+and then sell on the market.
+If the market price is lower than one dollar,
+you can buy on the market and then
+sell to Tether. This
+automatically locks the price at around one dollar.
+How can Tether guarantee
+unlimited redemptions?
+Because for every coin issued, it
+requires at least one dollar of reserves as collateral.
+This is somewhat similar to the early days when the Federal Reserve issued dollars, which were
+backed by gold.
+This stablecoin is
+actually backed by the US dollar,
+and it's 100% guaranteed.
+For example, if you look at Tether's first-quarter report, it
+issued a total of 143.68 billion Tether coins,
+while its reserve assets
+were $149.27 billion, leaving a
+surplus of $5.6 billion.
+So, you see?
+You don't even need to understand blockchain or
+cryptocurrency.
+It's actually a bit like a game company
+issuing its own game currency, QQ coins,
+and then using collateralized assets
+to guarantee the value of these game currencies.  There
+are indeed decentralized collateralized stablecoins
+and stablecoins that are purely algorithmically maintained,
+but these are not very large in terms of scale.
+Currently, the
+two most dominant stablecoins
+are Tether (USDT),
+accounting for about 60%,
+and USDC,
+issued by Circle (which recently went public),
+accounting for 24%. Both of
+these are the type of
+stablecoins backed by a single company. The
+various legislations enacted by different countries are
+primarily targeting this type of stablecoin. Is
+n't it ironic?
+Although the concept of blockchain is decentralization,
+stablecoins,
+currencies built on the blockchain,
+still mainly rely on this centralized model of issuance by a single institution. Let me
+tell you, the profit margins of
+these stablecoin-issuing companies
+are terrifying.
+Tether's profit last year was
+$13 billion,
+and it
+only had slightly over 100 employees, meaning an
+average profit of over $100 million per person. How do
+these stablecoin-issuing companies make
+money? Well, it's
+quite simple.
+When they issue a stablecoin,
+you give them one dollar, right?
+They mainly rely on the interest earned from that one dollar's investment.
+Of course, they generally invest in
+extremely stable short-term government bonds.
+Or it could be in overnight reverse repos.
+But think about it, with US interest rates so high right now, the
+interest they can get
+is very considerable.
+For example, Tether
+issued $150 billion worth of Tether coins. Let's say they get
+4% interest,
+that's $6 billion a year.
+I estimate that
+if
+a company had issued a Japanese yen stablecoin a few years ago, they would have been dirt poor.
+Another stablecoin giant, Circle, has
+grown so fast
+because it's heavily reliant on exchanges. In
+2024, its interest income was $1.68 billion,
+but more than $1 billion of that went to
+exchanges.
+Then, the exchanges use their own money to subsidize and
+incentivize
+users to attract them.
+For example, when users deposit USDC,
+in addition to the normal annualized return, the
+platform will also subsidize some incentives.
+You see, this profit chain
+is a bit like the incentive cycle of credit cards. Anyway, I'm getting
+a bit off-topic.
+Let's talk about
+why so many people
+value stablecoins and
+think they are very important.
+Mainly,
+they can not only be used as currency in the crypto world, but they
+also seem to have obvious advantages in real-world transactions.
+First of all...  Its convenience is particularly evident
+compared to cross-border remittances.
+Traditional cross-border remittances through banks, especially for
+less common currencies, typically incur
+fees exceeding 5%
+and can take several days.
+Stablecoins, however, operate
+on the blockchain.
+They eliminate cross-border transactions,
+currency conversions,
+bank connections, and
+SWIFT connections, allowing funds to
+arrive instantly with significantly
+lower fees.
+Furthermore, they offer privacy.
+It's like
+trading in-game currency in a game;
+you might only know the
+other party's name is "Dream of Nine Hundred Million Girls,"
+but not that they are your neighbor.
+Of course, the
+crypto world differs from the gaming world in that the
+entire ledger is public on the blockchain.
+So, you not only see your transactions but
+also see that "Dream of Nine Hundred Million Girls"
+just transferred 120 coins to "Tears of Sadness" yesterday and
+received 32 coins from "Lonely Zhang Wuji" last month, etc.
+Everything is public.
+In fact, this convenience and privacy are
+advantages shared by all cryptocurrencies,
+which is why everyone was so enthusiastic about Bitcoin.
+But at the same time,
+stablecoins
+address Bitcoin's biggest weakness:
+stability and
+convenience.
+Privacy
+and stability –
+just looking at these three advantages, is
+n't this the ideal trading currency?
+So, although stablecoins are
+still in a very early stage,
+they have already attracted a large number of
+economic activities that require these three characteristics.
+First, as
+I guess everyone can guess,
+is the black market.
+Many people used Bitcoin for money laundering before,
+perhaps feeling it wasn't stable enough.
+Now, stablecoins have made up for this shortcoming,
+naturally attracting a large number of underground transactions. Who knows what kind of shady activities
+those "sad tears" or
+"lonely Zhang Wuji" might be
+doing behind the scenes? Second, there's the
+cross-border payment we just mentioned.
+About a year and a half ago, the
+cross-border payment application of stablecoins was
+almost zero,
+but now it
+has reached about $50 billion per month,
+and it's still growing at an astonishing rate of 20%-30% per month.
+The global cross-border payment market size is
+about $200 trillion annually.
+You see, the ceiling is still quite high.
+This is why
+giants involved in cross-border payments like Amazon, Walmart, and JD.com, companies that
+you might think have
+nothing to do with cryptocurrencies, are at the
+forefront of developing stablecoins. Another
+very important application...
+In countries with high inflation, it's
+somewhat like
+using a digital dollar.
+For example, in Argentina, Nigeria, Brazil, and Turkey,
+after 2022,
+people in these countries suffered from the
+rapid devaluation of their currencies,
+while their countries
+implemented very strict foreign exchange controls.
+What to do? The
+public in these countries
+began using stablecoins on a large scale
+for transactions and payments. Initially, the
+governments' first reaction
+was to prohibit or restrict them.
+However, because the public's demand for stablecoins was
+too strong, they realized that
+suppression was impossible, so they simply
+made a 180-degree turn and
+became pioneers in actively supporting stablecoins. "Rather than
+let so much money flow into the black market, I'll go with
+the flow and
+embrace stablecoins."
+Brazil, for instance, directly began piloting
+stablecoins, integrating them into
+Brazil's official payment system, PIX.
+In Argentina,
+you can also legally use stablecoins to pay rent,
+and so on.
+Currently, the total
+global stablecoin supply
+exceeds $250 billion, more than
+20 times in five years.
+Although its total market capitalization is
+still incomparable to Bitcoin's $2 trillion, only about
+1/8 of it,
+if we look at the transaction volume...
+Stablecoins have surpassed Bitcoin,
+which indirectly confirms
+their strong monetary attributes. In
+2024, stablecoin trading volume
+reached $27.6 trillion.
+Although still in its nascent stage,
+this trading volume
+already exceeds the
+combined payment volume of Visa and Mastercard in 2024,
+demonstrating its immense potential.
+To quickly introduce its development,
+we mainly discussed its positive attributes.
+Currently, it
+still faces many risks and problems, including
+strong speculative attributes
+and links to money laundering.
+Every so often, there's the
+possibility of a major collapse or
+fraud, naturally negatively impacting
+public perception.
+This is why most countries' governments have
+n't been very welcoming of stablecoins.
+However, part of the reason is the
+lack of clear regulations and
+ambiguous laws in various countries. It's
+unclear what is legal and compliant, and
+where the red lines are.
+Therefore, most multinational corporations and
+economic activities are
+hesitant to enter this field,
+leading to many cryptocurrency participants engaging in
+money laundering and
+speculation.
+This is why recent legislation in various countries, no matter
+how strict, is
+a significant positive for stablecoins and the entire cryptocurrency industry.
+As for why
+countries have suddenly started enacting legislation in droves recently,
+well, this is actually related to the great power game and
+currency game. The
+main driving force is naturally the
+United States.
+Let's first look at Trump's major actions regarding cryptocurrencies since he took office this year. In
+January, immediately after taking office, Trump
+signed an executive
+order entitled
+"Strengthening America's Leadership in Digital Financial Technologies."
+You see,
+the name is very straightforward,
+and it prohibits digital dollars.
+This basically set the tone:
+I absolutely support cryptocurrencies.
+Also in January,
+Trump issued his own $Trump coin,
+80% of which
+is controlled by companies under Trump's control.
+This is not a stablecoin;
+it's like Bitcoin, where the price fluctuates. It
+once rose to over $80, with a
+total market value of $60 billion,
+but now it has fallen to less than $10. A
+few days later,
+Trump's wife also issued her own coin, and
+his son also issued his own coin.
+In March, Trump announced that the
+Bitcoin previously confiscated by the government would be
+listed as "US Strategic Crypto Reserve" and
+could not be sold casually.
+After that, Trump's affiliated companies
+issued a stablecoin, USD1.  The initial
+scale was small,
+around $100 million,
+but on May 1st it suddenly increased more than tenfold to
+$2.2 billion.
+What happened?
+Because Abu Dhabi came. The
+Abu Dhabi Investment Authority
+invested $2 billion.
+To be honest, I was quite surprised that
+a US president could issue his own currency.
+Although I'm not very familiar with US law,
+this action
+clearly involves a conflict of interest. The key
+point is that the
+market reaction seems okay,
+showing that people are quite accepting of whatever Trump does.
+Of course, what
+truly had a significant impact on the stablecoin market
+was the "Genius Bill."
+It's called the Genius Bill
+not because
+Trump thinks it's genius, but
+because its abbreviation is GENIUS. It's
+a legislative proposal
+for stablecoins in the US. It
+passed the Senate by a large margin on June 17th,
+but hasn't passed the House yet,
+so it's still just a draft.
+This draft isn't like the
+massive, over
+1,000-page bill; it's
+only twenty or thirty pages long.
+So I can get a general overview. Most of
+its core elements are
+quite standardized.
+This isn't just a phenomenon in the US...
+Most countries' legislation is pretty much the
+same.
+I'll summarize it briefly:
+First, regarding qualifications,
+companies issuing stablecoins
+need a license.
+Who can issue and who can't is ultimately
+decided by the government.
+However, whether it
+'s the state government or the federal government is
+still under debate.
+Then, regarding regulation,
+they've stipulated
+which agencies are responsible, which is self-explanatory.
+Next, regarding reserve asset requirements,
+they require all stablecoins to be backed by
+high-quality assets as reserves,
+such as short-term government bonds and
+overnight reverse repos—these are highly liquid assets that
+cannot be used for re-collateralization.
+These reserve assets have the
+highest priority in debt repayment.
+For example, if a stablecoin-issuing company goes bankrupt,
+these reserves cannot be used to repay debts first;
+they must be given to stablecoin holders first.
+Besides these, there are
+also risk management requirements,
+information disclosure requirements, anti-
+money laundering requirements, etc.
+Frankly, having
+worked in banking for a long time,
+these requirements are quite familiar—a
+very standard three-piece set.
+However, compared to bank regulation, the
+requirements for reserve assets are significantly stricter.
+You want 100% reserves,
+because these companies are
+essentially issuing a currency.  If
+banks have to put so much effort into compliance, then
+companies in the cryptocurrency industry must be even more so.
+Let's briefly discuss compliance.
+What is "compliance"? It's about
+meeting the laws and regulations of various countries,
+such as various licenses, auditing requirements,
+anti-money laundering requirements,
+technical security requirements,
+reserve asset requirements, etc.
+Now, countries have to introduce these "regulations" first before
+compliance is even possible. For example, Tether (USDT), although it currently has the largest market share, may be expelled from the US market due to insufficient information disclosure and its registration in the British Virgin Islands, not the US. This isn't just true for stablecoin issuers; compliance is even more crucial
+for cryptocurrency exchanges.
+Because of the lack of regulations in the early market,
+trading platforms experienced rampant growth. However, in
+the last two years,
+with the standardization of regulations,
+major exchanges have undergone a crackdown.
+For example,
+a very large cryptocurrency exchange
+called OKX
+reached a settlement with the Department of Justice in the US this February, paying an
+$84 million fine
+and forfeiting $420 million in revenue.
+Later, because it was discovered that illegal organizations were
+using Web3 wallets for on-chain transactions to launder money, OKX
+voluntarily shut down its Web3 wallet on-chain transactions in March.  Did
+you see the news and feel like they suffered heavy losses this year due to compliance
+?
+Actually, they
+recognized the importance of compliance,
+so they simply catered to regulators,
+proactively paying fines and settling with the US Department of Justice. They even voluntarily shut down their
+Web3 wallet on-chain transactions. The
+implication was, "Hey
+European and American regulators,
+look how much we value compliance and
+security;
+we'll behave well and
+be a law-abiding exchange."
+While regulators don't require reserves for exchanges,
+they, like stablecoin issuers,
+issued 100% reserve verification reports
+starting at the end of 2022, which
+users can check monthly to see if
+their funds are
+backed by real reserves.
+In short, they were very proactive, which
+helped them successfully obtain licenses in the US, EU,
+Singapore, Dubai, and other regions.
+Complying to regulations
+certainly
+brings significant initial costs to crypto companies,
+but in the long run, it has huge benefits in
+terms of user and regulatory trust. Just
+a few days ago, there were rumors that
+OKX was considering a US stock market listing.
+Look at all the
+effort they put in—
+paying fines
+and shutting down their wallet's on-chain transactions—it's all for naught.  Does
+n't that make more sense? Let
+me tell you,
+listing on the US stock market
+has a very unusual significance in the crypto world.
+For them,
+it's equivalent to a very powerful
+certificate of compliance in the US market.
+Frankly, these crypto companies don't lack money; what
+they lack is credibility, a
+certificate.
+This is their biggest benefit from listing on the US stock market. It gives them a huge credit boost,
+whether to users, investors,
+partners,
+or even regulators.
+This is why
+Coinbase has always been
+considered a model student in terms of compliance in the crypto world,
+including Circle, which recently went public. Their
+compliance practices are relatively extensive and thorough, which has
+helped them
+seize a large share of the US market.
+Okay, so why is the
+US so actively promoting stablecoins? In
+summary,
+it has three main objectives:
+maintaining or even strengthening the dollar's status,
+increasing demand for US Treasury bonds,
+and seizing a dominant position in the crypto world.
+Of course, some people say we should add another point:
+Trump himself wants to make money.
+Look at all the cryptocurrencies he's issued—
+he just wants to... right?
+We won't comment on that.
+We'll mainly discuss the first three points.
+First, strengthening the dollar's status—
+US Treasury Secretary Bessant explicitly
+stated this in March.  The
+Trump administration will use stablecoins
+to maintain the dollar's dominance, as
+we've discussed many times before.
+Recently, especially since Trump took office,
+many countries
+and even the entire market have
+been slowly de-dollarizing, something the
+US government certainly doesn't want to see. While
+stablecoins
+can be pegged to various currencies—including euro-denominated stablecoins,
+offshore yuan-denominated stablecoins, and
+gold-denominated stablecoins—the
+market is currently 99% dominated by dollar-denominated stablecoins.
+Promoting stablecoins in the short term would
+essentially be promoting the dollar.
+Although stablecoin transactions occur on-chain, they are
+backed by dollars
+and pegged to the dollar's exchange rate.
+Let's take a slightly extreme example:
+if
+Turkey, Nigeria, and Argentina
+all used dollar-denominated stablecoins for transactions,
+then the
+lira, naira, and peso they printed
+would be useless, and their
+interest rates would be irrelevant.
+Essentially, these countries would be
+completely dollarized.
+Therefore, if dollar-denominated stablecoins
+are widely used in non-dollar countries, it would
+undoubtedly enhance the dollar's application scope
+and international status—
+this is easy to understand.
+Then, it
+would stimulate demand for US Treasury bonds. Think about it:
+since the vast majority of stablecoins are pegged to the dollar, the
+underlying reserve assets…
+Currently, 60% of stablecoins are short-term Treasury bonds, and this
+could increase further after legislation.
+For example, Tether, the
+largest issuer of stablecoins,
+net purchased $33.1 billion in US Treasury bonds in 2024, making it the
+seventh-largest buyer of US Treasury bonds globally last year.
+At the hearing, Bessant stated that
+by 2028,
+the size of stablecoins could increase eightfold, potentially exceeding $1 trillion
+in demand for short-term US Treasury bonds. It seems US
+Treasury bonds are struggling to find buyers,
+which is great news. This point has been raised a lot
+because the logic is
+very logical and
+reasonable.
+However, I personally believe
+this isn't the
+main reason the US is rushing to enact stablecoin legislation.
+Of course, this is purely my personal opinion.
+Firstly, the demand for these US Treasury bonds
+isn't entirely new,
+but that's not the most crucial point. The
+more crucial factor is the maturity of the bonds.
+People often say that
+Tether is a large holder of US Treasury bonds and
+how much it has purchased,
+mainly focusing on the amount.
+But for US Treasury bonds,
+maturity is extremely important. Most of the Treasury
+bonds held in these stablecoin reserves
+are
+ultra-short-term bonds with maturities of less than three months.  The government
+bonds purchased with foreign exchange reserves by countries like Japan and China
+are medium- to long-term bonds with maturities of 3 to 30 years.
+These are completely different concepts.
+Anyone who has traded should know that there is a fundamental difference between
+3-month and 10-year government bonds.
+For these ultra-short-term interest rates, what
+plays a decisive role is
+not market demand, but the
+Federal Reserve. The
+Fed can easily cut interest rates by 25 basis points, which is more effective than
+10 Tethers
+frantically buying 3-month short-term bonds. (
+This part is a bit of a jump,
+I haven't gone into detail.)
+Basically, the
+US government isn't worried about selling these ultra-short-term bonds; it's
+worried about long-term bonds. As
+we discussed in the Mar-a-Lago agreement,
+Milan suggested that
+other countries exchange their short-term bonds for
+long-term
+or even ultra-long-term bonds. "
+You guys buy short-term,
+I don't care at all. It's
+best to exchange them for long-term." In short, if
+you say the US went to great lengths to
+urgently introduce this cryptocurrency bill,
+promoting the development of the entire crypto world and
+bringing huge uncertainty, just for
+$1 trillion in three years...  The
+increased demand for short-term Treasury bonds... well,
+I have my doubts about that. While
+increased demand is certainly a benefit,
+I think it's
+far from the US's primary or fundamental objective. The
+other two points are far more important. Let's
+look at the third point: vying for dominance in the
+crypto world.
+Previously, the
+US mainly observed cryptocurrencies. After observing for
+so many years, it seems
+this crypto world isn't just a fleeting phenomenon;
+demand is continuously expanding,
+concepts are constantly evolving, and it even shows signs of
+challenging the traditional financial system.
+Since it can't be suppressed, it might as well
+embrace it and take the
+lead in
+legislating and standardizing it. This is
+n't just the US;
+countries and regions supporting stablecoin legislation
+generally share this goal. The
+US wasn't the first.
+Look at Europe, Singapore, and Hong Kong—they all
+introduced stablecoin drafts.
+And countries like the Middle East and Switzerland have consistently
+supported blockchain.
+So, the US isn't saying it's about taking the lead; it's more about
+not falling behind and
+not losing its status as the global reserve currency in this new battlefield of the crypto world, right?
+It has to expedite legislation.
+Okay, now let's talk about China.
+We know that
+mainland China has always banned cryptocurrencies.
+Currently, the main push is...
+It's the digital yuan,
+but it's
+quite different from stablecoins.
+We'll discuss that another time.
+After all, the US wants to dominate the stablecoin market, and
+China certainly doesn't want to miss out. It
+also wants to gain a voice in the offshore yuan in new markets.
+So, currently, the main focus is on piloting stablecoins in Hong Kong, specifically
+RMB stablecoins,
+using a dual-track system.
+Hong Kong
+introduced the "Stablecoin Bill" in May of this year, which will take
+effect on August 1st. As soon as
+the bill was released,
+stablecoin-related stocks skyrocketed,
+rising by at least 70%. This
+shows how optimistic the market is about Hong Kong's stablecoin market.
+Of course, the stablecoin Hong Kong is promoting is
+n't a US dollar stablecoin,
+but a Hong Kong dollar stablecoin. They
+also plan to
+pilot an offshore yuan stablecoin. The
+content and concept of this bill are similar to the one
+we just discussed in the US.
+Let's just talk about some differences.
+First, Hong Kong's approach is
+called a "sandbox,"
+meaning a
+pilot program conducted in an isolated, fully controlled regulatory environment.
+In July 2024, they
+announced licenses for three "sandbox" participants.
+These three can be considered the first batch of participants in Hong Kong's stablecoin circle.  The companies that
+have obtained licenses are
+JD CoinChain, YuanCoin Innovation,
+and an alliance including Standard Chartered Bank.
+JD CoinChain is clearly owned by JD.com,
+and its custodian bank is Tianxing Bank.
+Tianxing Bank's two major shareholders are
+Xiaomi and Futu.
+YuanCoin Innovation is
+mainly backed by cryptocurrency capital. The
+third alliance
+primarily consists of Hong Kong capital. There is
+also another player, Ant Group, which,
+although not currently a participant in the "sandbox," has
+long been eyeing the market and
+wants to be among the next to obtain licenses.
+So you see, even before the
+Hong Kong stablecoin regulations have taken effect, the
+competition for licenses has already
+begun.
+Another characteristic of Hong Kong
+is its strong focus on cross-border payments.
+For example, the Hong Kong Monetary Authority and the People's Bank of China
+jointly launched Cross-Border Payment Connect on
+June 22nd. This allows
+for direct point-to-point connections between the mainland and Hong Kong,
+eliminating the need for complex cross-border transactions,
+thus facilitating smoother capital flows. While
+Cross-Border Payment Connect is
+not based on blockchain technology,
+it utilizes distributed ledger technology
+and has high compatibility with stablecoins and the digital yuan.
+Therefore, the market generally believes
+it is driving the development of RMB stablecoins.
+A key path to future internationalization is the stablecoin market. The
+EU
+passed the
+MiCA regulatory bill for crypto assets in 2023, and
+Singapore's Monetary Authority also
+released a regulatory framework for stablecoins in 2023.
+These two countries
+issued formal regulatory rules very early on.
+To make it easier to understand,
+I've categorized the attitudes of various countries towards stablecoins.
+First, there are those that are actively open,
+such as Singapore, Hong Kong, and the UAE. The
+UAE, in particular, has always been at the
+forefront of the crypto world. While
+other places seem to have strict rules about what can and cannot be
+done,
+in the UAE, as long as it's not prohibited,
+you can try it out.
+Crypto companies are
+welcome to come and
+set up businesses here;
+I hardly even collect taxes.
+Hong Kong and Singapore, both
+major global financial and trade centers,
+are vying for the title of Asia's leading financial center.
+Naturally, neither wants to fall behind in this new arena of the crypto world, leading to a
+rush to develop stablecoins.
+Last month, Singapore's
+Financial Services and Markets Act 2022
+officially came into effect,
+clearly defining entities
+registered in Singapore that
+provide digital token services to overseas clients.  A
+license is required to operate. The
+second category, which
+I call the cautious and inclusive category,
+mainly includes the US and the
+EU. Although the EU introduced its regulatory legislation early, its
+attitude is extremely cautious, even more so
+than the US.
+For example, its MiCA regulation
+prohibits charging token redemption fees,
+prohibits stablecoins from paying interest,
+and strictly limits daily trading volumes, etc.
+The reason given is that these stablecoins pose risks to
+financial stability, the smooth operation of the payment system,
+monetary policy transmission, or monetary sovereignty. In short, there are quite a
+few restrictions,
+especially the prohibition on stablecoins paying interest, which is
+quite severe. Now, many stablecoin platforms have
+started offering interest payments on stablecoins deposited by users,
+somewhat like a deposit in the cryptocurrency world.
+But if you think about it, the
+EU's regulation prohibiting stablecoins from paying interest
+significantly reduces their attractiveness. The
+subtext seems to be, "
+I'm being lenient by not banning it;
+don't give me any of that financial stuff."
+It's clear that Europeans' attitude towards stablecoins
+is cautious with a hint of rejection,
+quite conservative.
+South Korea,
+before 2021, was
+also quite resistant to cryptocurrencies,
+especially after the collapse of Luna coin in 2022, whose
+headquarters were in South Korea.
+This caused South Korean investors to
+lose over $4 billion.
+Subsequent legislation in South Korea
+has leaned towards strict regulation, aiming to prevent further
+problems.
+Despite the strict regulations, the
+South Korean cryptocurrency market
+remains very active,
+especially with the recent rise of President Lee Jae-myung.
+His attitude towards stablecoins and
+digital assets is clearly more favorable;
+his campaign platform included
+allowing stablecoins in the Korean won.
+South Korea also just
+proposed the "Basic Act on Digital Assets" in June.
+Many countries have a similar
+attitude towards stablecoins,
+shifting from caution to acceptance and even
+embrace in the past year. The
+third category involves explicit restrictions,
+most notably in mainland China. Other examples include
+Bangladesh and Afghanistan. To
+elaborate a bit, while
+we're mainly discussing stablecoins today, what
+various countries are promoting is
+n't just stablecoins,
+but "tokenization."
+This involves blockchain.
+A recent hot concept is RWA (
+Real World Assets
+), which is
+essentially digitizing real-world assets and
+listing them on the blockchain.
+For example, if I own a house in the real world…
+I can
+build a corresponding RWA (Real-World
+Asset Management) asset on the blockchain.
+You can put corporate bonds on the chain,
+you can put intellectual property on the chain,
+and it can't be tampered with on the chain.
+Transactions are also public and transparent,
+and you can even attach smart contracts, etc.
+You see, stablecoins are
+actually a type of RWA. It's just putting the
+real-world US dollar on the
+chain.
+In March of this year, BlackRock
+partnered with Securitize to
+launch a US dollar money market fund on the chain
+called BUIDL.
+This is putting an investment fund on the chain.
+You invest in it with stablecoins, and
+then periodically,
+you will receive more stablecoins as a return. To
+be honest,
+I know that there are
+all sorts of financial plays on the blockchain,
+and it's not surprising to have such an investment fund. The
+key is that it's not some unknown company
+launching a fund on the chain.
+This is BlackRock, the
+world's largest asset management company.
+And the fund's current size
+has reached $2.9 billion. I'm quite surprised that
+a mainstream financial company
+can enter the market so early,
+so successfully, and on
+such a large scale.
+In China, companies like Ant Financial
+are also actively researching and promoting RWAs.  They
+actively participated in the
+Hong Kong Ensemble Sandbox project,
+developing RWA for charging piles,
+photovoltaic RWA, and battery
+swapping stations. This
+allows these projects to raise funds on the blockchain, and
+people can invest on the blockchain.
+RWA is
+especially seen by Hong Kong and Singapore as a
+very promising area in the crypto world.
+Of course,
+it's also one of the main battlegrounds for stablecoins.
+Stablecoin payments are
+developing very rapidly.
+For example,
+OKX recently launched a feature called OKX Pay, where
+two people can scan
+each other's QR codes with the app to
+transfer money in real time, similar to
+Alipay,
+except it uses stablecoins. The
+stablecoin balance is kept in a wallet
+and can be managed
+like an account, similar to Yu'ebao (Alipay's money market fund).
+Online payment giants like PayPal and Stripe have
+also incorporated stablecoins
+into their payment systems.
+You see,
+why are major companies around the world
+recently joining the stablecoin battle?
+I think
+this is a global version of "
+if you can't beat them, join them."
+Most companies and
+governments
+initially resisted,
+after all, most...  These are all
+beneficiaries of the existing market system.
+However,
+when some of them gradually realize that this trend
+seems irreversible in the short term,
+what do they do when they can't compete?
+They join in,
+they rush to the forefront. The more
+people turn to the stablecoin market, the
+stronger the momentum becomes.
+In fact,
+everyone wants to fight for their own interests in the face of this major trend.
+You might ask, does the US
+want to use stablecoins to
+strengthen the dollar's status? Yes. Do
+other countries and regions
+want to
+seize a favorable position through stablecoins? Yes. Does
+Trump personally want to profit from cryptocurrencies? Yes. Do
+companies in the crypto world want to
+make money through stablecoins and cryptocurrencies?
+Yes. And so on.
+Although everyone's goals are different, from the
+perspective of their methods,
+they are all promoting the stablecoin market and the
+improvement and development of the cryptocurrency market.
+This is actually very similar to some trends,
+such as everyone rushing to invest in AI or
+robots. It's just that
+this wave of stablecoins also involves
+governments, regulators, and
+central banks from various countries, right?
+It's a global melee.
+As for the specific strategies and
+legislative purposes of various countries,
+we have just briefly analyzed some of them. To be
+honest, I think that even the governments of various countries probably have
+n't figured it out very well. Don't assume that
+those who participate in the discussions on stablecoin legislation in various countries...  These are all
+cryptocurrency experts. Where are all these
+experts?
+Think about it: how many of the
+senators in the US Congress, mostly in their 50s,
+truly understand stablecoins and
+cryptocurrencies?
+They have to vote on
+this crucial stablecoin bill, so they're probably just
+taking a wait-and-see approach.
+Okay, if stablecoins are widely adopted,
+what impact will they have on the existing financial system? To put it in a
+very broad sense, the
+rise of stablecoins,
+including decentralized finance,
+essentially bypasses financial intermediaries and
+payment companies.
+There's a term called "financial disintermediation."
+So banks are nervous,
+payment companies are nervous;
+they have to be at the forefront.
+Jamie Dimon, the head of JPMorgan Chase,
+said in 2023 that
+Bitcoin was a big scam.
+Recently, he even issued his own JPMorgan Coin.
+It's expected that by the end of 2025,
+major banks and fintech companies in Europe and America will have
+launched their own stablecoins.
+Actually, you see,
+regulators
+require stablecoin issuers to have 100% reserves.
+Theoretically, a
+large portion of this money should flow back into the banking system.
+So theoretically, the amount of
+money flowing out of the banking system shouldn't be that much.
+But what's the problem?
+It will lose a lot of flexible funds and
+lending capacity,
+so its interests will definitely be greatly damaged.
+At the same time, it
+will also reduce the connection between banks and the entire economy. People may not care about the
+loss of the banks' own interests,
+but the weakening of its connection with the entire economy is
+more troublesome.
+Because the central
+bank
+controls monetary policy through the banking system, the
+weakening of the connection
+will lead to a reduction in the effectiveness of the central bank's monetary policy.
+As for who will control the monetary policy in the crypto world,
+control the circulation speed of stablecoins, and the
+credit scale of stablecoins,
+this is actually a bigger and more important issue.
+In fact, regulatory agencies in various countries
+are deliberately avoiding this issue.
+Look at the United States,
+it defines stablecoins as payment stablecoins, which
+means that you should mainly use them for payments,
+not for deposits, but for
+investment and
+financing. Not only the
+United States, but
+we have seen similar situations in other countries.
+Basically, they prohibit
+or severely restrict stablecoin payment interest rates,
+let alone lending.
+You see, this is actually deliberately avoiding the
+issue of stablecoin interest rates. We
+can only take it one step at a time.
+Stablecoins are really
+very interesting.
+I certainly can't explain everything in one video,
+but I hope that through this content, everyone
+can at least realize that it is not so simple.
+It has caused a lot of conflicts and has
+caused different countries to...  The
+clashes between different currencies have
+triggered clashes between traditional financial systems
+and crypto trading systems, clashes between
+private companies and official regulatory bodies (central
+banks), and
+clashes between stability and innovation.
+While this innovation is inherently risky, the fact that
+so many countries and regions are
+embracing it so enthusiastically is frankly quite exciting.
+I'm also
+very interested to see what kind of form this so-called Web3 world will
+take and how it
+will disrupt our understanding.

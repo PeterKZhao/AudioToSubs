@@ -1,0 +1,4514 @@
+1
+00:00:00,000 --> 00:00:00,666
+Hi
+
+2
+00:00:00,666 --> 00:00:01,399
+friends,
+
+3
+00:00:01,399 --> 00:00:02,033
+let's talk about
+
+4
+00:00:02,033 --> 00:00:03,933
+the topic that has received the most private messages to me recently:
+
+5
+00:00:03,933 --> 00:00:05,033
+Stablecoin.
+
+6
+00:00:06,133 --> 00:00:06,799
+On May 20,
+
+7
+00:00:06,800 --> 00:00:07,666
+the U.S. Senate passed
+
+8
+00:00:07,666 --> 00:00:09,733
+the key procedural vote on the Stablecoin "Genius Act".
+
+9
+00:00:09,733 --> 00:00:10,199
+Soon after,
+
+10
+00:00:10,199 --> 00:00:12,266
+Hong Kong passed the "Stablecoin Bill".
+
+11
+00:00:12,500 --> 00:00:14,600
+The European Union, Singapore, the United Kingdom, South Korea, etc.
+
+12
+00:00:14,600 --> 00:00:15,533
+have successively
+
+13
+00:00:15,533 --> 00:00:16,833
+launched stablecoin-
+
+14
+00:00:16,833 --> 00:00:17,833
+related regulatory legislation drafts
+
+15
+00:00:17,833 --> 00:00:18,833
+within this year
+
+16
+00:00:18,833 --> 00:00:20,733
+. Even Pan Gongsheng, the governor of the People's Bank of China,
+
+17
+00:00:20,733 --> 00:00:23,133
+publicly discussed stablecoins for the first time in June.
+
+18
+00:00:24,066 --> 00:00:24,799
+On the market side,
+
+19
+00:00:24,800 --> 00:00:26,800
+the first stablecoin stock Circle went public
+
+20
+00:00:26,800 --> 00:00:28,233
+and its stock price rose by 750% in less than a month.
+
+21
+00:00:28,233 --> 00:00:29,600
+Companies controlled by the Trump family
+
+22
+00:00:29,600 --> 00:00:31,066
+have also issued their own stablecoins.
+
+23
+00:00:31,833 --> 00:00:33,466
+Payment giants such as Paypal and Stripe, JPMorgan Chase
+
+24
+00:00:33,466 --> 00:00:35,733
+, Citigroup, Goldman Sachs, etc. Banks,
+
+25
+00:00:35,733 --> 00:00:37,533
+including domestic JD.com, Ant, and Xiaomi
+
+26
+00:00:37,533 --> 00:00:39,633
+, have already taken the lead in rushing into the stablecoin market.
+
+27
+00:00:40,433 --> 00:00:42,399
+I believe that many people may subconsciously think
+
+28
+00:00:42,399 --> 00:00:43,433
+that the concepts in the currency circle
+
+29
+00:00:43,433 --> 00:00:44,133
+are just hype
+
+30
+00:00:44,133 --> 00:00:44,833
+, money-making
+
+31
+00:00:44,833 --> 00:00:46,633
+, or that this is all a conspiracy and
+
+32
+00:00:46,633 --> 00:00:47,533
+a trap of the United States
+
+33
+00:00:47,533 --> 00:00:49,399
+. But think about it, so many governments of so many countries and regions
+
+34
+00:00:49,399 --> 00:00:51,533
+, so many mainstream large companies have all rushed in.
+
+35
+00:00:51,533 --> 00:00:53,100
+It is impossible that they are all for the purpose of making money
+
+36
+00:00:53,100 --> 00:00:54,633
+or rushing
+
+37
+00:00:54,633 --> 00:00:55,033
+in knowing that it is a trap,
+
+38
+00:00:55,033 --> 00:00:55,866
+right? Why do you think
+
+39
+00:00:55,866 --> 00:00:57,533
+everyone is rushing in all of a sudden
+
+40
+00:00:57,533 --> 00:00:59,933
+? Is this stablecoin the future of the financial market?
+
+41
+00:00:59,933 --> 00:01:01,633
+Let's take a look at
+
+42
+00:01:01,633 --> 00:01:03,666
+the chaotic battlefield of stablecoins
+
+43
+00:01:06,333 --> 00:01:07,933
+in one go. Before I start, let me say that
+
+44
+00:01:07,933 --> 00:01:09,666
+recently someone has been using the name of Xiao Lin
+
+45
+00:01:09,666 --> 00:01:11,333
+to create a group on social media
+
+46
+00:01:11,333 --> 00:01:12,433
+to teach everyone how to invest.
+
+47
+00:01:12,433 --> 00:01:13,699
+There are even those with AI dubbing, which
+
+48
+00:01:13,699 --> 00:01:15,266
+are all scams! !
+
+49
+00:01:15,433 --> 00:01:16,666
+We will not send private messages to everyone,
+
+50
+00:01:16,666 --> 00:01:17,333
+will not create a group,
+
+51
+00:01:17,333 --> 00:01:18,333
+will not teach everyone how to invest
+
+52
+00:01:18,333 --> 00:01:19,599
+, but anyone we see is a scammer! !
+
+53
+00:01:19,600 --> 00:01:21,000
+We have reported everything
+
+54
+00:01:21,000 --> 00:01:21,800
+we have seen, including what everyone has told us,
+
+55
+00:01:21,800 --> 00:01:23,266
+but the speed at which this scammer came out
+
+56
+00:01:23,266 --> 00:01:24,066
+is really too fast,
+
+57
+00:01:24,066 --> 00:01:25,799
+so I hope that if you see it,
+
+58
+00:01:25,800 --> 00:01:27,166
+you can also help us report it,
+
+59
+00:01:27,166 --> 00:01:27,933
+but the most important thing is
+
+60
+00:01:27,966 --> 00:01:29,333
+not to believe it! !
+
+61
+00:01:30,066 --> 00:01:30,533
+First of all,
+
+62
+00:01:30,533 --> 00:01:32,633
+we will talk about the characteristics of stablecoins and
+
+63
+00:01:32,633 --> 00:01:34,199
+some basic information about the stablecoin market.
+
+64
+00:01:34,199 --> 00:01:34,766
+If you say that
+
+65
+00:01:34,766 --> 00:01:36,566
+you just want to see what the United States thinks
+
+66
+00:01:36,566 --> 00:01:37,933
+and what other countries are doing
+
+67
+00:01:37,933 --> 00:01:39,866
+, then you can jump to this point in time.
+
+68
+00:01:42,033 --> 00:01:42,600
+Stablecoins
+
+69
+00:01:42,600 --> 00:01:44,033
+are a type of cryptocurrency.
+
+70
+00:01:44,033 --> 00:01:45,366
+Like Bitcoin and Ethereum, they
+
+71
+00:01:45,366 --> 00:01:46,533
+are all built on the blockchain,
+
+72
+00:01:46,533 --> 00:01:48,166
+but the biggest difference is that
+
+73
+00:01:48,199 --> 00:01:48,799
+they are stable.
+
+74
+00:01:49,633 --> 00:01:51,733
+Most of them are 1:1 tied to the US dollar.
+
+75
+00:01:51,733 --> 00:01:53,166
+Currently, each private company
+
+76
+00:01:53,166 --> 00:01:54,533
+can issue its own stablecoin.
+
+77
+00:01:54,533 --> 00:01:56,333
+For example, the stablecoin with the largest market value
+
+78
+00:01:56,333 --> 00:01:57,999
+is called Tether USDT.
+
+79
+00:01:58,000 --> 00:01:59,633
+It is issued by a company called Tether.
+
+80
+00:01:59,633 --> 00:02:01,766
+You can take one dollar to find Tether
+
+81
+00:02:01,766 --> 00:02:03,733
+, and Tether will take the dollar away from you
+
+82
+00:02:03,733 --> 00:02:04,399
+and create a
+
+83
+00:02:04,399 --> 00:02:05,566
+Tether worth one dollar
+
+84
+00:02:05,566 --> 00:02:06,733
+on the blockchain
+
+85
+00:02:06,733 --> 00:02:07,600
+and put it in your wallet.
+
+86
+00:02:08,433 --> 00:02:09,366
+When you get this coin,
+
+87
+00:02:09,366 --> 00:02:10,766
+it can circulate freely
+
+88
+00:02:10,766 --> 00:02:12,633
+on most chains in the crypto world
+
+89
+00:02:12,633 --> 00:02:14,233
+, and you can use it to pay,
+
+90
+00:02:14,233 --> 00:02:15,966
+trade, invest, etc.
+
+91
+00:02:15,966 --> 00:02:17,566
+Let's think a little deeper.
+
+92
+00:02:17,566 --> 00:02:18,366
+Why can Tether
+
+93
+00:02:18,366 --> 00:02:20,233
+guarantee that USDT is stable at one dollar?
+
+94
+00:02:20,233 --> 00:02:21,366
+Why is it not like
+
+95
+00:02:21,366 --> 00:02:22,466
+The reason why Bitcoin
+
+96
+00:02:22,466 --> 00:02:23,733
+is so popular
+
+97
+00:02:23,899 --> 00:02:24,966
+is that it guarantees that
+
+98
+00:02:24,966 --> 00:02:26,799
+I can issue a coin for one dollar
+
+99
+00:02:26,800 --> 00:02:28,833
+and redeem a coin for one dollar at the same time.
+
+100
+00:02:28,833 --> 00:02:30,833
+That is to say, its buying price is one dollar and
+
+101
+00:02:30,833 --> 00:02:32,166
+the selling price is also one dollar
+
+102
+00:02:32,166 --> 00:02:32,833
+, and there is no limit on the quantity
+
+103
+00:02:32,833 --> 00:02:33,499
+. In this way
+
+104
+00:02:33,500 --> 00:02:34,899
+, once the market price is higher than one dollar
+
+105
+00:02:34,899 --> 00:02:36,299
+, you can buy it from Tether and
+
+106
+00:02:36,300 --> 00:02:37,333
+then sell it on the market .
+
+107
+00:02:37,333 --> 00:02:38,566
+If the market price is lower than one dollar,
+
+108
+00:02:38,566 --> 00:02:39,699
+you can buy it on the market
+
+109
+00:02:39,699 --> 00:02:40,499
+and sell it to Tether.
+
+110
+00:02:40,500 --> 00:02:40,933
+In this way
+
+111
+00:02:40,933 --> 00:02:42,366
+, the market will automatically lock the price
+
+112
+00:02:42,366 --> 00:02:43,899
+at around one dollar.
+
+113
+00:02:43,899 --> 00:02:45,366
+How can Tether guarantee
+
+114
+00:02:45,366 --> 00:02:46,699
+unlimited redemption?
+
+115
+00:02:46,699 --> 00:02:48,033
+Because every coin it issues
+
+116
+00:02:48,033 --> 00:02:50,566
+requires at least one dollar of savings as a guarantee.
+
+117
+00:02:50,566 --> 00:02:52,833
+This is a bit like when the Federal Reserve issued dollars in the early days,
+
+118
+00:02:52,833 --> 00:02:54,333
+it had to be backed by gold
+
+119
+00:02:54,333 --> 00:02:55,366
+. This stablecoin
+
+120
+00:02:55,366 --> 00:02:56,966
+is actually backed by the US dollar
+
+121
+00:02:56,966 --> 00:02:58,433
+and is 100% guaranteed .
+
+122
+00:02:59,399 --> 00:03:00,899
+For example, if you look at Tether's first quarter report,
+
+123
+00:03:00,899 --> 00:03:04,399
+it issued a total of 143.68 billion Tether coins at the time
+
+124
+00:03:04,399 --> 00:03:05,599
+, and its reserve assets
+
+125
+00:03:05,600 --> 00:03:07,766
+were 149.27 billion US dollars.
+
+126
+00:03:07,766 --> 00:03:09,199
+You see, it is still 5.6 billion richer
+
+127
+00:03:09,199 --> 00:03:09,800
+. So
+you found that
+
+128
+00:03:09,800 --> 00:03:12,033
+you don't even need To understand what blockchain
+
+129
+00:03:12,033 --> 00:03:12,699
+cryptocurrency
+
+130
+00:03:12,699 --> 00:03:14,499
+is, it is actually a bit like a game company
+
+131
+00:03:14,500 --> 00:03:16,233
+issuing its own game coins and Q coins
+
+132
+00:03:16,233 --> 00:03:17,433
+, and then using collateral assets
+
+133
+00:03:17,433 --> 00:03:19,066
+to guarantee the value of the game coins.
+
+134
+00:03:19,066 --> 00:03:19,433
+Of course
+
+135
+00:03:19,433 --> 00:03:21,566
+, there are actually decentralized collateralized stablecoins
+
+136
+00:03:21,566 --> 00:03:23,599
+and there are also stablecoins that are purely maintained by algorithms
+
+137
+00:03:23,600 --> 00:03:24,966
+, but these
+
+138
+00:03:24,966 --> 00:03:25,466
+are not large
+
+139
+00:03:25,466 --> 00:03:26,699
+in terms of volume.
+
+140
+00:03:26,699 --> 00:03:28,199
+Now , the two most important stablecoins
+
+141
+00:03:28,199 --> 00:03:29,966
+are Tether, which
+
+142
+00:03:29,966 --> 00:03:30,899
+accounts for about 60%,
+
+143
+00:03:30,899 --> 00:03:32,366
+and USDC, which is
+
+144
+00:03:32,366 --> 00:03:34,000
+issued by Circle, which has just been listed,
+
+145
+00:03:34,000 --> 00:03:34,833
+and accounts for 24%.
+
+146
+00:03:34,833 --> 00:03:36,833
+These two are the kind of stablecoins that we just talked about,
+
+147
+00:03:36,833 --> 00:03:38,766
+which are issued and guaranteed by a company
+
+148
+00:03:38,766 --> 00:03:40,299
+. And this time, various legislations in various countries
+
+149
+00:03:40,300 --> 00:03:42,300
+are mainly aimed at stablecoins in this situation.
+
+150
+00:03:42,300 --> 00:03:43,600
+Don’t you think it’s ironic?
+
+151
+00:03:43,600 --> 00:03:45,833
+Although the concept of blockchain is decentralization
+
+152
+00:03:45,833 --> 00:03:46,666
+, the mainstream of stablecoins
+
+153
+00:03:46,666 --> 00:03:48,100
+, which are built on blockchain,
+
+154
+00:03:48,100 --> 00:03:50,500
+still relies on this centralized model
+
+155
+00:03:50,500 --> 00:03:51,633
+issued by an institution.
+
+156
+00:03:52,566 --> 00:03:52,899
+I tell you that
+
+157
+00:03:52,899 --> 00:03:54,399
+the profit margins of these companies that issue stablecoins
+
+158
+00:03:54,399 --> 00:03:55,799
+are terrifying.
+
+159
+00:03:55,800 --> 00:03:57,300
+Tether’s profit last year was
+
+160
+00:03:57,300 --> 00:03:58,466
+13 billion US dollars
+
+161
+00:03:58,466 --> 00:03:59,233
+, and it
+
+162
+00:03:59,233 --> 00:04:00,633
+has only a little over 100 employees
+
+163
+00:04:00,633 --> 00:04:02,066
+per capita. The profit is more than 100 million US dollars
+
+164
+00:04:02,066 --> 00:04:03,466
+. How do these stablecoin issuing companies
+
+165
+00:04:03,466 --> 00:04:04,599
+make money?
+
+166
+00:04:04,600 --> 00:04:05,566
+Well, it is actually very simple.
+
+167
+00:04:05,566 --> 00:04:06,699
+When they issue stablecoins,
+
+168
+00:04:06,699 --> 00:04:07,999
+don’t you give them one dollar?
+
+169
+00:04:08,033 --> 00:04:10,500
+They mainly rely on the interest brought by the investment of this dollar .
+
+170
+00:04:10,500 --> 00:04:11,566
+Of course, they usually invest in
+
+171
+00:04:11,566 --> 00:04:13,499
+extremely stable short-term treasury bonds
+
+172
+00:04:13,500 --> 00:04:14,566
+or overnight reverse repurchases,
+
+173
+00:04:14,566 --> 00:04:16,099
+but you think the current US interest rates are so high,
+
+174
+00:04:16,100 --> 00:04:17,399
+so the interest they can get
+
+175
+00:04:17,399 --> 00:04:18,299
+is very considerable.
+
+176
+00:04:18,300 --> 00:04:19,033
+For example, Tether
+
+177
+00:04:19,033 --> 00:04:20,966
+has issued 150 billion US dollars of Tether.
+
+178
+00:04:20,966 --> 00:04:22,599
+Let’s calculate it at 4% interest,
+
+179
+00:04:22,600 --> 00:04:24,266
+which is 6 billion US dollars a year.
+
+180
+00:04:24,266 --> 00:04:25,033
+I estimate that
+
+181
+00:04:25,033 --> 00:04:25,899
+if
+
+182
+00:04:25,899 --> 00:04:28,066
+a company issued a Japanese yen stablecoin a few years ago,
+
+183
+00:04:28,066 --> 00:04:29,366
+it would probably be broke.
+
+184
+00:04:30,733 --> 00:04:33,000
+And another stablecoin issuing giant Circle
+
+185
+00:04:33,000 --> 00:04:34,033
+can grow so fast.
+
+186
+00:04:34,033 --> 00:04:36,399
+In fact, it is heavily dependent on exchanges.
+
+187
+00:04:36,399 --> 00:04:38,533
+The interest income in 2024 is 1.68 billion US dollars
+
+188
+00:04:38,533 --> 00:04:40,000
+, but more than 1 billion of this
+
+189
+00:04:40,000 --> 00:04:41,033
+will be distributed to exchanges
+
+190
+00:04:41,033 --> 00:04:43,899
+. Then the exchanges will pay out of their own pockets to provide subsidies
+
+191
+00:04:43,899 --> 00:04:44,799
+, incentives and returns
+
+192
+00:04:44,800 --> 00:04:45,466
+to attract users.
+
+193
+00:04:45,466 --> 00:04:47,599
+For example, users deposit USDC in it
+
+194
+00:04:47,600 --> 00:04:48,833
+. In addition to the normal annualized income,
+
+195
+00:04:48,833 --> 00:04:50,533
+the platform will subsidize part of the incentives.
+
+196
+00:04:50,533 --> 00:04:51,533
+Do you think this chain of interests
+
+197
+00:04:51,533 --> 00:04:53,933
+is a bit like the incentive cycle of credit cards
+
+198
+00:04:53,933 --> 00:04:55,199
+? Oh, that's a bit off topic.
+
+199
+00:04:55,199 --> 00:04:55,633
+Let's talk about
+
+200
+00:04:55,633 --> 00:04:56,399
+why so many people
+
+201
+00:04:56,399 --> 00:04:57,433
+are interested in stablecoins
+
+202
+00:04:57,433 --> 00:04:58,500
+and think they are very important.
+
+203
+00:04:59,600 --> 00:05:00,233
+The main reason is that
+
+204
+00:05:00,233 --> 00:05:02,100
+it can not only be used as currency in the crypto world, but
+
+205
+00:05:02,100 --> 00:05:02,633
+it
+
+206
+00:05:02,633 --> 00:05:04,733
+also seems to have obvious advantages
+
+207
+00:05:04,733 --> 00:05:06,066
+if you use it in some real economy transactions.
+
+208
+00:05:06,600 --> 00:05:07,899
+First of all, it is very convenient, which
+
+209
+00:05:07,899 --> 00:05:09,633
+is especially obvious compared to cross-border remittances .
+
+210
+00:05:09,633 --> 00:05:10,433
+The average handling fee for
+
+211
+00:05:10,899 --> 00:05:13,033
+traditional cross-border remittances through banks
+
+212
+00:05:13,033 --> 00:05:14,233
+for slightly smaller currencies
+
+213
+00:05:14,233 --> 00:05:15,899
+is more than 5%
+
+214
+00:05:15,899 --> 00:05:17,266
+, and it may take several days.
+
+215
+00:05:17,266 --> 00:05:18,133
+But stablecoins
+
+216
+00:05:18,133 --> 00:05:19,133
+are all on the blockchain, so
+
+217
+00:05:19,133 --> 00:05:20,099
+there is no cross-border
+
+218
+00:05:20,100 --> 00:05:21,199
+, no exchange rate conversion,
+
+219
+00:05:21,199 --> 00:05:22,199
+no bank connection,
+
+220
+00:05:22,199 --> 00:05:22,866
+no SWIFT, and the
+
+221
+00:05:22,866 --> 00:05:23,733
+funds are credited in minutes,
+
+222
+00:05:23,733 --> 00:05:24,866
+and the handling fee is much lower
+
+223
+00:05:24,866 --> 00:05:26,533
+. At the same time, It is also private.
+
+224
+00:05:27,399 --> 00:05:28,799
+It is just like trading game coins
+
+225
+00:05:28,800 --> 00:05:29,800
+in the game world.
+
+226
+00:05:29,800 --> 00:05:30,600
+You may only know
+
+227
+00:05:30,600 --> 00:05:32,633
+that the other party is called "The Dream of Nine Hundred Million Girls"
+
+228
+00:05:32,633 --> 00:05:34,099
+but you don't know that the other party is Mr. Wang next door.
+
+229
+00:05:35,033 --> 00:05:37,533
+Of course,
+the difference between the crypto world and the game world is
+
+230
+00:05:37,533 --> 00:05:38,433
+that all the ledgers
+
+231
+00:05:38,433 --> 00:05:40,000
+on the blockchain are public.
+
+232
+00:05:40,000 --> 00:05:42,333
+So you can not only see the transaction between him and you,
+
+233
+00:05:42,333 --> 00:05:44,433
+but you may also see this "The Dream of Nine Hundred Million Girls".
+
+234
+00:05:44,433 --> 00:05:47,033
+I just transferred 120 coins to "Sad Tears"
+
+235
+00:05:47,033 --> 00:05:49,833
+yesterday, and received 32 coins from "Lonely Zhang Wuji" last month, etc.
+
+236
+00:05:49,833 --> 00:05:51,099
+Anyway, everything is public.
+
+237
+00:05:52,600 --> 00:05:54,433
+In fact, this convenience and privacy
+
+238
+00:05:54,433 --> 00:05:56,233
+is an advantage of all cryptocurrencies
+
+239
+00:05:56,233 --> 00:05:58,533
+. This is why everyone advocated Bitcoin at that time.
+
+240
+00:05:58,533 --> 00:05:59,300
+But at the same time,
+
+241
+00:05:59,300 --> 00:05:59,833
+stablecoins
+
+242
+00:05:59,833 --> 00:06:02,233
+make up for Bitcoin's biggest shortcoming. It
+
+243
+00:06:02,233 --> 00:06:03,100
+is stable,
+
+244
+00:06:03,266 --> 00:06:03,866
+convenient,
+
+245
+00:06:03,866 --> 00:06:04,500
+private,
+
+246
+00:06:04,500 --> 00:06:05,000
+and stable.
+
+247
+00:06:05,166 --> 00:06:06,266
+Just looking at these three advantages,
+
+248
+00:06:06,266 --> 00:06:07,933
+isn't it an ideal transaction currency?
+
+249
+00:06:07,933 --> 00:06:09,000
+So although stablecoins
+
+250
+00:06:09,000 --> 00:06:10,699
+are still in a very early stage
+
+251
+00:06:10,699 --> 00:06:12,466
+, they have already attracted a large number of
+
+252
+00:06:12,466 --> 00:06:14,599
+economic activities that require these three features.
+
+253
+00:06:15,533 --> 00:06:16,133
+The first one,
+
+254
+00:06:16,133 --> 00:06:17,399
+I guess everyone can guess,
+
+255
+00:06:17,399 --> 00:06:18,333
+is the black market.
+
+256
+00:06:18,500 --> 00:06:20,033
+Many people used Bitcoin to launder money before,
+
+257
+00:06:20,033 --> 00:06:21,466
+and they may feel that it is not stable enough.
+
+258
+00:06:21,466 --> 00:06:23,533
+Now that stablecoins have made up for this shortcoming,
+
+259
+00:06:23,533 --> 00:06:25,733
+they will naturally be favored by a large number of underground transactions
+
+260
+00:06:25,733 --> 00:06:27,466
+. Maybe the "Sad Tears" and
+
+261
+00:06:27,466 --> 00:06:28,433
+"Lonely Zhang Wuji"
+
+262
+00:06:28,433 --> 00:06:30,033
+are doing some black activities behind the scenes,
+
+263
+00:06:30,033 --> 00:06:30,800
+and it is hard to say.
+
+264
+00:06:30,800 --> 00:06:31,333
+Another one
+
+265
+00:06:31,333 --> 00:06:33,399
+is the cross-border payment we just mentioned
+
+266
+00:06:33,433 --> 00:06:34,800
+. About a year and a half ago,
+
+267
+00:06:34,800 --> 00:06:36,266
+the cross-border payment application of stablecoins
+
+268
+00:06:36,266 --> 00:06:37,033
+was almost zero,
+
+269
+00:06:37,033 --> 00:06:37,533
+but It has now
+
+270
+00:06:37,533 --> 00:06:39,633
+reached about 50 billion US dollars per month
+
+271
+00:06:39,633 --> 00:06:41,999
+and is still
+
+272
+00:06:42,000 --> 00:06:43,066
+growing at an astonishing rate of
+
+273
+00:06:43,066 --> 00:06:44,899
+20%-30% per month. The global cross-border payment market size
+
+274
+00:06:44,899 --> 00:06:46,866
+is about 200 trillion US dollars per year.
+
+275
+00:06:46,866 --> 00:06:48,300
+You see, the ceiling is still quite high.
+
+276
+00:06:48,300 --> 00:06:49,000
+This is why giants
+
+277
+00:06:49,000 --> 00:06:50,733
+like Amazon, Walmart, and JD.com
+
+278
+00:06:50,733 --> 00:06:52,666
+, which are involved in cross-border payments and
+
+279
+00:06:52,666 --> 00:06:53,199
+seem to
+
+280
+00:06:53,199 --> 00:06:55,333
+have nothing to do with cryptocurrencies,
+
+281
+00:06:55,333 --> 00:06:57,599
+are at the forefront of the layout of stablecoins.
+
+282
+00:06:57,600 --> 00:06:59,233
+Another major application at present
+
+283
+00:06:59,233 --> 00:07:00,800
+is that in countries with high inflation,
+
+284
+00:07:00,800 --> 00:07:01,666
+it is actually a bit like
+
+285
+00:07:01,666 --> 00:07:03,433
+using a digital dollar.
+
+286
+00:07:04,266 --> 00:07:07,266
+For example,
+
+287
+00:07:07,266 --> 00:07:08,033
+after 2022,
+
+288
+00:07:08,033 --> 00:07:08,866
+people in Argentina, Nigeria, Brazil, and Turkey
+
+289
+00:07:08,866 --> 00:07:09,533
+can be said to be
+
+290
+00:07:09,533 --> 00:07:11,600
+suffering from the rapid depreciation of their own currencies. What should we do
+
+291
+00:07:11,600 --> 00:07:12,133
+when our own countries
+
+292
+00:07:12,133 --> 00:07:13,699
+are troubled by the strict foreign exchange controls
+
+293
+00:07:13,699 --> 00:07:14,299
+?
+
+294
+00:07:14,300 --> 00:07:15,199
+The people in these countries
+
+295
+00:07:15,199 --> 00:07:17,199
+have begun to use stablecoins
+
+296
+00:07:17,199 --> 00:07:18,466
+for transactions and payments on a large scale
+
+297
+00:07:19,100 --> 00:07:20,600
+. Originally, the first reaction of the governments of these countries
+
+298
+00:07:20,600 --> 00:07:22,033
+would definitely be to ban and restrict them.
+
+299
+00:07:22,033 --> 00:07:24,433
+However, since the people's demand for stablecoins
+
+300
+00:07:24,433 --> 00:07:25,133
+is too strong,
+
+301
+00:07:25,133 --> 00:07:26,299
+they can't stop it,
+
+302
+00:07:26,300 --> 00:07:28,500
+so they simply make a 180-degree turn and
+
+303
+00:07:28,500 --> 00:07:30,733
+become the pioneers in actively supporting stablecoins. Instead
+
+304
+00:07:30,733 --> 00:07:32,333
+of letting so much money flow into the black market,
+
+305
+00:07:32,333 --> 00:07:33,633
+I might as well go with the flow
+
+306
+00:07:33,633 --> 00:07:34,333
+and open
+
+307
+00:07:34,333 --> 00:07:35,433
+up to stablecoins.
+
+308
+00:07:35,433 --> 00:07:36,933
+Brazil, for example, has directly started a pilot program
+
+309
+00:07:36,933 --> 00:07:37,766
+to connect stablecoins to
+
+310
+00:07:37,766 --> 00:07:39,233
+Brazil's official payment system PIX.
+
+311
+00:07:39,233 --> 00:07:40,199
+In Argentina,
+
+312
+00:07:40,199 --> 00:07:42,099
+you can also legally use stablecoins to pay rent
+
+313
+00:07:42,100 --> 00:07:42,900
+, etc.
+
+314
+00:07:44,133 --> 00:07:44,600
+At present,
+
+315
+00:07:44,600 --> 00:07:45,666
+the total amount of stablecoins in the world
+
+316
+00:07:45,666 --> 00:07:47,133
+exceeds 250 billion. The U.S. dollar
+
+317
+00:07:47,133 --> 00:07:48,699
+has increased more than 20 times in five years.
+
+318
+00:07:48,699 --> 00:07:49,533
+Although its total market value
+
+319
+00:07:49,533 --> 00:07:51,800
+is still not comparable to Bitcoin's more than 2 trillion U.S. dollars,
+
+320
+00:07:51,800 --> 00:07:53,000
+it is only about 1/8 of it
+
+321
+00:07:53,000 --> 00:07:53,633
+. In fact,
+
+322
+00:07:53,633 --> 00:07:55,233
+if we look at the transaction volume,
+
+323
+00:07:55,233 --> 00:07:56,833
+stablecoins have exceeded Bitcoin.
+
+324
+00:07:56,833 --> 00:07:57,933
+This also indirectly confirms
+
+325
+00:07:57,933 --> 00:07:59,833
+its very strong currency attributes.
+
+326
+00:08:01,300 --> 00:08:02,766
+In 2024, the transaction volume of stablecoins
+
+327
+00:08:02,766 --> 00:08:04,699
+will be 27.6 trillion U.S. dollars.
+
+328
+00:08:04,699 --> 00:08:06,299
+Although it is still in its infancy
+
+329
+00:08:06,300 --> 00:08:07,199
+, this transaction volume
+
+330
+00:08:07,199 --> 00:08:08,533
+has exceeded
+
+331
+00:08:08,533 --> 00:08:10,500
+the total payment of Visa and Mastercard in 2024.
+
+332
+00:08:10,500 --> 00:08:12,299
+It can be seen that its potential cannot be underestimated.
+
+333
+00:08:12,533 --> 00:08:14,633
+Just now, in order to quickly introduce its development,
+
+334
+00:08:14,633 --> 00:08:16,866
+we mainly talked about some of its positive attributes.
+
+335
+00:08:16,866 --> 00:08:17,600
+At present, it
+
+336
+00:08:17,600 --> 00:08:19,233
+still has many risks and problems .
+
+337
+00:08:19,233 --> 00:08:20,700
+It has extremely strong speculative attributes
+
+338
+00:08:20,700 --> 00:08:21,733
+and is related to money laundering. The pegged currency
+
+339
+00:08:21,733 --> 00:08:22,500
+may have a major collapse
+
+340
+00:08:22,500 --> 00:08:24,333
+or fraud
+
+341
+00:08:24,333 --> 00:08:25,100
+every once in a while
+
+342
+00:08:25,100 --> 00:08:26,799
+, and then people will naturally have a bad impression of it.
+
+343
+00:08:26,799 --> 00:08:28,833
+This is actually why the officials of most countries
+
+344
+00:08:28,833 --> 00:08:30,833
+have never been very fond of stablecoins.
+
+345
+00:08:31,666 --> 00:08:33,033
+But in fact, part of the reason
+
+346
+00:08:33,033 --> 00:08:34,899
+is that countries do not have clear regulatory
+
+347
+00:08:34,899 --> 00:08:36,233
+and ambiguous laws,
+
+348
+00:08:36,233 --> 00:08:38,233
+and you don’t know what is legal and compliant.
+
+349
+00:08:38,233 --> 00:08:39,100
+Where is the red line?
+
+350
+00:08:39,100 --> 00:08:40,466
+Therefore, most multinational companies
+
+351
+00:08:40,466 --> 00:08:41,733
+and most economic activities
+
+352
+00:08:41,733 --> 00:08:43,200
+dare not get involved in this field,
+
+353
+00:08:43,200 --> 00:08:45,266
+which also leads to many participants in cryptocurrencies
+
+354
+00:08:45,266 --> 00:08:46,333
+engaging in money laundering and
+
+355
+00:08:46,333 --> 00:08:47,133
+speculation.
+
+356
+00:08:47,133 --> 00:08:48,666
+This is why the recent legislation of various countries,
+
+357
+00:08:48,666 --> 00:08:49,633
+no matter how strict it is,
+
+358
+00:08:49,633 --> 00:08:50,433
+is a major benefit
+
+359
+00:08:50,433 --> 00:08:52,833
+to stablecoins and even the entire currency circle.
+
+360
+00:08:54,233 --> 00:08:55,000
+As for why
+
+361
+00:08:55,000 --> 00:08:57,000
+countries have suddenly started to legislate recently?
+
+362
+00:08:57,000 --> 00:08:58,899
+Well, this is actually
+
+363
+00:08:58,899 --> 00:09:00,299
+related to the game between big countries and the game of currencies.
+
+364
+00:09:00,299 --> 00:09:02,433
+The main driving force is naturally
+
+365
+00:09:02,466 --> 00:09:03,100
+the United States.
+
+366
+00:09:03,266 --> 00:09:05,133
+Let's first take a look at
+
+367
+00:09:05,133 --> 00:09:05,600
+some of Trump's major actions around cryptocurrencies
+
+368
+00:09:05,600 --> 00:09:07,466
+since he took office this
+
+369
+00:09:08,200 --> 00:09:09,533
+year. In January, as soon as Trump took office
+
+370
+00:09:09,533 --> 00:09:11,033
+, he immediately signed an executive order
+
+371
+00:09:11,033 --> 00:09:11,766
+titled
+
+372
+00:09:11,766 --> 00:09:14,833
+"Strengthening America's Leadership in Digital Financial Technology."
+
+373
+00:09:14,833 --> 00:09:15,200
+You see,
+
+374
+00:09:15,200 --> 00:09:16,399
+the name is very straightforward,
+
+375
+00:09:16,399 --> 00:09:17,733
+and the ban on digital dollars
+
+376
+00:09:17,733 --> 00:09:19,066
+basically sets the tone
+
+377
+00:09:19,066 --> 00:09:20,200
+for cryptocurrency.
+
+378
+00:09:20,200 --> 00:09:21,600
+I absolutely support it.
+
+379
+00:09:21,666 --> 00:09:22,599
+Also in January,
+
+380
+00:09:22,600 --> 00:09:24,333
+Trump issued his own $TRUMP coin,
+
+381
+00:09:24,333 --> 00:09:25,100
+80% of which
+
+382
+00:09:25,100 --> 00:09:27,000
+are controlled by Trump's companies.
+
+383
+00:09:27,000 --> 00:09:28,066
+This is not a stablecoin.
+
+384
+00:09:28,066 --> 00:09:29,899
+It is like Bitcoin, which can fluctuate in price. It
+
+385
+00:09:29,899 --> 00:09:31,466
+once rose to more than $80.
+
+386
+00:09:31,466 --> 00:09:33,200
+The total market value is as high as 60 billion US dollars
+
+387
+00:09:33,200 --> 00:09:35,033
+, but now it has fallen to less than 10 US dollars.
+
+388
+00:09:35,666 --> 00:09:36,199
+A few days later,
+
+389
+00:09:36,200 --> 00:09:37,933
+Trump's wife also issued her own currency,
+
+390
+00:09:37,933 --> 00:09:39,499
+and his son also issued his own currency.
+
+391
+00:09:39,500 --> 00:09:40,700
+In March, Trump announced
+
+392
+00:09:40,700 --> 00:09:42,233
+that the bitcoins previously confiscated by the government
+
+393
+00:09:42,233 --> 00:09:44,266
+would be listed as "US Strategic Crypto Reserves"
+
+394
+00:09:44,266 --> 00:09:45,066
+and could not be sold casually.
+
+395
+00:09:45,066 --> 00:09:46,500
+After that, Trump's affiliated companies
+
+396
+00:09:46,500 --> 00:09:48,633
+issued a stable currency USD1.
+
+397
+00:09:48,633 --> 00:09:50,133
+Originally, the scale was also small,
+
+398
+00:09:50,133 --> 00:09:51,266
+about 100 million US dollars.
+
+399
+00:09:51,266 --> 00:09:53,199
+As a result, on May 1, it suddenly increased more than ten times
+
+400
+00:09:53,200 --> 00:09:54,733
+to 2.2 billion US dollars.
+
+401
+00:09:54,866 --> 00:09:55,700
+What's going on?
+
+402
+00:09:55,700 --> 00:09:57,066
+Because Abu Dhabi came and
+
+403
+00:09:57,066 --> 00:09:58,000
+the Abu Dhabi Investment Authority
+
+404
+00:09:58,000 --> 00:09:59,533
+invested 2 billion US dollars.
+
+405
+00:10:00,133 --> 00:10:00,799
+To be honest,
+
+406
+00:10:00,799 --> 00:10:03,066
+a US president can issue his own currency.
+
+407
+00:10:03,200 --> 00:10:05,266
+Although I don’t know much about US laws
+
+408
+00:10:05,266 --> 00:10:06,933
+, I am still quite surprised by this behavior,
+
+409
+00:10:06,933 --> 00:10:08,733
+but it is very obvious that there is a conflict of interest.
+
+410
+00:10:08,733 --> 00:10:09,500
+What is the key?
+
+411
+00:10:09,500 --> 00:10:11,099
+The market reaction seems to be OK. It can be seen
+
+412
+00:10:11,100 --> 00:10:12,633
+that everyone seems to be quite accepting
+
+413
+00:10:12,700 --> 00:10:14,300
+of Trump's actions .
+
+414
+00:10:15,133 --> 00:10:15,600
+Of course.
+
+415
+00:10:15,600 --> 00:10:18,100
+The "Genius Bill" is
+
+416
+00:10:18,100 --> 00:10:19,600
+what has a major impact on the stablecoin market.
+
+417
+00:10:19,600 --> 00:10:20,333
+It's called a genius bill
+
+418
+00:10:20,333 --> 00:10:20,733
+, not because
+
+419
+00:10:20,733 --> 00:10:22,333
+Trump thinks it's genius,
+
+420
+00:10:22,333 --> 00:10:24,600
+because its abbreviation is GENIUS. It
+
+421
+00:10:24,600 --> 00:10:26,833
+'s a U.S. legislative proposal for stablecoins. It
+was
+
+422
+00:10:26,833 --> 00:10:29,133
+passed by the Senate with a high vote on June 17,
+
+423
+00:10:29,133 --> 00:10:29,966
+but it hasn't been passed by the House of Representatives yet,
+
+424
+00:10:29,966 --> 00:10:31,166
+so it's still just a draft.
+
+425
+00:10:31,166 --> 00:10:31,799
+This draft is not
+
+426
+00:10:31,799 --> 00:10:32,933
+as perverted as the Big, Beautiful Bill, which
+
+427
+00:10:32,933 --> 00:10:34,499
+has more than 1,000 pages. It's
+
+428
+00:10:34,500 --> 00:10:35,533
+only 20 to 30 pages in
+
+429
+00:10:35,533 --> 00:10:37,133
+total , so I can roughly scan
+
+430
+00:10:37,133 --> 00:10:37,799
+its core .
+
+431
+00:10:37,799 --> 00:10:39,233
+Most of them are quite standardized.
+
+432
+00:10:39,233 --> 00:10:40,333
+In fact, this is not only in the United States.
+
+433
+00:10:40,333 --> 00:10:41,966
+The legislation in most other countries is
+
+434
+00:10:41,966 --> 00:10:43,033
+pretty much the same.
+
+435
+00:10:43,033 --> 00:10:43,799
+Let me briefly summarize it.
+
+436
+00:10:43,799 --> 00:10:44,799
+There are probably these points.
+
+437
+00:10:45,600 --> 00:10:46,700
+First of all, in terms of qualifications,
+
+438
+00:10:46,700 --> 00:10:47,733
+companies that issue stablecoins
+
+439
+00:10:47,733 --> 00:10:48,633
+must have a license.
+
+440
+00:10:48,633 --> 00:10:49,799
+Who can issue and who can't issue is
+
+441
+00:10:49,799 --> 00:10:50,799
+up to our government to decide.
+
+442
+00:10:50,799 --> 00:10:51,133
+But
+
+443
+00:10:51,133 --> 00:10:53,299
+in the end, is it the state government or the federal government that has the final say
+
+444
+00:10:53,299 --> 00:10:54,299
+? It is still under discussion
+
+445
+00:10:54,299 --> 00:10:55,166
+. As for supervision,
+
+446
+00:10:55,166 --> 00:10:55,999
+it has stipulated
+
+447
+00:10:56,000 --> 00:10:56,933
+which institutions are responsible,
+
+448
+00:10:56,933 --> 00:10:57,999
+so you don't need to know.
+
+449
+00:10:58,000 --> 00:11:00,099
+In addition, in terms of reserve assets,
+
+450
+00:11:00,100 --> 00:11:01,733
+it requires that all stablecoins issued
+
+451
+00:11:01,733 --> 00:11:03,833
+must have high-quality assets as reserves
+
+452
+00:11:03,833 --> 00:11:05,133
+, such as short-term Treasury bonds
+
+453
+00:11:05,133 --> 00:11:07,066
+and overnight reverse repurchases. These have very good liquidity
+
+454
+00:11:07,066 --> 00:11:08,700
+, and they cannot be used as collateral.
+
+455
+00:11:08,700 --> 00:11:09,600
+These reserve assets
+
+456
+00:11:09,600 --> 00:11:11,799
+have the highest priority when it comes to repayment.
+
+457
+00:11:11,799 --> 00:11:13,999
+For example, if the company issuing the stablecoin goes bankrupt,
+
+458
+00:11:14,000 --> 00:11:15,599
+you cannot use these reserves to repay the debt first,
+
+459
+00:11:15,600 --> 00:11:17,799
+you have to give them to the holders of the stablecoin first
+
+460
+00:11:17,799 --> 00:11:18,399
+. In addition,
+
+461
+00:11:18,399 --> 00:11:20,399
+there are some risk management requirements,
+
+462
+00:11:20,399 --> 00:11:21,533
+information disclosure requirements,
+
+463
+00:11:21,533 --> 00:11:22,633
+anti-money laundering requirements, etc.
+
+464
+00:11:22,633 --> 00:11:23,166
+To be honest ,
+
+465
+00:11:23,166 --> 00:11:24,033
+after working in the bank for a long time,
+
+466
+00:11:24,033 --> 00:11:25,799
+you are quite familiar with these requirements.
+
+467
+00:11:25,799 --> 00:11:26,933
+It is a very standard three-piece set.
+
+468
+00:11:26,933 --> 00:11:28,133
+However, compared with bank supervision
+
+469
+00:11:28,133 --> 00:11:30,199
+, its requirements for reserve assets are obviously stricter.
+
+470
+00:11:30,200 --> 00:11:31,433
+You want 100% reserves.
+
+471
+00:11:31,433 --> 00:11:32,366
+After all, these companies
+
+472
+00:11:32,366 --> 00:11:34,266
+are really a bit like issuing a currency. You can
+
+473
+00:11:34,266 --> 00:11:36,599
+imagine that banks have to spend so much effort on compliance, and
+
+474
+00:11:36,600 --> 00:11:38,133
+companies in the cryptocurrency industry have to spend even more
+
+475
+00:11:38,133 --> 00:11:38,699
+effort on compliance
+
+476
+00:11:38,700 --> 00:11:39,899
+. Let's talk about compliance.
+
+477
+00:11:39,899 --> 00:11:41,099
+What is "compliance"?
+
+478
+00:11:41,100 --> 00:11:43,233
+It means how to comply with the laws and regulations of various countries
+
+479
+00:11:43,233 --> 00:11:45,433
+, such as various license audit requirements,
+
+480
+00:11:45,433 --> 00:11:46,433
+anti-money laundering requirements,
+
+481
+00:11:46,433 --> 00:11:47,433
+technical security requirements,
+
+482
+00:11:47,433 --> 00:11:48,699
+reserve asset requirements, etc.
+
+483
+00:11:48,700 --> 00:11:51,033
+Now all countries have to introduce these "regulations" first before
+
+484
+00:11:51,033 --> 00:11:51,833
+they can comply.
+
+485
+00:11:51,833 --> 00:11:52,799
+For example, although Tether
+
+486
+00:11:52,799 --> 00:11:54,299
+has the largest market size now ,
+
+487
+00:11:54,299 --> 00:11:55,733
+it may be driven out of the US market
+
+488
+00:11:55,733 --> 00:11:56,833
+due to insufficient information disclosure
+
+489
+00:11:56,833 --> 00:11:57,733
+and registered in the Virgin Islands
+
+490
+00:11:57,733 --> 00:12:00,299
+instead of the United States due to non-compliance. In fact,
+
+491
+00:12:00,299 --> 00:12:02,433
+compliance is more important
+
+492
+00:12:02,433 --> 00:12:04,166
+not only for stablecoin issuers, but
+
+493
+00:12:04,166 --> 00:12:05,499
+also for these cryptocurrency exchanges.
+
+494
+00:12:06,933 --> 00:12:08,799
+Because the various regulations in the early market were not
+
+495
+00:12:08,799 --> 00:12:10,566
+perfect, the trading platform can be said to have grown wildly.
+
+496
+00:12:10,566 --> 00:12:11,399
+In the past two years,
+
+497
+00:12:11,399 --> 00:12:12,799
+with the standardization of this supervision,
+
+498
+00:12:12,799 --> 00:12:15,299
+it has actually brought a wave of rectification to major exchanges.
+
+499
+00:12:15,299 --> 00:12:15,633
+For example,
+
+500
+00:12:15,633 --> 00:12:17,199
+there is a very large cryptocurrency exchange
+
+501
+00:12:17,200 --> 00:12:18,899
+called OKX In the United States, it
+
+502
+00:12:18,899 --> 00:12:20,966
+just reached a settlement with the Department of Justice in February this year,
+
+503
+00:12:20,966 --> 00:12:22,833
+paid a fine of 84 million US dollars
+
+504
+00:12:22,833 --> 00:12:25,266
+, and directly gave up 420 million US dollars in revenue.
+
+505
+00:12:25,266 --> 00:12:26,999
+Later, because it was discovered that an illegal organization
+
+506
+00:12:27,000 --> 00:12:28,899
+used Web3 wallet chain transactions to launder money,
+
+507
+00:12:28,899 --> 00:12:29,333
+it took the initiative to shut down the on-chain transactions of Web3 wallets
+
+508
+00:12:29,333 --> 00:12:31,899
+in March . Do you feel that he
+
+509
+00:12:31,899 --> 00:12:33,733
+has suffered heavy losses
+
+510
+00:12:33,733 --> 00:12:35,100
+this year for compliance
+
+511
+00:12:35,100 --> 00:12:35,700
+? In fact,
+
+512
+00:12:35,700 --> 00:12:37,700
+he also saw the importance of compliance,
+
+513
+00:12:37,700 --> 00:12:39,100
+so he simply catered to the supervision and took the
+
+514
+00:12:39,100 --> 00:12:41,299
+initiative to pay the fine and settle with the US Department of Justice.
+
+515
+00:12:41,299 --> 00:12:43,399
+The Web3 wallet chain transaction
+
+516
+00:12:43,399 --> 00:12:44,299
+was also proactively shut down.
+
+517
+00:12:44,299 --> 00:12:45,366
+What I mean is, hey,
+
+518
+00:12:45,366 --> 00:12:47,000
+European and American regulators,
+
+519
+00:12:47,000 --> 00:12:48,500
+you see, we attach importance to compliance
+
+520
+00:12:48,500 --> 00:12:49,299
+and security,
+
+521
+00:12:49,299 --> 00:12:50,199
+we perform well
+
+522
+00:12:50,200 --> 00:12:51,766
+and be a good exchange that abides by the law
+
+523
+00:12:53,399 --> 00:12:53,766
+. At the same time,
+
+524
+00:12:53,766 --> 00:12:55,799
+although the supervision does not require the exchange's reserves
+
+525
+00:12:55,799 --> 00:12:57,899
+, it has also
+
+526
+00:12:57,899 --> 00:12:59,699
+issued a 100% reserve proof report like the company issuing the stablecoin. It
+
+527
+00:12:59,700 --> 00:13:00,399
+will be released every month
+
+528
+00:13:00,399 --> 00:13:00,999
+from the end of 2022.
+
+529
+00:13:01,000 --> 00:13:02,200
+Users can also check
+
+530
+00:13:02,200 --> 00:13:02,899
+whether their funds
+
+531
+00:13:02,899 --> 00:13:04,899
+are supported by 1:1 real reserves.
+
+532
+00:13:04,899 --> 00:13:06,533
+In short, it is very active,
+
+533
+00:13:06,533 --> 00:13:08,766
+which also helped them successfully obtain
+
+534
+00:13:08,766 --> 00:13:10,733
+licenses in the United States, the European Union, Singapore, Dubai and other regions
+
+535
+00:13:11,766 --> 00:13:12,766
+to cater to supervision It
+
+536
+00:13:12,766 --> 00:13:14,133
+will indeed bring huge initial costs to
+
+537
+00:13:14,133 --> 00:13:15,533
+cryptocurrency companies
+
+538
+00:13:15,533 --> 00:13:16,699
+, but in the long run,
+
+539
+00:13:16,700 --> 00:13:19,200
+it will have huge benefits
+
+540
+00:13:19,200 --> 00:13:20,533
+for both user trust and regulatory trust.
+
+541
+00:13:21,566 --> 00:13:22,799
+There were rumors a few days ago that
+
+542
+00:13:22,799 --> 00:13:24,699
+OKX was considering listing on the U.S. stock market.
+
+543
+00:13:24,700 --> 00:13:25,433
+Now it
+
+544
+00:13:25,433 --> 00:13:26,533
+makes more sense that
+
+545
+00:13:26,533 --> 00:13:27,533
+it went through so much trouble before
+
+546
+00:13:27,533 --> 00:13:29,133
+, paying fines
+
+547
+00:13:29,133 --> 00:13:30,366
+and shutting down wallet chain transactions .
+
+548
+00:13:30,366 --> 00:13:30,833
+Hey, let me tell you
+
+549
+00:13:30,833 --> 00:13:32,033
+that listing on the U.S. stock market
+
+550
+00:13:32,033 --> 00:13:32,666
+actually has a very unusual meaning
+
+551
+00:13:32,666 --> 00:13:34,799
+in the cryptocurrency circle ,
+
+552
+00:13:34,799 --> 00:13:35,599
+because for them,
+
+553
+00:13:35,600 --> 00:13:37,266
+it is equivalent to a very strong
+
+554
+00:13:37,266 --> 00:13:39,399
+certificate of compliance with the U.S. market.
+
+555
+00:13:40,766 --> 00:13:41,366
+To be honest,
+
+556
+00:13:41,366 --> 00:13:43,566
+these cryptocurrency companies are not actually short of money. What they
+
+557
+00:13:43,566 --> 00:13:45,033
+lack is credit
+
+558
+00:13:45,033 --> 00:13:46,199
+and certificates.
+
+559
+00:13:46,200 --> 00:13:48,233
+This is their biggest benefit from listing on the U.S. stock market.
+
+560
+00:13:48,233 --> 00:13:50,166
+Whether it is for users, investors
+
+561
+00:13:50,166 --> 00:13:50,933
+, partners
+
+562
+00:13:50,933 --> 00:13:51,933
+, or even regulators,
+
+563
+00:13:51,933 --> 00:13:53,266
+it has a very big credit bonus.
+
+564
+00:13:53,266 --> 00:13:53,999
+This is why
+
+565
+00:13:54,000 --> 00:13:55,266
+Coinbase has always been
+
+566
+00:13:55,266 --> 00:13:56,766
+a typical good student
+
+567
+00:13:56,766 --> 00:13:57,866
+in cryptocurrency compliance,
+
+568
+00:13:57,866 --> 00:13:59,733
+including Circle, which has just been listed, and
+
+569
+00:13:59,733 --> 00:14:02,366
+has done the most and most fully in terms of compliance.
+
+570
+00:14:02,366 --> 00:14:03,000
+In fact, it has helped them
+
+571
+00:14:03,000 --> 00:14:05,066
+to seize most of the U.S. market first
+
+572
+00:14:05,066 --> 00:14:06,133
+. So why
+
+573
+00:14:06,133 --> 00:14:08,133
+is the United States so actively promoting stablecoins?
+
+574
+00:14:08,133 --> 00:14:08,799
+In summary,
+
+575
+00:14:08,799 --> 00:14:10,399
+it has three main purposes
+
+576
+00:14:10,633 --> 00:14:13,399
+One is to maintain or even strengthen the status of the US dollar,
+
+577
+00:14:13,399 --> 00:14:14,999
+another is to increase the demand for US debt,
+
+578
+00:14:15,000 --> 00:14:17,399
+and the other is to seize the status of the crypto world.
+
+579
+00:14:17,399 --> 00:14:18,799
+Of course, some people say that there should be another point
+
+580
+00:14:18,799 --> 00:14:20,299
+. Trump himself wants to make money.
+
+581
+00:14:20,299 --> 00:14:21,533
+You see, he has issued so many coins.
+
+582
+00:14:21,533 --> 00:14:22,766
+He just wants to, right?
+
+583
+00:14:22,766 --> 00:14:24,466
+We will not comment on this.
+
+584
+00:14:24,466 --> 00:14:25,933
+Let's mainly discuss the three points before.
+
+585
+00:14:25,933 --> 00:14:27,133
+First, strengthen the status of the US dollar
+
+586
+00:14:28,000 --> 00:14:29,299
+. US Treasury Secretary Bessant
+
+587
+00:14:29,299 --> 00:14:30,399
+clearly stated in March that
+
+588
+00:14:30,399 --> 00:14:32,199
+the Trump administration will use stablecoins
+
+589
+00:14:32,200 --> 00:14:33,899
+to maintain the dominance of the US dollar.
+
+590
+00:14:33,899 --> 00:14:35,499
+We have mentioned it many times before.
+
+591
+00:14:35,500 --> 00:14:37,200
+Recently, especially after Trump took office,
+
+592
+00:14:37,200 --> 00:14:37,799
+many countries
+
+593
+00:14:37,799 --> 00:14:38,833
+and even the entire market
+
+594
+00:14:38,833 --> 00:14:40,633
+have been very slowly de-dollarizing.
+
+595
+00:14:40,633 --> 00:14:42,633
+This is definitely something the US government does not want to see.
+
+596
+00:14:43,833 --> 00:14:44,733
+As for stablecoins,
+
+597
+00:14:44,733 --> 00:14:46,066
+although it can be linked to anything,
+
+598
+00:14:46,066 --> 00:14:47,299
+it can have euros, stablecoins,
+
+599
+00:14:47,299 --> 00:14:48,599
+and offshore There are stablecoins for RMB and
+
+600
+00:14:48,600 --> 00:14:49,433
+stablecoins for gold
+
+601
+00:14:49,433 --> 00:14:49,999
+, but in fact,
+
+602
+00:14:50,000 --> 00:14:53,066
+99% of the market is still stablecoins for US dollars.
+
+603
+00:14:53,066 --> 00:14:54,333
+In the short term, promoting stablecoins
+
+604
+00:14:54,333 --> 00:14:55,733
+is equivalent to promoting the US dollar, right?
+
+605
+00:14:55,733 --> 00:14:57,600
+Although the transaction of stablecoins is on the chain
+
+606
+00:14:57,600 --> 00:14:59,266
+, the collateral behind them is all US dollars
+
+607
+00:14:59,266 --> 00:15:00,533
+, and it is also pegged to the US dollar exchange rate
+
+608
+00:15:00,533 --> 00:15:02,133
+. Let's take a slightly extreme assumption.
+
+609
+00:15:02,133 --> 00:15:02,999
+For example, Kazakhstan,
+
+610
+00:15:03,033 --> 00:15:04,699
+Turkey, Nigeria, and Argentina
+
+611
+00:15:04,700 --> 00:15:06,299
+all use stablecoins for transactions in US dollars.
+
+612
+00:15:06,299 --> 00:15:07,866
+Then ,
+
+613
+00:15:07,866 --> 00:15:09,299
+no one will use
+
+614
+00:15:09,299 --> 00:15:09,933
+the lira, naira
+
+615
+00:15:09,933 --> 00:15:11,699
+, and peso printed by these countries
+
+616
+00:15:11,700 --> 00:15:14,100
+, and the interest rates they set will be useless. It is basically equivalent to these countries using US dollars and
+
+617
+00:15:14,100 --> 00:15:14,899
+being completely dollarized.
+
+618
+00:15:14,899 --> 00:15:16,899
+Therefore, if US dollar stablecoins
+
+619
+00:15:16,899 --> 00:15:18,833
+are widely used in non-US dollar countries,
+
+620
+00:15:18,833 --> 00:15:21,100
+this will definitely enhance the application scope
+
+621
+00:15:21,100 --> 00:15:21,866
+and international status
+
+622
+00:15:21,866 --> 00:15:22,899
+of the US dollar. This is very easy to understand.
+
+623
+00:15:22,899 --> 00:15:23,433
+Then It
+
+624
+00:15:23,433 --> 00:15:25,033
+is to stimulate the demand for U.S. Treasury bonds.
+
+625
+00:15:25,033 --> 00:15:25,433
+Think about it,
+
+626
+00:15:25,433 --> 00:15:27,799
+because most stablecoins are pegged to the U.S. dollar, 60%
+
+627
+00:15:27,799 --> 00:15:28,833
+of the reserve assets behind them
+
+628
+00:15:28,833 --> 00:15:30,833
+are now short-term Treasury bonds.
+
+629
+00:15:30,833 --> 00:15:32,200
+After the legislation, there may be more.
+
+630
+00:15:32,200 --> 00:15:33,200
+For example, Tether
+
+631
+00:15:33,200 --> 00:15:34,899
+is the largest issuer of stablecoins.
+
+632
+00:15:34,899 --> 00:15:38,199
+In 2024, the net purchase of U.S. Treasury bonds was US$33.1 billion.
+
+633
+00:15:38,200 --> 00:15:40,533
+This was the seventh largest buyer of U.S. Treasury bonds in the world last year.
+
+634
+00:15:40,533 --> 00:15:42,033
+Bensont also said at the hearing
+
+635
+00:15:42,033 --> 00:15:42,933
+that by 2028 ,
+
+636
+00:15:42,933 --> 00:15:44,799
+the scale of stablecoins may increase eightfold,
+
+637
+00:15:44,799 --> 00:15:46,266
+and the demand for short-term U.S. Treasury bonds
+
+638
+00:15:46,266 --> 00:15:47,733
+may exceed 1 trillion.
+
+639
+00:15:47,733 --> 00:15:49,400
+You see, U.S. Treasury bonds are worried that no one will buy them.
+
+640
+00:15:49,466 --> 00:15:51,600
+Isn't this good? Everyone has mentioned this point a lot,
+
+641
+00:15:51,600 --> 00:15:52,533
+because his logical chain
+
+642
+00:15:52,533 --> 00:15:53,633
+is very logical and
+
+643
+00:15:53,633 --> 00:15:54,233
+reasonable.
+
+644
+00:15:54,233 --> 00:15:55,633
+However, I personally think that
+
+645
+00:15:55,633 --> 00:15:57,233
+this is not the main reason why the United States has been so hasty
+
+646
+00:15:57,233 --> 00:15:59,200
+in introducing the stablecoin bill.
+
+647
+00:15:59,200 --> 00:16:00,866
+Of course This is purely my personal opinion.
+
+648
+00:16:00,866 --> 00:16:01,899
+You can listen to what I think.
+
+649
+00:16:01,899 --> 00:16:03,833
+First of all, the demand for these U.S. bonds
+
+650
+00:16:03,833 --> 00:16:05,100
+is not a brand new demand
+
+651
+00:16:05,100 --> 00:16:06,466
+, but this is not the most critical point
+
+652
+00:16:06,466 --> 00:16:08,833
+. The more critical point is the term of the treasury bonds.
+
+653
+00:16:10,233 --> 00:16:10,933
+People often say that
+
+654
+00:16:10,933 --> 00:16:13,399
+Tether is the largest holder of treasury bonds and
+
+655
+00:16:13,399 --> 00:16:14,399
+how many U.S.
+
+656
+00:16:14,399 --> 00:16:16,433
+bonds it has bought. The main thing to look at is its holdings of treasury bonds
+
+657
+00:16:16,433 --> 00:16:17,466
+, but for U.S. bonds,
+
+658
+00:16:17,466 --> 00:16:19,433
+the term is very important. Most of
+
+659
+00:16:19,933 --> 00:16:21,333
+the treasury bonds reserved by these stablecoins
+
+660
+00:16:21,333 --> 00:16:23,200
+are ultra-short-term treasury bonds
+
+661
+00:16:23,200 --> 00:16:24,633
+within 3 months. For example,
+
+662
+00:16:24,633 --> 00:16:25,666
+the treasury bonds purchased by
+
+663
+00:16:25,666 --> 00:16:27,433
+Japan and the People's Bank of China with foreign exchange reserves
+
+664
+00:16:27,433 --> 00:16:29,899
+are medium- and long-term treasury bonds of 3 to 30 years.
+
+665
+00:16:29,899 --> 00:16:31,266
+The two are completely different concepts.
+
+666
+00:16:32,000 --> 00:16:33,433
+Friends who have done transactions should know that
+
+667
+00:16:33,433 --> 00:16:35,533
+there is an essential difference
+
+668
+00:16:35,533 --> 00:16:36,666
+between 3-month treasury bonds and 10-year treasury bonds
+
+669
+00:16:36,666 --> 00:16:38,099
+. For this ultra-short-term interest rate
+
+670
+00:16:38,100 --> 00:16:39,100
+In fact, it is not the market demand
+
+671
+00:16:39,100 --> 00:16:40,433
+that plays a decisive role.
+
+672
+00:16:40,433 --> 00:16:41,433
+Who is it?
+
+673
+00:16:41,433 --> 00:16:42,433
+The Federal Reserve.
+
+674
+00:16:42,433 --> 00:16:44,666
+The Federal Reserve can just cut interest rates by 25 basis points. It
+
+675
+00:16:44,666 --> 00:16:45,766
+can be more useful than 10 Tethers
+
+676
+00:16:45,766 --> 00:16:47,233
+buying 3-month short-term treasury bonds like crazy
+
+677
+00:16:47,233 --> 00:16:47,866
+.
+
+678
+00:16:47,866 --> 00:16:48,933
+This part is a little bit skipped.
+
+679
+00:16:48,933 --> 00:16:49,733
+I didn't go into detail.
+
+680
+00:16:49,733 --> 00:16:51,200
+Anyway,
+
+681
+00:16:51,200 --> 00:16:52,666
+the US government is not worried about selling
+
+682
+00:16:52,666 --> 00:16:54,466
+these ultra-short-term treasury bonds . What it worries about is the long-term treasury bonds.
+
+683
+00:16:54,466 --> 00:16:56,100
+We talked about the Mar-a-Lago agreement before.
+
+684
+00:16:56,100 --> 00:16:57,299
+Didn't Milan also suggest
+
+685
+00:16:57,299 --> 00:16:59,399
+that other countries can replace those short-term treasury bonds
+
+686
+00:16:59,399 --> 00:17:00,433
+with long-term
+
+687
+00:17:00,433 --> 00:17:01,599
+or even ultra-long-term treasury bonds
+
+688
+00:17:01,600 --> 00:17:02,433
+? I don't care
+
+689
+00:17:02,433 --> 00:17:03,133
+if you buy short-term
+
+690
+00:17:03,133 --> 00:17:04,433
+ones . It's better to replace them with long-term
+
+691
+00:17:04,433 --> 00:17:06,633
+ones. In short, if you say that the United States has spent a lot of time and effort
+
+692
+00:17:06,633 --> 00:17:09,066
+to urgently launch such a set of cryptocurrency bills
+
+693
+00:17:09,066 --> 00:17:10,700
+to promote the development of the entire crypto world,
+
+694
+00:17:10,700 --> 00:17:12,066
+it has brought huge uncertainty
+
+695
+00:17:12,066 --> 00:17:13,433
+. It is for the increase of
+
+696
+00:17:13,433 --> 00:17:14,699
+$1 trillion
+
+697
+00:17:14,700 --> 00:17:16,500
+in demand for short-term Treasury bonds in three years
+
+698
+00:17:16,533 --> 00:17:17,933
+. I have doubts about this.
+
+699
+00:17:17,933 --> 00:17:19,899
+This increase in demand for Treasury bonds is definitely a benefit
+
+700
+00:17:19,899 --> 00:17:20,299
+, but I think
+
+701
+00:17:20,299 --> 00:17:22,466
+it is far from the most important and fundamental purpose of the United States.
+
+702
+00:17:22,466 --> 00:17:24,200
+The other two points are
+
+703
+00:17:24,200 --> 00:17:25,466
+much more important. Let's look at the third point, which
+
+704
+00:17:25,466 --> 00:17:27,900
+is to compete for the right to speak in the crypto world.
+
+705
+00:17:29,333 --> 00:17:29,733
+Before,
+
+706
+00:17:29,733 --> 00:17:31,700
+the United States mainly watched cryptocurrencies.
+
+707
+00:17:31,700 --> 00:17:32,933
+As it watched, it found
+
+708
+00:17:32,933 --> 00:17:33,899
+that after so many years
+
+709
+00:17:33,899 --> 00:17:34,266
+,
+
+710
+00:17:34,266 --> 00:17:36,466
+it seems that the crypto world is not a flash in the pan.
+
+711
+00:17:36,466 --> 00:17:38,000
+Its demand is continuing to expand, and its
+
+712
+00:17:38,000 --> 00:17:39,399
+concepts are constantly being updated.
+
+713
+00:17:39,399 --> 00:17:42,199
+There are even signs of challenging the traditional financial system.
+
+714
+00:17:42,666 --> 00:17:43,533
+Since I can't suppress it
+
+715
+00:17:43,533 --> 00:17:44,866
+, I might as well embrace it
+
+716
+00:17:44,866 --> 00:17:45,500
+and take the lead in
+
+717
+00:17:45,500 --> 00:17:46,533
+legislating and standardizing.
+
+718
+00:17:46,533 --> 00:17:47,833
+In fact, it is not only the United States, but also
+
+719
+00:17:47,833 --> 00:17:50,133
+the countries and regions that support stable currency legislation
+
+720
+00:17:50,133 --> 00:17:51,299
+. The United States is not the first
+
+721
+00:17:51,299 --> 00:17:52,799
+to have this goal.
+
+722
+00:17:52,799 --> 00:17:54,733
+You can see that Europe, Singapore, and Hong Kong
+
+723
+00:17:54,733 --> 00:17:56,266
+have all launched stablecoin drafts
+
+724
+00:17:56,266 --> 00:17:57,666
+. Countries like Switzerland in the Middle East
+
+725
+00:17:57,666 --> 00:17:59,799
+have always been very supportive of blockchain.
+
+726
+00:18:00,466 --> 00:18:02,633
+So we can't say that the United States is trying to get ahead. We can
+
+727
+00:18:02,633 --> 00:18:04,033
+only say that it is trying not to fall behind and
+
+728
+00:18:04,033 --> 00:18:05,799
+not lose its position as a global reserve currency
+
+729
+00:18:05,799 --> 00:18:08,266
+in this new battlefield of the crypto world ,
+
+730
+00:18:08,266 --> 00:18:09,833
+right? We can only expedite legislation.
+
+731
+00:18:10,899 --> 00:18:12,899
+Now let's talk about China.
+
+732
+00:18:14,066 --> 00:18:14,600
+We know that
+
+733
+00:18:14,600 --> 00:18:16,666
+mainland China has always banned cryptocurrencies.
+
+734
+00:18:16,666 --> 00:18:17,799
+The main push at present is
+
+735
+00:18:17,799 --> 00:18:18,633
+the digital RMB
+
+736
+00:18:18,633 --> 00:18:19,633
+, but this digital RMB
+
+737
+00:18:19,633 --> 00:18:21,033
+is still very different from stablecoins.
+
+738
+00:18:21,033 --> 00:18:22,433
+Well, we'll talk about
+
+739
+00:18:23,633 --> 00:18:26,500
+this when we have a chance.
+After all, the United States wants to seize the dominant position in stablecoins,
+
+740
+00:18:26,500 --> 00:18:28,233
+and China must be afraid of missing this train
+
+741
+00:18:28,233 --> 00:18:29,133
+and also wants
+
+742
+00:18:29,133 --> 00:18:31,033
+to strive for offshore in new markets . The voice of RMB,
+
+743
+00:18:31,033 --> 00:18:33,233
+so now it is mainly in Hong Kong
+
+744
+00:18:33,233 --> 00:18:34,600
+to pilot stablecoins. The RMB stablecoin
+
+745
+00:18:34,600 --> 00:18:35,833
+adopts this dual-track system.
+
+746
+00:18:36,866 --> 00:18:38,299
+Hong Kong launched the "Stablecoin Bill"
+
+747
+00:18:38,299 --> 00:18:39,833
+in May this year
+
+748
+00:18:39,833 --> 00:18:41,033
+, which will take effect on August 1. As
+
+749
+00:18:41,033 --> 00:18:42,266
+soon as this bill was launched,
+
+750
+00:18:42,266 --> 00:18:44,099
+the concept stocks of stablecoins went crazy,
+
+751
+00:18:44,100 --> 00:18:45,899
+at least 70%. It can be seen that the market
+
+752
+00:18:45,899 --> 00:18:48,199
+is very optimistic about the stablecoin market in Hong Kong
+
+753
+00:18:48,200 --> 00:18:49,100
+.
+
+754
+00:18:49,100 --> 00:18:50,333
+Of course, the stablecoin promoted by Hong Kong
+
+755
+00:18:50,333 --> 00:18:51,533
+is not the US dollar stablecoin, but
+
+756
+00:18:51,533 --> 00:18:52,899
+the Hong Kong dollar stablecoin.
+
+757
+00:18:52,899 --> 00:18:54,333
+At the same time, it is also planned to launch
+
+758
+00:18:54,333 --> 00:18:56,533
+a pilot of offshore RMB stablecoin.
+
+759
+00:18:57,399 --> 00:18:58,833
+The content and concept of this regulation
+
+760
+00:18:58,833 --> 00:19:00,666
+are actually similar to the one we just talked about in the United States.
+
+761
+00:19:00,666 --> 00:19:02,099
+Let's talk about some differences.
+
+762
+00:19:02,100 --> 00:19:03,100
+First of all, Hong Kong's approach
+
+763
+00:19:03,100 --> 00:19:04,299
+is called "sandbox"
+
+764
+00:19:04,299 --> 00:19:05,633
+, which is to conduct a pilot in an isolated and
+
+765
+00:19:05,633 --> 00:19:08,133
+fully controllable regulatory environment
+
+766
+00:19:08,133 --> 00:19:09,933
+. In July 2024, he
+
+767
+00:19:09,933 --> 00:19:12,466
+announced the licenses of three "Sandbox" participants.
+
+768
+00:19:12,533 --> 00:19:14,933
+These three can be said to be the first participants
+
+769
+00:19:14,933 --> 00:19:15,666
+in the Hong Kong stablecoin circle.
+
+770
+00:19:15,666 --> 00:19:17,399
+The licenses were obtained by
+
+771
+00:19:17,399 --> 00:19:19,399
+JD Coin Chain, Yuancoin Innovation
+
+772
+00:19:19,399 --> 00:19:21,733
+, and an alliance including Standard Chartered Bank.
+
+773
+00:19:21,733 --> 00:19:24,266
+JD Coin Chain is obviously JD's,
+
+774
+00:19:24,266 --> 00:19:26,533
+and the custodian bank behind it is called Tianxing Bank.
+
+775
+00:19:26,533 --> 00:19:28,399
+Who are the two major shareholders of Tianxing Bank?
+
+776
+00:19:28,399 --> 00:19:29,666
+Xiaomi and Futu.
+
+777
+00:19:29,733 --> 00:19:31,033
+The second Yuancoin Innovation is
+
+778
+00:19:31,033 --> 00:19:32,866
+mainly backed by some currency circle capital.
+
+779
+00:19:32,866 --> 00:19:33,666
+The third alliance
+
+780
+00:19:33,666 --> 00:19:34,866
+is mainly some Hong Kong capital.
+
+781
+00:19:34,866 --> 00:19:35,899
+Then there is another player who
+
+782
+00:19:35,899 --> 00:19:37,333
+is not a "Sandbox" participant yet,
+
+783
+00:19:37,333 --> 00:19:38,733
+but has been eyeing
+
+784
+00:19:38,733 --> 00:19:41,200
+to become the player who wants to win the next batch of licenses.
+
+785
+00:19:41,200 --> 00:19:42,500
+That is Ant Group.
+
+786
+00:19:42,799 --> 00:19:43,200
+So you see,
+
+787
+00:19:43,200 --> 00:19:45,266
+the Hong Kong Stablecoin Ordinance has not yet come into effect,
+
+788
+00:19:45,266 --> 00:19:46,899
+but the competition for this license has already begun.
+
+789
+00:19:46,899 --> 00:19:47,999
+Then Hong Kong has another feature, that
+
+790
+00:19:49,100 --> 00:19:50,633
+is, it will obviously pay more attention to cross-border payments.
+
+791
+00:19:50,633 --> 00:19:52,466
+For example, the Hong Kong
+
+792
+00:19:52,466 --> 00:19:54,399
+Economic and Trade Authority and the People's Bank of China
+
+793
+00:19:54,399 --> 00:19:56,399
+jointly launched the Cross-border Payment Pass,
+
+794
+00:19:56,399 --> 00:19:57,699
+which was just launched on June 22.
+
+795
+00:19:57,700 --> 00:19:59,799
+It roughly allows point-to-point direct connection
+
+796
+00:19:59,799 --> 00:20:00,933
+between the mainland and Hong Kong
+
+797
+00:20:00,933 --> 00:20:02,666
+without going through particularly complicated cross-border transactions
+
+798
+00:20:02,666 --> 00:20:04,333
+. In this way, the flow of funds can be smoother, and
+
+799
+00:20:04,333 --> 00:20:05,433
+the cross-border payment Although Futong
+
+800
+00:20:05,433 --> 00:20:06,999
+is not on the blockchain
+
+801
+00:20:07,000 --> 00:20:08,933
+, it also uses distributed ledger technology
+
+802
+00:20:08,933 --> 00:20:11,266
+and stablecoins. The compatibility of digital RMB is very high,
+
+803
+00:20:11,266 --> 00:20:12,333
+so the market generally believes
+
+804
+00:20:12,333 --> 00:20:14,066
+that it is
+
+805
+00:20:14,066 --> 00:20:16,066
+an important path to promote the internationalization
+
+806
+00:20:16,733 --> 00:20:18,333
+of RMB stablecoins in the future. The EU
+
+807
+00:20:18,333 --> 00:20:19,200
+passed
+
+808
+00:20:19,200 --> 00:20:21,100
+the MiCA regulatory bill for crypto assets in 2023.
+
+809
+00:20:21,100 --> 00:20:22,933
+The Singapore Financial Services Authority also
+
+810
+00:20:22,933 --> 00:20:24,899
+issued a regulatory framework for stablecoins in 2023.
+
+811
+00:20:24,899 --> 00:20:25,799
+These two countries issued formal regulatory regulations very
+
+812
+00:20:25,799 --> 00:20:27,499
+early
+
+813
+00:20:28,200 --> 00:20:29,200
+.
+
+814
+00:20:29,200 --> 00:20:30,299
+In general,
+
+815
+00:20:30,299 --> 00:20:32,699
+in order to facilitate everyone's understanding, I will simply classify
+
+816
+00:20:32,700 --> 00:20:33,600
+the attitudes of various countries towards stablecoins.
+
+817
+00:20:33,600 --> 00:20:35,600
+The first is the active and open type.
+
+818
+00:20:36,466 --> 00:20:39,033
+Typical examples include Singapore, Hong Kong, and the United Arab Emirates
+
+819
+00:20:39,033 --> 00:20:40,499
+. Especially the UAE,
+
+820
+00:20:40,500 --> 00:20:42,399
+which has always been at the forefront of the currency circle.
+
+821
+00:20:42,399 --> 00:20:44,133
+It feels that other places have to allow something
+
+822
+00:20:44,133 --> 00:20:44,966
+to be done,
+
+823
+00:20:44,966 --> 00:20:46,799
+but in the UAE, as long as it is not prohibited,
+
+824
+00:20:46,799 --> 00:20:47,666
+you can try
+
+825
+00:20:47,666 --> 00:20:48,866
+all the major currency companies.
+
+826
+00:20:48,866 --> 00:20:50,233
+You are welcome to come to my place to play
+
+827
+00:20:50,233 --> 00:20:51,200
+and build a company.
+
+828
+00:20:51,200 --> 00:20:52,533
+I almost don’t even collect taxes.
+
+829
+00:20:52,600 --> 00:20:53,600
+Hong Kong and Singapore
+
+830
+00:20:53,600 --> 00:20:56,066
+are both important global financial centers and trade centers.
+
+831
+00:20:56,066 --> 00:20:58,200
+They are still competing for the position of the top financial brother in Asia.
+
+832
+00:20:58,200 --> 00:20:59,600
+Naturally , no one wants
+
+833
+00:20:59,600 --> 00:21:00,833
+to lag behind in this new track
+
+834
+00:21:00,833 --> 00:21:03,166
+in the crypto world. The competition for stablecoins has begun.
+
+835
+00:21:03,166 --> 00:21:04,166
+Last month, Singapore's
+
+836
+00:21:04,166 --> 00:21:06,166
+Financial Services and Markets Act 2022
+
+837
+00:21:06,166 --> 00:21:06,699
+officially came into effect
+
+838
+00:21:06,700 --> 00:21:07,466
+, which clearly stipulates that
+
+839
+00:21:07,466 --> 00:21:08,433
+entities registered in Singapore
+
+840
+00:21:08,433 --> 00:21:09,333
+and
+
+841
+00:21:09,333 --> 00:21:10,733
+providing digital token services
+
+842
+00:21:10,733 --> 00:21:13,066
+to overseas customers must obtain a license before they can operate.
+
+843
+00:21:13,066 --> 00:21:13,799
+The second category,
+
+844
+00:21:13,799 --> 00:21:16,199
+I call it cautious and inclusive,
+
+845
+00:21:17,133 --> 00:21:18,666
+is mainly the United States and
+
+846
+00:21:18,666 --> 00:21:20,699
+the European Union. Although the EU introduced this regulatory bill early
+
+847
+00:21:20,700 --> 00:21:22,333
+, its attitude can be said to be very cautious
+
+848
+00:21:22,333 --> 00:21:23,399
+, even more cautious than the United States.
+
+849
+00:21:23,399 --> 00:21:24,599
+For example, its MiCA regulations
+
+850
+00:21:24,600 --> 00:21:27,000
+prohibit the collection of token redemption fees,
+
+851
+00:21:27,000 --> 00:21:28,266
+prohibit stablecoins from paying interest
+
+852
+00:21:28,266 --> 00:21:30,099
+, and strictly limit daily trading volume, etc.
+
+853
+00:21:30,100 --> 00:21:31,266
+The reason is that these stablecoins
+
+854
+00:21:31,266 --> 00:21:34,199
+will
+
+855
+00:21:34,200 --> 00:21:37,033
+pose risks to the smooth operation of the financial stability payment system, monetary policy transmission or monetary sovereignty.
+
+856
+00:21:37,033 --> 00:21:38,433
+In short, there are still many restrictions,
+
+857
+00:21:38,433 --> 00:21:40,599
+especially the prohibition on stablecoins paying interest, which
+
+858
+00:21:40,633 --> 00:21:42,500
+is quite harsh. Now many stablecoin platforms
+
+859
+00:21:42,500 --> 00:21:44,733
+have begun to target users to pay interest on
+
+860
+00:21:44,733 --> 00:21:45,533
+stablecoins ,
+
+861
+00:21:45,533 --> 00:21:47,799
+which is a bit like a deposit in the cryptocurrency world.
+
+862
+00:21:47,799 --> 00:21:48,133
+But if
+
+863
+00:21:48,133 --> 00:21:50,466
+the EU stipulates that stablecoins are not allowed to pay interest,
+
+864
+00:21:50,466 --> 00:21:52,466
+this will actually greatly reduce the attractiveness of stablecoins
+
+865
+00:21:52,466 --> 00:21:53,600
+. The subtext is that
+
+866
+00:21:53,600 --> 00:21:54,899
+if I don't ban it, you're good.
+
+867
+00:21:54,899 --> 00:21:56,099
+Don't give me those
+
+868
+00:21:56,100 --> 00:21:57,200
+pretentious things in the financial circle.
+
+869
+00:21:57,200 --> 00:21:59,000
+It can be seen Europeans' attitude towards stablecoins
+
+870
+00:21:59,000 --> 00:22:01,533
+is cautious but slightly repulsive and
+
+871
+00:22:01,533 --> 00:22:02,333
+conservative
+
+872
+00:22:03,000 --> 00:22:04,000
+. In fact,
+
+873
+00:22:04,000 --> 00:22:05,099
+South Korea
+
+874
+00:22:05,100 --> 00:22:06,333
+was also quite repulsive to cryptocurrencies
+
+875
+00:22:06,333 --> 00:22:08,399
+before 2021 , especially the Luna coin that collapsed in 2022,
+
+876
+00:22:08,399 --> 00:22:09,266
+whose headquarters is in South Korea.
+
+877
+00:22:09,266 --> 00:22:10,333
+This caused South Korean investors
+
+878
+00:22:10,333 --> 00:22:11,899
+to lose more than 4 billion US dollars.
+
+879
+00:22:11,899 --> 00:22:13,599
+After that, various legislations introduced by South Korea
+
+880
+00:22:13,600 --> 00:22:14,833
+tend to be strict.
+
+881
+00:22:14,833 --> 00:22:15,666
+Just don't let anything happen again.
+
+882
+00:22:15,666 --> 00:22:16,499
+Although the control is very strict
+
+883
+00:22:16,500 --> 00:22:18,399
+, South Korea's private cryptocurrency market
+
+884
+00:22:18,399 --> 00:22:19,433
+is still very hot,
+
+885
+00:22:19,433 --> 00:22:21,333
+especially the new president Lee Jae-myung.
+
+886
+00:22:21,333 --> 00:22:23,333
+You can clearly feel that he is relatively friendly
+
+887
+00:22:23,333 --> 00:22:25,333
+to stablecoins and digital assets
+
+888
+00:22:25,333 --> 00:22:27,033
+. In his campaign manifesto, he said that
+
+889
+00:22:27,033 --> 00:22:28,233
+the Korean won stablecoin is allowed.
+
+890
+00:22:28,233 --> 00:22:29,299
+South Korea also just
+
+891
+00:22:29,299 --> 00:22:31,333
+proposed the "Basic Act on Digital Assets" in June.
+
+892
+00:22:32,399 --> 00:22:34,099
+In fact, many countries are similar to South Korea
+
+893
+00:22:34,100 --> 00:22:34,899
+in their attitude towards stablecoins.
+
+894
+00:22:34,899 --> 00:22:35,966
+In the past year,
+
+895
+00:22:35,966 --> 00:22:37,466
+they have changed from cautious to acceptance
+
+896
+00:22:37,466 --> 00:22:38,433
+and even embrace
+
+897
+00:22:38,433 --> 00:22:40,266
+. Then the third category is clear restrictions.
+
+898
+00:22:40,266 --> 00:22:41,866
+The most typical one is mainland China.
+
+899
+00:22:41,866 --> 00:22:42,466
+In addition
+
+900
+00:22:42,466 --> 00:22:44,633
+, Bangladesh and Afghanistan are also. Let
+
+901
+00:22:45,466 --> 00:22:46,700
+me expand a little bit.
+
+902
+00:22:46,700 --> 00:22:48,733
+Although we are mainly talking about stablecoins today
+
+903
+00:22:48,733 --> 00:22:50,000
+, what each country wants to promote
+
+904
+00:22:50,000 --> 00:22:51,233
+is not only stablecoins
+
+905
+00:22:51,233 --> 00:22:52,799
+, but "tokenization"
+
+906
+00:22:52,799 --> 00:22:53,899
+, which involves
+
+907
+00:22:53,899 --> 00:22:56,299
+a very popular concept in blockchain recently called RWA
+
+908
+00:22:56,299 --> 00:22:57,399
+Real World Assets
+
+909
+00:22:57,399 --> 00:22:59,299
+literally means "real world assets".
+
+910
+00:22:59,299 --> 00:23:00,133
+Do
+n't be confused. It
+
+911
+00:23:00,133 --> 00:23:00,799
+'s not complicated.
+
+912
+00:23:00,799 --> 00:23:02,699
+It's actually to
+
+913
+00:23:02,700 --> 00:23:03,533
+digitize some assets in the real world and
+
+914
+00:23:03,533 --> 00:23:04,366
+put them on the blockchain.
+
+915
+00:23:04,366 --> 00:23:06,133
+For example, if I have a house in the real world,
+
+916
+00:23:06,133 --> 00:23:07,266
+I can put it on the blockchain.
+
+917
+00:23:07,266 --> 00:23:08,466
+To build a corresponding
+
+918
+00:23:08,466 --> 00:23:09,399
+mapping asset,
+
+919
+00:23:09,399 --> 00:23:10,366
+an RWA,
+
+920
+00:23:10,366 --> 00:23:12,099
+you can put the debt issued by the enterprise on the chain,
+
+921
+00:23:12,100 --> 00:23:13,566
+you can put the intellectual property on the chain
+
+922
+00:23:13,566 --> 00:23:15,433
+, and it cannot be tampered with on the chain .
+
+923
+00:23:15,433 --> 00:23:16,733
+The transaction is also open and transparent
+
+924
+00:23:16,733 --> 00:23:18,466
+, and you can even hang some smart contracts, etc.
+
+925
+00:23:18,466 --> 00:23:19,500
+You see, this stablecoin
+
+926
+00:23:19,500 --> 00:23:21,133
+is actually a kind of RWA.
+
+927
+00:23:21,133 --> 00:23:22,833
+It puts the real-world US dollars
+
+928
+00:23:22,833 --> 00:23:24,299
+on the chain.
+
+929
+00:23:24,299 --> 00:23:25,899
+In March of this year, BlackRock
+
+930
+00:23:25,899 --> 00:23:27,533
+jointly
+
+931
+00:23:27,533 --> 00:23:29,866
+launched a US dollar money fund called BUIDL
+
+932
+00:23:29,866 --> 00:23:31,800
+on the chain with Securitize.
+
+933
+00:23:32,500 --> 00:23:34,299
+This is to put an investment fund on the chain.
+
+934
+00:23:34,299 --> 00:23:35,566
+You invest in it with stablecoins,
+
+935
+00:23:35,566 --> 00:23:36,299
+and then
+
+936
+00:23:36,299 --> 00:23:38,333
+you will get more stablecoins as a return regularly.
+
+937
+00:23:38,366 --> 00:23:38,866
+To be honest,
+
+938
+00:23:38,866 --> 00:23:39,366
+I also know
+
+939
+00:23:39,366 --> 00:23:41,500
+that there are many financial games on the blockchain,
+
+940
+00:23:41,500 --> 00:23:43,366
+and it is not uncommon to set up such an investment fund.
+
+941
+00:23:43,366 --> 00:23:45,266
+The key is that it is not an unknown company that
+
+942
+00:23:45,266 --> 00:23:46,366
+has issued a fund on the chain.
+
+943
+00:23:46,366 --> 00:23:47,266
+This is BlackRock,
+
+944
+00:23:47,266 --> 00:23:49,166
+the world's largest asset management company,
+
+945
+00:23:49,166 --> 00:23:50,366
+and the current scale of this fund
+
+946
+00:23:50,366 --> 00:23:52,066
+has reached 2.9 billion US dollars.
+
+947
+00:23:52,066 --> 00:23:53,433
+To be honest, I am still surprised that
+
+948
+00:23:53,433 --> 00:23:54,199
+a mainstream financial company
+
+949
+00:23:54,200 --> 00:23:54,933
+can enter the market so early,
+
+950
+00:23:54,933 --> 00:23:56,166
+so successfully, and
+
+951
+00:23:56,166 --> 00:23:57,566
+on such a large scale.
+
+952
+00:23:57,566 --> 00:23:58,700
+In China, Ant
+
+953
+00:23:58,700 --> 00:24:01,533
+is also actively researching and promoting RWA, and
+
+954
+00:24:01,533 --> 00:24:02,566
+is actively participating in
+
+955
+00:24:02,566 --> 00:24:04,100
+the Ensemble sandbox project in Hong Kong. It
+
+956
+00:24:04,100 --> 00:24:05,866
+has developed RWA for charging piles, RWA
+
+957
+00:24:05,866 --> 00:24:06,899
+for photovoltaic power plants, and
+
+958
+00:24:06,899 --> 00:24:08,166
+RWA for battery swap stations.
+
+959
+00:24:08,166 --> 00:24:08,500
+In this way,
+
+960
+00:24:08,500 --> 00:24:10,466
+these projects can be financed on the blockchain,
+
+961
+00:24:10,466 --> 00:24:11,966
+and everyone can invest in RWA
+
+962
+00:24:13,399 --> 00:24:14,166
+on the blockchain. RWA
+
+963
+00:24:14,166 --> 00:24:15,733
+is especially regarded by Hong Kong and Singapore
+
+964
+00:24:15,733 --> 00:24:16,733
+as a very promising field
+
+965
+00:24:16,733 --> 00:24:18,066
+in the crypto world.
+
+966
+00:24:18,066 --> 00:24:20,566
+Of course
+, it is also one of the main battlefields for stablecoins
+
+967
+00:24:20,566 --> 00:24:21,766
+. Stablecoins
+
+968
+00:24:21,766 --> 00:24:22,966
+are also developing rapidly.
+
+969
+00:24:22,966 --> 00:24:23,966
+For example,
+
+970
+00:24:23,966 --> 00:24:26,766
+OKX launched a product called OKX a while ago . The function of Pay
+
+971
+00:24:26,766 --> 00:24:27,899
+is that two people can use the APP
+
+972
+00:24:27,899 --> 00:24:28,933
+to scan the code of each other and
+
+973
+00:24:28,933 --> 00:24:29,899
+transfer money in real time,
+
+974
+00:24:29,899 --> 00:24:30,933
+just like Alipay
+
+975
+00:24:30,933 --> 00:24:32,366
+, but it transfers stablecoins . Then you
+
+976
+00:24:32,366 --> 00:24:34,133
+can put the balance of this stablecoin in your wallet
+
+977
+00:24:34,133 --> 00:24:34,933
+and manage it in your account
+
+978
+00:24:34,933 --> 00:24:35,866
+, just like Yu'ebao.
+
+979
+00:24:35,866 --> 00:24:37,866
+Then online payment giants such
+
+980
+00:24:37,866 --> 00:24:38,766
+as Paypal and Stripe
+
+981
+00:24:38,766 --> 00:24:39,899
+have also incorporated stablecoins
+
+982
+00:24:39,899 --> 00:24:41,766
+into their payment systems
+
+983
+00:24:41,766 --> 00:24:42,266
+.
+
+984
+00:24:42,600 --> 00:24:43,066
+In fact, you see
+
+985
+00:24:43,066 --> 00:24:44,666
+why major companies in various countries
+
+986
+00:24:44,666 --> 00:24:46,866
+have recently begun to join the stablecoin war
+
+987
+00:24:46,866 --> 00:24:47,433
+. I think
+
+988
+00:24:47,433 --> 00:24:49,133
+this is a global version of
+
+989
+00:24:49,133 --> 00:24:50,299
+"join if you can't beat it."
+
+990
+00:24:51,533 --> 00:24:52,299
+Most companies
+
+991
+00:24:52,299 --> 00:24:53,599
+and governments of most countries
+
+992
+00:24:53,600 --> 00:24:54,933
+may refuse
+
+993
+00:24:54,933 --> 00:24:55,666
+and resist at the beginning.
+
+994
+00:24:55,666 --> 00:24:56,899
+After all, most of them
+
+995
+00:24:56,899 --> 00:24:59,033
+are vested interests in the original market system.
+
+996
+00:25:00,000 --> 00:25:00,533
+But
+
+997
+00:25:00,533 --> 00:25:02,733
+when some of them gradually realize that this trend
+
+998
+00:25:02,733 --> 00:25:04,500
+seems to be irreversible in the short term,
+
+999
+00:25:04,500 --> 00:25:05,299
+what can they do if they can't beat it
+
+1000
+00:25:05,299 --> 00:25:06,033
+? Then I will join
+
+1001
+00:25:06,033 --> 00:25:07,099
+and rush to the front.
+
+1002
+00:25:07,100 --> 00:25:09,200
+The more people turn around and rush to the stablecoin market,
+
+1003
+00:25:09,200 --> 00:25:10,433
+the stronger the momentum will be.
+
+1004
+00:25:10,433 --> 00:25:11,733
+In fact, facing this big trend,
+
+1005
+00:25:11,733 --> 00:25:13,800
+everyone wants to fight for their own interests. Do
+
+1006
+00:25:14,833 --> 00:25:15,466
+you think the United States
+
+1007
+00:25:15,466 --> 00:25:16,533
+wants to use stablecoins
+
+1008
+00:25:16,533 --> 00:25:18,033
+to strengthen its dollar status?
+
+1009
+00:25:18,033 --> 00:25:18,599
+Yes. Do
+
+1010
+00:25:18,600 --> 00:25:19,799
+other countries and regions
+
+1011
+00:25:19,799 --> 00:25:20,799
+want
+
+1012
+00:25:20,799 --> 00:25:22,099
+to seize a favorable position through stablecoins?
+
+1013
+00:25:22,100 --> 00:25:22,700
+Yes. Does
+
+1014
+00:25:22,700 --> 00:25:25,066
+Trump personally want to profit from cryptocurrencies?
+
+1015
+00:25:25,066 --> 00:25:25,566
+Yes,
+
+1016
+00:25:25,600 --> 00:25:27,633
+companies in the currency circle want to profit from cryptocurrencies. Does stablecoin
+
+1017
+00:25:27,633 --> 00:25:29,066
+make money through cryptocurrency?
+
+1018
+00:25:29,066 --> 00:25:30,233
+Yes, wait a minute.
+
+1019
+00:25:30,233 --> 00:25:31,399
+Although everyone has different goals
+
+1020
+00:25:31,399 --> 00:25:32,666
+, from the perspective of practice,
+
+1021
+00:25:32,666 --> 00:25:34,133
+they are all promoting the stablecoin market
+
+1022
+00:25:34,133 --> 00:25:36,266
+and promoting the improvement and development of the cryptocurrency market.
+
+1023
+00:25:37,466 --> 00:25:39,133
+This is actually very similar to some hot spots.
+
+1024
+00:25:39,133 --> 00:25:40,500
+For example, everyone is rushing to invest in AI
+
+1025
+00:25:40,500 --> 00:25:41,599
+and robots.
+
+1026
+00:25:41,600 --> 00:25:43,100
+However, the trend of stablecoins
+
+1027
+00:25:43,100 --> 00:25:44,233
+also
+
+1028
+00:25:44,233 --> 00:25:45,100
+involves the participation of
+
+1029
+00:25:45,100 --> 00:25:46,233
+governments, supervision,
+
+1030
+00:25:46,233 --> 00:25:48,500
+and central banks of various countries , right? It is a global melee.
+
+1031
+00:25:49,833 --> 00:25:51,466
+As for the specific strategies
+
+1032
+00:25:51,466 --> 00:25:52,600
+of various countries and the purpose of their legislation,
+
+1033
+00:25:52,600 --> 00:25:54,000
+we have just made a brief analysis.
+
+1034
+00:25:54,000 --> 00:25:54,833
+To
+
+1035
+00:25:54,833 --> 00:25:56,600
+be honest, I think that most governments
+
+1036
+00:25:56,600 --> 00:25:58,033
+have not figured it out . Don't think that
+
+1037
+00:25:58,033 --> 00:26:00,399
+those who participate in the discussion of stablecoin legislation in various countries
+
+1038
+00:26:00,399 --> 00:26:02,399
+are all cryptocurrency experts.
+
+1039
+00:26:02,399 --> 00:26:03,466
+There are not so many experts.
+
+1040
+00:26:03,466 --> 00:26:03,899
+How many
+
+1041
+00:26:03,899 --> 00:26:06,433
+senators in the US Congress who are at least 50 years old
+
+1042
+00:26:06,433 --> 00:26:08,733
+can truly understand stablecoins
+
+1043
+00:26:08,733 --> 00:26:10,100
+and cryptocurrencies?
+
+1044
+00:26:10,100 --> 00:26:11,533
+They have to vote on
+
+1045
+00:26:11,533 --> 00:26:12,899
+this key stablecoin bill.
+
+1046
+00:26:12,899 --> 00:26:15,199
+Most of them will take a step-by-step approach
+
+1047
+00:26:17,133 --> 00:26:19,433
+. If stablecoins are used on a large scale,
+
+1048
+00:26:19,433 --> 00:26:21,666
+what impact will it have on the existing financial system?
+
+1049
+00:26:21,666 --> 00:26:23,066
+We say that
+
+1050
+00:26:23,066 --> 00:26:24,200
+the rise of stablecoins
+
+1051
+00:26:24,200 --> 00:26:25,500
+includes decentralized finance,
+
+1052
+00:26:25,500 --> 00:26:27,666
+which essentially skips financial intermediaries and
+
+1053
+00:26:27,666 --> 00:26:28,899
+payment companies.
+
+1054
+00:26:28,899 --> 00:26:31,199
+There is a term called "financial disintermediation",
+
+1055
+00:26:32,133 --> 00:26:33,399
+so banks are also nervous,
+
+1056
+00:26:33,399 --> 00:26:34,433
+and payment companies are also nervous.
+
+1057
+00:26:34,433 --> 00:26:35,599
+They can only rush to the front.
+
+1058
+00:26:35,600 --> 00:26:37,100
+Jamie Dimon, the boss of JPMorgan Chase
+
+1059
+00:26:37,100 --> 00:26:38,033
+In 2023, people still said that
+
+1060
+00:26:38,033 --> 00:26:39,433
+Bitcoin was a big scam.
+
+1061
+00:26:39,433 --> 00:26:41,299
+Recently, they have issued their own Morgan coins.
+
+1062
+00:26:41,299 --> 00:26:42,399
+It is expected that by the end of 2025,
+
+1063
+00:26:42,399 --> 00:26:44,666
+major European and American banks and financial technology companies
+
+1064
+00:26:44,666 --> 00:26:46,999
+will have launched their own stablecoins.
+
+1065
+00:26:48,133 --> 00:26:49,000
+In fact, you see,
+
+1066
+00:26:49,000 --> 00:26:49,500
+regulators
+
+1067
+00:26:49,500 --> 00:26:52,500
+require issuers of stablecoins to have 100% reserves.
+
+1068
+00:26:52,500 --> 00:26:53,466
+In theory, a large part of this money
+
+1069
+00:26:53,466 --> 00:26:55,799
+will flow back to the banking system,
+
+1070
+00:26:55,799 --> 00:26:56,599
+so in theory,
+
+1071
+00:26:56,600 --> 00:26:59,100
+the amount of money flowing out of the banking system should not be much,
+
+1072
+00:26:59,100 --> 00:27:00,000
+but what is the problem?
+
+1073
+00:27:00,000 --> 00:27:01,666
+It will lose a lot of flexible funds
+
+1074
+00:27:01,666 --> 00:27:03,099
+and a lot of lending capabilities
+
+1075
+00:27:04,299 --> 00:27:06,066
+, so its interests will definitely be greatly damaged.
+
+1076
+00:27:06,066 --> 00:27:06,500
+At the same time,
+
+1077
+00:27:06,500 --> 00:27:09,333
+it will also reduce the connection between banks and the entire economy.
+
+1078
+00:27:09,433 --> 00:27:10,733
+The damage to the interests of the bank itself
+
+1079
+00:27:10,733 --> 00:27:11,700
+may not matter to everyone,
+
+1080
+00:27:11,700 --> 00:27:13,933
+but the weakening of its connection with the entire economy
+
+1081
+00:27:13,933 --> 00:27:14,699
+is more troublesome,
+
+1082
+00:27:14,700 --> 00:27:15,799
+because the central bank, the central
+
+1083
+00:27:15,799 --> 00:27:16,200
+bank
+
+1084
+00:27:16,200 --> 00:27:18,399
+, regulates monetary policy through the banking system .
+
+1085
+00:27:18,399 --> 00:27:19,199
+The weakening of the connection
+
+1086
+00:27:19,200 --> 00:27:21,733
+will lead to a reduction in the effectiveness of the central bank
+
+1087
+00:27:21,733 --> 00:27:23,899
+'s monetary policy. As for who will regulate monetary policy in the crypto world,
+
+1088
+00:27:23,899 --> 00:27:25,499
+the circulation speed of stablecoins, and
+
+1089
+00:27:25,500 --> 00:27:26,599
+the credit scale of stablecoins,
+
+1090
+00:27:26,600 --> 00:27:28,799
+this is actually a bigger and more important issue.
+
+1091
+00:27:28,799 --> 00:27:30,199
+In fact, regulators in various countries
+
+1092
+00:27:30,200 --> 00:27:31,700
+are now deliberately avoiding this issue.
+
+1093
+00:27:31,700 --> 00:27:32,299
+You see The United States
+
+1094
+00:27:32,299 --> 00:27:34,766
+defines stablecoins as payment stablecoins,
+
+1095
+00:27:34,766 --> 00:27:36,733
+which means that you mainly use them for payments,
+
+1096
+00:27:36,733 --> 00:27:37,866
+and rarely use them for savings
+
+1097
+00:27:37,866 --> 00:27:38,500
+, investment
+
+1098
+00:27:38,500 --> 00:27:39,266
+, or financing. It
+
+1099
+00:27:39,266 --> 00:27:39,933
+'s not just the United States.
+
+1100
+00:27:39,933 --> 00:27:41,399
+We've seen that all countries are similar
+
+1101
+00:27:41,399 --> 00:27:42,599
+, basically prohibiting
+
+1102
+00:27:42,600 --> 00:27:45,200
+or extremely strictly restricting stablecoin payment interest rates
+
+1103
+00:27:45,200 --> 00:27:46,399
+, not to mention lending.
+
+1104
+00:27:46,399 --> 00:27:48,666
+You see, this is actually intentionally avoiding
+
+1105
+00:27:48,666 --> 00:27:50,066
+the issue of stablecoin interest rates .
+
+1106
+00:27:50,066 --> 00:27:51,400
+We can only take one step at a time.
+
+1107
+00:27:52,899 --> 00:27:54,133
+Stablecoins
+
+1108
+00:27:54,133 --> 00:27:55,033
+are really interesting.
+
+1109
+00:27:55,033 --> 00:27:56,699
+I'm sure I don't have the ability to
+
+1110
+00:27:56,700 --> 00:27:57,399
+talk about it thoroughly in just
+
+1111
+00:27:57,399 --> 00:27:59,199
+one video , but I hope that through this content, everyone
+
+1112
+00:27:59,200 --> 00:28:01,066
+can at least realize that it's not that simple.
+
+1113
+00:28:01,066 --> 00:28:03,266
+It has caused a lot of serious collisions.
+
+1114
+00:28:04,333 --> 00:28:05,733
+It has caused
+
+1115
+00:28:05,733 --> 00:28:07,266
+collisions between different currencies
+
+1116
+00:28:07,266 --> 00:28:08,866
+in different countries
+
+1117
+00:28:08,866 --> 00:28:10,866
+, a collision between the traditional financial system and the encrypted trading system,
+
+1118
+00:28:10,866 --> 00:28:13,599
+a collision between private companies and official regulatory agencies
+
+1119
+00:28:13,600 --> 00:28:15,033
+and central banks
+
+1120
+00:28:15,033 --> 00:28:17,833
+, and a collision between stability and innovation.
+
+1121
+00:28:19,433 --> 00:28:20,899
+Although this innovation is very risky
+
+1122
+00:28:20,899 --> 00:28:22,299
+, so many countries and regions
+
+1123
+00:28:22,299 --> 00:28:23,466
+can embrace it so actively
+
+1124
+00:28:23,466 --> 00:28:25,433
+. To be honest, I'm still very excited
+
+1125
+00:28:25,433 --> 00:28:27,933
+and want to see
+
+1126
+00:28:27,933 --> 00:28:30,266
+what kind of form this so-called Web3 world can develop
+
+1127
+00:28:30,266 --> 00:28:31,833
+to subvert our cognition.
+
