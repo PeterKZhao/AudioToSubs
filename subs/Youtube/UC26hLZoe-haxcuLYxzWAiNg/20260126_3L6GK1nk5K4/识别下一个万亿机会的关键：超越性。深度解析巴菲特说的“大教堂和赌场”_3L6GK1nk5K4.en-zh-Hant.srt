@@ -1,0 +1,1804 @@
+1
+00:00:00,166 --> 00:00:01,800
+Hello everyone, this is Brain Boss.
+
+2
+00:00:01,900 --> 00:00:04,700
+Today we'll talk about how top-tier companies in investment and entrepreneurship
+
+3
+00:00:04,700 --> 00:00:07,000
+should possess transcendence. I first
+
+4
+00:00:07,400 --> 00:00:09,866
+realized this in 2017, the
+
+5
+00:00:10,033 --> 00:00:12,466
+peak of China's venture capital industry. In my
+
+6
+00:00:12,633 --> 00:00:13,400
+previous videos, I
+
+7
+00:00:13,400 --> 00:00:15,566
+extensively reminisced about that era.
+
+8
+00:00:17,400 --> 00:00:20,400
+I still remember the graduation speeches at various universities that summer of 2017. The
+
+9
+00:00:20,400 --> 00:00:23,200
+most outstanding speech, which went viral on social media,
+
+10
+00:00:23,200 --> 00:00:24,600
+was
+
+11
+00:00:24,766 --> 00:00:26,200
+Zhang Lei's speech at Renmin University.
+
+12
+00:00:26,666 --> 00:00:30,000
+At that time, Zhang Lei's Hillhouse Capital was at its zenith, the
+
+13
+00:00:30,000 --> 00:00:32,433
+biggest winner of China's internet era.
+
+14
+00:00:32,666 --> 00:00:33,833
+I still remember
+
+15
+00:00:33,833 --> 00:00:36,000
+Zhang Lei's concluding remarks: "
+
+16
+00:00:36,166 --> 00:00:39,266
+Embrace change with unwavering courage; explore the origins of value in the world
+
+17
+00:00:39,266 --> 00:00:40,233
+using first principles; and
+
+18
+00:00:42,800 --> 00:00:45,433
+illuminate the beacon in your heart with humanistic spirit.
+
+19
+00:00:45,433 --> 00:00:46,866
+Think big, think long."
+
+20
+00:00:47,233 --> 00:00:49,233
+Seven years later, in the summer of 2024, at the
+
+21
+00:00:49,233 --> 00:00:51,100
+Berkshire Hathaway shareholders meeting,
+
+22
+00:00:51,266 --> 00:00:53,633
+94-year-old Warren Buffett sat on the stage,
+
+23
+00:00:53,766 --> 00:00:56,433
+attending his last Berkshire shareholders meeting.
+
+24
+00:00:57,033 --> 00:00:58,400
+Charlie Munger had passed away;
+
+25
+00:00:58,400 --> 00:00:59,966
+his longtime partner was gone. The audience was
+
+26
+00:01:00,100 --> 00:01:02,833
+n't made up of 20-somethings,
+
+27
+00:01:02,833 --> 00:01:04,600
+but of investors from around the world, with an
+
+28
+00:01:04,700 --> 00:01:06,766
+average age likely over 50.
+
+29
+00:01:06,966 --> 00:01:09,066
+Buffett said something thought-provoking:
+
+30
+00:01:09,266 --> 00:01:10,266
+American capitalism... It
+
+31
+00:01:10,266 --> 00:01:12,033
+achieved unprecedented success.
+
+32
+00:01:12,066 --> 00:01:14,666
+It's a combination of a magnificent cathedral, an
+
+33
+00:01:16,833 --> 00:01:18,966
+economic system never before seen in the world.
+
+34
+00:01:19,166 --> 00:01:21,633
+But it also has a huge casino attached to it, a huge
+
+35
+00:01:21,700 --> 00:01:22,800
+temptation,
+
+36
+00:01:22,966 --> 00:01:24,166
+especially now. The
+
+37
+00:01:24,266 --> 00:01:26,233
+temptation is to walk into that casino. Inside that cathedral, people are basically designing a system that
+
+38
+00:01:29,800 --> 00:01:31,166
+can produce goods and services for more than 300 million people. This scale is unprecedented in history. People are having a great time
+
+39
+00:01:36,100 --> 00:01:37,866
+in the casino, and
+
+40
+00:01:38,066 --> 00:01:39,566
+money is flowing frequently. But you also have to ensure that the cathedral is supported. In the
+
+41
+00:01:43,000 --> 00:01:44,433
+next 100 years,
+
+42
+00:01:44,433 --> 00:01:46,366
+the United States must ensure that this cathedral is
+
+43
+00:01:46,366 --> 00:01:47,800
+not swallowed by the casino. Seven years, two
+
+44
+00:01:49,066 --> 00:01:50,133
+scenarios,
+
+45
+00:01:50,233 --> 00:01:52,833
+two top players in the capitalist world.
+
+46
+00:01:52,866 --> 00:01:54,733
+One says "think big, think long," the other says "don't let the casino swallow the cathedral."
+
+47
+00:01:59,000 --> 00:02:01,300
+I've talked a lot about long-termism in the past. Today I want to
+
+48
+00:02:01,300 --> 00:02:03,200
+talk about "think big," about the
+
+49
+00:02:03,433 --> 00:02:05,833
+cathedral that Buffett talks about.
+
+50
+00:02:06,200 --> 00:02:07,433
+To understand this issue, we have to go
+
+51
+00:02:07,433 --> 00:02:09,133
+back 70,000 years.
+
+52
+00:02:09,500 --> 00:02:10,833
+There's an example in "Sapiens: A Brief History of Humankind" that
+
+53
+00:02:10,833 --> 00:02:12,100
+I particularly like. Neanderthals were
+
+54
+00:02:12,333 --> 00:02:14,633
+strong and
+
+55
+00:02:14,766 --> 00:02:17,100
+powerful, with brains larger than Homo sapiens.
+
+56
+00:02:17,300 --> 00:02:19,133
+They could beat Homo sapiens in a one-on-one fight,
+
+57
+00:02:19,366 --> 00:02:21,966
+but if hundreds or thousands of people fought,
+
+58
+00:02:22,100 --> 00:02:23,533
+Neanderthals would definitely lose.
+
+59
+00:02:23,566 --> 00:02:26,166
+Why could Neanderthals simply say, "
+
+60
+00:02:26,166 --> 00:02:27,733
+Beware of lions,"
+
+61
+00:02:27,733 --> 00:02:29,433
+merely conveying a fact?
+
+62
+00:02:29,600 --> 00:02:31,033
+Animals can do the same.
+
+63
+00:02:31,300 --> 00:02:33,033
+A monkey seeing a snake
+
+64
+00:02:33,033 --> 00:02:34,233
+will sound an alarm, and
+
+65
+00:02:34,233 --> 00:02:35,533
+other monkeys will run away. But
+
+66
+00:02:35,966 --> 00:02:37,733
+Homo sapiens could say, "The
+
+67
+00:02:37,733 --> 00:02:40,000
+lion is the guardian spirit of our tribe."
+
+68
+00:02:40,500 --> 00:02:43,000
+You see, they've started discussing fictional things. This is the
+
+69
+00:02:43,200 --> 00:02:45,233
+qualitative leap.
+
+70
+00:02:45,233 --> 00:02:48,900
+Discussing fictional things is the most unique function of Homo sapiens' language. With
+
+71
+00:02:49,100 --> 00:02:50,200
+this ability,
+
+72
+00:02:50,200 --> 00:02:51,800
+Homo sapiens became the masters of the earth. Nations are fictional. Have you ever
+
+73
+00:02:53,600 --> 00:02:54,766
+seen a nation?
+
+74
+00:02:54,766 --> 00:02:58,966
+No. What you've seen are land, people, and government institutions.
+
+75
+00:02:59,366 --> 00:03:00,466
+But the nation itself
+
+76
+00:03:00,466 --> 00:03:03,033
+is an abstract concept, an imagined community.
+
+77
+00:03:03,433 --> 00:03:04,866
+Religion is also fictional. Does God exist?
+
+78
+00:03:05,700 --> 00:03:06,600
+No one has seen Him.
+
+79
+00:03:06,766 --> 00:03:08,500
+But as long as everyone believes,
+
+80
+00:03:08,500 --> 00:03:09,900
+churches can be built, and
+
+81
+00:03:10,033 --> 00:03:12,100
+Western civilization could rise again from the ruins of Rome. The
+
+82
+00:03:13,466 --> 00:03:15,700
+Mayflower was able to cross the ocean and take root
+
+83
+00:03:15,700 --> 00:03:17,666
+in the New World. As long as everyone
+
+84
+00:03:17,966 --> 00:03:19,533
+believes,
+
+85
+00:03:19,533 --> 00:03:21,466
+this fictional story has power.
+
+86
+00:03:21,733 --> 00:03:23,166
+Whether it's a modern nation, a
+
+87
+00:03:23,166 --> 00:03:24,466
+medieval church, an
+
+88
+00:03:24,466 --> 00:03:25,666
+ancient city,
+
+89
+00:03:25,700 --> 00:03:27,166
+or an ancient tribe, the
+
+90
+00:03:27,200 --> 00:03:29,966
+foundation of any large-scale human cooperation
+
+91
+00:03:29,966 --> 00:03:30,466
+lies in
+
+92
+00:03:30,466 --> 00:03:33,533
+some kind of fictional story that exists only in the collective imagination.
+
+93
+00:03:34,266 --> 00:03:35,933
+Neanderthals also had language
+
+94
+00:03:35,933 --> 00:03:37,066
+and communities,
+
+95
+00:03:37,200 --> 00:03:39,966
+but their communities were limited to about 50 people
+
+96
+00:03:40,066 --> 00:03:41,400
+because they could only convey facts,
+
+97
+00:03:41,400 --> 00:03:42,633
+not discuss fiction. What about Homo sapiens? How
+
+98
+00:03:44,200 --> 00:03:48,200
+can we build a collaborative network of 500, 5,000, or 50,000 people?
+
+99
+00:03:48,200 --> 00:03:51,200
+By telling a story that everyone believes.
+
+100
+00:03:51,333 --> 00:03:52,966
+Strangers can collaborate. Two
+
+101
+00:03:53,266 --> 00:03:55,200
+Catholics who have never met
+
+102
+00:03:55,200 --> 00:03:57,100
+can participate in the Crusades together
+
+103
+00:03:57,133 --> 00:03:59,933
+because they both believe God was crucified. Two Americans who have never met
+
+104
+00:04:02,100 --> 00:04:04,266
+can sacrifice their lives to save each other because they both believe in America. The secret of the cognitive revolution lies here: fictional
+
+105
+00:04:09,466 --> 00:04:12,133
+stories create large-scale collaboration. Large-scale collaboration allowed Homo sapiens to dominate the earth. Investing and entrepreneurship, in essence, are the
+
+106
+00:04:16,700 --> 00:04:18,600
+same thing. When
+
+107
+00:04:18,900 --> 00:04:20,266
+I invest now, I often think about a question: Does this company have a mission beyond profit? The first time someone heard me say this, they thought I was crazy. Isn't investing just about making money? What mission are you talking about? It's not that simple. Investing
+
+108
+00:04:21,866 --> 00:04:24,500
+has three levels. The
+
+109
+00:04:24,833 --> 00:04:26,233
+first level is chasing highs and selling lows. I
+
+110
+00:04:34,966 --> 00:04:36,633
+call this animalistic cognition: buying when it rises and selling when it falls. It's dopamine-driven and provides
+
+111
+00:04:40,466 --> 00:04:41,600
+immediate feedback. Are retail investors
+
+112
+00:04:41,766 --> 00:04:42,900
+stupid? No, it's just biological instinct. Just like a fish will always bite the hook.
+
+113
+00:04:47,066 --> 00:04:48,366
+It sees the bait and wants to eat it,
+
+114
+00:04:48,366 --> 00:04:49,433
+without thinking about anything else. It doesn't know there's a
+
+115
+00:04:49,433 --> 00:04:51,200
+hook in the bait, and even if it did, it could
+
+116
+00:04:51,200 --> 00:04:52,400
+n't control itself. It's
+
+117
+00:04:52,400 --> 00:04:53,866
+something written in its genes.
+
+118
+00:04:54,366 --> 00:04:56,600
+This is exactly what Buffett meant by the casino. The
+
+119
+00:04:57,100 --> 00:04:59,066
+second layer is calculating value,
+
+120
+00:04:59,066 --> 00:05:00,066
+contrarian investing,
+
+121
+00:05:00,066 --> 00:05:01,333
+rational cognition,
+
+122
+00:05:01,333 --> 00:05:02,866
+DCF, PE,
+
+123
+00:05:02,866 --> 00:05:03,866
+margin of safety, and the
+
+124
+00:05:04,666 --> 00:05:06,200
+value investing tradition since Graham. This is far
+
+125
+00:05:06,200 --> 00:05:08,333
+more sophisticated than chasing highs and lows.
+
+126
+00:05:08,600 --> 00:05:09,633
+You don't look at candlestick charts,
+
+127
+00:05:09,633 --> 00:05:10,666
+you look at financial statements.
+
+128
+00:05:10,733 --> 00:05:11,800
+You don't chase hot topics,
+
+129
+00:05:11,800 --> 00:05:12,833
+you calculate valuations.
+
+130
+00:05:12,966 --> 00:05:15,000
+You are greedy when others are fearful and
+
+131
+00:05:15,000 --> 00:05:16,733
+fearful when others are greedy.
+
+132
+00:05:16,833 --> 00:05:18,966
+This is what distinguishes humans from animals.
+
+133
+00:05:19,166 --> 00:05:20,133
+But that's not enough. You're calculating things
+
+134
+00:05:20,266 --> 00:05:22,333
+you can see:
+
+135
+00:05:22,433 --> 00:05:25,600
+revenue, profit, cash flow, balance sheet—all material
+
+136
+00:05:25,633 --> 00:05:26,666
+things. What
+
+137
+00:05:27,000 --> 00:05:29,633
+truly determines a company's long-term fate is
+
+138
+00:05:29,633 --> 00:05:31,833
+often what's unseen. The
+
+139
+00:05:32,266 --> 00:05:35,366
+third layer is recognizing a company's transcendent mission,
+
+140
+00:05:35,633 --> 00:05:36,833
+transcendent cognition, which
+
+141
+00:05:36,833 --> 00:05:38,766
+can also be called a divine cognition.
+
+142
+00:05:39,266 --> 00:05:40,500
+Duan Yongping said something
+
+143
+00:05:40,500 --> 00:05:41,500
+I particularly agree with: a good
+
+144
+00:05:41,966 --> 00:05:43,800
+corporate culture must have a
+
+145
+00:05:43,800 --> 00:05:45,766
+pursuit beyond profit.
+
+146
+00:05:46,400 --> 00:05:49,533
+Top companies must have a mission beyond profit to attract top talent, top users, and
+
+147
+00:05:51,833 --> 00:05:54,166
+top investors. Why? Because this aligns with the logic of the cognitive revolution. A company with a transcendent mission is essentially telling a fictional story. If the story is powerful enough, it can unite strangers for large-scale collaboration. Employees are willing to take pay cuts to work, users feel a sense of belonging, and investors are unwilling to let go. It's not about calculating a
+
+148
+00:06:12,033 --> 00:06:14,000
+profit. They simply believed this story. Think about Bitcoin. From a rational perspective, calculating profits and valuations makes no sense. It's just a string of code, no assets, no revenue, no profit—how can it be worth a
+
+149
+00:06:24,166 --> 00:06:26,033
+$2 trillion market capitalization?
+
+150
+00:06:26,566 --> 00:06:28,800
+But from a transcendent perspective, it's crystal clear. Bitcoin successfully fabricated a story of resistance against
+
+151
+00:06:30,166 --> 00:06:30,633
+fiat currency, resonating with the global sentiment of people suffering from its oppressive nature. Hundreds of millions worldwide believed in it, and thus, it
+
+152
+00:06:37,900 --> 00:06:39,133
+gained power. The same applies to good companies. Without a transcendent mission, you can only attract profit-driven
+
+153
+00:06:42,866 --> 00:06:44,833
+investments, possibly even debt-for-equity swaps. If you don't go public within three years, you have to buy back the shares. That kind of money is poison. You can't buy the best talent with money because the best talent
+
+154
+00:06:52,733 --> 00:06:54,633
+doesn't lack money.
+
+155
+00:06:54,733 --> 00:06:56,233
+They need a sense of purpose, which you can't provide, so they go to places with a mission.
+
+156
+00:06:59,700 --> 00:07:01,266
+You also can't acquire the best users, only users who are meticulous about cost-effectiveness. "Coupon hunters"
+
+157
+00:07:03,433 --> 00:07:05,233
+come when
+
+158
+00:07:05,233 --> 00:07:06,333
+you offer discounts, and leave when you raise prices—there's
+
+159
+00:07:06,333 --> 00:07:08,066
+no loyalty whatsoever. Over the years, through reading and
+
+160
+00:07:08,333 --> 00:07:10,633
+observing businesses, I've
+
+161
+00:07:10,633 --> 00:07:11,800
+realized one thing:
+
+162
+00:07:11,800 --> 00:07:12,666
+anything with a
+
+163
+00:07:12,666 --> 00:07:14,433
+transcendent mission, even if weak, will inevitably grow stronger in the future.
+
+164
+00:07:17,166 --> 00:07:18,633
+When it loses its mission and is left
+
+165
+00:07:18,633 --> 00:07:20,033
+only with rational calculations
+
+166
+00:07:20,033 --> 00:07:22,000
+or even animalistic pursuits, even if powerful, it will
+
+167
+00:07:22,933 --> 00:07:23,933
+inevitably decline. At
+
+168
+00:07:24,366 --> 00:07:25,033
+this point,
+
+169
+00:07:25,033 --> 00:07:26,033
+you might ask...
+
+170
+00:07:26,133 --> 00:07:29,433
+Why can transcendental cognition triumph over rational cognition? Transcendental cognition seems the
+
+171
+00:07:29,566 --> 00:07:32,733
+most abstract, the hardest to verify, the
+
+172
+00:07:32,733 --> 00:07:34,600
+riskiest, and the least reliable.
+
+173
+00:07:35,000 --> 00:07:37,133
+Here's a counterintuitive principle: the higher the
+
+174
+00:07:37,400 --> 00:07:38,766
+ecological niche, the
+
+175
+00:07:38,766 --> 00:07:39,666
+longer the hunger lasts.
+
+176
+00:07:40,033 --> 00:07:42,366
+Plants photosynthesize daily, winning every day. As long as there's sunlight, water
+
+177
+00:07:43,600 --> 00:07:46,066
+, and carbon dioxide,
+
+178
+00:07:46,066 --> 00:07:47,033
+they grow and
+
+179
+00:07:47,033 --> 00:07:48,000
+reproduce.
+
+180
+00:07:48,533 --> 00:07:50,000
+Herbivores are next; they can eat any grass they see and never leave empty-handed. A
+
+181
+00:07:52,600 --> 00:07:54,600
+cow eats all day long and rarely goes
+
+182
+00:07:54,600 --> 00:07:55,633
+hungry.
+
+183
+00:07:56,200 --> 00:07:57,833
+Carnivores are next; lions have to hunt, plan, and
+
+184
+00:07:57,933 --> 00:07:59,066
+ambush, with a
+
+185
+00:07:59,766 --> 00:08:02,433
+success rate of about 70%—7 out of
+
+186
+00:08:02,500 --> 00:08:04,700
+10 hunts are successful, but the three failures can lead to days of hunger.
+
+187
+00:08:07,800 --> 00:08:08,900
+Humans suffer the most;
+
+188
+00:08:08,933 --> 00:08:09,866
+planning takes a long time, and the
+
+189
+00:08:09,866 --> 00:08:11,000
+outcome is uncertain. Farming takes half a
+
+190
+00:08:11,200 --> 00:08:14,000
+year to harvest. War
+
+191
+00:08:14,100 --> 00:08:16,166
+requires training armies,
+
+192
+00:08:16,166 --> 00:08:16,900
+manufacturing weapons, and
+
+193
+00:08:16,900 --> 00:08:17,900
+designing tactics, and even then, victory isn't guaranteed.
+
+194
+00:08:19,666 --> 00:08:22,300
+Transcendental cognition has the lowest reward frequency.
+
+195
+00:08:22,566 --> 00:08:24,566
+Investing in a mission-driven company
+
+196
+00:08:24,700 --> 00:08:27,000
+might not yield returns for 3-5 years, or even
+
+197
+00:08:27,066 --> 00:08:29,200
+10 years to prove you were right. During
+
+198
+00:08:29,400 --> 00:08:31,666
+this time, you have to resist countless temptations. This is particularly evident in
+
+199
+00:08:31,966 --> 00:08:34,200
+financial markets. Retail
+
+200
+00:08:34,466 --> 00:08:37,633
+investors measure their investment gains and losses by the number of times they invest, not by probability, expected value,
+
+201
+00:08:37,833 --> 00:08:40,566
+or time series. Let me do the math for
+
+202
+00:08:40,566 --> 00:08:41,733
+you.
+
+203
+00:08:41,733 --> 00:08:42,966
+Ten short-term trades: eight wins (2% each), two losses (10% each). You do the math, wow, my win rate is 80%! I'm a pro! But what's the actual return?
+
+204
+00:08:42,966 --> 00:08:45,066
+8 x 2% minus
+
+205
+00:08:45,133 --> 00:08:47,133
+2 x 10% equals -4%. And that
+
+206
+00:08:53,866 --> 00:08:56,800
+doesn't even include transaction
+
+207
+00:08:57,066 --> 00:08:58,833
+fees. Crypto futures trading fees are 0.05% to 0.1% per trade. Ten trades, and the
+
+208
+00:09:01,933 --> 00:09:03,833
+fees alone wipe out 1%! And that
+
+209
+00:09:03,933 --> 00:09:05,266
+doesn't even include time costs. In the end, you're numb with
+
+210
+00:09:06,233 --> 00:09:07,300
+losses,
+
+211
+00:09:07,633 --> 00:09:08,933
+but you still can't stop
+
+212
+00:09:09,066 --> 00:09:11,066
+because those eight wins felt so good. Dopamine rush, immediate feedback, a positive feedback
+
+213
+00:09:13,233 --> 00:09:14,400
+loop.
+
+214
+00:09:15,033 --> 00:09:17,533
+Las Vegas slot machines are designed this way: frequent small wins, high-frequency rewards; occasional large losses, low-
+
+215
+00:09:21,633 --> 00:09:22,733
+frequency penalties.
+
+216
+00:09:22,966 --> 00:09:24,700
+Expected value -20%
+
+217
+00:09:24,933 --> 00:09:26,900
+means if you bet $100, you'll only get back $80 in the long run.
+
+218
+00:09:29,133 --> 00:09:30,300
+But you can't stop.
+
+219
+00:09:30,466 --> 00:09:32,366
+You remember the winning moments, not the losing ones. That's the essence of casinos. Why not do something that wins ten times and loses only once? Logically, as long as you win enough times, the winning
+
+220
+00:09:40,300 --> 00:09:42,100
+amounts are small enough, and you lose too few times, the losing amounts are large enough... The expected value is negative, but fish don't think that way. When a fish sees bait, it thinks about whether it can eat it; it does
+
+221
+00:09:52,133 --> 00:09:54,033
+n't think about whether there's a hook behind it because it's useless to think about it. It can't control its instincts. The
+
+222
+00:09:57,933 --> 00:10:00,433
+true master isn't the pleasure of eating, but the ability to endure hunger. Buffett looks at financial reports once a year.
+
+223
+00:10:04,133 --> 00:10:05,766
+He doesn't look at stock charts or news. No matter how the market rises or falls, he only looks
+
+224
+00:10:07,766 --> 00:10:09,766
+at the annual report once a year to
+
+225
+00:10:09,766 --> 00:10:12,433
+think about whether the company's fundamentals have changed. Who does he harvest? Those who stare at the market
+
+226
+00:10:13,866 --> 00:10:15,300
+every day, those who adjust their positions based on
+
+227
+00:10:15,466 --> 00:10:17,833
+a single news item, and those who chase highs and sell lows.
+
+228
+00:10:19,966 --> 00:10:21,766
+Bitcoin Hodler hasn't moved for 10 years.
+
+229
+00:10:22,100 --> 00:10:23,166
+I know many people who bought Bitcoin in
+
+230
+00:10:23,300 --> 00:10:24,733
+2013 and still hold it. It
+
+231
+00:10:25,966 --> 00:10:27,733
+rose to $20,000 in 2017 but didn't sell. It fell to $3,000 in 2018 but didn't sell. It rose to $69,000 in 2021 but didn't
+
+232
+00:10:27,733 --> 00:10:30,333
+sell. It fell
+
+233
+00:10:30,333 --> 00:10:33,566
+to $16,000 in 2022 but still didn't sell.
+
+234
+00:10:37,666 --> 00:10:38,933
+Who does he harvest? Those who
+
+235
+00:10:39,166 --> 00:10:41,066
+use leveraged contracts, those who chase highs and sell lows, and those who enter the market
+
+236
+00:10:42,700 --> 00:10:44,866
+at the peak of a bull market due to FOMO. Those who cut their losses and left the market
+
+237
+00:10:44,966 --> 00:10:47,166
+at the bottom of a bear market, think of
+
+238
+00:10:47,566 --> 00:10:49,466
+plants and farmers.
+
+239
+00:10:49,500 --> 00:10:51,266
+Plants seem the strongest,
+
+240
+00:10:51,300 --> 00:10:52,800
+photosynthesizing every day, always
+
+241
+00:10:53,033 --> 00:10:54,766
+earning and winning.
+
+242
+00:10:55,033 --> 00:10:56,633
+Farmers tend to them every day, losing every day—
+
+243
+00:10:57,966 --> 00:11:00,200
+watering, fertilizing, weeding, and pest control.
+
+244
+00:11:00,266 --> 00:11:01,766
+In the end, who wins? The farmer
+
+245
+00:11:03,300 --> 00:11:05,600
+harvests the plant's accumulated energy once a year.
+
+246
+00:11:05,966 --> 00:11:07,100
+Investing is the same.
+
+247
+00:11:07,300 --> 00:11:08,300
+You need to find companies that create
+
+248
+00:11:08,300 --> 00:11:11,033
+unseen value every second. Their
+
+249
+00:11:11,266 --> 00:11:12,700
+corporate culture is accumulating,
+
+250
+00:11:12,700 --> 00:11:14,166
+user trust is building, and
+
+251
+00:11:14,266 --> 00:11:15,766
+network effects are expanding. Financial statements do
+
+252
+00:11:15,900 --> 00:11:17,266
+n't show it,
+
+253
+00:11:17,266 --> 00:11:18,266
+but it's there,
+
+254
+00:11:18,266 --> 00:11:19,566
+growing every day. All
+
+255
+00:11:19,800 --> 00:11:21,966
+you have to do is wait for it to manifest. The
+
+256
+00:11:22,266 --> 00:11:24,300
+power of transcendent cognition lies here,
+
+257
+00:11:24,566 --> 00:11:25,866
+but most people can't do it
+
+258
+00:11:25,866 --> 00:11:28,200
+because their brains can't handle such low-frequency rewards.
+
+259
+00:11:28,666 --> 00:11:30,600
+Bitcoin is a perfect example.
+
+260
+00:11:30,866 --> 00:11:32,066
+From a profit perspective, it does
+
+261
+00:11:32,066 --> 00:11:34,033
+n't make sense—a string of code, no
+
+262
+00:11:34,033 --> 00:11:34,866
+company,
+
+263
+00:11:34,866 --> 00:11:37,133
+no CEO, no balance sheet,
+
+264
+00:11:37,133 --> 00:11:37,933
+no revenue,
+
+265
+00:11:38,033 --> 00:11:38,700
+no profit—
+
+266
+00:11:38,700 --> 00:11:40,666
+how can it be worth $2 trillion? But
+
+267
+00:11:41,100 --> 00:11:43,133
+from the perspective of a cognitive revolution, it's
+
+268
+00:11:43,133 --> 00:11:44,100
+crystal clear.
+
+269
+00:11:44,300 --> 00:11:45,400
+What is Bitcoin?
+
+270
+00:11:45,466 --> 00:11:46,700
+A fictional story, a decentralized monetary revolution,
+
+271
+00:11:48,833 --> 00:11:50,566
+breaking free from government and bank control.
+
+272
+00:11:50,566 --> 00:11:51,266
+Everyone
+
+273
+00:11:51,266 --> 00:11:52,833
+is the master of their own wealth. Hundreds of millions
+
+274
+00:11:53,100 --> 00:11:54,733
+worldwide believe this,
+
+275
+00:11:54,733 --> 00:11:56,500
+leading to massive collaboration.
+
+276
+00:11:56,933 --> 00:11:59,433
+Countless cryptography experts and top developers
+
+277
+00:11:59,433 --> 00:12:00,833
+bring their own food to write code. Bitcoin Most Core developers are volunteers.
+
+278
+00:12:04,233 --> 00:12:05,566
+They have their own jobs and
+
+279
+00:12:05,566 --> 00:12:07,900
+contribute code to Bitcoin in their spare time. Their motivation isn't money, but the underlying
+
+280
+00:12:10,266 --> 00:12:11,600
+philosophy.
+
+281
+00:12:11,600 --> 00:12:13,066
+They believe in the story. Countless evangelists travel the world preaching. AA (Andreas Antonopoulos) is a remarkable figure.
+
+282
+00:12:17,700 --> 00:12:18,800
+Since 2013, he has traveled
+
+283
+00:12:18,800 --> 00:12:20,800
+the world preaching about Bitcoin. Many people were introduced to Bitcoin through his book, *Mastering Bitcoin*.
+
+284
+00:12:24,300 --> 00:12:25,300
+To spread his message, he sold many of his Bitcoin holdings, leaving him with few coins. During the 2017 bull market, the community learned of this and spontaneously
+
+285
+00:12:25,300 --> 00:12:27,200
+donated hundreds of Bitcoins to him. Why? Because everyone was grateful for his contribution to the philosophy. Many core HODLers have weathered bull and bear
+
+286
+00:12:28,766 --> 00:12:30,300
+markets. In 2018, the price plummeted from 20,000 to 3,000, a drop of
+
+287
+00:12:40,033 --> 00:12:42,200
+85%. Many people sold at a loss, calling it a scam and a tulip mania. But a group remained steadfast. They said price wasn't important; 1 BTC = 1 BTC. What mattered was that the network was still running, the hash rate was still increasing, and the technology was still advancing. In 2022, the price dropped from 69,000 to 16,000, another
+
+288
+00:12:42,200 --> 00:12:44,466
+77% drop. Another group sold at a loss,
+
+289
+00:12:46,900 --> 00:12:48,200
+but those core HODLers remained. They're not betting on
+
+290
+00:12:48,266 --> 00:12:49,900
+prices; they're upholding an ideal. Is this merely investment? I see it more as faith.
+
+291
+00:13:03,733 --> 00:13:05,733
+But faith is built
+
+292
+00:13:05,866 --> 00:13:07,366
+on a cognitive revolution. Because they believe in
+
+293
+00:13:09,566 --> 00:13:11,300
+this fictional story, they collaborate, the network strengthens, and value manifests. Retail investors trade physical objects, candlestick charts, and price fluctuations. They rush in when a coin rises 20% today and cut their losses when it falls 15% tomorrow. They only
+
+294
+00:13:11,366 --> 00:13:12,800
+see price—animalistic cognition. Value investors, on the other hand,
+
+295
+00:13:22,233 --> 00:13:24,233
+trade financial data:
+
+296
+00:13:24,533 --> 00:13:26,000
+DCF/PE cash flow, calculating a company's intrinsic value, and buying when the price is lower than its value. They look at
+
+297
+00:13:31,666 --> 00:13:33,000
+numbers—rational
+
+298
+00:13:33,000 --> 00:13:34,333
+cognition.
+
+299
+00:13:34,333 --> 00:13:35,666
+Investors with transcendent cognition trade: mission, culture, social value. The
+
+300
+00:13:35,733 --> 00:13:39,366
+profit formula is actually quite simple: Profit = Imperceptible transcendent value minus the market's perceived value. At this point, you're probably wondering,
+
+301
+00:13:39,400 --> 00:13:41,233
+besides cryptocurrencies, which companies have truly
+
+302
+00:13:41,266 --> 00:13:43,466
+transcendent missions? There's a line in the TV series "Lurking": "They talk about
+
+303
+00:13:44,666 --> 00:13:46,500
+principles, but their hearts are full of business." The most powerful
+
+304
+00:13:46,500 --> 00:13:48,266
+businesses always prioritize principles.
+
+305
+00:13:48,266 --> 00:13:49,200
+What was the
+
+306
+00:13:49,233 --> 00:13:50,666
+mission of Apple during the Jobs era? Think Different.
+
+307
+00:13:56,066 --> 00:13:58,666
+Changing the world with technology wasn't about making money; changing the world was the goal, making money was just a byproduct. In
+
+308
+00:14:14,666 --> 00:14:17,066
+1997, Jobs returned to Apple. When the company was on the verge of bankruptcy, the first thing he did was
+
+309
+00:14:20,533 --> 00:14:23,433
+n't to cut costs, but to shoot an ad called "Think Different," a tribute to those crazy people who are unconventional, rebellious, troublemakers, and outcasts. Because only those crazy enough to believe they can change the world can actually
+
+310
+00:14:23,433 --> 00:14:25,133
+change the world. Is it marketing rhetoric? No, it's declaring a mission, telling a fictional story. At the
+
+311
+00:14:27,066 --> 00:14:29,500
+2007 iPhone launch event, Jobs said, "Today we're going to reinvent the phone." The audience thought he was just bragging. Phones were already mature; Nokia and Motorola dominated the market. How could a computer
+
+312
+00:14:29,500 --> 00:14:31,000
+company
+
+313
+00:14:44,400 --> 00:14:46,133
+reinvent the phone? But he actually reinvented it: touchscreens, multi-touch, the App Store ecosystem—
+
+314
+00:14:46,133 --> 00:14:47,733
+completely changing the entire industry. Why was it so
+
+315
+00:16:10,166 --> 00:16:11,633
+amazing? Top engineers were willing to take pay cuts to join Apple, jumping ship from Google and
+
+316
+00:16:11,633 --> 00:16:13,766
+Microsoft, even with reduced salaries. What were they after? Wanting to create a world-changing product, believing in that story. Apple fan culture—it's not about value for money; it's about believers.
+
+317
+00:16:13,900 --> 00:16:14,833
+You buy an iPhone not because it's cheap, but because you agree with that value. You feel like you're one of those "
+
+318
+00:16:36,200 --> 00:16:37,366
+Think Different" people. You queue
+
+319
+00:16:39,733 --> 00:16:40,500
+for a new iPhone
+
+320
+00:16:40,500 --> 00:16:41,500
+not because your old one is broken, but
+
+321
+00:16:41,500 --> 00:16:43,166
+because you want to experience the latest technology. This kind of user loyalty can't be bought with money. Invisible assets, not shown on financial statements, but more valuable than any tangible asset. Steve Jobs
+
+322
+00:16:46,100 --> 00:16:47,400
+passed away in 2011, and Tim Cook took over. Cook is an excellent CEO, an operational genius, who perfected supply chain management. Apple's market value has grown from over $
+
+323
+00:16:59,633 --> 00:17:01,533
+300 billion during Jobs' era to over $3 trillion now. But is the mission still there? What has Apple
+
+324
+00:17:05,233 --> 00:17:07,433
+been doing under Cook? Optimizing the supply chain, improving profit margins. The iPhone is upgraded every year, but these are incremental improvements: an extra camera, a larger screen, a faster chip—no more disruptive innovation. Cook is a good CEO,
+
+325
+00:17:11,566 --> 00:17:13,000
+but he's not a missionary; he's a professional manager.
+
+326
+00:17:13,300 --> 00:17:15,233
+Apple is sliding from a transcendent mission to rational calculation. It's not that it's failing; it will still be very profitable, but the power of that fictional story is being diluted. SpaceX, Elon Musk. Everyone knows the company's mission: to make humanity a multi-planetary species. Not by launching rockets, but by colonizing Mars. The
+
+327
+00:17:43,266 --> 00:17:45,233
+SpaceX story goes back to 1978, when an underground
+
+328
+00:17:47,900 --> 00:17:49,900
+Martian organization was born. It wasn't famous; it was just a group of space enthusiasts, science fiction fans, and engineers. They believed that humans should go to Mars. The
+
+329
+00:17:56,533 --> 00:17:59,333
+organization began holding a Mars program conference every three years. In 1996,
+
+330
+00:18:00,400 --> 00:18:03,233
+Robert Zubrin, a core member, published a book, *Heading to Mars: The Red Planet Settlement Plan*, which theoretically demonstrated the possibility of colonizing Mars. In 1998, Zubrin organized 700 representatives worldwide to establish the Mars Society. A few years later, a young man who had just sold his company and achieved financial freedom joined the society. This young man was Elon Musk.
+
+331
+00:18:03,300 --> 00:18:04,200
+He began to teach himself aerospace knowledge, chatting with rocket engineers he met in the society, learning and thinking. Then he
+
+332
+00:18:23,366 --> 00:18:25,066
+founded SpaceX. Many people think that SpaceX is just Musk's brilliant idea, but that's not true. SpaceX's mission began in 1978. That underground Mars organization had been
+
+333
+00:18:25,200 --> 00:18:27,333
+quietly passing on its legacy for decades. Zubrin wrote books, ran the society,
+
+334
+00:18:34,600 --> 00:18:37,166
+and gathered idealists from all over the world. These people had no money or resources, but they had a mission. They were telling a fictional story: that humans could colonize Mars. When Musk joined, this network already existed. The engineers, the
+
+335
+00:18:37,166 --> 00:18:38,466
+theories, and the
+
+336
+00:18:41,733 --> 00:18:43,866
+desire for Mars were all there. What
+
+337
+00:18:45,266 --> 00:18:49,000
+Musk did was turn this mission into a business. A great tree must have deep roots. Where are SpaceX's roots? They are in
+
+338
+00:18:49,133 --> 00:18:52,133
+that underground organization from 1978, as described in
+
+339
+00:18:52,366 --> 00:18:54,366
+Zubrin's book. The 700 delegates at the Mars Institute share
+
+340
+00:18:59,466 --> 00:19:01,233
+unseen factors; you won't see them on SpaceX's financial statements. But without these, there would be
+
+341
+00:19:14,733 --> 00:19:16,600
+no SpaceX. Musk went all in with his wealth. During
+
+342
+00:19:18,600 --> 00:19:20,966
+the 2008 financial
+
+343
+00:19:22,533 --> 00:19:24,800
+crisis, SpaceX was on the verge of collapse. He invested all the money from selling PayPal, but it still wasn't enough, so he borrowed money everywhere. Now
+
+344
+00:19:26,433 --> 00:19:29,000
+SpaceX is valued at trillions, but Musk is still all in. You haven't heard of him cashing out to
+
+345
+00:19:38,100 --> 00:19:40,566
+buy land for charitable foundations or invest in other companies. SpaceX engineers are the same; their salaries are lower than other Silicon Valley giants, and their workload is much heavier. Why do they come? Because they feel they are participating in human history, in helping humanity become an interplanetary species. Many of them may have been members of the Mars
+
+346
+00:19:48,433 --> 00:19:50,333
+Institute, or grew up reading Zubrin's books,
+
+347
+00:19:50,333 --> 00:19:52,100
+or dreamed of Mars since childhood. Now someone is giving them the opportunity to turn that dream into reality. The fans are even more enthusiastic.
+
+348
+00:19:52,533 --> 00:19:54,466
+Tesla owners are willing to tolerate
+
+349
+00:19:54,566 --> 00:19:56,600
+product defects and various minor problems with early Model S vehicles, but they don't complain; they
+
+350
+00:19:59,033 --> 00:20:01,166
+feel they are participating in a revolution.
+
+351
+00:20:04,466 --> 00:20:06,833
+Starlink users are willing to pay deposits in advance and wait a year to receive their devices. Why? Because they believe in
+
+352
+00:20:13,433 --> 00:20:15,133
+this vision: to bring the internet to every corner of the globe. Brand loyalty, mission identification, community cohesion—these are things you
+
+353
+00:20:22,033 --> 00:20:23,200
+can't see on financial statements. But these are more important than any tangible asset. So how do you identify if a company still has a truly transcendent mission? I have three tests. First, the mission authenticity test: Is the founder
+
+354
+00:20:25,300 --> 00:20:27,933
+willing to sacrifice short-term profits for this mission? Is the founder eager to cash out? Are employees willing to take pay cuts to join? Google
+
+355
+00:20:33,966 --> 00:20:38,366
+engineers went to OpenAI with reduced salaries and fewer stock options.
+
+356
+00:20:43,366 --> 00:20:44,933
+What were they after? Believing
+
+357
+00:20:51,000 --> 00:20:52,633
+that AGI would change humanity?
+
+358
+00:20:58,833 --> 00:21:00,700
+Tesla engineers earn less than those at Silicon Valley giants and work more
+
+359
+00:21:01,500 --> 00:21:02,633
+overtime.
+
+360
+00:21:02,733 --> 00:21:05,900
+Why did they go? Because they felt they were changing the world. Do users feel a sense of belonging,
+
+361
+00:21:14,933 --> 00:21:16,333
+or are they only looking at cost-effectiveness? Apple fans, Tesla fans, Bitcoin enthusiasts—they are
+
+362
+00:21:19,700 --> 00:21:21,333
+not rational consumers, they
+
+363
+00:21:21,333 --> 00:21:22,400
+are believers.
+
+364
+00:21:22,400 --> 00:21:23,066
+They are
+
+365
+00:21:23,066 --> 00:21:24,033
+not
+
+366
+00:21:24,033 --> 00:21:25,233
+buying products, they are buying a sense of identity. They feel they
+
+367
+00:21:25,233 --> 00:21:27,433
+are part of this movement. A sense of belonging, identity, and mission are all
+
+368
+00:21:30,566 --> 00:21:32,233
+invisible and intangible, but they are more effective
+
+369
+00:21:32,266 --> 00:21:34,500
+than any marketing budget. This is the
+
+370
+00:21:34,733 --> 00:21:36,700
+power of the cognitive revolution: creating
+
+371
+00:21:36,866 --> 00:21:37,966
+fictional stories and
+
+372
+00:21:37,966 --> 00:21:39,500
+generating large-scale collaboration.
+
+373
+00:21:39,933 --> 00:21:42,066
+Second, the time dimension test: Does
+
+374
+00:21:42,566 --> 00:21:44,566
+this mission have a historical tradition? Is it part of
+
+375
+00:21:44,566 --> 00:21:47,133
+a larger movement, or did the founder just come up with it out of thin air?
+
+376
+00:21:50,500 --> 00:21:51,600
+Bitcoin is not. It was
+
+377
+00:21:51,600 --> 00:21:54,500
+Satoshi Nakamoto's sudden idea in 2008.
+
+378
+00:21:54,700 --> 00:21:57,000
+It is part of a decades-long tradition of the crypto-anarchist movement, from the crypto-punks
+
+379
+00:21:59,200 --> 00:22:01,600
+of the 70s to the
+
+380
+00:22:01,766 --> 00:22:04,200
+digital cash experiments of the 90s.
+
+381
+00:22:04,566 --> 00:22:07,566
+DigiCash, HashCash, and B-money have been explored by
+
+382
+00:22:07,633 --> 00:22:09,166
+generations. Satoshi Nakamoto integrated
+
+383
+00:22:10,333 --> 00:22:12,533
+these predecessors' attempts,
+
+384
+00:22:12,533 --> 00:22:13,633
+ultimately creating
+
+385
+00:22:13,633 --> 00:22:16,966
+SpaceX. SpaceX isn't just Musk's genius; as mentioned earlier, there was a Martian
+
+386
+00:22:17,933 --> 00:22:20,333
+underground organization as early as 1978, with
+
+387
+00:22:20,333 --> 00:22:21,866
+Zubrin writing books and running societies, a legacy that has lasted for decades. When Musk
+
+388
+00:22:23,300 --> 00:22:24,666
+joined,
+
+389
+00:22:24,666 --> 00:22:26,966
+this network was already there. A
+
+390
+00:22:27,100 --> 00:22:28,833
+large tree must have deep roots, and the same applies to a mission. A
+
+391
+00:22:30,300 --> 00:22:32,933
+true mission can be traced back decades and
+
+392
+00:22:32,933 --> 00:22:34,633
+continue for decades to come; a false mission is just a slogan on a fundraising PowerPoint presentation. The
+
+393
+00:22:38,400 --> 00:22:40,600
+third positive externality test: What would society lose if this
+
+394
+00:22:40,866 --> 00:22:42,233
+company or project had never existed? This is a crucial test. A company with a truly transcendent mission creates value far exceeding its
+
+395
+00:22:43,966 --> 00:22:45,633
+profits; it has positive externalities for society; it's building unseen things—trust standards, ecological infrastructure, and some inverse indicators. When a company starts emphasizing scale, GMV, and market share, be careful; it might be sliding from a mission towards rational
+
+396
+00:22:45,766 --> 00:22:47,233
+calculation. When the
+
+397
+00:22:52,633 --> 00:22:54,566
+community is entirely discussing price rather than technological progress, be careful. This is where my biggest concern about Bitcoin lies. Bitcoin once had a scaling war that tore the entire community apart, but what I
+
+398
+00:22:54,700 --> 00:22:56,800
+saw in that war was the division of the community into two factions. Everyone was like
+
+399
+00:22:56,866 --> 00:22:59,966
+free citizens of a Greek city-
+
+400
+00:23:02,200 --> 00:23:05,700
+state or senators of the Roman Senate, seriously contemplating the future of Bitcoin, engaging in serious discussions and advocacy, and
+
+401
+00:23:05,700 --> 00:23:09,533
+voting for their beliefs with real money. The
+
+402
+00:23:23,333 --> 00:23:24,700
+current community, however,
+
+403
+00:23:24,766 --> 00:23:27,333
+resembles the citizens of the late
+
+404
+00:23:27,533 --> 00:23:29,333
+Roman Empire, focused on bread
+
+405
+00:23:33,833 --> 00:23:37,100
+and the circus. When Zhang Lei spoke of "think big" in 2017, Hillhouse Capital's management scale was already enormous. Scale itself is corrosive; once it becomes too large, it must operate with business logic. You have to be responsible to LPs, pursue IRR, and compete with peers for rankings. The mission is diluted. Perhaps this is why Buffett warned at his
+
+406
+00:23:38,433 --> 00:23:40,033
+last shareholder meeting not to let
+
+407
+00:23:40,033 --> 00:23:41,966
+casinos devour cathedrals. He saw the corrosiveness of scale, the allure of utilitarianism, and the prosperity of casinos. At this point,
+
+408
+00:23:52,533 --> 00:23:53,800
+you might
+
+409
+00:23:53,800 --> 00:23:55,100
+ask a bigger question: Companies in the world are constantly changing. Many giants from decades ago have disappeared or become insignificant. New small companies are constantly emerging and defeating those large companies. Why? Ultimately, it's companies with a
+
+410
+00:23:55,333 --> 00:23:56,900
+transcendent
+
+411
+00:23:56,900 --> 00:23:58,400
+mission that defeat those that have lost their mission, reduced to rational calculations, or even animalistic pursuits. Before 2007, Nokia was the absolute hegemon of the mobile
+
+412
+00:24:08,666 --> 00:24:10,000
+phone market, with a market share of over 40%. Nokia accounted for
+
+413
+00:24:24,400 --> 00:24:27,666
+over 50% of the industry's profits. Did Nokia have a mission back then? "Technology for people, connecting people." But by 2007, what had Nokia become? A calculating, rational company. They
+
+414
+00:24:27,666 --> 00:24:29,433
+calculated market segmentation, product line layout, and supply chain costs. When the iPhone came out, Nokia executives were laughing. They had calculated it: phones without physical keyboards had poor user experience; touchscreens were too
+
+415
+00:24:35,566 --> 00:24:37,566
+expensive;
+
+416
+00:24:39,766 --> 00:24:41,933
+profit margins were too low; the iPhone was too expensive, only able to occupy a high-end niche market. From a
+
+417
+00:24:50,766 --> 00:24:53,033
+rational perspective, Nokia's
+
+418
+00:24:53,100 --> 00:24:54,600
+calculations were correct. But they couldn't see
+
+419
+00:24:58,633 --> 00:25:00,533
+Apple's transcendent mission: to redefine the mobile phone, to create a new species. And what was the result? In five years, Nokia fell from its peak, eventually being sold to Microsoft for $7.2 billion. A former market leader was gone. Kodak invented digital camera technology, but it dared not launch it. Why? Because it would cannibalize its film business. They rationally
+
+420
+00:25:00,933 --> 00:25:01,966
+calculated that digital cameras
+
+421
+00:25:03,933 --> 00:25:05,133
+would impact their most
+
+422
+00:25:06,600 --> 00:25:07,766
+profitable film business, so they couldn't do it.
+
+423
+00:25:15,200 --> 00:25:17,566
+But they didn't consider that if you don't do it, someone else will. In
+
+424
+00:25:24,300 --> 00:25:26,500
+the end, Kodak went bankrupt, and the
+
+425
+00:25:30,000 --> 00:25:32,866
+digital revolution still came. What did Kodak lose? The mission of recording beautiful moments. They became a rational company protecting its vested interests. Even
+
+426
+00:25:34,566 --> 00:25:37,366
+animalistic companies driven by short-term profits, large corporations have lost their mission and become machines for optimizing existing businesses.
+
+427
+00:25:37,500 --> 00:25:39,266
+Their KPIs are profit margin, market share, and stock price. Their mindset is rational, even
+
+428
+00:25:40,900 --> 00:25:42,500
+animalistic: protecting vested interests and
+
+429
+00:25:54,133 --> 00:25:56,733
+avoiding risks. Small companies, on the other hand, have nothing but a mission. They believe in a new possibility, in their ability to change the world. This is transcendent cognition. Ultimately, transcendence triumphs over rationality, not because the smaller companies are smarter, but because they have more faith.
+
+430
+00:26:00,266 --> 00:26:02,066
+Large companies are often not defeated, but because they abandon their mission. They become worldly, realistic, and calculating. They slide from transcendent cognition to rational cognition,
+
+431
+00:26:10,466 --> 00:26:12,000
+and then from rational cognition to animalistic cognition, only wanting to
+
+432
+00:26:12,100 --> 00:26:13,266
+protect vested interests and unwilling to
+
+433
+00:26:13,266 --> 00:26:14,200
+take risks. At
+
+434
+00:26:14,500 --> 00:26:15,666
+this point, a newcomer with a transcendent mission emerges and can overturn the entire situation.
+
+435
+00:26:21,966 --> 00:26:23,533
+This is the inevitable result of a cognitive revolution: those who believe in fictional stories
+
+436
+00:26:23,733 --> 00:26:26,133
+ultimately change reality. Returning to investment, America was once a cathedral because it had a mission.
+
+437
+00:26:30,533 --> 00:26:32,566
+Now, is it being swallowed by casinos? Buffett said, "Don't let casinos devour cathedrals," which is exactly what
+
+438
+00:26:32,566 --> 00:26:34,566
+he meant. The same applies to business. The cryptocurrency world was once a cathedral because it had a mission. Now, is it being swallowed by casinos? Sometimes I see some older people speaking out in advocacy. Seeing so many developers flocking to AI has deepened my concerns. Any organization that loses its mission begins its
+
+439
+00:26:54,733 --> 00:26:58,100
+decline, no matter how powerful it may seem now. History has repeatedly proven that those who believe in the unseen win the future. The market is mostly noise driven by chasing highs and lows, with only a small portion being rational cognition. Financial reports and valuations truly exceed market expectations. What determines rise and fall are those unseen things: mission, culture, and trust. If you can identify a truly transcendent mission, you can see what the market
+
+440
+00:27:14,800 --> 00:27:17,333
+cannot. This is the source of
+
+441
+00:27:22,100 --> 00:27:23,866
+enormous
+
+442
+00:27:27,866 --> 00:27:29,900
+excess returns. My investment philosophy, developed in recent years based on the cognitive revolution, is based on this. 70,000 years ago, Homo sapiens learned to discuss fictional things and thus dominated the earth. Today and in the future, investors and entrepreneurs who master the power of fictional narratives can
+
+443
+00:27:32,533 --> 00:27:35,566
+gain an advantage in the evolving competition of the
+
+444
+00:27:35,766 --> 00:27:38,400
+market. However, to gain this advantage, there
+
+445
+00:27:38,400 --> 00:27:40,400
+is a most difficult part: the reward
+
+446
+00:27:40,400 --> 00:27:43,166
+frequency for transcendent cognition is the lowest. You might not see returns for 3, 5, or 10 years. During this period,
+
+447
+00:27:51,466 --> 00:27:53,800
+you must endure countless temptations. The market gives you immediate feedback every day, telling you whether it has gone up or down.
+
+448
+00:28:02,166 --> 00:28:04,200
+Your brain will urge you to act, chasing highs and lows. Therefore, "think big" and "think long" are two sides of the same coin. When you extend your timeline further, it becomes difficult to consider only tangible returns. You'll naturally begin to consider a transcendent mission.
+
+449
+00:28:08,733 --> 00:28:11,033
+When you contemplate a transcendent mission, you'll naturally extend your timeline and be willing to endure the anguish of no immediate
+
+450
+00:28:20,100 --> 00:28:23,000
+feedback. This is perhaps a question that every entrepreneur and
+
+451
+00:28:55,200 --> 00:28:57,766
+investor will have to answer in the future.
+
