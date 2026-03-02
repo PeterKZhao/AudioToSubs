@@ -1,0 +1,1464 @@
+1
+00:00:00,633 --> 00:00:02,133
+Hello everyone, I'm the boss.
+
+2
+00:00:02,133 --> 00:00:05,333
+Today we'll talk about meme coins and the hype surrounding A-shares.
+
+3
+00:00:05,666 --> 00:00:07,400
+While I don't personally speculate on these things, my
+
+4
+00:00:07,400 --> 00:00:10,500
+past experience in Fintech and cryptocurrency startups has taught me to
+
+5
+00:00:10,500 --> 00:00:12,066
+understand the market and
+
+6
+00:00:12,066 --> 00:00:13,066
+identify demand. I've given a lot of thought to
+
+7
+00:00:15,000 --> 00:00:17,700
+this type of speculative behavior, which has a long history and a large user base.
+
+8
+00:00:19,666 --> 00:00:21,833
+As a value investor
+
+9
+00:00:21,833 --> 00:00:23,700
+and financial market entrepreneur, I
+
+10
+00:00:23,766 --> 00:00:24,700
+can also
+
+11
+00:00:24,700 --> 00:00:27,366
+view this issue from a potentially broader perspective.
+
+12
+00:00:27,666 --> 00:00:29,266
+I believe that what I'll discuss today will be beneficial for
+
+13
+00:00:29,266 --> 00:00:31,300
+speculators in this field.
+
+14
+00:00:33,033 --> 00:00:34,800
+Although I don't recommend participating, if
+
+15
+00:00:34,833 --> 00:00:36,666
+you insist on getting involved,
+
+16
+00:00:36,733 --> 00:00:38,133
+this framework
+
+17
+00:00:38,133 --> 00:00:40,000
+should help you avoid many pitfalls and
+
+18
+00:00:40,000 --> 00:00:41,333
+costly mistakes. Even if
+
+19
+00:00:41,533 --> 00:00:43,266
+you're a value investor,
+
+20
+00:00:43,400 --> 00:00:44,133
+this framework will greatly improve
+
+21
+00:00:44,133 --> 00:00:47,133
+your understanding of valuation changes in investment targets.
+
+22
+00:00:48,733 --> 00:00:50,733
+My theoretical basis today consists of two points: First, the
+
+23
+00:00:50,933 --> 00:00:52,933
+so-called internet mindset, viewing these baseless hype events
+
+24
+00:00:53,033 --> 00:00:54,600
+through the lens of traffic and conversion rates. Second, Li Xiaolai's famous quote: "The
+
+25
+00:00:59,333 --> 00:01:00,266
+consensus of idiots is still a
+
+26
+00:01:00,266 --> 00:01:01,200
+consensus. As long as enough idiots are willing to take the bait,
+
+27
+00:01:03,733 --> 00:01:05,033
+this thing can be hyped up. With idiots taking the bait,
+
+28
+00:01:06,400 --> 00:01:08,633
+smart people will naturally come to do liquidity arbitrage. In the
+
+29
+00:01:08,966 --> 00:01:10,333
+era of internet finance,
+
+30
+00:01:10,333 --> 00:01:11,733
+traffic equals liquidity." Anyone who's worked in the
+
+31
+00:01:12,600 --> 00:01:14,133
+internet industry knows that e-commerce has a
+
+32
+00:01:14,133 --> 00:01:16,100
+basic formula:
+
+33
+00:01:16,300 --> 00:01:19,966
+GMV = Traffic × Conversion Rate × Average Order Value. GMV is total sales. This formula is simple to break down: how many people visit
+
+34
+00:01:24,000 --> 00:01:25,433
+your website is traffic; how many of them buy something is the conversion rate; and the average amount each
+
+35
+00:01:26,433 --> 00:01:28,633
+person spends is the average order value. Multiply these three numbers together to get your profit. Now, let me give you a more insightful perspective: the speculative market can also use this formula. How high a theme or meme can be hyped depends on the total liquidity available for buying. This total liquidity equals traffic multiplied by the
+
+36
+00:01:28,633 --> 00:01:29,533
+conversion rate and then by the
+
+37
+00:01:29,833 --> 00:01:31,533
+average order value. Traffic is the exposure—how many people saw the message. The
+
+38
+00:01:36,200 --> 00:01:38,533
+conversion rate is how many of those who saw it actually bought the related
+
+39
+00:01:41,700 --> 00:01:42,866
+product. The average order value is how
+
+40
+00:01:43,633 --> 00:01:44,700
+much money a retail investor's account can invest. These three variables determine
+
+41
+00:01:57,333 --> 00:02:00,066
+how much capital will ultimately enter the market to buy. The scale of this buying capital, combined with the existing market capitalization of the related product, basically allows you to calculate the price ceiling. Sounds mysterious, right? Don't worry, I'll break it down for you one by one. Before that, you need to understand one thing: there are two types of traffic. The first
+
+42
+00:02:04,700 --> 00:02:05,633
+type is called existing traffic. Born with
+
+43
+00:02:10,433 --> 00:02:12,500
+top-tier popularity, traffic arrives quickly,
+
+44
+00:02:16,566 --> 00:02:18,166
+no need for
+
+45
+00:02:18,166 --> 00:02:20,166
+fermentation. Trump's cryptocurrency launch is a prime example. Who is Trump himself? A global top influencer. He has tens of millions of Twitter followers, and the world's media are watching him. One tweet from him instantly generates billions of impressions.
+
+46
+00:02:29,700 --> 00:02:30,666
+No need for viral spread, no need to wait, it goes straight to the top. However, there's still a time lag in this speculative activity. From his announcement, to his
+
+47
+00:02:35,400 --> 00:02:37,166
+Twitter followers
+
+48
+00:02:37,333 --> 00:02:39,200
+seeing it, to all Twitter users seeing it, to various media reports, and finally to the world seeing it, there's a time lag that can be used to profit. The Deepseek concept works similarly. China's self-developed AI large-scale model technology breakthrough—what level of news is this? CCTV reports it, all media follow up, it dominates the trending topics
+
+49
+00:02:44,866 --> 00:02:47,766
+on TikTok, even people who don't trade stocks are sharing it. Moreover, this event carries the buff of nationalistic sentiment. In the eyes of retail
+
+50
+00:02:51,766 --> 00:02:53,466
+investors, the
+
+51
+00:03:02,700 --> 00:03:04,400
+AI ​​developed by Chinese people can defeat the US, making this narrative incredibly appealing. Even if you lose money, you're doing it for the country. Traffic explodes instantly, starting in the English-speaking AI community on
+
+52
+00:03:05,800 --> 00:03:06,700
+Twitter, then followed by
+
+53
+00:03:06,700 --> 00:03:07,900
+domestic media, then constructing a narrative that the US stock market correction was caused by Deepseek, finally reaching a climax in nationwide discussion, and the
+
+54
+00:03:09,533 --> 00:03:11,566
+sell-off ends. The first
+
+55
+00:03:18,766 --> 00:03:20,733
+type, existing traffic-driven, has a characteristic: it comes and goes quickly, with a short window of opportunity. You're either quick to
+
+56
+00:03:20,733 --> 00:03:21,533
+profit
+
+57
+00:03:21,533 --> 00:03:22,700
+or slow to fall behind. The second type, incremental
+
+58
+00:03:22,700 --> 00:03:23,966
+traffic-driven, has a small initial flow but the ability to spread virally, growing exponentially. SHIB was like this in its early days. Initially, it was just a crypto player, a "DOGE killer," and nobody knew about it. But the Shiba Inu image is
+
+59
+00:03:33,566 --> 00:03:35,566
+universally recognized, and it could ride the DOGE hype, making the barrier to entry almost zero. Those who bought it would tweet about it, and those who hadn't bought it would rush in out of FOMO. Then these people would tweet again, bringing in new people, creating a
+
+60
+00:03:44,400 --> 00:03:46,433
+chain reaction that spread from a small circle to the entire
+
+61
+00:03:53,033 --> 00:03:54,766
+crypto community, and then beyond. In just a few months, its market capitalization rose from a few million dollars to a peak of over 30 billion
+
+62
+00:03:59,866 --> 00:04:01,800
+dollars. Similar phenomena exist in the A-share market's hot concept speculation, but they are less pronounced. The reason is simple: the starting market capitalization is too
+
+63
+00:04:01,900 --> 00:04:03,566
+high. Small-cap stocks on the market are at least 2-3
+
+64
+00:04:16,200 --> 00:04:17,533
+billion dollars. Compared to meme coins in the crypto world, which started from zero, this most lucrative period is missing. So, while I don't recommend participating in this zero-sum game, if you really want to participate and believe you can be the one profiting rather than the one being exploited, then the crypto world is clearly a better place. If a surge in traffic can propel a stock to hundreds of millions of dollars, it represents a massive
+
+65
+00:04:26,433 --> 00:04:28,433
+wealth-creation opportunity for the
+
+66
+00:04:30,266 --> 00:04:32,866
+cryptocurrency market. However, for the A-share market, such opportunities are virtually
+
+67
+00:04:32,933 --> 00:04:34,933
+nonexistent. The characteristic of incremental traffic-driven markets is their long time window, offering opportunities for strategic positioning.
+
+68
+00:04:38,600 --> 00:04:40,033
+You
+
+69
+00:04:40,033 --> 00:04:42,266
+can enter early when the traffic surges and wait for it to repeatedly multiply, often allowing for multiple rounds of entry and exit. You see, even with similar speculation, the
+
+70
+00:04:42,400 --> 00:04:44,600
+rhythm is completely different. You need to first determine which type you're facing to know how to play the game. At this point,
+
+71
+00:04:58,200 --> 00:05:00,833
+you might ask if this traffic model only applies to the cryptocurrency market and the A-share market. Why doesn't the US stock market operate this way? That's a good question. The US stock market indeed rarely sees the pure speculative trading seen in the cryptocurrency and A-share markets. Even when there is speculative trading based on themes, it generally follows industry logic. The reason is simple: the
+
+72
+00:05:05,233 --> 00:05:06,900
+market
+
+73
+00:05:06,900 --> 00:05:08,233
+structures are completely different.
+
+74
+00:05:08,333 --> 00:05:10,500
+First, the structure of market participants is vastly different. In the
+
+75
+00:05:14,933 --> 00:05:17,133
+cryptocurrency and A-share markets, retail investors dominate. The vast majority of those
+
+76
+00:05:17,166 --> 00:05:18,633
+playing the cryptocurrency market are retail investors.
+
+77
+00:05:24,400 --> 00:05:25,866
+Although retail investors hold only 30-40% of the market capitalization in the A-share market, they account for over 70% of the trading volume.
+
+78
+00:05:29,133 --> 00:05:30,633
+Market pricing power is in the hands of retail investors, and most of these retail investors are "leeks" (a term for inexperienced investors who are easily taken advantage of) who trade based on rumors. The US stock market is dominated by institutional investors, with over 70% holding shares compared to only 30% held by retail investors.
+
+79
+00:05:34,466 --> 00:05:35,866
+What does this mean? In the
+
+80
+00:05:37,233 --> 00:05:39,533
+cryptocurrency market, retail investors are the main players. Their decisions are based on
+
+81
+00:05:51,300 --> 00:05:52,400
+Twitter news, Musk's tweets on Binance Square, trending topics on TikTok, discussions on Xueqiu, and video recommendations.
+
+82
+00:05:59,066 --> 00:06:00,166
+Where the
+
+83
+00:06:00,333 --> 00:06:02,500
+traffic is, the money is. In the US stock market, institutional investors are the main players.
+
+84
+00:06:02,533 --> 00:06:04,900
+Their decisions are based on
+
+85
+00:06:04,900 --> 00:06:06,900
+Bloomberg Terminal, company financial reports, and industry
+
+86
+00:06:06,933 --> 00:06:09,900
+research. They don't look at trending topics; they look at fundamentals. The same high-profile events elicit completely different reactions from retail and institutional investors because institutions already hold the shares. Retail investors are even less willing to speculate on those stocks; a surge is quickly followed by
+
+87
+00:06:12,366 --> 00:06:14,200
+institutional selling. If you've traded Hong Kong stocks, you know liquidity is more precious than air. Many stocks only have a daily trading volume of tens of thousands of dollars. Even a large
+
+88
+00:06:22,000 --> 00:06:24,766
+investor or institution can't stop their losses. It takes half a year to
+
+89
+00:06:27,066 --> 00:06:29,700
+sell millions of dollars worth of shares; don't even think about
+
+90
+00:06:35,400 --> 00:06:38,133
+selling tens of millions. If a leading investor or speculative fund brings retail investors to provide exit liquidity at this time, you'll likely dump all your
+
+91
+00:06:41,500 --> 00:06:43,766
+buy orders on them. Secondly, there's the dispersed nature of information flow. In the cryptocurrency market, information flow is highly concentrated. What constitutes a top-tier
+
+92
+00:06:47,866 --> 00:06:49,633
+traffic entry point? On Twitter, top figures related to crypto, like Musk, Trump, and CZ; in China, CCTV's News Broadcast and trending topics on Douyin (TikTok); retail investors across the entire market are watching these platforms. Once a topic becomes a trending topic on these platforms, it instantly receives hundreds of millions of views, causing a massive explosion in traffic. The
+
+93
+00:06:57,966 --> 00:07:00,566
+information flow in the US stock market is fragmented: Bloomberg,
+
+94
+00:07:03,933 --> 00:07:07,033
+Reuters, CNBC, WSJ, Twitter,
+
+95
+00:07:09,933 --> 00:07:10,966
+Reddit—there are too many sources. Different circles see completely different information sources. Institutional investors use Bloomberg Terminal, retail investors use CNBC, and Reddit users use Wallstreetbets. There isn't a unified traffic entry point that can cover everyone, making it difficult to create the kind of nationwide speculative hype seen in the A-share
+
+96
+00:07:11,233 --> 00:07:13,733
+market.
+
+97
+00:07:13,866 --> 00:07:16,066
+Even if Musk tweets about a company, the impact is mainly within the Twitter circle and
+
+98
+00:07:28,100 --> 00:07:30,666
+doesn't reach
+
+99
+00:07:30,833 --> 00:07:32,566
+institutional investors. Institutions still need to focus on fundamentals. The third, and more fatal, factor is the constraint of short-selling mechanisms. Cryptocurrencies like MEME Coin
+
+100
+00:07:36,333 --> 00:07:38,100
+have no short-selling mechanism at the on-chain stage. Short
+
+101
+00:07:39,466 --> 00:07:42,633
+-selling in the A-share market is extremely difficult; there are few securities available for margin lending, and the margin lending fees are high. Pure speculative hype is hard to stop. That's why Aucma's stock price surged after
+
+102
+00:07:42,933 --> 00:07:45,400
+Obama's election, and similarly, Trump's election... The surge
+
+103
+00:07:45,500 --> 00:07:47,300
+in Sichuan University Zhisheng's stock price, even treating cross-border ETFs as concept stocks and driving up premiums by over 50%, is due to the lack of short-selling mechanisms. Everyone profits by going long, leading to the long-term prevalence of such absurd speculation.
+
+104
+00:07:49,133 --> 00:07:51,433
+In contrast, the US stock market has an
+
+105
+00:07:56,500 --> 00:07:59,200
+extremely developed short-selling mechanism. Any
+
+106
+00:07:59,600 --> 00:08:01,233
+stock can be shorted,
+
+107
+00:08:02,633 --> 00:08:03,833
+borrowing costs are low, and there are no price
+
+108
+00:08:13,866 --> 00:08:15,866
+limits. Once speculation deviates from fundamentals, short-selling funds immediately enter to profit. The most typical example is the attack by short-selling institutions. If a stock is purely driven by hype and the fundamentals don't support it, short-
+
+109
+00:08:19,633 --> 00:08:22,000
+selling
+
+110
+00:08:24,566 --> 00:08:26,266
+institutions do
+
+111
+00:08:27,500 --> 00:08:29,366
+n't even need to issue research reports; various quantitative arbitrage strategies will immediately wipe out the speculative funds. Therefore, even if there is speculative hype in the US stock market, it must be supported by industrial logic; otherwise, it won't hold. You might say, "
+
+112
+00:08:40,500 --> 00:08:42,500
+Doesn't the US stock market also have MEME stocks like GameStop AMC?" Yes, this is the US version of speculative hype. Their underlying logic is the same as that of speculative hype in the A-share market—both are driven by hype. Why did GME rise from a few dollars to hundreds of dollars? Because the Wallstreetbets subreddit on Reddit generated
+
+113
+00:09:00,733 --> 00:09:02,900
+traffic. Two million retail investors encouraged each other in the forum, saying, "We're going to squeeze Wall Street!" This narrative resonates emotionally, is anti-elitist and anti-establishment, and spreads virally. One person
+
+114
+00:09:04,633 --> 00:09:07,500
+can bring in several new people, ultimately forming a holy war of retail investors against
+
+115
+00:09:18,066 --> 00:09:19,666
+funds. This perfectly aligns with the traffic model we discussed earlier: traffic
+
+116
+00:09:19,666 --> 00:09:20,866
+multiplied by conversion rate multiplied by average order value. However, the window of opportunity for this scenario is extremely short, requiring perfect timing, location, and circumstances. The performance of the
+
+117
+00:09:26,366 --> 00:09:28,866
+US stock market further proves the accuracy of this model. Why? Because the core of the traffic model is
+
+118
+00:09:29,000 --> 00:09:31,300
+traffic multiplied by conversion rate multiplied by average order value. Under different market structures, these three variables manifest differently,
+
+119
+00:09:31,566 --> 00:09:31,833
+but the underlying logic remains the same. The A-share market experiences a
+
+120
+00:09:31,833 --> 00:09:34,433
+concentrated burst of traffic, driven by
+
+121
+00:09:34,500 --> 00:09:36,433
+CCTV and
+
+122
+00:09:36,800 --> 00:09:37,700
+Douyin, dominated by retail investors, with a high
+
+123
+00:09:42,233 --> 00:09:44,300
+conversion rate of 1% to 2% and an average order value of 30,000 to 50,000 RMB. The result is systemic speculative hype and a surge in limit-up stocks. The US stock
+
+124
+00:09:44,366 --> 00:09:46,000
+market experiences decentralized
+
+125
+00:09:49,600 --> 00:09:51,666
+traffic dissemination,
+
+126
+00:09:53,000 --> 00:09:53,966
+dominated by institutions with a
+
+127
+00:09:53,966 --> 00:09:56,033
+low conversion rate of 0.1% to 0.5%. Institutions make larger individual transactions but slower decisions, making it difficult to generate systemic hype even with high-profile events. The cryptocurrency market experiences global traffic dissemination, driven by Twitter and Telegram, a gambler's mentality, with an extremely high conversion rate of 2% to 5% and highly polarized average
+
+128
+00:09:56,033 --> 00:09:57,933
+order values. The
+
+129
+00:09:58,033 --> 00:10:00,233
+result is that MEME
+
+130
+00:10:14,733 --> 00:10:16,733
+coins are everywhere, with
+
+131
+00:10:19,700 --> 00:10:21,800
+returns of hundreds or thousands of times. You see, the same traffic model yields completely different results in different market structures, but the core logic remains the same: where the traffic is, the funds are; only the form, conversion rate, and average order
+
+132
+00:10:22,200 --> 00:10:24,200
+value of the traffic differ. Once you understand this difference, you'll know that in the A-share and cryptocurrency markets, traffic is king. CCTV reports, trending topics on
+
+133
+00:10:24,300 --> 00:10:26,500
+Douyin, and Musk's tweets are your
+
+134
+00:10:28,300 --> 00:10:30,200
+trading signals. In the US stock market, it mainly relies on
+
+135
+00:10:32,900 --> 00:10:35,366
+industry logic. Traffic alone is not enough; you also
+
+136
+00:10:49,700 --> 00:10:51,933
+need fundamental support. Be cautious about participating in pure MEME coins like GME and AMC, as institutions can short sell at any time. If you want to use a traffic model to speculate in stocks, the A-share and cryptocurrency markets are the best battlefields. The US stock market is more suitable for industry research and fundamental analysis;
+
+137
+00:10:51,966 --> 00:10:52,833
+traffic is just icing on the cake.
+
+138
+00:11:00,633 --> 00:11:02,633
+Whether an incremental traffic-driven model can be successfully speculated on depends on one indicator: the K-value. This is a concept from
+
+139
+00:11:14,900 --> 00:11:17,166
+internet hacking growth, called the viral coefficient, meaning how many new users each user can bring on average. A K-value greater than 1.5 indicates exponential growth that can't be stopped. A K-value around 1 indicates linear growth, lukewarm growth. A K-value less than 1 indicates natural death, beyond saving. Applied to the speculative market, it
+
+140
+00:11:18,600 --> 00:11:19,400
+means
+
+141
+00:11:19,466 --> 00:11:22,266
+how many new investors each participant can bring on average. The success of Bitcoin owes a significant portion to the
+
+142
+00:11:24,300 --> 00:11:25,400
+narrative modification and lowering of the
+
+143
+00:11:28,966 --> 00:11:29,900
+barrier to understanding within the
+
+144
+00:11:38,633 --> 00:11:39,633
+established
+
+145
+00:11:39,633 --> 00:11:42,366
+cryptocurrency community. Phrases like "digital gold," "long bitcoin, short the world," "HODL," and "to the moon" are all examples of this. Without these elements, explaining things like UTXO hashes, private keys, and public keys would likely remain a niche hobby within the geek community. Bitcoin buyers actively share their knowledge with everyone—friends, family gatherings, even taxi drivers—it's free advertising. What about other blockchain cryptocurrencies? Would
+
+146
+00:11:52,033 --> 00:11:56,100
+you dare tell your friends? They wouldn't be
+
+147
+00:12:00,433 --> 00:12:02,333
+interested, and the message wouldn't spread. Moreover, Bitcoin resonates with certain emotions: anti-fiat inflation, anti-government money printing, and anti-Wall Street financial hegemony. The narrative of using decentralized currency to counter the
+
+148
+00:12:08,766 --> 00:12:10,500
+Federal Reserve's printing press is compelling and resonates with people, especially after the 2008 financial crisis. When these three conditions are met, the K-value is naturally high. So how do
+
+149
+00:12:10,566 --> 00:12:12,100
+you quickly determine the K-value of a theme or meme?
+
+150
+00:12:12,100 --> 00:12:13,400
+Ask yourself two questions: Would I share this in a group? Would my friends also want to buy it? If both answers are "yes," the K-value is very high, and you can wait for viral
+
+151
+00:12:13,400 --> 00:12:14,500
+growth. If one answer is "no,"... Don't
+
+152
+00:12:14,933 --> 00:12:17,166
+touch things with insufficient K-values.
+
+153
+00:12:28,366 --> 00:12:30,400
+However,
+
+154
+00:12:32,866 --> 00:12:34,133
+K-values ​​can only judge incremental traffic types. What about existing traffic types? Rely on prior judgment. What is prior judgment? It means you can see at a glance how high the traffic ceiling is for this thing.
+
+155
+00:12:39,166 --> 00:12:41,500
+I'll list a few dimensions for you. First, look at
+
+156
+00:12:45,366 --> 00:12:46,466
+the level of the policy event. China's policies are tiered, and the traffic ceilings are completely different. Central-level events, like the Xiong'an New Area, are reported by CCTV, followed by all media, and go viral on social networks. The
+
+157
+00:13:00,200 --> 00:13:02,166
+traffic ceiling is national, with 1 billion exposures. This has the potential to become the main theme of speculation for a period of time. Ministerial-
+
+158
+00:13:03,800 --> 00:13:06,033
+level
+
+159
+00:13:06,300 --> 00:13:08,233
+policies, like the General Administration of Customs' previous restrictions on rare earth exports, have an industry-level
+
+160
+00:13:08,366 --> 00:13:10,166
+traffic ceiling, with professional media and financial circles, roughly tens of millions of people. This is basically a quick hype, a few limit-up days and then it's over. Local policies, like the industrial plans of a certain province or city, have a local-level traffic ceiling. They basically can't go
+
+161
+00:13:13,733 --> 00:13:14,766
+beyond the circle, only a
+
+162
+00:13:18,100 --> 00:13:19,633
+few million people. Don't touch these, they
+
+163
+00:13:19,833 --> 00:13:22,566
+won't get hyped. Second, look at the hot topic. Is it a global hot topic
+
+164
+00:13:36,366 --> 00:13:38,766
+or a regional hot topic?
+
+165
+00:13:38,766 --> 00:13:40,366
+ChatGPT is a global hot topic. Everyone is discussing it, and as a technological starting point, there will inevitably be a continuous stream of new technologies to ignite traffic. So at that time, the speculation of any concept stock has certainty. You can wait for subsequent waves of trending topics. Even with specific policies at the central level in China, which are often restricted internationally, the reach is an order of magnitude smaller.
+
+166
+00:13:45,066 --> 00:13:46,533
+Then look at the influence of KOLs (Key Opinion Leaders).
+
+167
+00:13:49,600 --> 00:13:51,666
+This is even more evident in the crypto world. People like Musk and Trump have billions of global media followers; a single tweet from them
+
+168
+00:14:01,700 --> 00:14:04,266
+can send a meme soaring. Binance's CZ (Center for Crypto) and Vitalik Buterin have influence, reaching tens of millions of crypto users, but their reach is still an order of magnitude smaller than Musk's. Mid-tier KOLs with hundreds of thousands of followers can only influence local market movements and can't support the overall market. You see, traffic is tiered. The
+
+169
+00:14:04,833 --> 00:14:07,933
+difference in investment capital between top-tier and second-tier traffic can be
+
+170
+00:14:16,600 --> 00:14:19,233
+10 to 100 times. I'll teach you a quick way to judge: when you see a topic or
+
+171
+00:14:20,933 --> 00:14:22,433
+meme, immediately ask yourself: Can this be featured on
+
+172
+00:14:22,933 --> 00:14:27,100
+CCTV? If so, it's
+
+173
+00:14:33,600 --> 00:14:35,000
+national traffic (Deepseek is an example). Will Musk mention this? If he will, it's global traffic (DOGE is an example). Will this eventually reach the street vendors? If so, it's top-tier. Is this only known to people within the crypto community? If so, it won't go beyond that
+
+174
+00:14:35,000 --> 00:14:36,100
+circle; don't touch it. That's all for good traffic. Let's
+
+175
+00:14:46,766 --> 00:14:47,833
+talk about conversion rate. Conversion rate is essentially the concentration of speculative capital (SB). How many
+
+176
+00:15:03,366 --> 00:15:05,366
+people who see this news will actually rush in to buy? The SB concentration varies across different markets and themes. I can't say for sure which market has a higher SB concentration, the crypto market or the A-share market, but the differences
+
+177
+00:15:13,100 --> 00:15:14,600
+between themes are quite obvious. For example, in recent years, the A-share market has been particularly willing to pay for nationalist narratives, so concepts like Deepseek and J-10 printers are easily hyped. Therefore, you should remember that the
+
+178
+00:15:17,933 --> 00:15:19,500
+SB concentration of nationalist narratives is particularly high, making related themes more worthwhile to participate in. Average transaction value (ADR) is how much
+
+179
+00:15:20,766 --> 00:15:23,000
+money a retail investor can invest on average. The average A-share retail investor account is about 30,000-50,000 RMB. The crypto market is highly differentiated, averaging around 500-1,000 USD. Multiplying
+
+180
+00:15:26,300 --> 00:15:27,000
+these two numbers gives you the amount a single user can take on. However, these three variables alone aren't enough.
+
+181
+00:15:33,566 --> 00:15:34,833
+You
+
+182
+00:15:37,400 --> 00:15:39,566
+also need to add two adjustment factors. First, the
+
+183
+00:15:43,833 --> 00:15:46,600
+total market capitalization of the sector. If you calculate that 1 billion RMB will enter the market, how high will it ultimately go? This depends on the total market capitalization of the sector, and ideally, it should be moderate. Too small a market capitalization means large investors can't participate deeply, while too large a
+
+184
+00:15:46,833 --> 00:15:48,100
+market capitalization makes it difficult to
+
+185
+00:15:52,033 --> 00:15:54,033
+drive the price up. A
+
+186
+00:15:59,600 --> 00:16:01,966
+moderate market size is necessary for significant price movements. Then there's the issue of competitor diversion. What if several hot topics are being hyped simultaneously? Attention is a scarce resource. If five themes in the A-share market are vying for attention, each receiving an average of 20%, and your story is the most compelling, you might get
+
+187
+00:16:02,100 --> 00:16:04,466
+30%. If you're just following the trend, you might only get 10%. Okay, now I'll
+
+188
+00:16:22,033 --> 00:16:24,566
+write out the complete formula: The
+
+189
+00:16:24,633 --> 00:16:26,700
+hype potential equals the traffic volume multiplied by the
+
+190
+00:16:26,866 --> 00:16:29,600
+conversion rate multiplied by the average order value, divided by the total market size of the sector multiplied by the competitor diversion discount. It sounds complicated, but in practice, you don't need precise calculations; a rough estimate is enough. A difference of one or two times won't affect speculation. For example, if Trump issues cryptocurrency, the final circulating market capitalization is $
+
+191
+00:16:29,600 --> 00:16:31,266
+15 billion. Even if
+
+192
+00:16:31,433 --> 00:16:32,833
+you misjudge and only estimate $5 billion, getting on board at the $100 million level still offers 10x potential. The key here is judging whether a theme is worth participating in, filtering out all the noisy
+
+193
+00:16:40,466 --> 00:16:43,400
+themes with obviously low ceilings, and focusing only on themes with sufficiently high ceilings. This is the first part: the traffic formula
+
+194
+00:16:43,400 --> 00:16:46,033
+for calculating the ceiling. Remember
+
+195
+00:16:55,166 --> 00:16:57,466
+one sentence: the speculative market is a traffic business. By
+
+196
+00:17:01,500 --> 00:17:02,633
+estimating traffic multiplied by the conversion rate multiplied by the average order value, you can know roughly how high the ceiling is.
+
+197
+00:17:08,033 --> 00:17:10,433
+Judging whether it's worth participating based
+
+198
+00:17:14,333 --> 00:17:17,133
+on the ceiling is only the first step. More crucially, you need to know when to exit. Let me
+
+199
+00:17:20,700 --> 00:17:21,700
+tell you an
+
+200
+00:17:23,933 --> 00:17:26,033
+ironclad rule: price climaxes and traffic climaxes basically happen simultaneously. Why? Because this kind of speculation is essentially a Ponzi scheme, a game of musical chairs where later participants prop up earlier ones. Once there isn't enough new traffic, the game is over. There's a positive feedback loop here: price increases attract attention, generating traffic. A stock starts rising; it rises 30%, then a small circle
+
+201
+00:17:27,100 --> 00:17:29,266
+knows; it doubles, industry media
+
+202
+00:17:29,666 --> 00:17:32,066
+reports; it
+
+203
+00:17:34,000 --> 00:17:35,600
+rises three to five times, trending on Douyin
+
+204
+00:17:37,466 --> 00:17:39,466
+and Weibo; it rises ten times, even CCTV pays attention. Traffic explodes, idiots flock in, pushing up prices.
+
+205
+00:17:47,633 --> 00:17:49,766
+Once it's trending, retail investors' FOMO (fear of missing out) explodes. This wave has the largest capital base because of its large size, but it's also the last wave to enter—the peak. Traffic peaks, capital dries up, a death spiral of losses begins. When the trending topic falls, there
+
+206
+00:17:51,133 --> 00:17:53,200
+are no new retail investors. Early
+
+207
+00:17:56,166 --> 00:17:57,466
+investors start taking profits, late investors are trapped at the peak and cut their losses to escape. The price breaks through important support, even technical traders start to run. Finally, it's a negative feedback loop: a slow, steady decline. Traffic climax equals
+
+208
+00:18:08,300 --> 00:18:10,033
+price climax, equals the moment to escape. The
+
+209
+00:18:12,866 --> 00:18:14,533
+vast majority of retail investors... It's precisely at this moment that those who rush in are
+
+210
+00:18:27,466 --> 00:18:29,133
+left holding the bag. The key question is, since you're not a professional institution with a comprehensive online traffic monitoring system, how do you determine if traffic has peaked?
+
+211
+00:18:30,666 --> 00:18:32,066
+Professional speculators empty their pockets to sense changes in market sentiment. I can also teach you some simple and direct indicators.
+
+212
+00:18:32,066 --> 00:18:33,466
+First, look at the ranking and comment growth rate of trending topics on Douyin (TikTok). Do
+
+213
+00:18:44,500 --> 00:18:45,933
+n't just look at the ranking; look at the month-on-month growth rate of comments. Rapid month-on-month growth means a rapid surge. A slowdown in growth rate means be careful and be prepared to exit. Once the growth rate declines, sell without hesitation. Second, look at the posting frequency on Xueqiu (a Chinese investment platform). Go to the forums of leading stocks and see the number of new posts per minute.
+
+214
+00:18:55,300 --> 00:18:57,700
+Another more direct indicator is the percentage of new users. During the peak, new investors flood in; during the peak, it's old investors bolstering each other's confidence, and there's no new traffic.
+
+215
+00:18:58,133 --> 00:18:59,700
+Third, look at reports from mainstream media like
+
+216
+00:18:59,700 --> 00:19:02,400
+CCTV. First day of reporting is
+
+217
+00:19:02,666 --> 00:19:03,766
+positive; continued in-depth
+
+218
+00:19:03,900 --> 00:19:06,066
+reporting
+
+219
+00:19:07,666 --> 00:19:09,200
+indicates a peak; no more reporting means it's cooling
+
+220
+00:19:12,966 --> 00:19:14,166
+down and you're ready to exit. Media attention is limited; their lack of reporting means the hype has died down.
+
+221
+00:19:15,600 --> 00:19:18,833
+Fourth, look at
+
+222
+00:19:20,533 --> 00:19:22,233
+changes in the Dragon and Tiger List. Early prominent speculative capital seats are buying... Smart money is accumulating positions; the
+
+223
+00:19:25,300 --> 00:19:27,266
+mid-term is a chaotic battle of buying and selling;
+
+224
+00:19:27,333 --> 00:19:29,766
+late-stage speculative capital is all selling, leaving retail investors and brokerage firms to take the fall. The smart money is out, so why aren't you? Here are some
+
+225
+00:19:31,866 --> 00:19:34,866
+key crypto indicators: First, watch Twitter trends,
+
+226
+00:19:36,566 --> 00:19:38,733
+duration, and the retweet timeline of top KOLs. Retweets from top KOLs like CZ and
+
+227
+00:19:45,933 --> 00:19:48,000
+Vitalik are still early; frantic retweets from
+
+228
+00:19:51,900 --> 00:19:54,066
+mid-tier
+
+229
+00:19:55,866 --> 00:19:57,466
+KOLs indicate the middle stage. If everyone in your groups is asking about it, then it's time to run.
+
+230
+00:19:59,433 --> 00:20:01,766
+Second, watch the inflection point of on-chain data growth, specifically the daily growth rate of new holding addresses. A faster growth rate is good, a slower one is dangerous. Also, watch
+
+231
+00:20:01,766 --> 00:20:05,000
+the direction of large transfers. Large withdrawals from exchanges to wallets indicate hoarding and bullish sentiment;
+
+232
+00:20:05,200 --> 00:20:08,366
+large transfers from wallets back to exchanges indicate a potential
+
+233
+00:20:13,566 --> 00:20:14,733
+sell-off. Third,
+
+234
+00:20:15,133 --> 00:20:17,900
+watch the activity of Telegram and Discord groups, whether the message sending frequency is slowing down. Fourth,
+
+235
+00:20:18,100 --> 00:20:20,966
+watch the order book depth on
+
+236
+00:20:24,733 --> 00:20:27,000
+centralized exchanges. If the buy depth is getting shallower and the sell depth is getting thicker, meaning no one is buying, then it's time to run. Of course, these traffic monitoring methods are just my own guesses, as I don't trade this myself. However, based on my own keyword and popularity data, and after reviewing some hype, I found a very high degree of consistency. Even
+
+237
+00:20:27,466 --> 00:20:29,833
+Bitcoin fit this pattern back then. So I think this is a common characteristic of speculative markets.
+
+238
+00:20:44,900 --> 00:20:46,900
+If you want to achieve something in this high-stakes market,
+
+239
+00:20:48,966 --> 00:20:49,900
+then you should spend money to buy data and put in the hard work to build your own
+
+240
+00:20:50,433 --> 00:20:52,366
+traffic monitoring model. Otherwise, don't speculate. Money isn't that easy to make. Any financial skill, whether orthodox or unorthodox, requires hard work to achieve anything. Finally, here's a simple, direct, and highly accurate piece of advice: you need your
+
+241
+00:20:55,533 --> 00:20:57,933
+own contrarian
+
+242
+00:20:57,933 --> 00:20:58,600
+indicators. What are contrarian indicators? They are
+
+243
+00:21:04,333 --> 00:21:07,166
+signals that indicate the highest concentration of idiots has entered the market.
+
+244
+00:21:07,366 --> 00:21:09,700
+Once you pay attention to or enter the market using these contrarian indicators, you're doomed. Why? Because the traffic has already spread to the highest concentration of idiots, and there are
+
+245
+00:21:17,700 --> 00:21:19,333
+n't any more
+
+246
+00:21:19,333 --> 00:21:20,500
+idiots to follow. This has historical basis. Before the 1929 crash, Wall Street
+
+247
+00:21:20,700 --> 00:21:22,500
+tycoon Joseph Kennedy went to have his shoes shined. The shoeshine boy talked to him about stocks and recommended
+
+248
+00:21:33,600 --> 00:21:35,000
+what to buy. Kennedy immediately realized that even the shoeshine boy was trading stocks and immediately sold all his stocks. A few months later, the crash happened, countless people jumped off buildings, but Kennedy escaped unscathed. You need to recognize this
+
+249
+00:21:38,000 --> 00:21:39,633
+signal earlier than others. When the whole world knows this story, that's when there's no turning back. This is the second part: timing the traffic surge. Remember one sentence: In the speculative market, traffic is your escape route. The first two parts solved the problems of how
+
+250
+00:21:43,766 --> 00:21:46,766
+high the price can be driven up and when to exit.
+
+251
+00:21:51,500 --> 00:21:53,433
+Now, there's one last question:
+
+252
+00:21:58,966 --> 00:22:00,166
+which target to buy? Let me first say something that insiders consider common sense, but outsiders might find it
+
+253
+00:22:07,400 --> 00:22:08,733
+revolutionary: the leading stock isn't necessarily the one with the purest causal relationship, but rather the one with the highest recognizability, or the one most
+
+254
+00:22:09,333 --> 00:22:11,700
+easily remembered and discovered. The one with the strongest logic and the best fundamentals isn't necessarily the leading stock; the one that grabs attention is the leading stock.
+
+255
+00:22:11,766 --> 00:22:13,766
+Because this kind of speculation is essentially a
+
+256
+00:22:13,766 --> 00:22:15,166
+traffic business. Retail investors don't
+
+257
+00:22:15,300 --> 00:22:18,300
+look at fundamentals; they only look at the gainers list and trending topics. There are
+
+258
+00:22:22,600 --> 00:22:23,600
+four
+
+259
+00:22:27,300 --> 00:22:30,000
+rules for selecting targets. Rule one: First, the first to rise
+
+260
+00:22:30,400 --> 00:22:33,000
+is king. The first to rise occupies mental resources, and no matter how authentic the later ones are, it's useless. Why? Because the first thing retail investors do when they open their apps every day is to look at the gainers list. Whoever rises the most,
+
+261
+00:22:33,000 --> 00:22:35,300
+retail investors will click to see. The list of stocks hitting the daily limit is the
+
+262
+00:22:48,300 --> 00:22:51,133
+traffic entrance.
+
+263
+00:22:51,133 --> 00:22:52,300
+Retail investors only have so much attention; whoever grabs it first wins. Rule two: The name is the most important. Internet thinking is about every extra step of operation. The same applies to the speculative market, where 50% of users are lost. Retail investors see trending topics, search for targets, find
+
+264
+00:22:52,300 --> 00:22:53,900
+codes, and place orders. Directly related names eliminate a step in the process, doubling the conversion rate. Moreover, names
+
+265
+00:22:54,266 --> 00:22:56,933
+have a traffic monopoly effect; if your name is a natural search
+
+266
+00:22:59,466 --> 00:23:02,133
+keyword, you've already
+
+267
+00:23:15,333 --> 00:23:16,566
+won at the starting line. This is even more pronounced in the
+
+268
+00:23:19,300 --> 00:23:21,933
+cryptocurrency market. For example, the name of a coin like MEME is almost everything. The third rule of differentiation in the leading stocks is that the leader eats the meat, the second-tier stocks get the soup, the third-tier stocks lick the bowl, and the rest
+
+269
+00:23:21,933 --> 00:23:23,566
+starve. However, the degree of differentiation varies across different markets. The
+
+270
+00:23:23,700 --> 00:23:24,966
+A-share market has a special mechanism called the daily price limit. When a theme is hyped, there might be 10 stocks on the daily price limit list simultaneously.
+
+271
+00:23:25,100 --> 00:23:26,133
+Retail investors see this and think, "Wow, so many stocks hitting the limit, let's just buy one!" The difference between the second and
+
+272
+00:23:42,933 --> 00:23:46,633
+third-tier stocks and the leader in the A-share
+
+273
+00:23:49,733 --> 00:23:51,833
+market isn't as dramatic. For example,
+
+274
+00:23:52,300 --> 00:23:54,833
+with the DeepSeek concept, there might be 10 AI stocks hitting the daily price limit simultaneously. Although the leader
+
+275
+00:23:55,100 --> 00:23:56,633
+rises the most, the second and third-tier stocks also profit because the daily
+
+276
+00:23:56,633 --> 00:23:57,766
+price limit list gives them exposure. But a key point is that how
+
+277
+00:24:00,500 --> 00:24:01,666
+much the
+
+278
+00:24:02,933 --> 00:24:05,366
+second and third-tier stocks can profit depends on how long they stay on the daily price limit list. If they crash the next day, the traffic immediately drops to zero.
+
+279
+00:24:05,366 --> 00:24:06,366
+There are no price limits in the crypto market. On-chain price action is like a dog-beating game; the
+
+280
+00:24:14,166 --> 00:24:17,066
+gainers list displays a ton of data, and it changes in real time. The top gainer takes 99% of the market share, while the second-ranked gainers only pick up scraps. Why such a huge difference? Because the crypto market's
+
+281
+00:24:26,033 --> 00:24:27,333
+traffic is highly concentrated. Retail investors only focus on the top gainer; the second-ranked gainer is practically ignored. Furthermore, the
+
+282
+00:24:27,800 --> 00:24:29,366
+crypto market has a vicious cycle: the
+
+283
+00:24:29,533 --> 00:24:30,566
+top gainer rises sharply, attracting more attention and more buyers, leading to an even faster rise; the second-ranked gainer rises slowly, receives
+
+284
+00:24:43,033 --> 00:24:44,333
+no attention, and eventually fades away. The Matthew effect is amplified to its extreme in the crypto market. However, there is an exception: when there are too many speculative investors (SBs). If a theme is hot enough that SBs overflow, the second and third-ranked gainers have a chance. The criterion is that when the liquidity of the top gainer can
+
+285
+00:24:51,166 --> 00:24:51,966
+no longer support new funds, SBs will
+
+286
+00:24:53,766 --> 00:24:56,533
+divert to the second-ranked gainer. This is the spillover effect. If the top gainer's market capitalization is too small or its price rises too quickly, SBs have nowhere else to go but to fill the second and third-ranked gainers. The crypto market is similar.
+
+287
+00:24:59,933 --> 00:25:01,366
+If the market is large enough, different leading exchanges
+
+288
+00:25:09,800 --> 00:25:11,500
+will deliberately create different leading stocks because exchanges themselves have their own traffic. For example, Binance lists the top gainer and captures its user traffic. Then OKEx
+
+289
+00:25:11,500 --> 00:25:12,766
+lists the top gainer. He won't get much user traffic, so he might prefer to be the second-tier leader. In this case, the
+
+290
+00:25:15,900 --> 00:25:17,300
+price difference between the first and second-tier leaders won't be too large. Rule 4:
+
+291
+00:25:22,633 --> 00:25:23,966
+KOLs'
+
+292
+00:25:23,966 --> 00:25:26,900
+power to create leaders. Whoever controls the traffic entrance can define what the leader is. A classic example is the Ningbo Daredevils during Xu Xiang's era. They didn't wait for the
+
+293
+00:25:27,066 --> 00:25:29,233
+market to choose a leader; instead, they created one themselves, building positions in advance, driving up the price to attract attention, hiring online trolls to create hype, packaging the stock as a leader, and having retail
+
+294
+00:25:34,033 --> 00:25:35,700
+investors follow suit to push the price up before selling at a high price.
+
+295
+00:25:37,833 --> 00:25:38,733
+Today's
+
+296
+00:25:42,033 --> 00:25:44,566
+KOLs are the same, just on a different platform, from stock forums and QQ groups to Douyin, video accounts, and Xiaohongshu. In the crypto world, a tweet from Musk can cause DOGE to rise by 50%. This is the power of traffic. But even more ruthless are those second-tier KOLs.
+
+297
+00:25:51,700 --> 00:25:54,033
+They don't have Musk's influence, but they can target specific areas for manipulation.
+
+298
+00:25:58,700 --> 00:25:59,966
+The strategy is to buy some
+
+299
+00:26:08,700 --> 00:26:11,100
+small-cap MEME coins in advance, tweet that MEME has potential, and have followers rush in. The price doubles, and the KOL sells off. Moreover, these KOLs may also cooperate with each other. In today's short video and live streaming era,
+
+300
+00:26:15,266 --> 00:26:16,566
+this is even
+
+301
+00:26:16,866 --> 00:26:19,133
+more obvious. When the market is hot... Those investment advisors and
+
+302
+00:26:19,333 --> 00:26:21,266
+influential figures in the live streams have tens of
+
+303
+00:26:23,066 --> 00:26:25,866
+thousands of viewers. If they recommend a stock, thousands might place orders simultaneously, causing the stock to immediately hit its daily limit. This isn't analysis; it's manipulation.
+
+304
+00:26:31,733 --> 00:26:34,500
+And it's incredibly difficult to regulate. For example, a single stock-picking blogger's MCN company can directly influence the decisions of tens of thousands of people, potentially affecting
+
+305
+00:26:42,266 --> 00:26:43,933
+hundreds of millions or even
+
+306
+00:26:44,866 --> 00:26:46,733
+billions of yuan. They can easily have the entire company push up a small-cap stock, causing it to hit its daily limit. If you're a novice seeing this, wouldn't you get excited and
+
+307
+00:26:46,733 --> 00:26:48,500
+pay tens of thousands of yuan to join a paid stock recommendation group? Even if they're not involved in insider trading and
+
+308
+00:26:51,066 --> 00:26:53,300
+might even have
+
+309
+00:26:53,533 --> 00:26:56,666
+an investment advisor's license, you can't do anything about it if you lose everything. So, the power of traffic and discourse is the power to print
+
+310
+00:26:59,433 --> 00:27:02,233
+money—that's the naked truth. Therefore, if you're a young person with nothing who wants to make big money quickly, you know which industries to go for. I'm not teaching you to be bad, but the "leeks" (investors who are exploited) are pitiful yet hateful. Who gets exploited is the same, right? I
+
+311
+00:27:14,700 --> 00:27:16,466
+don't need to take any legal risks, but if you want to lick the knife's edge, besides using your own money to hone your skills on this speculative path, don't forget you can also use the
+
+312
+00:27:16,566 --> 00:27:18,033
+barbell strategy. Making a side hustle to gain traffic and become a KOL (Key Opinion Leader) –
+
+313
+00:27:23,000 --> 00:27:24,500
+this is the third
+
+314
+00:27:25,066 --> 00:27:26,300
+part: target selection, which is all about competing for attention.
+
+315
+00:27:30,200 --> 00:27:31,800
+Remember one thing: first rise is king, name is king. Whoever grabs attention is the leader. Okay, let's go through the whole logic. The first layer is the traffic formula: calculate the ceiling. The total amount of capital inflow equals traffic
+
+316
+00:27:44,233 --> 00:27:46,300
+multiplied by conversion rate multiplied by average order value. First, determine whether it's existing or new traffic. For existing traffic, look at the KOL level and policy level to quickly determine the traffic ceiling. For new traffic,
+
+317
+00:27:48,600 --> 00:27:49,700
+look at the K-value and whether it can
+
+318
+00:27:49,700 --> 00:27:51,200
+spread virally. Calculate the total amount of capital inflow and match it with the size of the market. Basically,
+
+319
+00:28:01,100 --> 00:28:03,500
+you'll know how high it can be driven up. The
+
+320
+00:28:03,866 --> 00:28:05,866
+second layer is timing during the traffic peak. The price peak
+
+321
+00:28:07,933 --> 00:28:10,666
+equals the traffic peak, which is the time to escape. For existing traffic, it's a few days of
+
+322
+00:28:13,966 --> 00:28:16,233
+decisive battle. Look at the trending
+
+323
+00:28:16,233 --> 00:28:17,166
+search rankings, CCTV reports, and the top-performing stocks. First come, first served. For new traffic, wait for the viral spread and look at the growth inflection point. Continue to hold during the first small peak, prepare to
+
+324
+00:28:26,133 --> 00:28:28,366
+run during the second big peak, and run immediately during the third breakout
+
+325
+00:28:28,733 --> 00:28:31,666
+peak. The third layer is selecting targets in the competition for attention. First rise is king, name is king. Don't blindly believe in the strongest logic when creating a KOL.
+
+326
+00:28:37,233 --> 00:28:38,200
+Buy the list of stocks that are easiest to spot and hit the daily limit. The
+
+327
+00:28:38,966 --> 00:28:39,800
+top gainers list is the gateway to
+
+328
+00:28:43,200 --> 00:28:44,333
+traffic. Whoever gets on the list
+
+329
+00:28:44,433 --> 00:28:46,033
+first is the
+
+330
+00:28:53,566 --> 00:28:54,766
+leader. Finally, you should diligently review historical data from the past few years, analyzing each point in time according to the
+
+331
+00:28:55,833 --> 00:28:58,966
+logic I
+
+332
+00:28:59,066 --> 00:29:02,133
+mentioned earlier. Look at the sustainability, the market capitalization potential, and the market sentiment at
+
+333
+00:29:06,533 --> 00:29:07,866
+the time. Only by internalizing this system can
+
+334
+00:29:07,866 --> 00:29:09,166
+you achieve success. I made a video about technical analysis before, and there were many arguments in the comments. The most classic type of argument was, "Don't speculative investors look at technical analysis? They've made so much money, how dare you say
+
+335
+00:29:09,300 --> 00:29:12,466
+technical analysis is witchcraft?" I happen to know a few speculative investors, and luckily, I learned about this logic of
+
+336
+00:29:12,500 --> 00:29:13,766
+short-term speculation early on. I also realized early on that this path wasn't suitable for me,
+
+337
+00:29:20,733 --> 00:29:23,333
+and I didn't waste my youth on it. Many retail investors think that speculative investors rely on
+
+338
+00:29:26,733 --> 00:29:27,866
+technical analysis to predict short-term fluctuations—that's like thinking the emperor uses a golden hoe to farm, and the empress makes pancakes while the empress rolls green onions. Whether it's the crypto enthusiasts or the speculative investors in the A-
+
+339
+00:29:28,066 --> 00:29:29,533
+share market, the
+
+340
+00:29:29,600 --> 00:29:31,400
+core thing they do is use internet thinking to price hot topics. This kind of thing becomes an experience with
+
+341
+00:29:31,400 --> 00:29:33,033
+practice. Often, as soon as news breaks, you
+
+342
+00:29:41,066 --> 00:29:43,800
+know roughly how much market capitalization the leading stock can reach and how much trading volume it can achieve. The rest is simply about discarding the less attractive stocks, sticking to the
+
+343
+00:29:56,866 --> 00:29:58,133
+leading stocks
+
+344
+00:29:59,966 --> 00:30:01,833
+no matter what, and having the courage to overcome the fear of heights and participate in the gamble. Sounds simple, right? What I'm going to talk about today is identifying what level of news will trigger what level of capital, the reasonable
+
+345
+00:30:01,966 --> 00:30:03,366
+market capitalization range of leading stocks under different market environments, and the stages of the sentiment cycle, from initiation to acceleration, to divergence to consensus, and finally to
+
+346
+00:30:18,266 --> 00:30:19,866
+ebb. These things are easy to learn, but the problem is that these things only account for 30%. Learning how to read them doesn't mean you can actually do them. What truly determines the upper limit are three innate abilities. First is the
+
+347
+00:30:20,066 --> 00:30:23,333
+tolerance for extreme uncertainty. If the leading stock hits consecutive limit-up days and your account doubles, do you dare to continue holding? Many people understand leading stocks in theory, but once they take a position, their bodies surrender first.
+
+348
+00:30:24,866 --> 00:30:26,266
+I doubt that this
+
+349
+00:30:27,833 --> 00:30:29,700
+can be solved through cognition. Your adrenaline and your cortisol secretion may make you unsuitable for this. Second is the immunity to missing opportunities. Experts are basically
+
+350
+00:30:38,866 --> 00:30:40,166
+unaffected by missing opportunities, while most people are eager to make up for lost money after missing out, and then heavily invest in the next uncertain target and suffer huge losses. Thirdly, treat speculation as a profession,
+
+351
+00:30:44,566 --> 00:30:45,933
+not as a means of
+
+352
+00:30:46,166 --> 00:30:47,600
+self-proving. Speculative investors are executing probabilities, not proving their intelligence. However,
+
+353
+00:30:56,066 --> 00:30:58,033
+many intelligent people cannot accept the idea that "I was right,
+
+354
+00:30:58,133 --> 00:30:59,366
+but I lost this time." They need emotional feedback from trading, a feeling of being incredibly successful. Once this need arises, trading becomes distorted.
+
+355
+00:31:06,166 --> 00:31:07,833
+You'll stubbornly hold on to prove yourself, or add to your position to save face—these are all fatal flaws. Therefore, the traffic pricing framework I've discussed today is merely an entry ticket. It allows you to understand the rules of the game, but it won't make you a winner. What truly determines how far you can go is your
+
+356
+00:31:08,233 --> 00:31:10,266
+nervous system, your
+
+357
+00:31:10,666 --> 00:31:13,733
+emotional structure, and your self-perception patterns. These things are likely largely formed during your adolescence and are difficult to
+
+358
+00:31:14,000 --> 00:31:17,000
+change later. My advice is
+
+359
+00:31:33,700 --> 00:31:35,833
+simple: if you find you lack these three talents, then you'll likely lose nine out of ten times in the speculative market. I suggest you stick to solid investing.
+
+360
+00:31:36,133 --> 00:31:37,566
+If you believe you have
+
+361
+00:31:42,933 --> 00:31:44,366
+these three talents, then this video should save you many years of detours. But
+
+362
+00:31:49,433 --> 00:31:51,200
+you must understand that profit and loss are two sides of the same coin; success still requires
+
+363
+00:31:51,200 --> 00:31:52,733
+luck. If you're not mentally prepared for bad luck, this path is still not suitable for you. If you resolutely embark on this path, then
+
+364
+00:32:32,833 --> 00:32:34,066
+I wish you good luck. That concludes this
+
+365
+00:32:34,466 --> 00:32:36,666
+video. See
+
+366
+00:32:36,733 --> 00:32:37,833
+you next time!
+

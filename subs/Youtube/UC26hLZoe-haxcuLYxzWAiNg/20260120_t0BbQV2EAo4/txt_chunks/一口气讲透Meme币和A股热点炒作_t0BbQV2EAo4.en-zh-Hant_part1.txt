@@ -1,0 +1,346 @@
+Hello everyone, I'm the boss.
+Today we'll talk about meme coins and the hype surrounding A-shares.
+While I don't personally speculate on these things, my
+past experience in Fintech and cryptocurrency startups has taught me to
+understand the market and
+identify demand. I've given a lot of thought to
+this type of speculative behavior, which has a long history and a large user base.
+As a value investor
+and financial market entrepreneur, I
+can also
+view this issue from a potentially broader perspective.
+I believe that what I'll discuss today will be beneficial for
+speculators in this field.
+Although I don't recommend participating, if
+you insist on getting involved,
+this framework
+should help you avoid many pitfalls and
+costly mistakes. Even if
+you're a value investor,
+this framework will greatly improve
+your understanding of valuation changes in investment targets.
+My theoretical basis today consists of two points: First, the
+so-called internet mindset, viewing these baseless hype events
+through the lens of traffic and conversion rates. Second, Li Xiaolai's famous quote: "The
+consensus of idiots is still a
+consensus. As long as enough idiots are willing to take the bait,
+this thing can be hyped up. With idiots taking the bait,
+smart people will naturally come to do liquidity arbitrage. In the
+era of internet finance,
+traffic equals liquidity." Anyone who's worked in the
+internet industry knows that e-commerce has a
+basic formula:
+GMV = Traffic × Conversion Rate × Average Order Value. GMV is total sales. This formula is simple to break down: how many people visit
+your website is traffic; how many of them buy something is the conversion rate; and the average amount each
+person spends is the average order value. Multiply these three numbers together to get your profit. Now, let me give you a more insightful perspective: the speculative market can also use this formula. How high a theme or meme can be hyped depends on the total liquidity available for buying. This total liquidity equals traffic multiplied by the
+conversion rate and then by the
+average order value. Traffic is the exposure—how many people saw the message. The
+conversion rate is how many of those who saw it actually bought the related
+product. The average order value is how
+much money a retail investor's account can invest. These three variables determine
+how much capital will ultimately enter the market to buy. The scale of this buying capital, combined with the existing market capitalization of the related product, basically allows you to calculate the price ceiling. Sounds mysterious, right? Don't worry, I'll break it down for you one by one. Before that, you need to understand one thing: there are two types of traffic. The first
+type is called existing traffic. Born with
+top-tier popularity, traffic arrives quickly,
+no need for
+fermentation. Trump's cryptocurrency launch is a prime example. Who is Trump himself? A global top influencer. He has tens of millions of Twitter followers, and the world's media are watching him. One tweet from him instantly generates billions of impressions.
+No need for viral spread, no need to wait, it goes straight to the top. However, there's still a time lag in this speculative activity. From his announcement, to his
+Twitter followers
+seeing it, to all Twitter users seeing it, to various media reports, and finally to the world seeing it, there's a time lag that can be used to profit. The Deepseek concept works similarly. China's self-developed AI large-scale model technology breakthrough—what level of news is this? CCTV reports it, all media follow up, it dominates the trending topics
+on TikTok, even people who don't trade stocks are sharing it. Moreover, this event carries the buff of nationalistic sentiment. In the eyes of retail
+investors, the
+AI ​​developed by Chinese people can defeat the US, making this narrative incredibly appealing. Even if you lose money, you're doing it for the country. Traffic explodes instantly, starting in the English-speaking AI community on
+Twitter, then followed by
+domestic media, then constructing a narrative that the US stock market correction was caused by Deepseek, finally reaching a climax in nationwide discussion, and the
+sell-off ends. The first
+type, existing traffic-driven, has a characteristic: it comes and goes quickly, with a short window of opportunity. You're either quick to
+profit
+or slow to fall behind. The second type, incremental
+traffic-driven, has a small initial flow but the ability to spread virally, growing exponentially. SHIB was like this in its early days. Initially, it was just a crypto player, a "DOGE killer," and nobody knew about it. But the Shiba Inu image is
+universally recognized, and it could ride the DOGE hype, making the barrier to entry almost zero. Those who bought it would tweet about it, and those who hadn't bought it would rush in out of FOMO. Then these people would tweet again, bringing in new people, creating a
+chain reaction that spread from a small circle to the entire
+crypto community, and then beyond. In just a few months, its market capitalization rose from a few million dollars to a peak of over 30 billion
+dollars. Similar phenomena exist in the A-share market's hot concept speculation, but they are less pronounced. The reason is simple: the starting market capitalization is too
+high. Small-cap stocks on the market are at least 2-3
+billion dollars. Compared to meme coins in the crypto world, which started from zero, this most lucrative period is missing. So, while I don't recommend participating in this zero-sum game, if you really want to participate and believe you can be the one profiting rather than the one being exploited, then the crypto world is clearly a better place. If a surge in traffic can propel a stock to hundreds of millions of dollars, it represents a massive
+wealth-creation opportunity for the
+cryptocurrency market. However, for the A-share market, such opportunities are virtually
+nonexistent. The characteristic of incremental traffic-driven markets is their long time window, offering opportunities for strategic positioning.
+You
+can enter early when the traffic surges and wait for it to repeatedly multiply, often allowing for multiple rounds of entry and exit. You see, even with similar speculation, the
+rhythm is completely different. You need to first determine which type you're facing to know how to play the game. At this point,
+you might ask if this traffic model only applies to the cryptocurrency market and the A-share market. Why doesn't the US stock market operate this way? That's a good question. The US stock market indeed rarely sees the pure speculative trading seen in the cryptocurrency and A-share markets. Even when there is speculative trading based on themes, it generally follows industry logic. The reason is simple: the
+market
+structures are completely different.
+First, the structure of market participants is vastly different. In the
+cryptocurrency and A-share markets, retail investors dominate. The vast majority of those
+playing the cryptocurrency market are retail investors.
+Although retail investors hold only 30-40% of the market capitalization in the A-share market, they account for over 70% of the trading volume.
+Market pricing power is in the hands of retail investors, and most of these retail investors are "leeks" (a term for inexperienced investors who are easily taken advantage of) who trade based on rumors. The US stock market is dominated by institutional investors, with over 70% holding shares compared to only 30% held by retail investors.
+What does this mean? In the
+cryptocurrency market, retail investors are the main players. Their decisions are based on
+Twitter news, Musk's tweets on Binance Square, trending topics on TikTok, discussions on Xueqiu, and video recommendations.
+Where the
+traffic is, the money is. In the US stock market, institutional investors are the main players.
+Their decisions are based on
+Bloomberg Terminal, company financial reports, and industry
+research. They don't look at trending topics; they look at fundamentals. The same high-profile events elicit completely different reactions from retail and institutional investors because institutions already hold the shares. Retail investors are even less willing to speculate on those stocks; a surge is quickly followed by
+institutional selling. If you've traded Hong Kong stocks, you know liquidity is more precious than air. Many stocks only have a daily trading volume of tens of thousands of dollars. Even a large
+investor or institution can't stop their losses. It takes half a year to
+sell millions of dollars worth of shares; don't even think about
+selling tens of millions. If a leading investor or speculative fund brings retail investors to provide exit liquidity at this time, you'll likely dump all your
+buy orders on them. Secondly, there's the dispersed nature of information flow. In the cryptocurrency market, information flow is highly concentrated. What constitutes a top-tier
+traffic entry point? On Twitter, top figures related to crypto, like Musk, Trump, and CZ; in China, CCTV's News Broadcast and trending topics on Douyin (TikTok); retail investors across the entire market are watching these platforms. Once a topic becomes a trending topic on these platforms, it instantly receives hundreds of millions of views, causing a massive explosion in traffic. The
+information flow in the US stock market is fragmented: Bloomberg,
+Reuters, CNBC, WSJ, Twitter,
+Reddit—there are too many sources. Different circles see completely different information sources. Institutional investors use Bloomberg Terminal, retail investors use CNBC, and Reddit users use Wallstreetbets. There isn't a unified traffic entry point that can cover everyone, making it difficult to create the kind of nationwide speculative hype seen in the A-share
+market.
+Even if Musk tweets about a company, the impact is mainly within the Twitter circle and
+doesn't reach
+institutional investors. Institutions still need to focus on fundamentals. The third, and more fatal, factor is the constraint of short-selling mechanisms. Cryptocurrencies like MEME Coin
+have no short-selling mechanism at the on-chain stage. Short
+-selling in the A-share market is extremely difficult; there are few securities available for margin lending, and the margin lending fees are high. Pure speculative hype is hard to stop. That's why Aucma's stock price surged after
+Obama's election, and similarly, Trump's election... The surge
+in Sichuan University Zhisheng's stock price, even treating cross-border ETFs as concept stocks and driving up premiums by over 50%, is due to the lack of short-selling mechanisms. Everyone profits by going long, leading to the long-term prevalence of such absurd speculation.
+In contrast, the US stock market has an
+extremely developed short-selling mechanism. Any
+stock can be shorted,
+borrowing costs are low, and there are no price
+limits. Once speculation deviates from fundamentals, short-selling funds immediately enter to profit. The most typical example is the attack by short-selling institutions. If a stock is purely driven by hype and the fundamentals don't support it, short-
+selling
+institutions do
+n't even need to issue research reports; various quantitative arbitrage strategies will immediately wipe out the speculative funds. Therefore, even if there is speculative hype in the US stock market, it must be supported by industrial logic; otherwise, it won't hold. You might say, "
+Doesn't the US stock market also have MEME stocks like GameStop AMC?" Yes, this is the US version of speculative hype. Their underlying logic is the same as that of speculative hype in the A-share market—both are driven by hype. Why did GME rise from a few dollars to hundreds of dollars? Because the Wallstreetbets subreddit on Reddit generated
+traffic. Two million retail investors encouraged each other in the forum, saying, "We're going to squeeze Wall Street!" This narrative resonates emotionally, is anti-elitist and anti-establishment, and spreads virally. One person
+can bring in several new people, ultimately forming a holy war of retail investors against
+funds. This perfectly aligns with the traffic model we discussed earlier: traffic
+multiplied by conversion rate multiplied by average order value. However, the window of opportunity for this scenario is extremely short, requiring perfect timing, location, and circumstances. The performance of the
+US stock market further proves the accuracy of this model. Why? Because the core of the traffic model is
+traffic multiplied by conversion rate multiplied by average order value. Under different market structures, these three variables manifest differently,
+but the underlying logic remains the same. The A-share market experiences a
+concentrated burst of traffic, driven by
+CCTV and
+Douyin, dominated by retail investors, with a high
+conversion rate of 1% to 2% and an average order value of 30,000 to 50,000 RMB. The result is systemic speculative hype and a surge in limit-up stocks. The US stock
+market experiences decentralized
+traffic dissemination,
+dominated by institutions with a
+low conversion rate of 0.1% to 0.5%. Institutions make larger individual transactions but slower decisions, making it difficult to generate systemic hype even with high-profile events. The cryptocurrency market experiences global traffic dissemination, driven by Twitter and Telegram, a gambler's mentality, with an extremely high conversion rate of 2% to 5% and highly polarized average
+order values. The
+result is that MEME
+coins are everywhere, with
+returns of hundreds or thousands of times. You see, the same traffic model yields completely different results in different market structures, but the core logic remains the same: where the traffic is, the funds are; only the form, conversion rate, and average order
+value of the traffic differ. Once you understand this difference, you'll know that in the A-share and cryptocurrency markets, traffic is king. CCTV reports, trending topics on
+Douyin, and Musk's tweets are your
+trading signals. In the US stock market, it mainly relies on
+industry logic. Traffic alone is not enough; you also
+need fundamental support. Be cautious about participating in pure MEME coins like GME and AMC, as institutions can short sell at any time. If you want to use a traffic model to speculate in stocks, the A-share and cryptocurrency markets are the best battlefields. The US stock market is more suitable for industry research and fundamental analysis;
+traffic is just icing on the cake.
+Whether an incremental traffic-driven model can be successfully speculated on depends on one indicator: the K-value. This is a concept from
+internet hacking growth, called the viral coefficient, meaning how many new users each user can bring on average. A K-value greater than 1.5 indicates exponential growth that can't be stopped. A K-value around 1 indicates linear growth, lukewarm growth. A K-value less than 1 indicates natural death, beyond saving. Applied to the speculative market, it
+means
+how many new investors each participant can bring on average. The success of Bitcoin owes a significant portion to the
+narrative modification and lowering of the
+barrier to understanding within the
+established
+cryptocurrency community. Phrases like "digital gold," "long bitcoin, short the world," "HODL," and "to the moon" are all examples of this. Without these elements, explaining things like UTXO hashes, private keys, and public keys would likely remain a niche hobby within the geek community. Bitcoin buyers actively share their knowledge with everyone—friends, family gatherings, even taxi drivers—it's free advertising. What about other blockchain cryptocurrencies? Would
+you dare tell your friends? They wouldn't be
+interested, and the message wouldn't spread. Moreover, Bitcoin resonates with certain emotions: anti-fiat inflation, anti-government money printing, and anti-Wall Street financial hegemony. The narrative of using decentralized currency to counter the
+Federal Reserve's printing press is compelling and resonates with people, especially after the 2008 financial crisis. When these three conditions are met, the K-value is naturally high. So how do
+you quickly determine the K-value of a theme or meme?
+Ask yourself two questions: Would I share this in a group? Would my friends also want to buy it? If both answers are "yes," the K-value is very high, and you can wait for viral
+growth. If one answer is "no,"... Don't
+touch things with insufficient K-values.
+However,
+K-values ​​can only judge incremental traffic types. What about existing traffic types? Rely on prior judgment. What is prior judgment? It means you can see at a glance how high the traffic ceiling is for this thing.
+I'll list a few dimensions for you. First, look at
+the level of the policy event. China's policies are tiered, and the traffic ceilings are completely different. Central-level events, like the Xiong'an New Area, are reported by CCTV, followed by all media, and go viral on social networks. The
+traffic ceiling is national, with 1 billion exposures. This has the potential to become the main theme of speculation for a period of time. Ministerial-
+level
+policies, like the General Administration of Customs' previous restrictions on rare earth exports, have an industry-level
+traffic ceiling, with professional media and financial circles, roughly tens of millions of people. This is basically a quick hype, a few limit-up days and then it's over. Local policies, like the industrial plans of a certain province or city, have a local-level traffic ceiling. They basically can't go
+beyond the circle, only a
+few million people. Don't touch these, they
+won't get hyped. Second, look at the hot topic. Is it a global hot topic
+or a regional hot topic?
+ChatGPT is a global hot topic. Everyone is discussing it, and as a technological starting point, there will inevitably be a continuous stream of new technologies to ignite traffic. So at that time, the speculation of any concept stock has certainty. You can wait for subsequent waves of trending topics. Even with specific policies at the central level in China, which are often restricted internationally, the reach is an order of magnitude smaller.
+Then look at the influence of KOLs (Key Opinion Leaders).
+This is even more evident in the crypto world. People like Musk and Trump have billions of global media followers; a single tweet from them
+can send a meme soaring. Binance's CZ (Center for Crypto) and Vitalik Buterin have influence, reaching tens of millions of crypto users, but their reach is still an order of magnitude smaller than Musk's. Mid-tier KOLs with hundreds of thousands of followers can only influence local market movements and can't support the overall market. You see, traffic is tiered. The
+difference in investment capital between top-tier and second-tier traffic can be
+10 to 100 times. I'll teach you a quick way to judge: when you see a topic or
+meme, immediately ask yourself: Can this be featured on
+CCTV? If so, it's
+national traffic (Deepseek is an example). Will Musk mention this? If he will, it's global traffic (DOGE is an example). Will this eventually reach the street vendors? If so, it's top-tier. Is this only known to people within the crypto community? If so, it won't go beyond that
+circle; don't touch it. That's all for good traffic. Let's
+talk about conversion rate. Conversion rate is essentially the concentration of speculative capital (SB). How many
+people who see this news will actually rush in to buy? The SB concentration varies across different markets and themes. I can't say for sure which market has a higher SB concentration, the crypto market or the A-share market, but the differences
+between themes are quite obvious. For example, in recent years, the A-share market has been particularly willing to pay for nationalist narratives, so concepts like Deepseek and J-10 printers are easily hyped. Therefore, you should remember that the
+SB concentration of nationalist narratives is particularly high, making related themes more worthwhile to participate in. Average transaction value (ADR) is how much
+money a retail investor can invest on average. The average A-share retail investor account is about 30,000-50,000 RMB. The crypto market is highly differentiated, averaging around 500-1,000 USD. Multiplying
+these two numbers gives you the amount a single user can take on. However, these three variables alone aren't enough.
+You
+also need to add two adjustment factors. First, the
+total market capitalization of the sector. If you calculate that 1 billion RMB will enter the market, how high will it ultimately go? This depends on the total market capitalization of the sector, and ideally, it should be moderate. Too small a market capitalization means large investors can't participate deeply, while too large a
+market capitalization makes it difficult to
+drive the price up. A
+moderate market size is necessary for significant price movements. Then there's the issue of competitor diversion. What if several hot topics are being hyped simultaneously? Attention is a scarce resource. If five themes in the A-share market are vying for attention, each receiving an average of 20%, and your story is the most compelling, you might get
+30%. If you're just following the trend, you might only get 10%. Okay, now I'll
+write out the complete formula: The
+hype potential equals the traffic volume multiplied by the
+conversion rate multiplied by the average order value, divided by the total market size of the sector multiplied by the competitor diversion discount. It sounds complicated, but in practice, you don't need precise calculations; a rough estimate is enough. A difference of one or two times won't affect speculation. For example, if Trump issues cryptocurrency, the final circulating market capitalization is $
+15 billion. Even if
+you misjudge and only estimate $5 billion, getting on board at the $100 million level still offers 10x potential. The key here is judging whether a theme is worth participating in, filtering out all the noisy
+themes with obviously low ceilings, and focusing only on themes with sufficiently high ceilings. This is the first part: the traffic formula
+for calculating the ceiling. Remember
+one sentence: the speculative market is a traffic business. By
+estimating traffic multiplied by the conversion rate multiplied by the average order value, you can know roughly how high the ceiling is.
+Judging whether it's worth participating based
+on the ceiling is only the first step. More crucially, you need to know when to exit. Let me
+tell you an
+ironclad rule: price climaxes and traffic climaxes basically happen simultaneously. Why? Because this kind of speculation is essentially a Ponzi scheme, a game of musical chairs where later participants prop up earlier ones. Once there isn't enough new traffic, the game is over. There's a positive feedback loop here: price increases attract attention, generating traffic. A stock starts rising; it rises 30%, then a small circle
+knows; it doubles, industry media
+reports; it
+rises three to five times, trending on Douyin
+and Weibo; it rises ten times, even CCTV pays attention. Traffic explodes, idiots flock in, pushing up prices.
+Once it's trending, retail investors' FOMO (fear of missing out) explodes. This wave has the largest capital base because of its large size, but it's also the last wave to enter—the peak. Traffic peaks, capital dries up, a death spiral of losses begins. When the trending topic falls, there
+are no new retail investors. Early
+investors start taking profits, late investors are trapped at the peak and cut their losses to escape. The price breaks through important support, even technical traders start to run. Finally, it's a negative feedback loop: a slow, steady decline. Traffic climax equals
+price climax, equals the moment to escape. The
+vast majority of retail investors... It's precisely at this moment that those who rush in are
+left holding the bag. The key question is, since you're not a professional institution with a comprehensive online traffic monitoring system, how do you determine if traffic has peaked?
+Professional speculators empty their pockets to sense changes in market sentiment. I can also teach you some simple and direct indicators.
+First, look at the ranking and comment growth rate of trending topics on Douyin (TikTok). Do
+n't just look at the ranking; look at the month-on-month growth rate of comments. Rapid month-on-month growth means a rapid surge. A slowdown in growth rate means be careful and be prepared to exit. Once the growth rate declines, sell without hesitation. Second, look at the posting frequency on Xueqiu (a Chinese investment platform). Go to the forums of leading stocks and see the number of new posts per minute.
+Another more direct indicator is the percentage of new users. During the peak, new investors flood in; during the peak, it's old investors bolstering each other's confidence, and there's no new traffic.
+Third, look at reports from mainstream media like
+CCTV. First day of reporting is
+positive; continued in-depth
+reporting
+indicates a peak; no more reporting means it's cooling
+down and you're ready to exit. Media attention is limited; their lack of reporting means the hype has died down.
+Fourth, look at
+changes in the Dragon and Tiger List. Early prominent speculative capital seats are buying... Smart money is accumulating positions; the
+mid-term is a chaotic battle of buying and selling;
+late-stage speculative capital is all selling, leaving retail investors and brokerage firms to take the fall. The smart money is out, so why aren't you? Here are some
+key crypto indicators: First, watch Twitter trends,
+duration, and the retweet timeline of top KOLs. Retweets from top KOLs like CZ and
+Vitalik are still early; frantic retweets from
+mid-tier
+KOLs indicate the middle stage. If everyone in your groups is asking about it, then it's time to run.
+Second, watch the inflection point of on-chain data growth, specifically the daily growth rate of new holding addresses. A faster growth rate is good, a slower one is dangerous. Also, watch
+the direction of large transfers. Large withdrawals from exchanges to wallets indicate hoarding and bullish sentiment;
+large transfers from wallets back to exchanges indicate a potential
+sell-off. Third,
+watch the activity of Telegram and Discord groups, whether the message sending frequency is slowing down. Fourth,
+watch the order book depth on
+centralized exchanges. If the buy depth is getting shallower and the sell depth is getting thicker, meaning no one is buying, then it's time to run. Of course, these traffic monitoring methods are just my own guesses, as I don't trade this myself. However, based on my own keyword and popularity data, and after reviewing some hype, I found a very high degree of consistency. Even
+Bitcoin fit this pattern back then. So I think this is a common characteristic of speculative markets.
+If you want to achieve something in this high-stakes market,
+then you should spend money to buy data and put in the hard work to build your own
+traffic monitoring model. Otherwise, don't speculate. Money isn't that easy to make. Any financial skill, whether orthodox or unorthodox, requires hard work to achieve anything. Finally, here's a simple, direct, and highly accurate piece of advice: you need your
+own contrarian
+indicators. What are contrarian indicators? They are
+signals that indicate the highest concentration of idiots has entered the market.
+Once you pay attention to or enter the market using these contrarian indicators, you're doomed. Why? Because the traffic has already spread to the highest concentration of idiots, and there are
+n't any more
+idiots to follow. This has historical basis. Before the 1929 crash, Wall Street
+tycoon Joseph Kennedy went to have his shoes shined. The shoeshine boy talked to him about stocks and recommended
+what to buy. Kennedy immediately realized that even the shoeshine boy was trading stocks and immediately sold all his stocks. A few months later, the crash happened, countless people jumped off buildings, but Kennedy escaped unscathed. You need to recognize this
+signal earlier than others. When the whole world knows this story, that's when there's no turning back. This is the second part: timing the traffic surge. Remember one sentence: In the speculative market, traffic is your escape route. The first two parts solved the problems of how
+high the price can be driven up and when to exit.
+Now, there's one last question:
+which target to buy? Let me first say something that insiders consider common sense, but outsiders might find it
+revolutionary: the leading stock isn't necessarily the one with the purest causal relationship, but rather the one with the highest recognizability, or the one most
+easily remembered and discovered. The one with the strongest logic and the best fundamentals isn't necessarily the leading stock; the one that grabs attention is the leading stock.
+Because this kind of speculation is essentially a
+traffic business. Retail investors don't
+look at fundamentals; they only look at the gainers list and trending topics. There are
+four
+rules for selecting targets. Rule one: First, the first to rise
+is king. The first to rise occupies mental resources, and no matter how authentic the later ones are, it's useless. Why? Because the first thing retail investors do when they open their apps every day is to look at the gainers list. Whoever rises the most,
+retail investors will click to see. The list of stocks hitting the daily limit is the
+traffic entrance.
+Retail investors only have so much attention; whoever grabs it first wins. Rule two: The name is the most important. Internet thinking is about every extra step of operation. The same applies to the speculative market, where 50% of users are lost. Retail investors see trending topics, search for targets, find
+codes, and place orders. Directly related names eliminate a step in the process, doubling the conversion rate. Moreover, names
+have a traffic monopoly effect; if your name is a natural search
+keyword, you've already
+won at the starting line. This is even more pronounced in the
+cryptocurrency market. For example, the name of a coin like MEME is almost everything. The third rule of differentiation in the leading stocks is that the leader eats the meat, the second-tier stocks get the soup, the third-tier stocks lick the bowl, and the rest
+starve. However, the degree of differentiation varies across different markets. The
+A-share market has a special mechanism called the daily price limit. When a theme is hyped, there might be 10 stocks on the daily price limit list simultaneously.
+Retail investors see this and think, "Wow, so many stocks hitting the limit, let's just buy one!" The difference between the second and
+third-tier stocks and the leader in the A-share
+market isn't as dramatic. For example,
+with the DeepSeek concept, there might be 10 AI stocks hitting the daily price limit simultaneously. Although the leader
+rises the most, the second and third-tier stocks also profit because the daily
+price limit list gives them exposure. But a key point is that how
+much the
+second and third-tier stocks can profit depends on how long they stay on the daily price limit list. If they crash the next day, the traffic immediately drops to zero.
+There are no price limits in the crypto market. On-chain price action is like a dog-beating game; the
+gainers list displays a ton of data, and it changes in real time. The top gainer takes 99% of the market share, while the second-ranked gainers only pick up scraps. Why such a huge difference? Because the crypto market's
+traffic is highly concentrated. Retail investors only focus on the top gainer; the second-ranked gainer is practically ignored. Furthermore, the
+crypto market has a vicious cycle: the
+top gainer rises sharply, attracting more attention and more buyers, leading to an even faster rise; the second-ranked gainer rises slowly, receives
+no attention, and eventually fades away. The Matthew effect is amplified to its extreme in the crypto market. However, there is an exception: when there are too many speculative investors (SBs). If a theme is hot enough that SBs overflow, the second and third-ranked gainers have a chance. The criterion is that when the liquidity of the top gainer can
+no longer support new funds, SBs will
+divert to the second-ranked gainer. This is the spillover effect. If the top gainer's market capitalization is too small or its price rises too quickly, SBs have nowhere else to go but to fill the second and third-ranked gainers. The crypto market is similar.
+If the market is large enough, different leading exchanges
+will deliberately create different leading stocks because exchanges themselves have their own traffic. For example, Binance lists the top gainer and captures its user traffic. Then OKEx
+lists the top gainer. He won't get much user traffic, so he might prefer to be the second-tier leader. In this case, the
+price difference between the first and second-tier leaders won't be too large. Rule 4:
+KOLs'
+power to create leaders. Whoever controls the traffic entrance can define what the leader is. A classic example is the Ningbo Daredevils during Xu Xiang's era. They didn't wait for the
+market to choose a leader; instead, they created one themselves, building positions in advance, driving up the price to attract attention, hiring online trolls to create hype, packaging the stock as a leader, and having retail
+investors follow suit to push the price up before selling at a high price.
+Today's
+KOLs are the same, just on a different platform, from stock forums and QQ groups to Douyin, video accounts, and Xiaohongshu. In the crypto world, a tweet from Musk can cause DOGE to rise by 50%. This is the power of traffic. But even more ruthless are those second-tier KOLs.
+They don't have Musk's influence, but they can target specific areas for manipulation.
+The strategy is to buy some
+small-cap MEME coins in advance, tweet that MEME has potential, and have followers rush in. The price doubles, and the KOL sells off. Moreover, these KOLs may also cooperate with each other. In today's short video and live streaming era,
+this is even
+more obvious. When the market is hot... Those investment advisors and
+influential figures in the live streams have tens of
+thousands of viewers. If they recommend a stock, thousands might place orders simultaneously, causing the stock to immediately hit its daily limit. This isn't analysis; it's manipulation.
+And it's incredibly difficult to regulate. For example, a single stock-picking blogger's MCN company can directly influence the decisions of tens of thousands of people, potentially affecting
+hundreds of millions or even
+billions of yuan. They can easily have the entire company push up a small-cap stock, causing it to hit its daily limit. If you're a novice seeing this, wouldn't you get excited and
+pay tens of thousands of yuan to join a paid stock recommendation group? Even if they're not involved in insider trading and
+might even have
+an investment advisor's license, you can't do anything about it if you lose everything. So, the power of traffic and discourse is the power to print
+money—that's the naked truth. Therefore, if you're a young person with nothing who wants to make big money quickly, you know which industries to go for. I'm not teaching you to be bad, but the "leeks" (investors who are exploited) are pitiful yet hateful. Who gets exploited is the same, right? I
+don't need to take any legal risks, but if you want to lick the knife's edge, besides using your own money to hone your skills on this speculative path, don't forget you can also use the
+barbell strategy. Making a side hustle to gain traffic and become a KOL (Key Opinion Leader) –
+this is the third
+part: target selection, which is all about competing for attention.
+Remember one thing: first rise is king, name is king. Whoever grabs attention is the leader. Okay, let's go through the whole logic. The first layer is the traffic formula: calculate the ceiling. The total amount of capital inflow equals traffic
+multiplied by conversion rate multiplied by average order value. First, determine whether it's existing or new traffic. For existing traffic, look at the KOL level and policy level to quickly determine the traffic ceiling. For new traffic,
+look at the K-value and whether it can
+spread virally. Calculate the total amount of capital inflow and match it with the size of the market. Basically,
+you'll know how high it can be driven up. The
+second layer is timing during the traffic peak. The price peak
+equals the traffic peak, which is the time to escape. For existing traffic, it's a few days of
+decisive battle. Look at the trending
+search rankings, CCTV reports, and the top-performing stocks. First come, first served. For new traffic, wait for the viral spread and look at the growth inflection point. Continue to hold during the first small peak, prepare to
+run during the second big peak, and run immediately during the third breakout
+peak. The third layer is selecting targets in the competition for attention. First rise is king, name is king. Don't blindly believe in the strongest logic when creating a KOL.
+Buy the list of stocks that are easiest to spot and hit the daily limit. The
+top gainers list is the gateway to
+traffic. Whoever gets on the list
+first is the
+leader. Finally, you should diligently review historical data from the past few years, analyzing each point in time according to the
+logic I
+mentioned earlier. Look at the sustainability, the market capitalization potential, and the market sentiment at
+the time. Only by internalizing this system can
+you achieve success. I made a video about technical analysis before, and there were many arguments in the comments. The most classic type of argument was, "Don't speculative investors look at technical analysis? They've made so much money, how dare you say
+technical analysis is witchcraft?" I happen to know a few speculative investors, and luckily, I learned about this logic of
+short-term speculation early on. I also realized early on that this path wasn't suitable for me,
+and I didn't waste my youth on it. Many retail investors think that speculative investors rely on
+technical analysis to predict short-term fluctuations—that's like thinking the emperor uses a golden hoe to farm, and the empress makes pancakes while the empress rolls green onions. Whether it's the crypto enthusiasts or the speculative investors in the A-
+share market, the
+core thing they do is use internet thinking to price hot topics. This kind of thing becomes an experience with
+practice. Often, as soon as news breaks, you
+know roughly how much market capitalization the leading stock can reach and how much trading volume it can achieve. The rest is simply about discarding the less attractive stocks, sticking to the
+leading stocks
+no matter what, and having the courage to overcome the fear of heights and participate in the gamble. Sounds simple, right? What I'm going to talk about today is identifying what level of news will trigger what level of capital, the reasonable
+market capitalization range of leading stocks under different market environments, and the stages of the sentiment cycle, from initiation to acceleration, to divergence to consensus, and finally to
+ebb. These things are easy to learn, but the problem is that these things only account for 30%. Learning how to read them doesn't mean you can actually do them. What truly determines the upper limit are three innate abilities. First is the
