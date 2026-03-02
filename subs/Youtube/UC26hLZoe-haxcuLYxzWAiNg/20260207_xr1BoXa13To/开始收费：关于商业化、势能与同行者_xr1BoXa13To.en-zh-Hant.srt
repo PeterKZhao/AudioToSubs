@@ -1,0 +1,964 @@
+1
+00:00:00,000 --> 00:00:01,600
+Hello everyone, this is Brain Boss.
+
+2
+00:00:01,833 --> 00:00:04,633
+Today's video is both a paid announcement
+
+3
+00:00:04,633 --> 00:00:06,800
+and a business tutorial.
+
+4
+00:00:07,100 --> 00:00:09,266
+Those who have watched my previous videos know that
+
+5
+00:00:09,433 --> 00:00:11,800
+my choice to create in-depth content
+
+6
+00:00:11,800 --> 00:00:13,700
+is a two-way process of mutual selection and engagement with the audience. The
+
+7
+00:00:14,900 --> 00:00:16,666
+results are excellent. Judging
+
+8
+00:00:16,833 --> 00:00:18,300
+from past interactions, the
+
+9
+00:00:18,300 --> 00:00:20,200
+audience is full of hidden talents and industry leaders, and I have
+
+10
+00:00:21,433 --> 00:00:23,666
+no concerns about commercial value. The
+
+11
+00:00:23,766 --> 00:00:25,733
+comments and emails are overwhelmingly urging me to enable
+
+12
+00:00:25,733 --> 00:00:26,966
+paid subscriptions. I have
+
+13
+00:00:27,566 --> 00:00:29,633
+n't rushed to do so before,
+
+14
+00:00:29,633 --> 00:00:31,166
+mainly due to time constraints.
+
+15
+00:00:31,300 --> 00:00:32,933
+After all, the time spent on a few hundred paying
+
+16
+00:00:32,933 --> 00:00:34,433
+viewers is roughly the same as on a few thousand.
+
+17
+00:00:35,733 --> 00:00:37,066
+So,
+
+18
+00:00:37,066 --> 00:00:39,933
+I believe the later I enable paid subscriptions, the better, ensuring
+
+19
+00:00:39,933 --> 00:00:42,166
+my time is well spent.
+
+20
+00:00:42,566 --> 00:00:44,966
+I'm not worried about losing those who are immediately tempted to pay after watching the video.
+
+21
+00:00:50,266 --> 00:00:52,300
+On the contrary, the feedback from the comments shows a
+
+22
+00:00:52,500 --> 00:00:54,533
+snowballing increase in willingness to pay.
+
+23
+00:00:56,833 --> 00:00:57,733
+This is
+
+24
+00:00:57,733 --> 00:01:00,100
+actually a very valuable business lesson for me.
+
+25
+00:01:00,233 --> 00:01:02,066
+Too much online information
+
+26
+00:01:02,066 --> 00:01:05,466
+promotes how to exploit human weaknesses for quick sales.
+
+27
+00:01:05,666 --> 00:01:08,500
+Now I realize that entrepreneurship, like investing, focuses on
+
+28
+00:01:08,666 --> 00:01:10,633
+building momentum. Entrepreneurship is about building
+
+29
+00:01:13,533 --> 00:01:16,233
+business momentum that attracts money through your actions.
+
+30
+00:01:16,566 --> 00:01:17,333
+Investing is...
+
+31
+00:01:17,333 --> 00:01:21,233
+You're looking for assets with strong upward momentum.
+
+32
+00:01:21,733 --> 00:01:24,566
+There's a Hamiltonian principle in analytical mechanics that
+
+33
+00:01:24,600 --> 00:01:25,733
+roughly means that in an environment where potential energy is already determined, the
+
+34
+00:01:25,866 --> 00:01:28,366
+exact path an
+
+35
+00:01:28,433 --> 00:01:30,466
+object takes is unknown,
+
+36
+00:01:30,533 --> 00:01:33,666
+but it will eventually find the most suitable path. You don't need to
+
+37
+00:01:33,833 --> 00:01:37,166
+manually guide it;
+
+38
+00:01:37,166 --> 00:01:40,766
+it will naturally converge to the desired outcome from various possibilities, just like water naturally flows from high to low.
+
+39
+00:01:44,366 --> 00:01:46,466
+Business and investment follow the same logic. As long as you manage the potential energy well—for example, by ensuring
+
+40
+00:01:49,000 --> 00:01:50,766
+the quality of the content itself, building
+
+41
+00:01:50,766 --> 00:01:52,833
+long-term trust, or identifying undervalued and high-growth investment targets—the rest will
+
+42
+00:01:56,733 --> 00:01:58,666
+fall into place naturally.
+
+43
+00:01:58,833 --> 00:02:00,966
+Regardless of the process, the final result will be the same. However, as the channel enters a period of
+
+44
+00:02:02,900 --> 00:02:05,566
+rapid growth,
+
+45
+00:02:05,566 --> 00:02:07,366
+paid subscriptions must be implemented. I've realized that loyal viewers who deserve serious attention might be overlooked. The channel's initial goal is very clear: influence, not just traffic. A simple metric is how much funding I can mobilize. I'm not aiming to be a self-media
+
+46
+00:02:15,966 --> 00:02:17,766
+influencer, but an opinion
+
+47
+00:02:17,933 --> 00:02:18,833
+leader. Through paid subscriptions, I want to
+
+48
+00:02:24,966 --> 00:02:25,866
+filter
+
+49
+00:02:25,933 --> 00:02:27,833
+out those who truly appreciate me, this content style, and are willing to commit long-term, allowing the channel to grow
+
+50
+00:02:32,633 --> 00:02:35,366
+around them. The channel's public content will remain unchanged—the kind of content that makes people wonder, "Is
+
+51
+00:02:37,433 --> 00:02:39,966
+this content I can watch for free?" There will be more and more content coming in the future, but the center of the channel will shift
+
+52
+00:02:41,633 --> 00:02:44,900
+from me alone to
+
+53
+00:02:45,200 --> 00:02:47,466
+those who are willing to express their support through practical actions. This is a small step
+
+54
+00:02:49,366 --> 00:02:50,900
+I'm trying to take towards decentralization for the channel. Let's look at the paid options: The first tier is $5
+
+55
+00:02:55,400 --> 00:02:57,166
+per month for "
+
+56
+00:02:57,166 --> 00:02:58,166
+Spiritual Shareholders," whose
+
+57
+00:02:58,466 --> 00:03:02,166
+positioning is to transform from observers to co-builders of the channel. This membership is
+
+58
+00:03:02,566 --> 00:03:04,266
+priced at $5, which is basically like
+
+59
+00:03:04,266 --> 00:03:05,766
+buying me a cup of coffee. However, I believe a good business model
+
+60
+00:03:07,366 --> 00:03:08,900
+should be as fair as possible,
+
+61
+00:03:09,033 --> 00:03:11,300
+not taking advantage of anyone even for a small amount of money.
+
+62
+00:03:11,433 --> 00:03:13,700
+Therefore, I've added a sense of participation to this tier.
+
+63
+00:03:13,866 --> 00:03:15,800
+I hope that for the $5 you pay each month, you
+
+64
+00:03:15,800 --> 00:03:18,766
+can purchase a spiritual experience that goes beyond a cup of coffee.
+
+65
+00:03:18,866 --> 00:03:21,033
+So, I've set up these services for this tier:
+
+66
+00:03:21,366 --> 00:03:22,766
+Priority for interaction: I will prioritize replying to
+
+67
+00:03:22,766 --> 00:03:24,633
+Spiritual Shareholders' comments,
+
+68
+00:03:24,633 --> 00:03:26,033
+especially questions, to the best of my
+
+69
+00:03:26,033 --> 00:03:28,433
+ability. In the
+
+70
+00:03:28,566 --> 00:03:30,966
+future, if there are any irregular public live streams,
+
+71
+00:03:30,966 --> 00:03:33,300
+I will also prioritize communicating with Spiritual Shareholders.
+
+72
+00:03:33,533 --> 00:03:35,066
+Voting rights for topic selection:
+
+73
+00:03:35,066 --> 00:03:37,300
+Spiritual Shareholders
+
+74
+00:03:37,300 --> 00:03:38,200
+can tell me what they want me to talk about. I will put forward
+
+75
+00:03:38,300 --> 00:03:41,133
+topics that I think are suitable for public content and
+
+76
+00:03:41,166 --> 00:03:43,100
+let everyone vote on them.
+
+77
+00:03:43,200 --> 00:03:46,266
+I will balance my desire to express myself with everyone's focus,
+
+78
+00:03:46,433 --> 00:03:49,100
+trying to involve you in the planning of each video.
+
+79
+00:03:49,266 --> 00:03:50,266
+But there is one condition:
+
+80
+00:03:52,166 --> 00:03:55,666
+I will only make public videos that will still be valuable to look at at least several years later.
+
+81
+00:03:56,100 --> 00:03:57,800
+Annual shareholders' meeting.
+
+82
+00:03:57,800 --> 00:03:59,933
+Once a year, we'll have an online live stream to
+
+83
+00:03:59,933 --> 00:04:02,800
+reflect on the year's gains and losses with our shareholders,
+
+84
+00:04:02,800 --> 00:04:03,866
+encourage each other,
+
+85
+00:04:03,866 --> 00:04:05,166
+practice long-termism, and
+
+86
+00:04:05,166 --> 00:04:06,666
+witness the miracle of compound interest. This is my "
+
+87
+00:04:06,900 --> 00:04:08,466
+Thought Fragment Library," a
+
+88
+00:04:08,466 --> 00:04:10,100
+member community post
+
+89
+00:04:10,100 --> 00:04:11,800
+I'll share like my personal social media feed.
+
+90
+00:04:11,833 --> 00:04:13,700
+Here, I'll
+
+91
+00:04:14,000 --> 00:04:15,700
+post any good viewpoints,
+
+92
+00:04:15,700 --> 00:04:17,233
+ideas,
+
+93
+00:04:17,433 --> 00:04:19,033
+judgment processes, and
+
+94
+00:04:19,033 --> 00:04:20,333
+unformed inspirations I encounter.
+
+95
+00:04:20,333 --> 00:04:21,533
+In
+
+96
+00:04:21,633 --> 00:04:23,100
+the future, I'll only make a portion of the
+
+97
+00:04:23,100 --> 00:04:25,500
+community posts I deem suitable for public viewing;
+
+98
+00:04:25,733 --> 00:04:27,600
+most will be member-only. For
+
+99
+00:04:28,200 --> 00:04:31,400
+this tier, I don't plan to include any member-only videos; instead, I'll focus on
+
+100
+00:04:31,500 --> 00:04:33,500
+creating high-quality public videos
+
+101
+00:04:33,500 --> 00:04:34,800
+to reward my supporters. The
+
+102
+00:04:35,166 --> 00:04:38,166
+second tier, $100/month, is "Gaoqianbang," positioned as a training ground for
+
+103
+00:04:38,533 --> 00:04:41,333
+investment and entrepreneurship.
+
+104
+00:04:41,733 --> 00:04:44,366
+This membership is the core practical tier,
+
+105
+00:04:44,533 --> 00:04:47,333
+primarily for those who want to learn investment,
+
+106
+00:04:47,333 --> 00:04:48,333
+business, or even
+
+107
+00:04:48,400 --> 00:04:50,166
+self-media from me.
+
+108
+00:04:50,300 --> 00:04:52,100
+Priced at $100/month,
+
+109
+00:04:52,333 --> 00:04:55,966
+I'll conduct two one-hour internal live streams per week.
+
+110
+00:04:56,033 --> 00:04:56,800
+In these live streams,
+
+111
+00:04:56,800 --> 00:05:00,200
+I'll present two invaluable
+
+112
+00:05:00,200 --> 00:05:01,100
+first-person perspectives: the
+
+113
+00:05:01,566 --> 00:05:03,366
+first-person perspective of a professional investor.
+
+114
+00:05:03,566 --> 00:05:04,400
+No fluff;
+
+115
+00:05:04,500 --> 00:05:08,033
+I'll teach you step-by-step how I do investing:
+
+116
+00:05:08,333 --> 00:05:09,366
+how to select stocks,
+
+117
+00:05:09,400 --> 00:05:10,500
+how to value them, how to
+
+118
+00:05:10,566 --> 00:05:12,100
+interpret news,
+
+119
+00:05:12,133 --> 00:05:13,366
+how to manage positions,
+
+120
+00:05:13,500 --> 00:05:14,900
+how to manage risk, how to
+
+121
+00:05:15,100 --> 00:05:16,633
+gather information, and
+
+122
+00:05:16,633 --> 00:05:17,933
+how to build logic—
+
+123
+00:05:18,300 --> 00:05:19,300
+more directly...
+
+124
+00:05:19,300 --> 00:05:22,166
+I will directly analyze and comment on specific assets, expressing
+
+125
+00:05:22,400 --> 00:05:25,566
+my bullish and bearish views on them.
+
+126
+00:05:25,900 --> 00:05:27,700
+For assets I am bullish on in the long term,
+
+127
+00:05:27,700 --> 00:05:30,166
+I will continuously track my judgments,
+
+128
+00:05:30,166 --> 00:05:31,700
+showing how to hold positions when I'm right and
+
+129
+00:05:31,833 --> 00:05:33,400
+how to correct them when I'm wrong. What
+
+130
+00:05:33,600 --> 00:05:35,566
+you see is far more than just stock code; it's the
+
+131
+00:05:35,566 --> 00:05:38,433
+real decision-making process of a professional investor,
+
+132
+00:05:38,433 --> 00:05:41,333
+from initial thought to actual profit—every detail.
+
+133
+00:05:43,866 --> 00:05:46,966
+This channel has gained nearly 80,000 subscribers in four months.
+
+134
+00:05:47,133 --> 00:05:49,033
+As someone who has previously made money through entrepreneurship, I believe there's little doubt
+
+135
+00:05:49,033 --> 00:05:50,966
+about the future success of this venture.
+
+136
+00:05:52,566 --> 00:05:54,633
+Besides some unreplicable factors,
+
+137
+00:05:54,633 --> 00:05:56,600
+such as my years of in-depth thinking, there
+
+138
+00:05:56,833 --> 00:05:59,400
+are definitely many replicable elements.
+
+139
+00:05:59,500 --> 00:06:00,833
+I will livestream the entire process,
+
+140
+00:06:00,833 --> 00:06:03,500
+presenting the complete journey of a top influencer in the Chinese-speaking world on YouTube, including traffic
+
+141
+00:06:06,900 --> 00:06:08,600
+management,
+
+142
+00:06:08,600 --> 00:06:10,633
+business choices, positioning, and even breaking down
+
+143
+00:06:10,766 --> 00:06:12,200
+backend data.
+
+144
+00:06:14,200 --> 00:06:16,200
+This kind of ongoing business case is
+
+145
+00:06:16,200 --> 00:06:17,900
+truly invaluable.
+
+146
+00:06:18,233 --> 00:06:19,800
+All livestream replays
+
+147
+00:06:19,800 --> 00:06:22,466
+will be available in this accessible member-only section. The two weekly one-hour
+
+148
+00:06:22,666 --> 00:06:25,066
+internal livestreams
+
+149
+00:06:25,066 --> 00:06:27,166
+will end after I feel I've exhausted all my previous points in the course, transitioning to a weekly one-hour
+
+150
+00:06:29,866 --> 00:06:32,833
+livestream Q&A session
+
+151
+00:06:32,866 --> 00:06:35,466
+and occasional thematic sharing sessions.
+
+152
+00:06:35,466 --> 00:06:35,900
+Therefore, those who
+
+153
+00:06:35,900 --> 00:06:38,833
+participate early will receive the best learning opportunities. The
+
+154
+00:06:39,300 --> 00:06:41,833
+biggest difference between this content and the publicly available content is... The public content focuses on theoretical concepts and is effective long-term. This program focuses on practical application and is relevant to the present.
+
+155
+00:06:48,433 --> 00:06:51,166
+For example, the public videos discuss "how to understand cycles,"
+
+156
+00:06:51,166 --> 00:06:52,666
+while the member live streams focus on
+
+157
+00:06:52,666 --> 00:06:56,333
+"what stage the current gold and Bitcoin cycles are in."
+
+158
+00:06:56,466 --> 00:06:57,866
+Therefore, I will not answer questions from
+
+159
+00:06:57,866 --> 00:07:00,133
+viewers who ask me to comment on a listed company
+
+160
+00:07:00,266 --> 00:07:02,466
+or analyze the trend of a certain stock in the public videos. This
+
+161
+00:07:02,666 --> 00:07:05,133
+kind of
+
+162
+00:07:05,133 --> 00:07:07,466
+content is more suitable for member-only access. Whether you are
+
+163
+00:07:08,200 --> 00:07:10,333
+investing, starting a business,
+
+164
+00:07:10,333 --> 00:07:11,700
+or creating your own media,
+
+165
+00:07:11,700 --> 00:07:13,666
+I believe that with my knowledge and abilities, I can
+
+166
+00:07:13,700 --> 00:07:15,866
+bring you an entrepreneurial mindset. This is something that similar courses
+
+167
+00:07:16,100 --> 00:07:17,266
+on the market
+
+168
+00:07:17,266 --> 00:07:19,133
+cannot provide.
+
+169
+00:07:19,400 --> 00:07:21,100
+My role is mainly to provide training. I invest and start a business
+
+170
+00:07:21,266 --> 00:07:22,900
+myself, and I also
+
+171
+00:07:22,933 --> 00:07:24,533
+accompany you in investing and starting a business,
+
+172
+00:07:24,533 --> 00:07:26,266
+guiding you step by step.
+
+173
+00:07:26,533 --> 00:07:29,100
+Therefore, I hope that this program will attract students,
+
+174
+00:07:29,100 --> 00:07:30,933
+not just those who want to copy my work.
+
+175
+00:07:31,233 --> 00:07:32,233
+In addition, I have also created a
+
+176
+00:07:32,233 --> 00:07:34,466
+knowledge-
+
+177
+00:07:34,566 --> 00:07:37,666
+sharing platform called "Brainy Money Helper." I will put the link in the video description and pinned comment.
+
+178
+00:07:37,700 --> 00:07:39,200
+This is a
+
+179
+00:07:39,200 --> 00:07:41,400
+content space mainly based on written notes and long-term accumulation.
+
+180
+00:07:41,500 --> 00:07:44,400
+I will continuously put the core viewpoints
+
+181
+00:07:44,400 --> 00:07:45,833
+and structured content from the Money Helper live streams in the
+
+182
+00:07:45,833 --> 00:07:48,800
+form of organized text.
+
+183
+00:07:49,066 --> 00:07:52,333
+If you prefer to read and watch the replay for slower digestion,
+
+184
+00:07:52,333 --> 00:07:54,966
+or if it is inconvenient to participate in live interaction at the moment, you
+
+185
+00:07:55,000 --> 00:07:56,500
+can choose this method.
+
+186
+00:07:56,700 --> 00:07:59,766
+If you want to participate in real-time discussions and in-depth interaction, I would like to
+
+187
+00:07:59,766 --> 00:08:01,466
+directly join the
+
+188
+00:08:01,466 --> 00:08:02,566
+member area. The
+
+189
+00:08:03,133 --> 00:08:04,666
+third tier of private board meetings
+
+190
+00:08:05,000 --> 00:08:08,133
+is positioned as a network for like-minded entrepreneurs to
+
+191
+00:08:09,500 --> 00:08:13,266
+share resources, information, and insights under my guidance.
+
+192
+00:08:13,466 --> 00:08:13,900
+This
+
+193
+00:08:13,900 --> 00:08:16,733
+is a small circle with an annual fee of a few thousand dollars,
+
+194
+00:08:16,800 --> 00:08:17,800
+targeting entrepreneurs.
+
+195
+00:08:18,033 --> 00:08:18,633
+This circle
+
+196
+00:08:18,633 --> 00:08:21,100
+primarily uses my two-way screening function to bring together a
+
+197
+00:08:21,300 --> 00:08:23,866
+group of people who can provide each other with resources and information.
+
+198
+00:08:25,133 --> 00:08:26,700
+Members come from all over the world, and
+
+199
+00:08:26,700 --> 00:08:29,200
+we plan to expand our vision globally in the future.
+
+200
+00:08:29,466 --> 00:08:30,933
+My one-on-one service
+
+201
+00:08:30,933 --> 00:08:33,533
+allows each member to schedule
+
+202
+00:08:33,533 --> 00:08:35,000
+a consultation with me.
+
+203
+00:08:35,133 --> 00:08:37,633
+If you have any problems with your business operations and
+
+204
+00:08:37,633 --> 00:08:39,000
+you appreciate my insights,
+
+205
+00:08:39,066 --> 00:08:39,933
+I'm happy to offer
+
+206
+00:08:39,933 --> 00:08:42,200
+you a clear, objective perspective—
+
+207
+00:08:42,366 --> 00:08:45,000
+just a detached observation, of course.
+
+208
+00:08:45,166 --> 00:08:46,433
+Since we are all entrepreneurs, you may have been running your
+
+209
+00:08:46,433 --> 00:08:48,566
+business longer and more
+
+210
+00:08:48,566 --> 00:08:49,766
+successfully than I have, and I may be unfamiliar with
+
+211
+00:08:50,433 --> 00:08:52,633
+your industry, so I can't offer expert advice.
+
+212
+00:08:54,533 --> 00:08:56,800
+However, my experience and understanding of internet,
+
+213
+00:08:56,966 --> 00:08:59,200
+blockchain, and AI should be of great help to business
+
+214
+00:08:59,266 --> 00:09:01,166
+owners in traditional industries.
+
+215
+00:09:02,866 --> 00:09:05,733
+Additionally, if you have questions about children's education, asset allocation, or wealth inheritance, I believe I have given considerable and in-depth thought
+
+216
+00:09:07,733 --> 00:09:09,933
+to these areas, especially since investment is my core expertise. I believe my opinions
+
+217
+00:09:15,333 --> 00:09:17,333
+and suggestions should easily surpass those of similarly priced products in the market. My one-to-many service... I will hold regular monthly online exchange meetings, and also irregularly when there are significant opportunities and risks. These meetings will include inviting business owners from the private board to share their
+
+218
+00:09:17,333 --> 00:09:19,233
+industry experience, especially information that might be useful to others.
+
+219
+00:09:22,766 --> 00:09:25,500
+I will create resource profiles for
+
+220
+00:09:29,166 --> 00:09:31,400
+each business owner, allowing you to seek resources or collaborations based on your needs. My expertise lies primarily in investment, so I will also make the private board a circle where you have a relatively
+
+221
+00:09:33,366 --> 00:09:36,533
+advanced information gap whenever emerging industry investment opportunities arise. In particular,
+
+222
+00:09:36,766 --> 00:09:39,366
+I will help you
+
+223
+00:09:39,366 --> 00:09:42,033
+understand the tech venture capital
+
+224
+00:09:46,400 --> 00:09:49,300
+industry, letting you know how this industry constructs narratives and inflates bubbles, elevating you from a buyer of
+
+225
+00:09:52,100 --> 00:09:55,533
+tech concepts to a participant. Finally, I will provide all the replay content from the second tier. The greater value of
+
+226
+00:09:56,133 --> 00:09:58,800
+this circle lies in the dual filtering effect of my content and price, connecting like-minded elites into a network, generating unexpected chemical reactions. If this is achieved, the circle's price will continue to
+
+227
+00:10:01,166 --> 00:10:02,533
+increase in the future. My
+
+228
+00:10:02,700 --> 00:10:05,700
+personal contributions to the circle only provide a
+
+229
+00:10:06,233 --> 00:10:08,100
+minimum value; the network
+
+230
+00:10:08,100 --> 00:10:12,166
+effect generated after the business owners connect
+
+231
+00:10:12,233 --> 00:10:14,233
+within the circle is truly
+
+232
+00:10:14,233 --> 00:10:16,133
+limitless. There's a theory called Dunbar's number, which suggests that the maximum number of people a person can maintain close relationships with is 150. Therefore, I hope to
+
+233
+00:10:17,900 --> 00:10:19,733
+upgrade this tier again in the future. At this tier,
+
+234
+00:10:24,066 --> 00:10:25,833
+everyone is still in a business partnership. This is a contractual relationship. The larger the network, the better. After sufficient time and accumulation, I hope that the business owners who have genuine ties within it
+
+235
+00:10:30,733 --> 00:10:33,033
+can build a highly trusting and supportive network, aiming for intergenerational and long-standing friendships. This small circle will be a reliable source of strength to rely on when facing the uncertainties of the world in the long run. To ensure you are a good fit for this private board,
+
+236
+00:10:35,166 --> 00:10:38,033
+I will not provide a direct
+
+237
+00:10:52,533 --> 00:10:54,666
+payment button. Please contact me through my email address mrbrainonmoney@gmail.com in the introduction section. Please introduce yourself and include any information you would like other entrepreneurs in this circle to share. I will first have an in-depth conversation with you
+
+238
+00:11:01,666 --> 00:11:04,033
+to confirm your suitability for this private board before formally inviting you to join. This is not just the beginning of a business deal, but also the beginning of a long-term
+
+239
+00:11:28,633 --> 00:11:31,166
+collaborative relationship.
+
+240
+00:11:31,433 --> 00:11:32,466
+Welcome to join me and let's
+
+241
+00:11:32,466 --> 00:11:33,600
+snowball together!
+
