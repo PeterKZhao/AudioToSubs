@@ -1,0 +1,1668 @@
+1
+00:00:00,566 --> 00:00:02,166
+Hello everyone, this is Brain Master.
+
+2
+00:00:02,300 --> 00:00:04,033
+Today we're going to talk about
+
+3
+00:00:04,533 --> 00:00:08,400
+cycles. Sima Qian wrote in *Records of the Grand Historian: Biographies of the Wealthy*: "Those
+
+4
+00:00:08,633 --> 00:00:09,933
+without wealth rely on strength; those with little wealth rely on
+
+5
+00:00:15,966 --> 00:00:17,566
+wisdom; those with abundant wealth rely on
+
+6
+00:00:17,833 --> 00:00:19,500
+timing." What does this mean? The poor rely on physical strength, the moderately wealthy rely on wisdom, and the extremely wealthy rely on opportunity.
+
+7
+00:00:19,700 --> 00:00:21,566
+This "timing" refers to cycles. The
+
+8
+00:00:21,833 --> 00:00:22,800
+real big money is all about
+
+9
+00:00:22,800 --> 00:00:24,166
+cycles.
+
+10
+00:00:24,300 --> 00:00:25,600
+Look at those who made a fortune: those who
+
+11
+00:00:25,933 --> 00:00:28,600
+bought oil stocks before the 1970s oil crisis, those who bought
+
+12
+00:00:28,933 --> 00:00:32,033
+Japanese real estate before the Plaza Accord in the
+
+13
+00:00:32,400 --> 00:00:35,700
+1980s, those who bought Microsoft and Cisco before the dot-com bubble in the 1990s, those who
+
+14
+00:00:36,300 --> 00:00:39,600
+bought gold after 9/11 in the
+
+15
+00:00:40,033 --> 00:00:42,600
+2000s, those who bought Amazon and Apple before the mobile internet boom in the 2010s, and those who
+
+16
+00:00:44,266 --> 00:00:47,866
+bought lithium mines and electric vehicles after the pandemic in the 2020s. Were they
+
+17
+00:00:48,200 --> 00:00:49,900
+smarter than others?
+
+18
+00:00:49,900 --> 00:00:52,266
+Not necessarily. But they all had one thing in common: they
+
+19
+00:01:07,100 --> 00:01:09,933
+rode the crest of the cycle. When you're in the right place at the right time, even a pig can fly. But when the tide goes out, you see who's been swimming naked. Conversely, even the smartest person will stumble if they ride the wrong cycle. If you happen to buy at the peak of the cycle's boom, you're missing out on the big picture.
+
+20
+00:01:09,933 --> 00:01:12,866
+Buying Tokyo real estate in 1990 and
+
+21
+00:01:13,066 --> 00:01:15,133
+PetroChina in 2007 are famous examples, each a case study spanning
+
+22
+00:01:16,266 --> 00:01:18,100
+decades. When
+
+23
+00:01:18,733 --> 00:01:20,366
+the cycle reaches a downturn, no matter how
+
+24
+00:01:30,900 --> 00:01:32,633
+smart you are, it's useless. Your knowledge, your expertise, your models only have meaning if you time the cycle correctly. Going against the cycle is worthless. Therefore, investing isn't necessarily about who's smarter,
+
+25
+00:01:32,666 --> 00:01:34,633
+but about who can see the timing clearly.
+
+26
+00:01:34,933 --> 00:01:38,066
+Today, we'll thoroughly discuss the concept of cycles.
+
+27
+00:01:38,633 --> 00:01:40,566
+Many people find cycles mysterious,
+
+28
+00:01:40,566 --> 00:01:42,733
+like some profound economic theory,
+
+29
+00:01:42,766 --> 00:01:43,966
+but it's actually very simple.
+
+30
+00:01:44,366 --> 00:01:46,233
+There's a very simple model in physics
+
+31
+00:01:46,233 --> 00:01:47,533
+: a pendulum. If
+
+32
+00:01:48,066 --> 00:01:49,833
+you pull it to one side and release it, it will swing back and
+
+33
+00:02:04,533 --> 00:02:06,966
+forth. Why? Because two factors are at play: gravity pulls it towards its equilibrium position—this is the constraint force. But a moving object has the tendency to continue moving—this is inertia. When you pull the pendulum away, gravity pulls it back. In the process of pulling it back, it gains velocity. When it reaches the
+
+34
+00:02:08,700 --> 00:02:10,133
+equilibrium position, the effect of gravity cancels out,
+
+35
+00:02:10,366 --> 00:02:11,666
+but the velocity remains,
+
+36
+00:02:11,666 --> 00:02:13,333
+so it will rush past the equilibrium point. After rushing past,
+
+37
+00:02:19,500 --> 00:02:22,500
+gravity acts in the opposite direction, pulling it back again. This cycle repeats, and that's the cycle. The essence of all cycles is this mechanism: constraint
+
+38
+00:02:22,700 --> 00:02:24,433
+plus inertia.
+
+39
+00:02:25,066 --> 00:02:27,733
+Why do we have the four seasons of spring, summer,
+
+40
+00:02:54,033 --> 00:02:55,433
+autumn, and
+
+41
+00:02:56,233 --> 00:02:57,666
+winter? Because the Earth revolves around the Sun, the Sun's gravity is a constraint, and the Earth's speed is inertia. If there were only gravity and no inertia, the Earth would fall directly into the Sun; if there were only
+
+42
+00:03:07,866 --> 00:03:08,933
+inertia and no gravity, the Earth would fly away. The balance between constraint and inertia results in periodic orbital motion. Combined with the Earth's axial tilt, the point of direct sunlight oscillates between the Tropic of Cancer and the Tropic of Capricorn throughout the year, thus forming the four seasons. The cycles of nature are essentially constrained movements created by certain conservation laws and boundary conditions. The same principle applies to economic and social cycles. What are the constraints? Limited
+
+43
+00:03:08,966 --> 00:03:09,966
+resources, limited production capacity,
+
+44
+00:03:09,966 --> 00:03:11,166
+limited credit,
+
+45
+00:03:39,566 --> 00:03:41,300
+limited market capacity. What is the inertia? The inertia of human expectations, the momentum of investment, and the inertia of institutional
+
+46
+00:03:41,300 --> 00:03:43,066
+mechanisms. When the economy is good, people believe it will continue to be good—this is the inertia of expectations. Entrepreneurs believe demand will continue to grow, so they invest heavily; banks believe loans are safe, so they lend heavily; consumers believe income will continue to rise, so they consume heavily,
+
+47
+00:03:50,600 --> 00:03:52,000
+even borrowing money to consume. Everyone's behavior reinforces this trend, thus forming a positive
+
+48
+00:03:55,766 --> 00:03:57,266
+feedback loop. But
+
+49
+00:03:57,333 --> 00:03:59,033
+can this loop continue indefinitely? No, because there are constraints, such as limited
+
+50
+00:03:59,266 --> 00:04:02,466
+resources like iron ore, copper ore, and oil. Reserves are finite, extraction speed has an upper limit, and production capacity is also limited. Factory equipment and
+
+51
+00:04:05,266 --> 00:04:06,166
+labor can't be added at will, and credit is finite; people can't borrow indefinitely. When investment exceeds resource constraints, it overheats, inflation rises, raw material prices soar, wages increase, and
+
+52
+00:04:06,233 --> 00:04:07,933
+all costs rise. Businesses find they can't
+
+53
+00:04:08,133 --> 00:04:09,566
+make money and
+
+54
+00:04:09,566 --> 00:04:10,633
+begin to contract.
+
+55
+00:04:10,966 --> 00:04:11,966
+During contraction,
+
+56
+00:04:11,966 --> 00:04:13,566
+everyone thinks things will continue to worsen, so
+
+57
+00:04:13,666 --> 00:04:15,300
+entrepreneurs frantically cut investment,
+
+58
+00:04:15,433 --> 00:04:16,900
+banks frantically collect loans, and
+
+59
+00:04:17,133 --> 00:04:18,800
+consumers frantically save money.
+
+60
+00:04:18,800 --> 00:04:21,033
+Everyone's behavior reinforces this trend, creating a
+
+61
+00:04:21,066 --> 00:04:23,233
+negative feedback loop.
+
+62
+00:04:23,666 --> 00:04:25,266
+But when contraction reaches a certain point,
+
+63
+00:04:25,266 --> 00:04:26,133
+assets become cheaper,
+
+64
+00:04:26,133 --> 00:04:27,133
+opportunities arise, and
+
+65
+00:04:27,133 --> 00:04:28,466
+people dare to invest again,
+
+66
+00:04:28,500 --> 00:04:30,200
+starting a new cycle. In short, it's
+
+67
+00:04:31,100 --> 00:04:34,000
+an over-correction cycle. It
+
+68
+00:04:34,300 --> 00:04:36,000
+overshoots during rises and overshoots during falls.
+
+69
+00:04:37,900 --> 00:04:39,200
+Why does it overshoot?
+
+70
+00:04:39,200 --> 00:04:41,266
+Because people's expectations have inertia, and
+
+71
+00:04:41,266 --> 00:04:42,666
+adjustments are delayed.
+
+72
+00:04:42,666 --> 00:04:44,100
+In mathematical terms,
+
+73
+00:04:44,100 --> 00:04:46,600
+it's the oscillating solution of a second-order differential equation.
+
+74
+00:04:46,833 --> 00:04:47,900
+Any system whose
+
+75
+00:04:48,000 --> 00:04:49,066
+rate of change
+
+76
+00:04:49,066 --> 00:04:51,500
+depends on its deviation from equilibrium has an
+
+77
+00:04:51,600 --> 00:04:53,333
+oscillating solution. This applies to a simple
+
+78
+00:04:53,533 --> 00:04:54,466
+pendulum and the
+
+79
+00:04:54,466 --> 00:04:55,533
+economy.
+
+80
+00:04:55,900 --> 00:04:57,266
+Philosophically speaking,
+
+81
+00:04:57,333 --> 00:04:59,333
+cycles are the movement of contradictions.
+
+82
+00:04:59,600 --> 00:05:01,300
+Hegel spoke of the negation of negation, and the
+
+83
+00:05:01,500 --> 00:05:03,133
+Chinese say that things
+
+84
+00:05:06,800 --> 00:05:09,033
+reach their extremes and then reverse. Lao Tzu said, "Reversal is the movement of the Tao," which speaks to this very point. Contradictions, when pushed to their limits, will transform. However, this
+
+85
+00:05:09,066 --> 00:05:10,533
+transformation is not instantaneous
+
+86
+00:05:10,533 --> 00:05:12,900
+but rather a spiraling, cyclical process.
+
+87
+00:05:13,000 --> 00:05:16,133
+Because systems have inertia, delays, and memories,
+
+88
+00:05:16,700 --> 00:05:19,266
+cycles are not mysterious;
+
+89
+00:05:19,433 --> 00:05:21,433
+they are a
+
+90
+00:05:21,433 --> 00:05:23,233
+common characteristic of any constrained dynamic system. Everything has its time—
+
+91
+00:05:25,000 --> 00:05:26,800
+this is the theoretical basis of cycles.
+
+92
+00:05:27,766 --> 00:05:30,033
+Economists have studied this for over a century and have
+
+93
+00:05:30,033 --> 00:05:31,566
+indeed discovered some patterns.
+
+94
+00:05:31,733 --> 00:05:33,233
+They have
+
+95
+00:05:33,233 --> 00:05:35,233
+discovered cycles of different lengths from different perspectives.
+
+96
+00:05:35,366 --> 00:05:36,900
+Let me systematically explain it to you. The
+
+97
+00:05:37,600 --> 00:05:41,100
+Kitchin cycle, 3-4 years, is an inventory cycle.
+
+98
+00:05:41,433 --> 00:05:44,300
+Discovered in 1932 by the British economist Kitchin,
+
+99
+00:05:44,533 --> 00:05:46,800
+he studied economic data from Britain and the United States and
+
+100
+00:05:46,900 --> 00:05:50,033
+found that there is roughly a small cycle every 3-4 years.
+
+101
+00:05:50,433 --> 00:05:52,033
+How does this cycle occur? It's the
+
+102
+00:05:52,200 --> 00:05:54,766
+time lag in companies adjusting their inventory. When
+
+103
+00:05:55,300 --> 00:05:56,733
+companies see good demand and
+
+104
+00:05:56,733 --> 00:05:57,766
+sales growth, they
+
+105
+00:05:57,800 --> 00:05:59,133
+feel the need to increase inventory. Increasing inventory requires
+
+106
+00:06:01,166 --> 00:06:03,100
+production, which in turn requires purchasing raw materials and
+
+107
+00:06:03,100 --> 00:06:04,033
+hiring workers.
+
+108
+00:06:04,200 --> 00:06:06,766
+This process itself creates new demand.
+
+109
+00:06:07,033 --> 00:06:09,200
+Upstream suppliers receive more orders,
+
+110
+00:06:09,300 --> 00:06:10,166
+workers receive wages, and
+
+111
+00:06:10,166 --> 00:06:10,966
+can consume, leading to a
+
+112
+00:06:11,033 --> 00:06:12,000
+better economy.
+
+113
+00:06:12,300 --> 00:06:13,733
+But once the inventory is sufficient,
+
+114
+00:06:13,733 --> 00:06:15,533
+companies find that they can't sell their goods;
+
+115
+00:06:15,633 --> 00:06:16,600
+demand suddenly disappears.
+
+116
+00:06:16,600 --> 00:06:17,366
+Why?
+
+117
+00:06:17,366 --> 00:06:19,300
+Because some of the demand in the previous period
+
+118
+00:06:19,300 --> 00:06:21,500
+was for replenishing inventory,
+
+119
+00:06:21,533 --> 00:06:23,633
+not genuine end-consumer demand.
+
+120
+00:06:23,900 --> 00:06:25,300
+Now that the inventory is replenished... When the demand for restocking disappears,
+
+121
+00:06:26,766 --> 00:06:28,033
+aggregate demand decreases, forcing
+
+122
+00:06:28,233 --> 00:06:29,700
+companies to reduce inventory. This leads to production cuts, which in turn leads to layoffs.
+
+123
+00:06:33,433 --> 00:06:35,500
+Reduced orders from upstream suppliers result in
+
+124
+00:06:35,633 --> 00:06:36,633
+unemployment, decreased
+
+125
+00:06:36,633 --> 00:06:37,633
+consumption, and a weakening
+
+126
+00:06:37,633 --> 00:06:38,566
+economy. Once inventory levels
+
+127
+00:06:39,233 --> 00:06:41,100
+reach a certain point and become
+
+128
+00:06:41,200 --> 00:06:42,633
+very low,
+
+129
+00:06:42,833 --> 00:06:45,733
+companies find that even a slight increase in demand is
+
+130
+00:06:45,733 --> 00:06:46,800
+insufficient, necessitating inventory replenishment and the
+
+131
+00:06:48,300 --> 00:06:50,866
+start of a new cycle.
+
+132
+00:06:51,466 --> 00:06:53,800
+This cycle typically lasts 3-4 years
+
+133
+00:06:54,000 --> 00:06:56,833
+because the time lag between companies assessing demand, replenishing inventory, and reducing inventory
+
+134
+00:06:58,466 --> 00:07:00,866
+adds up to
+
+135
+00:07:00,866 --> 00:07:02,333
+roughly this timeframe. The constraints are the company's cash
+
+136
+00:07:04,700 --> 00:07:07,633
+flow capacity and warehousing costs. Inventory
+
+137
+00:07:07,866 --> 00:07:09,266
+cannot be increased indefinitely; cash needs to circulate, warehouses incur rent, and there are losses. Replenishment
+
+138
+00:07:12,700 --> 00:07:14,000
+reaches a certain level, increasing
+
+139
+00:07:14,000 --> 00:07:15,900
+financial pressure and necessitating a halt. The Juglar cycle, a 7-11 year equipment investment cycle, was discovered by the
+
+140
+00:07:21,133 --> 00:07:24,566
+French economist Juglar in 1862, more than 60 years before Kitchin. He studied economic data from France, Britain, and the United
+
+141
+00:07:26,733 --> 00:07:29,800
+States and found a cycle
+
+142
+00:07:29,933 --> 00:07:33,133
+roughly every 7-11 years. This cycle arises from fixed asset investment. When companies see a favorable industry with high profit margins, they expand production capacity.
+
+143
+00:07:35,200 --> 00:07:37,133
+Expanding production capacity requires investment in new equipment and factories. Investment itself creates demand; equipment manufacturers get more orders, construction workers'
+
+144
+00:07:37,766 --> 00:07:40,166
+wages increase, and the economy prospers. However, once all the equipment is invested in and the factories are built, investment demand
+
+145
+00:07:41,766 --> 00:07:44,966
+disappears.
+
+146
+00:07:47,300 --> 00:07:49,833
+Equipment manufacturers lose their orders,
+
+147
+00:07:49,833 --> 00:07:51,566
+construction workers lose their jobs, and the
+
+148
+00:07:51,566 --> 00:07:52,500
+economy declines. Then, a new round of investment demand only arises when the equipment has depreciated, the
+
+149
+00:08:00,566 --> 00:08:01,733
+technology becomes obsolete,
+
+150
+00:08:01,966 --> 00:08:05,166
+or it breaks down. Why is this cycle 7-11 years? Because the average lifespan of industrial equipment is this long. Machines need to be replaced after seven or eight years, but companies certainly won't replace them every day; they will concentrate on replacing them at a certain time.
+
+151
+00:08:10,933 --> 00:08:13,000
+What are the constraints? The
+
+152
+00:08:13,333 --> 00:08:15,700
+lifespan of fixed assets and the company's investment capacity. Equipment
+
+153
+00:08:17,000 --> 00:08:19,400
+cannot break down immediately; under normal circumstances, it can be used for seven or eight to ten years. Companies also have limited funds; they
+
+154
+00:08:19,533 --> 00:08:21,233
+cannot invest on a large scale every year. Investments have
+
+155
+00:08:23,700 --> 00:08:25,033
+cycles. They dare to invest only when they make money; they
+
+156
+00:08:29,166 --> 00:08:31,033
+dare not invest when they lose money. The Kuznets cycle, a
+
+157
+00:08:31,166 --> 00:08:34,166
+15-25 year construction cycle, was discovered by
+
+158
+00:08:43,300 --> 00:08:47,533
+Kuznets in 1930 when studying the US economy. It is also called the housing cycle. He was the 1971 Nobel Prize laureate in
+
+159
+00:08:49,533 --> 00:08:51,600
+economics and a master of studying long-term economic growth. How does this cycle occur? The real estate investment cycle is longer because houses are used for longer periods; a single building can last for decades or even centuries. Therefore, the investment
+
+160
+00:08:51,733 --> 00:08:53,333
+cycle in the construction industry is also
+
+161
+00:09:04,933 --> 00:09:06,333
+longer. Furthermore, real estate investment is closely related to population cycles. When there are many young people buying houses, the demand for marriage is high, leading to robust real estate investment. Once this generation has bought their homes, the next generation hasn't yet grown up, causing real estate investment to shrink. What are the constraints? Population growth, urbanization,
+
+162
+00:09:12,200 --> 00:09:15,533
+and land supply. When urbanization is rapid, a large influx of
+
+163
+00:09:15,933 --> 00:09:17,833
+people from rural areas into cities creates
+
+164
+00:09:17,833 --> 00:09:19,233
+strong demand for
+
+165
+00:09:19,333 --> 00:09:21,033
+housing. When urbanization slows down, those who should have moved to the city have already moved, leading to a shrinking demand for housing.
+
+166
+00:09:24,833 --> 00:09:26,366
+Population structure is also a constraint. When there are many
+
+167
+00:09:33,633 --> 00:09:36,133
+young people, the proportion of the 20-35 age group is high, resulting in strong demand for housing. As the population ages, the proportion of this age group declines,
+
+168
+00:09:41,100 --> 00:09:42,666
+weakening demand for housing.
+
+169
+00:09:43,033 --> 00:09:44,466
+Land is also a constraint. There's only so much land in the city center; once developed, it's gone. Expansion must either extend to the suburbs or increase the floor area ratio. However, there are limits to suburban expansion and floor area ratio increases. The Kondratiev cycle, a
+
+170
+00:09:46,133 --> 00:09:49,033
+50-60 year innovation cycle, is the longest cycle. This is what we often call the Kondratiev wave, proposed by the Soviet economist Kondratiev in 1926. He studied economic data from Britain, France, the United States, and Germany from 1780 to
+
+171
+00:10:18,100 --> 00:10:19,400
+1920 and found that there was a major cycle roughly every 50 to 60 years. Unfortunately, after proposing this
+
+172
+00:10:19,800 --> 00:10:23,300
+theory, he was arrested by the Soviet government on charges of counter-revolution and executed in 1938. The charges were that he promoted the theory of capitalist cycles and undermined the legitimacy of the Soviet planned economy. However, his theory has survived and been verified countless times. He
+
+173
+00:10:26,166 --> 00:10:29,700
+discovered that each major cycle corresponds to a technological revolution: the first from 1780 to 1850 – steam engines and textiles; the second from 1850 to 1900 – railways and steel; the third from 1900 to 1950 –
+
+174
+00:10:39,900 --> 00:10:42,200
+electricity and chemicals; the fourth from
+
+175
+00:10:50,500 --> 00:10:53,966
+1950 to 2000 – automobiles and electronics; and the fifth from 2000 to the present – ​​information technology and the internet. Schumpeter later further developed this theory, proposing the concept of creative destruction. He said that the essence of capitalism is creative destruction; with the emergence of new technologies, old
+
+176
+00:10:54,000 --> 00:10:55,733
+industries are eliminated. Horse-drawn carriages were replaced by automobiles, gasoline lamps by
+
+177
+00:11:04,733 --> 00:11:06,000
+electric lights, telegraphs by telephones, and
+
+178
+00:11:09,400 --> 00:11:10,566
+telephones by
+
+179
+00:11:13,433 --> 00:11:15,400
+the internet. Each technological revolution brings decades of
+
+180
+00:11:15,700 --> 00:11:18,533
+prosperity. However, when this technological paradigm reaches its limit, growth stagnates, and a new cycle begins only after the next
+
+181
+00:11:18,533 --> 00:11:20,600
+revolutionary
+
+182
+00:11:24,600 --> 00:11:25,766
+technology emerges. What are the constraints? The limits of technological paradigm diffusion. No matter how much you improve the steam engine, its efficiency is limited. No matter how many railways are built, there are only
+
+183
+00:11:35,800 --> 00:11:38,333
+a few main lines. No matter how widespread automobiles become, a family will only have two or three. No matter how much the internet is promoted, the number of users is only a few billion globally. Every
+
+184
+00:11:38,566 --> 00:11:41,933
+technological paradigm has its ceiling. When penetration approaches 100%, there is no more incremental
+
+185
+00:11:41,933 --> 00:11:43,233
+growth, only replacement of existing stock. At this point, economic growth slows down. What happens then? Overinvestment, overcapacity, price crashes, bankruptcies, financial crises, and a prolonged economic recession. Economic prosperity only resumes when the next
+
+186
+00:11:43,666 --> 00:11:46,333
+revolutionary technology emerges and
+
+187
+00:11:46,333 --> 00:11:48,066
+new investment opportunities arise. However, technological breakthroughs
+
+188
+00:11:48,533 --> 00:11:49,900
+are accidental;
+
+189
+00:11:52,633 --> 00:11:54,300
+you
+
+190
+00:12:12,433 --> 00:12:13,500
+can't have
+
+191
+00:12:13,533 --> 00:12:15,200
+them just because you want them. It might take 10 years, or it might take 20 years.
+
+192
+00:12:15,300 --> 00:12:17,466
+This is the recession phase of the Kondratiev
+
+193
+00:12:20,700 --> 00:12:24,866
+wave. Let's use an abstract, nested structure to explain how the complexity of real-world cycles occurs. This nested structure has three layers. The first layer, at its core, is the cycle of human fear and greed. Traditional
+
+194
+00:12:25,500 --> 00:12:27,100
+economics assumes that people are
+
+195
+00:12:31,600 --> 00:12:33,200
+rational,
+
+196
+00:12:33,533 --> 00:12:35,366
+but in reality, people are fundamentally irrational. Imagine a perfect world with unlimited resources, unchanged credit, unchanged policies, and unchanged technology.
+
+197
+00:12:38,133 --> 00:12:39,200
+Would there still be cycles? Of course, because people experience fear and greed. The stock market is the best example. The same company, with unchanged fundamentals and profits, can see its stock price rise from $10 to $100, then fall back to $10. Why? Because the
+
+198
+00:12:58,166 --> 00:13:00,500
+market is pricing in expectations, and expectations are self-reinforcing. When prices rise, people think they will rise further, so they buy, pushing up prices. The rising prices validate the expectations, making them even stronger. The media also fuels the fire, and FOMO (Fear of Missing Out) begins to spread. This is positive feedback.
+
+199
+00:13:09,033 --> 00:13:12,200
+However, positive feedback loops have limits. Once
+
+200
+00:13:16,700 --> 00:13:19,100
+prices rise to a certain level, the rate of new capital
+
+201
+00:13:20,366 --> 00:13:23,700
+entering the market can no longer keep up with the greed of existing capital, so a reversal begins. As soon as selling begins, the upward trend stops.
+
+202
+00:13:25,866 --> 00:13:27,900
+Those who chased the high panic and start selling. The more people sell, the faster prices fall, and the
+
+203
+00:13:32,766 --> 00:13:34,266
+greater the panic. Stop-loss orders are triggered, leverage is liquidated, and a stampede
+
+204
+00:13:36,700 --> 00:13:38,200
+begins. This
+
+205
+00:13:40,100 --> 00:13:42,700
+cycle is entirely a pendulum swing of human nature, unrelated to external constraints. Keynes's beauty contest theory illustrates this point: you're not choosing the most beautiful person, but rather guessing who others will choose. This game generates spontaneous fluctuations, even if beauty itself is constant. Soros's theory of reflexivity goes a step further: participants' perceptions influence reality, and reality, in turn, influences perceptions. A rising stock price makes it easier for a
+
+206
+00:13:51,700 --> 00:13:52,733
+company to raise funds, which allows for expansion. Expansion leads to better performance, which in turn drives up the stock price—a positive feedback loop. The reverse is also true. Therefore, financial markets are inherently unstable, naturally prone to bubbles and crashes. The second
+
+207
+00:14:02,000 --> 00:14:04,833
+layer, the intermediate layer, involves the cyclical changes of specific constraints. In the real world, constraints are
+
+208
+00:14:09,733 --> 00:14:11,466
+not constant
+
+209
+00:14:11,466 --> 00:14:13,500
+but cyclical.
+
+210
+00:14:13,666 --> 00:14:16,066
+These changes don't arise out of thin air but are driven by larger, higher-level constraints, such as the credit cycle. Why does the
+
+211
+00:14:27,100 --> 00:14:28,733
+government sometimes loosen credit and sometimes tighten it? Because there's a larger constraint behind it: fiscal sustainability. When the economy is weak, the government
+
+212
+00:14:30,433 --> 00:14:31,933
+stimulates growth by loosening credit, lowering interest rates, and expanding the fiscal deficit. This stimulates the
+
+213
+00:14:32,066 --> 00:14:33,766
+economy, but at the cost of rising debt and inflation. When the debt ratio becomes too high or inflation becomes too severe, fiscal constraints come into play. A high debt ratio
+
+214
+00:14:57,833 --> 00:14:59,266
+means… A large portion of fiscal revenue goes towards debt repayment, leaving no money for construction. Inflation becomes too high, unbearable for ordinary people, leading to social instability. The
+
+215
+00:14:59,466 --> 00:15:01,766
+government realizes that if this continues, fiscal collapse and social instability will ensue, so it must tighten credit, raise interest
+
+216
+00:15:08,666 --> 00:15:11,400
+rates, and
+
+217
+00:15:11,400 --> 00:15:12,666
+reduce the fiscal deficit.
+
+218
+00:15:12,833 --> 00:15:14,200
+This controls
+
+219
+00:15:14,233 --> 00:15:16,066
+debt and inflation, but at the cost of economic recession. Businesses can't borrow money, investment decreases, employment decreases, and consumption decreases, creating a vicious cycle. When the economic recession reaches a certain point,
+
+220
+00:15:17,400 --> 00:15:18,666
+unemployment becomes too high, businesses collapse en
+
+221
+00:15:27,766 --> 00:15:28,900
+masse, and
+
+222
+00:15:30,000 --> 00:15:31,200
+social instability returns.
+
+223
+00:15:32,000 --> 00:15:33,833
+The government can't withstand the pressure, so it has to loosen restrictions again. This is a nested hierarchy of constraints: economic growth requires credit;
+
+224
+00:15:37,500 --> 00:15:39,400
+credit
+
+225
+00:15:39,400 --> 00:15:40,800
+expansion is constrained by inflation and debt; inflation and debt are constrained by fiscal sustainability and social stability. Each cycle is driven by the constraints of the layer above. The third and outermost layer, the fundamental constraint, is a slow-moving variable:
+
+226
+00:15:43,566 --> 00:15:45,333
+fiscal sustainability. What constrains it? It's the political system. In democratic countries, the election cycle is four years. Politicians
+
+227
+00:15:45,600 --> 00:15:46,833
+wanting re-election must produce results during their term. How to achieve results quickly? Monetary stimulus,
+
+228
+00:15:46,833 --> 00:15:48,000
+lowering
+
+229
+00:15:49,333 --> 00:15:50,400
+unemployment, increasing GDP, and boosting the stock market, making voters
+
+230
+00:16:00,566 --> 00:16:01,533
+happy. As for the risk of inflation
+
+231
+00:16:06,700 --> 00:16:09,600
+due to debt accumulation, that's a matter for the next administration. China's situation is slightly different. China doesn't have an electoral system, but it has another constraint: growth targets. To maintain growth, local governments rely on land revenue and urban investment bonds, leading to excessively high debt levels. The
+
+232
+00:16:27,900 --> 00:16:30,266
+central
+
+233
+00:16:30,666 --> 00:16:31,866
+government then has to deleverage. However, once deleveraging reaches a certain point,
+
+234
+00:16:36,033 --> 00:16:36,966
+economic
+
+235
+00:16:37,000 --> 00:16:38,100
+growth slows, employment pressure increases, and the central government may have to loosen monetary policy again to stabilize growth. The 2020 pandemic led to further monetary easing, and in 2021, growth picked up,
+
+236
+00:16:41,266 --> 00:16:43,300
+so tightening began again.
+
+237
+00:16:43,300 --> 00:16:44,600
+This is why
+
+238
+00:16:47,133 --> 00:16:48,533
+China's credit cycle is particularly pronounced and shorter than that of the US. Behind each tightening or loosening is a struggle between growth targets and debt sustainability. Looking further ahead, there
+
+239
+00:16:48,533 --> 00:16:50,000
+are also constraints from technological
+
+240
+00:16:50,000 --> 00:16:51,066
+paradigms.
+
+241
+00:16:52,633 --> 00:16:54,333
+Fiscal sustainability is constrained by
+
+242
+00:17:00,500 --> 00:17:02,033
+economic growth potential, which in turn is
+
+243
+00:17:03,266 --> 00:17:04,500
+constrained by technological
+
+244
+00:17:04,500 --> 00:17:05,633
+progress. The mobile internet paradigm experienced rapid expansion from
+
+245
+00:17:05,933 --> 00:17:07,333
+2010 to 2020, with the widespread adoption of 4G, smartphones, and apps, creating numerous jobs and tax revenues. Rapid government tax revenue growth and low fiscal pressure allowed for a higher debt ratio. However, by 2020, this paradigm had essentially matured. 5G arrived, but it didn't bring new application scenarios. The
+
+246
+00:17:24,400 --> 00:17:26,166
+maturity of a technological paradigm means that growth has peaked. Peak
+
+247
+00:17:26,433 --> 00:17:29,866
+growth leads to greater fiscal pressure, which in turn necessitates tighter credit. The Federal Reserve began
+
+248
+00:17:30,333 --> 00:17:32,833
+aggressively raising interest rates in
+
+249
+00:17:35,533 --> 00:17:38,200
+2022, from 0% to over 5%, precisely because inflation had risen and debt had become
+
+250
+00:17:42,433 --> 00:17:44,433
+too high. Therefore, a complete cycle consists of these three overlapping layers. When these three layers resonate, it presents a once-in-a-lifetime opportunity. The 2008 financial crisis exemplifies this. At the time, there was extreme panic, with volatility indices soaring above 80. Central banks around the world began to inject liquidity, and the
+
+251
+00:17:44,633 --> 00:17:46,266
+Federal
+
+252
+00:18:02,566 --> 00:18:03,800
+Reserve drastically reduced interest rates to zero, initiating quantitative easing. The eve of the mobile internet technology revolution saw the release of the iPhone, the establishment of the App Store, and the initial widespread adoption of 3G networks. When these three cycles resonate simultaneously, a bull market lasting over a decade ensues. The Nasdaq
+
+253
+00:18:04,166 --> 00:18:06,733
+rose
+
+254
+00:18:06,733 --> 00:18:08,733
+from less than 1,300 points to 24,000 points, an increase of nearly 20 times. Apple, Amazon, and Google all
+
+255
+00:18:17,500 --> 00:18:19,433
+saw increases of several dozen times. Many people believe that consumer technology
+
+256
+00:18:26,266 --> 00:18:27,800
+industries have no cycles, which is a grave mistake. Let's first discuss consumption. Many say that food is the most important thing for people, and consumption is an eternal need, so how can it have cycles? There are too many constraints on consumption. The first constraint is income. During periods of rapid economic growth in developed countries, consumption appears robust. Wages
+
+257
+00:18:47,733 --> 00:18:49,000
+rise by 10%, housing prices by 20%, and stocks are profitable. The wealth effect is at play; you
+
+258
+00:18:53,200 --> 00:18:54,033
+feel increasingly wealthy and are willing to
+
+259
+00:18:58,200 --> 00:18:59,466
+spend, even borrow money. However, when economic growth slows, assets stop appreciating, the wealth effect disappears, housing
+
+260
+00:19:01,533 --> 00:19:02,800
+prices stagnate or even fall, and stock accounts
+
+261
+00:19:04,866 --> 00:19:07,100
+stop generating profits. Although wages may still be rising, the rate of increase slows. You find yourself not becoming richer, and may even be becoming poorer. At this point, consumption immediately shrinks. The
+
+262
+00:19:07,200 --> 00:19:07,900
+second constraint is debt.
+
+263
+00:19:09,300 --> 00:19:11,600
+Developed countries generally have high household leverage ratios. A large portion of people's monthly income goes towards debt repayment: mortgages, car loans, credit card debt, student loans. Only after repaying these loans can they consume. Before 2008, the US engaged in rampant leverage.
+
+264
+00:19:22,466 --> 00:19:24,466
+After the bubble burst,
+
+265
+00:19:26,866 --> 00:19:27,600
+housing prices fell, but debt remained. For many, the value of their homes was now lower than their loan amounts. The
+
+266
+00:19:39,933 --> 00:19:40,666
+pressure of
+
+267
+00:19:40,666 --> 00:19:41,766
+debt
+
+268
+00:19:42,166 --> 00:19:44,400
+repayment crushed their consumption capacity. It took US households 10 years to deleverage before consumption finally picked up. The third constraint is demographic constraints.
+
+269
+00:19:44,533 --> 00:19:46,966
+Young people aged 20-35 are buying
+
+270
+00:19:47,166 --> 00:19:50,166
+houses, cars, getting married, and having children, resulting in extremely strong consumption demand. Meanwhile, older people over 60 have already bought houses... With children and increased independence, consumer desires have declined significantly. Developed countries are generally entering an aging society, meaning a necessary shift in consumption patterns.
+
+271
+00:19:53,466 --> 00:19:55,800
+Japan experienced sluggish consumption after the 1990s, and Europe followed suit after the 2010s. This wasn't a
+
+272
+00:20:02,866 --> 00:20:04,866
+sudden decrease in consumer spending, but rather a change in the constraint of population structure. The
+
+273
+00:20:09,766 --> 00:20:10,766
+fourth constraint is the expectation constraint: consumption depends not only on current income but also on expectations of future income. After the 2008 financial crisis, massive unemployment, plummeting housing prices, and shrinking
+
+274
+00:20:19,833 --> 00:20:21,533
+401(k) retirement accounts led to widespread pessimism about the
+
+275
+00:20:26,166 --> 00:20:27,966
+future. Even those with jobs and unchanged wages dared not spend. This
+
+276
+00:20:27,966 --> 00:20:30,166
+explains why the US household savings rate surged from 2% to over 8%
+
+277
+00:20:30,500 --> 00:20:33,200
+after 2009, and this is happening in China today. Regarding the technology industry, many believe it experiences exponential growth without cycles. We can only say that innovation is endless, but specific technology sectors always have cycles. The dot-com bubble of 2000 saw the
+
+278
+00:20:50,400 --> 00:20:51,533
+Nasdaq plummet from 5,000 points to
+
+279
+00:20:51,800 --> 00:20:54,000
+1,000 points, an 80% drop. In the
+
+280
+00:20:59,533 --> 00:21:01,566
+1990s,
+
+281
+00:21:01,566 --> 00:21:05,233
+Japan's electronics industry collapsed, destroying former global giants like Sony, Panasonic, Sharp, and Toshiba. The tech industry is struggling, and its cycles may be more drastic than those of traditional industries because technological iteration is too rapid, making it easier for competitive advantages to be overturned. The first constraint is the expansion limit of technological paradigms. Every technological paradigm has its diffusion curve. Initially, it experiences exponential growth, with penetration rates increasing rapidly from 1% to 5%, and from
+
+282
+00:21:18,500 --> 00:21:20,000
+5% to 20%. However, once penetration approaches saturation, growth slows from 50% to
+
+283
+00:21:22,533 --> 00:21:25,533
+80%. PC internet, from 1995 to 2007, saw penetration rates rise from a few percentage points to over 70%, a golden age. But by 2007, everyone who needed internet access was already online. Mobile internet, from 2007 to 2020, represents another new paradigm. But by 2020, everyone who needed a smartphone had already bought one. With only about 8 billion people globally, excluding children and the elderly, almost
+
+284
+00:21:43,366 --> 00:21:46,100
+every adult owns a phone.
+
+285
+00:21:46,366 --> 00:21:48,066
+Growth has plateaued. 5G hasn't brought new application scenarios. What will be the next paradigm? Perhaps AI, perhaps Web 3, but it's still unclear. Before a new paradigm emerges, mobile internet will enter a period of competition for existing users, and
+
+286
+00:21:57,466 --> 00:21:58,566
+growth will slow.
+
+287
+00:22:05,866 --> 00:22:07,866
+The second constraint is the cycle of capital expenditure. The technology industry requires massive capital investment. Data centers, chip manufacturing, and fiber optic network R&D all require significant investment. When everyone is investing, overcapacity occurs, leading to a price crash. The semiconductor industry is a prime
+
+288
+00:22:14,900 --> 00:22:16,300
+example. During boom times,
+
+289
+00:22:17,933 --> 00:22:19,733
+chip supply falls short of demand, prices soar, and all
+
+290
+00:22:23,000 --> 00:22:24,733
+companies expand. New factories are built, increasing production capacity. However, demand does
+
+291
+00:22:26,966 --> 00:22:29,366
+n't necessarily grow at the same pace, resulting in overcapacity, a price crash, and losses for companies. Those with severe losses go bankrupt or are acquired. The third
+
+292
+00:22:29,933 --> 00:22:31,366
+constraint is regulatory oversight. As technology companies grow large, they
+
+293
+00:22:32,700 --> 00:22:34,333
+inevitably face antitrust scrutiny.
+
+294
+00:22:37,833 --> 00:22:40,233
+Microsoft faced antitrust investigations in the 1990s and nearly broke up; Google was
+
+295
+00:22:45,366 --> 00:22:47,500
+fined billions of euros by the EU. Once regulatory constraints tighten, the expansion of technology companies is limited, and growth slows. Therefore, the technology industry also has cycles. No
+
+296
+00:22:57,900 --> 00:22:59,433
+industry is without cycles; as long as there are constraints, there are cycles. Understanding the essence of cycles allows us to understand the investment logic of cyclical stocks. Cyclical stocks experience three phases during boom periods, corresponding to the first, third, and fifth waves in Elliott Wave Theory. The first phase, the capacity clearing phase (wave one), is crucial not for product prices
+
+297
+00:23:07,366 --> 00:23:09,766
+but for the supply-demand inflection point. Many people wait until product
+
+298
+00:23:11,100 --> 00:23:12,566
+prices start to rise... It might be too late to
+
+299
+00:23:13,966 --> 00:23:16,633
+buy cyclical
+
+300
+00:23:19,400 --> 00:23:20,800
+stocks now. The real buying opportunity is when the supply-demand inflection point appears. What is the supply-demand inflection point? It's when supply has contracted to a relatively low level, and demand has begun to pick up. The two lines are
+
+301
+00:23:20,800 --> 00:23:22,833
+about to intersect. At this time, product prices may still be falling, even hitting new lows. The
+
+302
+00:23:35,400 --> 00:23:37,733
+industry is in a bleak state,
+
+303
+00:23:38,233 --> 00:23:40,500
+companies are suffering huge losses, and the media is
+
+304
+00:23:53,333 --> 00:23:56,766
+predicting a downturn. However, stock prices have already
+
+305
+00:23:57,266 --> 00:23:59,466
+started to rise because stock prices are priced in the future, not the present. The lithium mining market from 2019 to 2020 is a typical example. In 2018, the price of lithium carbonate plummeted from 170,000 yuan per ton to just over 40,000 yuan at the beginning of 2020, a drop of 75%.
+
+306
+00:24:06,266 --> 00:24:07,866
+Everyone thought lithium was finished and that the overcapacity problem would never be solved. But those who understand cycles are looking at the supply side.
+
+307
+00:24:10,800 --> 00:24:14,233
+When lithium prices fell below 50,000 yuan, a large number of high-cost lithium mines shut down. A number of small mining companies in Australia went bankrupt. Salt lake projects in South America were delayed. Capital expenditures
+
+308
+00:24:16,000 --> 00:24:18,600
+plummeted. Supply was rapidly contracting. At
+
+309
+00:24:23,266 --> 00:24:25,866
+the same time, what was happening on the demand side? The penetration rate of
+
+310
+00:24:37,366 --> 00:24:40,433
+electric vehicles was accelerating. Tesla Model 3 was selling well globally, and Chinese companies like BYD and NIO were rising. Europe also began implementing carbon emission regulations, forcing automakers to produce electric vehicles. Governments around the world started subsidizing new energy vehicles, and demand was rising rapidly. Although
+
+311
+00:24:40,966 --> 00:24:44,233
+lithium prices were still at their bottom in early 2020, the inflection point between supply and demand had already appeared, and lithium mining stocks began to rise. By 2021,
+
+312
+00:24:46,600 --> 00:24:50,033
+lithium prices had really skyrocketed, and lithium mining stocks had multiplied several times over. So at this stage, you should
+
+313
+00:24:50,066 --> 00:24:52,766
+not look at product prices,
+
+314
+00:24:53,466 --> 00:24:56,400
+but at the hard data on the supply side. For
+
+315
+00:24:58,566 --> 00:25:00,833
+lithium mining, look at global
+
+316
+00:25:06,100 --> 00:25:08,166
+capital expenditure
+
+317
+00:25:10,166 --> 00:25:10,800
+and new capacity; for copper mining, look at mine capital expenditure and new project
+
+318
+00:25:19,766 --> 00:25:22,166
+commissioning plans; for iron ore, look at the production guidance of the four major
+
+319
+00:25:22,366 --> 00:25:24,166
+mining
+
+320
+00:25:24,633 --> 00:25:27,166
+companies. When capital expenditure falls to historical lows, when new capacity drops precipitously, and when no new mines come online, the
+
+321
+00:25:29,900 --> 00:25:32,700
+bottom of supply may be approaching. At this time, even if product prices are still falling, you should start to position yourself.
+
+322
+00:25:40,133 --> 00:25:42,866
+This stage is the most counterintuitive. The media is pessimistic, analysts are downgrading ratings, and financial statements are dismal, but
+
+323
+00:25:44,933 --> 00:25:46,966
+you should buy contrarian. Most people can't do it because they are looking at what has already happened, not what is about to happen. Remember, don't wait for product prices to rise before buying. By then, the first wave has already ended. The second stage is the stage of simultaneous
+
+324
+00:25:49,500 --> 00:25:52,500
+price and volume increases, which is the third wave. During this stage, product prices begin to rise, sales increase,
+
+325
+00:25:55,266 --> 00:25:57,133
+and profits explode.
+
+326
+00:26:10,000 --> 00:26:10,533
+This is the easiest stage to make money in, and also the stage with the most dramatic price increases. Why?
+
+327
+00:26:10,533 --> 00:26:12,566
+Because the continuous rise in product prices has a very direct and strong stimulus to the market. Prices rise from 50,000 to 100,000, and the media
+
+328
+00:26:12,833 --> 00:26:14,566
+starts reporting on the surge in lithium prices. From 100,000 to 200,000, lithium prices hit a new high. From 200,000 to 400,000, lithium is more expensive than gold; with lithium, you can go anywhere. Everyone is using
+
+329
+00:26:18,566 --> 00:26:20,233
+calculators to calculate
+
+330
+00:26:20,366 --> 00:26:22,033
+performance. The dynamic
+
+331
+00:26:34,200 --> 00:26:36,533
+PE ratio drops from 100 times to 20 times, from 20 times to 10 times, and from 10 times to
+
+332
+00:26:36,533 --> 00:26:37,700
+5 times, looking increasingly
+
+333
+00:26:43,566 --> 00:26:45,066
+cheaper. During this stage, fundamentals and stock prices resonate in the same direction: prices rise, sales rise, performance rises, and stock prices rise—a positive feedback loop. However, there is an exception. If the stock price rises too sharply in the first wave, prematurely exhausting the valuation, and the
+
+334
+00:26:47,000 --> 00:26:49,733
+product price increase is not dramatic enough, then the third wave may not follow.
+
+335
+00:26:49,733 --> 00:26:52,333
+The market is too optimistic in the first wave, prematurely incorporating the gains of several years into the valuation. When
+
+336
+00:26:54,166 --> 00:26:56,366
+performance truly explodes... Unless prices rise significantly more than expected,
+
+337
+00:26:58,266 --> 00:26:59,466
+stock prices may stagnate. A key indicator for
+
+338
+00:27:04,600 --> 00:27:07,433
+judging when the third wave ends is the supply-side reaction. When product prices rise to a certain level, new capacity will inevitably enter the market; this is a market law that no one can stop. This was the case with lithium mines
+
+339
+00:27:07,433 --> 00:27:09,866
+in 2021. Lithium carbonate
+
+340
+00:27:17,500 --> 00:27:18,466
+prices rose from 50,000 yuan per ton to 500,000 yuan, a tenfold increase. At this time, global lithium mine projects were accelerating production; new projects were being launched everywhere—Australia, Chile, Argentina, and Africa. Global lithium mine supply was expected to expand from
+
+341
+00:27:25,300 --> 00:27:27,666
+500,000 tons of LCE in 2020 to over
+
+342
+00:27:32,166 --> 00:27:34,300
+2 million tons by 2025. When you see a significant
+
+343
+00:27:36,300 --> 00:27:37,700
+increase in new capacity, a surge in industry capital expenditure, and capacity utilization returning to
+
+344
+00:27:41,200 --> 00:27:43,533
+over 90%, this is a signal that supply constraints are easing, and the price ceiling is approaching. The
+
+345
+00:27:46,300 --> 00:27:49,100
+third stage is the earnings release stage, also known as the fifth wave. This stage is the most complex and dangerous.
+
+346
+00:27:50,733 --> 00:27:52,666
+Product prices may still be high, or even slowly rising. Company performance may increase significantly quarter-on-quarter, and stock prices may continue to reach
+
+347
+00:27:52,700 --> 00:27:54,066
+new highs. However, this is precisely when the risk is greatest. Why? Because there are too many variables
+
+348
+00:27:54,966 --> 00:27:55,933
+affecting stock prices at
+
+349
+00:28:01,966 --> 00:28:05,000
+this stage: the pace of earnings release, changes in product prices, the speed of new capacity deployment, and changes in demand. Policy changes, market expectations—any one of these variables can cause a stock
+
+350
+00:28:22,100 --> 00:28:24,800
+price crash. Once the cycle reverses, the drop is often not just 10% or 20%, but a 50% or even 70% or 80% plunge. My operational principle for this
+
+351
+00:28:31,166 --> 00:28:32,100
+phase is: do not open new positions. If you've held your shares through the first and third
+
+352
+00:28:33,766 --> 00:28:35,000
+waves, your focus at
+
+353
+00:28:35,233 --> 00:28:36,466
+this stage
+
+354
+00:28:37,866 --> 00:28:39,766
+shouldn't be on buying more, but on when to sell. At this stage, the trend of product prices is far more important than valuation and performance. Many people are still using calculators to calculate valuations. They think a PE ratio of 10 is
+
+355
+00:28:44,900 --> 00:28:47,033
+cheap,
+
+356
+00:28:47,100 --> 00:28:49,466
+but that's useless. PE is a lagging indicator. What you need to watch is the trend of product prices. If product
+
+357
+00:28:53,666 --> 00:28:56,900
+prices are still rising and the economic climate is still improving, then you can continue to hold.
+
+358
+00:29:06,900 --> 00:29:08,266
+If product prices start to stagnate, trading sideways for several months
+
+359
+00:29:08,266 --> 00:29:10,466
+without rising further, then you need to be wary. If product prices start to fall slightly,
+
+360
+00:29:11,466 --> 00:29:13,466
+even by just a few points, but the trend has changed,
+
+361
+00:29:21,466 --> 00:29:23,966
+you must decisively reduce your holdings. A reversal of the economic cycle is only a matter of
+
+362
+00:29:24,000 --> 00:29:25,466
+time. Once prices start to fall, they will accelerate. This is exactly what happened with lithium prices
+
+363
+00:29:25,766 --> 00:29:26,700
+in the second half of 2022. Prices stagnated from a high of 600,000, rose for two months, and then fell slightly to 550,000, 500,000, and 450,000.
+
+364
+00:29:30,966 --> 00:29:32,800
+Many people are still using calculators to calculate PE ratios.
+
+365
+00:29:32,800 --> 00:29:34,266
+Look, the PE ratio is only 5 now, super
+
+366
+00:29:34,266 --> 00:29:35,933
+cheap. But lithium
+
+367
+00:29:40,800 --> 00:29:42,466
+prices continue to fall, from 400,000 to 350,000, then 200,000, all the way down to 100,000 in 2023. Stock prices have halved from their peak, and many lithium mining
+
+368
+00:30:04,000 --> 00:30:05,300
+stocks have fallen by more than 70%. Why? Because the supply side has reacted. When lithium prices rose to 600,000, all
+
+369
+00:30:07,033 --> 00:30:09,500
+lithium mining projects worldwide were frantically expanding production, resulting in an explosive increase in supply. Projects were concentrated in one phase, leading to a marginal reversal between supply and demand. Although demand is still growing, the growth rate has slowed. Battery manufacturers' lithium salt
+
+370
+00:30:17,266 --> 00:30:19,433
+inventories and car manufacturers' battery inventories are increasing. With the supply and demand reversal, prices collapsed. Another scenario: if you can't judge the trend of product prices, if you're not confident about the direction of the economic cycle, then just
+
+371
+00:30:32,700 --> 00:30:35,866
+sell everything. Because if you've been right all along, holding from wave one to wave five, from 10 yuan to 300 yuan, you've already made 30 times your initial investment. This stage has so many variables, and if you can't grasp it, why take the risk? Take profits when you can. More importantly, if you didn't participate in the previous stages, don't enter the third stage. Many people saw
+
+372
+00:30:37,266 --> 00:30:39,833
+lithium mining stocks repeatedly hitting new highs in 2022. Seeing
+
+373
+00:30:48,500 --> 00:30:50,500
+lithium mining
+
+374
+00:30:50,766 --> 00:30:53,666
+companies' quarterly profits in the billions or tens of billions, and witnessing the industry's boom, makes one unable to resist
+
+375
+00:30:53,866 --> 00:30:54,966
+chasing the market. This is typical of retail investors who get burned. What
+
+376
+00:30:58,333 --> 00:31:01,700
+you see as prosperity may be the peak of the cycle; what you think is the beginning may be the end. These people who chase the highs
+
+377
+00:31:02,000 --> 00:31:04,866
+haven't experienced the
+
+378
+00:31:08,400 --> 00:31:10,066
+first wave of capacity clearing, nor the third wave of price and volume
+
+379
+00:31:10,100 --> 00:31:11,900
+surges. They completely lack understanding of the cycle's rhythm. They only
+
+380
+00:31:15,166 --> 00:31:16,100
+see the prosperity, not the hidden dangers behind it. The most difficult part is switching cognitive frameworks between the three stages. In the first wave, ignore financial data and look for supply and demand inflection points. In the
+
+381
+00:31:22,700 --> 00:31:23,700
+third wave, focus on product prices and profit explosions. In the fifth wave, ignore valuations and only look at
+
+382
+00:31:28,533 --> 00:31:31,400
+product price trends and stock price
+
+383
+00:31:34,366 --> 00:31:36,233
+technical trends. Most people can't do this because they use a so-called value investing framework to view all stages. Using a financial framework, in the first wave, they see such severe losses that they dare not buy. In the fifth wave,
+
+384
+00:31:36,333 --> 00:31:37,500
+they see product prices still high and company performance
+
+385
+00:31:48,700 --> 00:31:50,833
+so good that
+
+386
+00:31:51,033 --> 00:31:52,533
+they are reluctant to
+
+387
+00:31:52,533 --> 00:31:54,433
+sell. As a result, they hold from the peak all the way to the crash, giving back all their profits. True cycle masters are those who can
+
+388
+00:31:55,933 --> 00:31:58,766
+switch freely between the three stages. More importantly, they know when to enter and when to exit.
+
+389
+00:32:04,333 --> 00:32:05,933
+Entering the market requires courage because it requires buying against the trend amidst
+
+390
+00:32:14,366 --> 00:32:15,500
+widespread pessimism. Leaving requires wisdom, because it means decisively withdrawing from a period of prosperity. Everything has a cycle, life has a cycle, and families have cycles. The cycle of life is also a combination of constraints and inertia. Constraints are your background, your resources, and your cognitive boundaries. Inertia is your habitual thinking, behavioral habits, and class inertia. But most people don't understand this cycle. They think their peak is forever and that there are no constraints on upward movement. Wrong!
+
+391
+00:32:32,433 --> 00:32:33,966
+True social class
+
+392
+00:32:33,966 --> 00:32:36,800
+isn't measured by your peak glory, but by what you have left when you're at your lowest point. Like a stock after the bubble has been removed, its true value lies in its market capitalization. Li Si, who rose to the position of Prime Minister in the Qin Dynasty, reaching the pinnacle of power, wept bitterly before his death in the marketplace of Xianyang, saying, "I wish we could go back to the days of hunting rabbits with our yellow dog outside the east gate of Shangcai! Is that possible?" He longed to return to the
+
+393
+00:32:41,766 --> 00:32:43,333
+past, to those
+
+394
+00:32:56,533 --> 00:32:57,700
+days of hunting rabbits with dogs in the countryside. Could he go back? No. Not only could he not go
+
+395
+00:33:13,100 --> 00:33:15,166
+back, but he was utterly wiped out, his entire family wiped out. The Jia family in *Dream of the Red Chamber*, with its halls of jade
+
+396
+00:33:20,333 --> 00:33:22,800
+and horses of gold, its extravagant lifestyle, even the Empress Dowager sent gifts for Grandmother Jia's birthday—they seemed to possess
+
+397
+00:33:25,200 --> 00:33:26,633
+boundless wealth and power, destined for generations to come. But in the end, it was like birds returning to their nests after their food was eaten, leaving behind a desolate, white expanse. After their property was confiscated, the Jia family was so poor they didn't even have decent clothes. The same is
+
+398
+00:33:26,700 --> 00:33:28,333
+true in modern times. At his peak,
+
+399
+00:33:29,100 --> 00:33:31,366
+Xu Jiayin's
+
+400
+00:33:44,800 --> 00:33:47,000
+net worth exceeded 200 billion. China's richest man, Evergrande's properties are all over the country, his football team has won numerous championships, he was always surrounded by entourages at banquets, a business leader—
+
+401
+00:33:49,933 --> 00:33:51,366
+and what happened? He's now imprisoned, his
+
+402
+00:33:59,733 --> 00:34:01,266
+overseas assets are frozen, and he faces global debt collection. After
+
+403
+00:34:02,766 --> 00:34:03,766
+decades of hard work, for whom did he toil and for whom did he reap the rewards? Then look at Pan Shiyi. At the peak of
+
+404
+00:34:10,566 --> 00:34:13,600
+SOHO China, he was also a real estate tycoon. But Pan Shiyi started selling
+
+405
+00:34:19,166 --> 00:34:20,933
+properties in 2014, and in 2021, he sold the entire
+
+406
+00:34:20,933 --> 00:34:22,600
+SOHO China to Blackstone. Now, Xu Jiayin is in jail,
+
+407
+00:34:25,533 --> 00:34:27,766
+sewing, while Pan Shiyi and his wife are laughing and joking in
+
+408
+00:34:30,166 --> 00:34:31,600
+the US. So, the truly smart people, the true aristocrats, are not those who are most glamorous at the peak, but those who can maintain their bottom line during every trough. What does it mean to maintain your bottom line? It means that in every downturn of your life, your trough is higher than the last. This is
+
+409
+00:34:51,633 --> 00:34:53,366
+true class advancement. It's not about how high your peak is, but how high your trough is. The peak might be due to luck, leverage, or the dividends of the times, but the trough reveals your true strength, your understanding, your resources, your network, and your risk
+
+410
+00:35:00,166 --> 00:35:01,466
+management ability. If you are a proletarian during your trough, then you are a proletarian. No matter how glorious your peak, if you remain aristocratic and bourgeois during your troughs, then you've truly become aristocratic and
+
+411
+00:35:03,966 --> 00:35:06,333
+bourgeois. What is class? I'm
+
+412
+00:35:09,000 --> 00:35:10,733
+not even talking about intergenerational inheritance; if you can't even secure your own future, how can you dare say you've elevated your class? So today, I'm talking about cycles, not just about investment,
+
+413
+00:35:10,733 --> 00:35:12,433
+but about life.
+
+414
+00:35:20,066 --> 00:35:21,033
+You need to understand the laws of cycles and even more so, respect their power. When
+
+415
+00:35:24,933 --> 00:35:27,433
+you're at the height of your power, remember that the rabbit caught in the East Gate can never be caught again. When you're enjoying the prosperity of life, remember the desolation of the past. In the high phase of each cycle, prepare for the trough of the next cycle, elevate your trough, and hold your bottom line. Each trough should be higher than the last; only then can
+
+416
+00:35:33,766 --> 00:35:36,466
+you create compound interest. Only then will your life and your family truly be on a
+
+417
+00:35:55,700 --> 00:35:57,933
+path of great fortune, truly on the road to defying fate. That's all for this video. See you next time.
+

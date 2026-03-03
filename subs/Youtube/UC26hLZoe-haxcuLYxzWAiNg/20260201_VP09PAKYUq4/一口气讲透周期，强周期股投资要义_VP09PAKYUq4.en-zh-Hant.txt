@@ -1,0 +1,417 @@
+Hello everyone, this is Brain Master.
+Today we're going to talk about
+cycles. Sima Qian wrote in *Records of the Grand Historian: Biographies of the Wealthy*: "Those
+without wealth rely on strength; those with little wealth rely on
+wisdom; those with abundant wealth rely on
+timing." What does this mean? The poor rely on physical strength, the moderately wealthy rely on wisdom, and the extremely wealthy rely on opportunity.
+This "timing" refers to cycles. The
+real big money is all about
+cycles.
+Look at those who made a fortune: those who
+bought oil stocks before the 1970s oil crisis, those who bought
+Japanese real estate before the Plaza Accord in the
+1980s, those who bought Microsoft and Cisco before the dot-com bubble in the 1990s, those who
+bought gold after 9/11 in the
+2000s, those who bought Amazon and Apple before the mobile internet boom in the 2010s, and those who
+bought lithium mines and electric vehicles after the pandemic in the 2020s. Were they
+smarter than others?
+Not necessarily. But they all had one thing in common: they
+rode the crest of the cycle. When you're in the right place at the right time, even a pig can fly. But when the tide goes out, you see who's been swimming naked. Conversely, even the smartest person will stumble if they ride the wrong cycle. If you happen to buy at the peak of the cycle's boom, you're missing out on the big picture.
+Buying Tokyo real estate in 1990 and
+PetroChina in 2007 are famous examples, each a case study spanning
+decades. When
+the cycle reaches a downturn, no matter how
+smart you are, it's useless. Your knowledge, your expertise, your models only have meaning if you time the cycle correctly. Going against the cycle is worthless. Therefore, investing isn't necessarily about who's smarter,
+but about who can see the timing clearly.
+Today, we'll thoroughly discuss the concept of cycles.
+Many people find cycles mysterious,
+like some profound economic theory,
+but it's actually very simple.
+There's a very simple model in physics
+: a pendulum. If
+you pull it to one side and release it, it will swing back and
+forth. Why? Because two factors are at play: gravity pulls it towards its equilibrium position—this is the constraint force. But a moving object has the tendency to continue moving—this is inertia. When you pull the pendulum away, gravity pulls it back. In the process of pulling it back, it gains velocity. When it reaches the
+equilibrium position, the effect of gravity cancels out,
+but the velocity remains,
+so it will rush past the equilibrium point. After rushing past,
+gravity acts in the opposite direction, pulling it back again. This cycle repeats, and that's the cycle. The essence of all cycles is this mechanism: constraint
+plus inertia.
+Why do we have the four seasons of spring, summer,
+autumn, and
+winter? Because the Earth revolves around the Sun, the Sun's gravity is a constraint, and the Earth's speed is inertia. If there were only gravity and no inertia, the Earth would fall directly into the Sun; if there were only
+inertia and no gravity, the Earth would fly away. The balance between constraint and inertia results in periodic orbital motion. Combined with the Earth's axial tilt, the point of direct sunlight oscillates between the Tropic of Cancer and the Tropic of Capricorn throughout the year, thus forming the four seasons. The cycles of nature are essentially constrained movements created by certain conservation laws and boundary conditions. The same principle applies to economic and social cycles. What are the constraints? Limited
+resources, limited production capacity,
+limited credit,
+limited market capacity. What is the inertia? The inertia of human expectations, the momentum of investment, and the inertia of institutional
+mechanisms. When the economy is good, people believe it will continue to be good—this is the inertia of expectations. Entrepreneurs believe demand will continue to grow, so they invest heavily; banks believe loans are safe, so they lend heavily; consumers believe income will continue to rise, so they consume heavily,
+even borrowing money to consume. Everyone's behavior reinforces this trend, thus forming a positive
+feedback loop. But
+can this loop continue indefinitely? No, because there are constraints, such as limited
+resources like iron ore, copper ore, and oil. Reserves are finite, extraction speed has an upper limit, and production capacity is also limited. Factory equipment and
+labor can't be added at will, and credit is finite; people can't borrow indefinitely. When investment exceeds resource constraints, it overheats, inflation rises, raw material prices soar, wages increase, and
+all costs rise. Businesses find they can't
+make money and
+begin to contract.
+During contraction,
+everyone thinks things will continue to worsen, so
+entrepreneurs frantically cut investment,
+banks frantically collect loans, and
+consumers frantically save money.
+Everyone's behavior reinforces this trend, creating a
+negative feedback loop.
+But when contraction reaches a certain point,
+assets become cheaper,
+opportunities arise, and
+people dare to invest again,
+starting a new cycle. In short, it's
+an over-correction cycle. It
+overshoots during rises and overshoots during falls.
+Why does it overshoot?
+Because people's expectations have inertia, and
+adjustments are delayed.
+In mathematical terms,
+it's the oscillating solution of a second-order differential equation.
+Any system whose
+rate of change
+depends on its deviation from equilibrium has an
+oscillating solution. This applies to a simple
+pendulum and the
+economy.
+Philosophically speaking,
+cycles are the movement of contradictions.
+Hegel spoke of the negation of negation, and the
+Chinese say that things
+reach their extremes and then reverse. Lao Tzu said, "Reversal is the movement of the Tao," which speaks to this very point. Contradictions, when pushed to their limits, will transform. However, this
+transformation is not instantaneous
+but rather a spiraling, cyclical process.
+Because systems have inertia, delays, and memories,
+cycles are not mysterious;
+they are a
+common characteristic of any constrained dynamic system. Everything has its time—
+this is the theoretical basis of cycles.
+Economists have studied this for over a century and have
+indeed discovered some patterns.
+They have
+discovered cycles of different lengths from different perspectives.
+Let me systematically explain it to you. The
+Kitchin cycle, 3-4 years, is an inventory cycle.
+Discovered in 1932 by the British economist Kitchin,
+he studied economic data from Britain and the United States and
+found that there is roughly a small cycle every 3-4 years.
+How does this cycle occur? It's the
+time lag in companies adjusting their inventory. When
+companies see good demand and
+sales growth, they
+feel the need to increase inventory. Increasing inventory requires
+production, which in turn requires purchasing raw materials and
+hiring workers.
+This process itself creates new demand.
+Upstream suppliers receive more orders,
+workers receive wages, and
+can consume, leading to a
+better economy.
+But once the inventory is sufficient,
+companies find that they can't sell their goods;
+demand suddenly disappears.
+Why?
+Because some of the demand in the previous period
+was for replenishing inventory,
+not genuine end-consumer demand.
+Now that the inventory is replenished... When the demand for restocking disappears,
+aggregate demand decreases, forcing
+companies to reduce inventory. This leads to production cuts, which in turn leads to layoffs.
+Reduced orders from upstream suppliers result in
+unemployment, decreased
+consumption, and a weakening
+economy. Once inventory levels
+reach a certain point and become
+very low,
+companies find that even a slight increase in demand is
+insufficient, necessitating inventory replenishment and the
+start of a new cycle.
+This cycle typically lasts 3-4 years
+because the time lag between companies assessing demand, replenishing inventory, and reducing inventory
+adds up to
+roughly this timeframe. The constraints are the company's cash
+flow capacity and warehousing costs. Inventory
+cannot be increased indefinitely; cash needs to circulate, warehouses incur rent, and there are losses. Replenishment
+reaches a certain level, increasing
+financial pressure and necessitating a halt. The Juglar cycle, a 7-11 year equipment investment cycle, was discovered by the
+French economist Juglar in 1862, more than 60 years before Kitchin. He studied economic data from France, Britain, and the United
+States and found a cycle
+roughly every 7-11 years. This cycle arises from fixed asset investment. When companies see a favorable industry with high profit margins, they expand production capacity.
+Expanding production capacity requires investment in new equipment and factories. Investment itself creates demand; equipment manufacturers get more orders, construction workers'
+wages increase, and the economy prospers. However, once all the equipment is invested in and the factories are built, investment demand
+disappears.
+Equipment manufacturers lose their orders,
+construction workers lose their jobs, and the
+economy declines. Then, a new round of investment demand only arises when the equipment has depreciated, the
+technology becomes obsolete,
+or it breaks down. Why is this cycle 7-11 years? Because the average lifespan of industrial equipment is this long. Machines need to be replaced after seven or eight years, but companies certainly won't replace them every day; they will concentrate on replacing them at a certain time.
+What are the constraints? The
+lifespan of fixed assets and the company's investment capacity. Equipment
+cannot break down immediately; under normal circumstances, it can be used for seven or eight to ten years. Companies also have limited funds; they
+cannot invest on a large scale every year. Investments have
+cycles. They dare to invest only when they make money; they
+dare not invest when they lose money. The Kuznets cycle, a
+15-25 year construction cycle, was discovered by
+Kuznets in 1930 when studying the US economy. It is also called the housing cycle. He was the 1971 Nobel Prize laureate in
+economics and a master of studying long-term economic growth. How does this cycle occur? The real estate investment cycle is longer because houses are used for longer periods; a single building can last for decades or even centuries. Therefore, the investment
+cycle in the construction industry is also
+longer. Furthermore, real estate investment is closely related to population cycles. When there are many young people buying houses, the demand for marriage is high, leading to robust real estate investment. Once this generation has bought their homes, the next generation hasn't yet grown up, causing real estate investment to shrink. What are the constraints? Population growth, urbanization,
+and land supply. When urbanization is rapid, a large influx of
+people from rural areas into cities creates
+strong demand for
+housing. When urbanization slows down, those who should have moved to the city have already moved, leading to a shrinking demand for housing.
+Population structure is also a constraint. When there are many
+young people, the proportion of the 20-35 age group is high, resulting in strong demand for housing. As the population ages, the proportion of this age group declines,
+weakening demand for housing.
+Land is also a constraint. There's only so much land in the city center; once developed, it's gone. Expansion must either extend to the suburbs or increase the floor area ratio. However, there are limits to suburban expansion and floor area ratio increases. The Kondratiev cycle, a
+50-60 year innovation cycle, is the longest cycle. This is what we often call the Kondratiev wave, proposed by the Soviet economist Kondratiev in 1926. He studied economic data from Britain, France, the United States, and Germany from 1780 to
+1920 and found that there was a major cycle roughly every 50 to 60 years. Unfortunately, after proposing this
+theory, he was arrested by the Soviet government on charges of counter-revolution and executed in 1938. The charges were that he promoted the theory of capitalist cycles and undermined the legitimacy of the Soviet planned economy. However, his theory has survived and been verified countless times. He
+discovered that each major cycle corresponds to a technological revolution: the first from 1780 to 1850 – steam engines and textiles; the second from 1850 to 1900 – railways and steel; the third from 1900 to 1950 –
+electricity and chemicals; the fourth from
+1950 to 2000 – automobiles and electronics; and the fifth from 2000 to the present – ​​information technology and the internet. Schumpeter later further developed this theory, proposing the concept of creative destruction. He said that the essence of capitalism is creative destruction; with the emergence of new technologies, old
+industries are eliminated. Horse-drawn carriages were replaced by automobiles, gasoline lamps by
+electric lights, telegraphs by telephones, and
+telephones by
+the internet. Each technological revolution brings decades of
+prosperity. However, when this technological paradigm reaches its limit, growth stagnates, and a new cycle begins only after the next
+revolutionary
+technology emerges. What are the constraints? The limits of technological paradigm diffusion. No matter how much you improve the steam engine, its efficiency is limited. No matter how many railways are built, there are only
+a few main lines. No matter how widespread automobiles become, a family will only have two or three. No matter how much the internet is promoted, the number of users is only a few billion globally. Every
+technological paradigm has its ceiling. When penetration approaches 100%, there is no more incremental
+growth, only replacement of existing stock. At this point, economic growth slows down. What happens then? Overinvestment, overcapacity, price crashes, bankruptcies, financial crises, and a prolonged economic recession. Economic prosperity only resumes when the next
+revolutionary technology emerges and
+new investment opportunities arise. However, technological breakthroughs
+are accidental;
+you
+can't have
+them just because you want them. It might take 10 years, or it might take 20 years.
+This is the recession phase of the Kondratiev
+wave. Let's use an abstract, nested structure to explain how the complexity of real-world cycles occurs. This nested structure has three layers. The first layer, at its core, is the cycle of human fear and greed. Traditional
+economics assumes that people are
+rational,
+but in reality, people are fundamentally irrational. Imagine a perfect world with unlimited resources, unchanged credit, unchanged policies, and unchanged technology.
+Would there still be cycles? Of course, because people experience fear and greed. The stock market is the best example. The same company, with unchanged fundamentals and profits, can see its stock price rise from $10 to $100, then fall back to $10. Why? Because the
+market is pricing in expectations, and expectations are self-reinforcing. When prices rise, people think they will rise further, so they buy, pushing up prices. The rising prices validate the expectations, making them even stronger. The media also fuels the fire, and FOMO (Fear of Missing Out) begins to spread. This is positive feedback.
+However, positive feedback loops have limits. Once
+prices rise to a certain level, the rate of new capital
+entering the market can no longer keep up with the greed of existing capital, so a reversal begins. As soon as selling begins, the upward trend stops.
+Those who chased the high panic and start selling. The more people sell, the faster prices fall, and the
+greater the panic. Stop-loss orders are triggered, leverage is liquidated, and a stampede
+begins. This
+cycle is entirely a pendulum swing of human nature, unrelated to external constraints. Keynes's beauty contest theory illustrates this point: you're not choosing the most beautiful person, but rather guessing who others will choose. This game generates spontaneous fluctuations, even if beauty itself is constant. Soros's theory of reflexivity goes a step further: participants' perceptions influence reality, and reality, in turn, influences perceptions. A rising stock price makes it easier for a
+company to raise funds, which allows for expansion. Expansion leads to better performance, which in turn drives up the stock price—a positive feedback loop. The reverse is also true. Therefore, financial markets are inherently unstable, naturally prone to bubbles and crashes. The second
+layer, the intermediate layer, involves the cyclical changes of specific constraints. In the real world, constraints are
+not constant
+but cyclical.
+These changes don't arise out of thin air but are driven by larger, higher-level constraints, such as the credit cycle. Why does the
+government sometimes loosen credit and sometimes tighten it? Because there's a larger constraint behind it: fiscal sustainability. When the economy is weak, the government
+stimulates growth by loosening credit, lowering interest rates, and expanding the fiscal deficit. This stimulates the
+economy, but at the cost of rising debt and inflation. When the debt ratio becomes too high or inflation becomes too severe, fiscal constraints come into play. A high debt ratio
+means… A large portion of fiscal revenue goes towards debt repayment, leaving no money for construction. Inflation becomes too high, unbearable for ordinary people, leading to social instability. The
+government realizes that if this continues, fiscal collapse and social instability will ensue, so it must tighten credit, raise interest
+rates, and
+reduce the fiscal deficit.
+This controls
+debt and inflation, but at the cost of economic recession. Businesses can't borrow money, investment decreases, employment decreases, and consumption decreases, creating a vicious cycle. When the economic recession reaches a certain point,
+unemployment becomes too high, businesses collapse en
+masse, and
+social instability returns.
+The government can't withstand the pressure, so it has to loosen restrictions again. This is a nested hierarchy of constraints: economic growth requires credit;
+credit
+expansion is constrained by inflation and debt; inflation and debt are constrained by fiscal sustainability and social stability. Each cycle is driven by the constraints of the layer above. The third and outermost layer, the fundamental constraint, is a slow-moving variable:
+fiscal sustainability. What constrains it? It's the political system. In democratic countries, the election cycle is four years. Politicians
+wanting re-election must produce results during their term. How to achieve results quickly? Monetary stimulus,
+lowering
+unemployment, increasing GDP, and boosting the stock market, making voters
+happy. As for the risk of inflation
+due to debt accumulation, that's a matter for the next administration. China's situation is slightly different. China doesn't have an electoral system, but it has another constraint: growth targets. To maintain growth, local governments rely on land revenue and urban investment bonds, leading to excessively high debt levels. The
+central
+government then has to deleverage. However, once deleveraging reaches a certain point,
+economic
+growth slows, employment pressure increases, and the central government may have to loosen monetary policy again to stabilize growth. The 2020 pandemic led to further monetary easing, and in 2021, growth picked up,
+so tightening began again.
+This is why
+China's credit cycle is particularly pronounced and shorter than that of the US. Behind each tightening or loosening is a struggle between growth targets and debt sustainability. Looking further ahead, there
+are also constraints from technological
+paradigms.
+Fiscal sustainability is constrained by
+economic growth potential, which in turn is
+constrained by technological
+progress. The mobile internet paradigm experienced rapid expansion from
+2010 to 2020, with the widespread adoption of 4G, smartphones, and apps, creating numerous jobs and tax revenues. Rapid government tax revenue growth and low fiscal pressure allowed for a higher debt ratio. However, by 2020, this paradigm had essentially matured. 5G arrived, but it didn't bring new application scenarios. The
+maturity of a technological paradigm means that growth has peaked. Peak
+growth leads to greater fiscal pressure, which in turn necessitates tighter credit. The Federal Reserve began
+aggressively raising interest rates in
+2022, from 0% to over 5%, precisely because inflation had risen and debt had become
+too high. Therefore, a complete cycle consists of these three overlapping layers. When these three layers resonate, it presents a once-in-a-lifetime opportunity. The 2008 financial crisis exemplifies this. At the time, there was extreme panic, with volatility indices soaring above 80. Central banks around the world began to inject liquidity, and the
+Federal
+Reserve drastically reduced interest rates to zero, initiating quantitative easing. The eve of the mobile internet technology revolution saw the release of the iPhone, the establishment of the App Store, and the initial widespread adoption of 3G networks. When these three cycles resonate simultaneously, a bull market lasting over a decade ensues. The Nasdaq
+rose
+from less than 1,300 points to 24,000 points, an increase of nearly 20 times. Apple, Amazon, and Google all
+saw increases of several dozen times. Many people believe that consumer technology
+industries have no cycles, which is a grave mistake. Let's first discuss consumption. Many say that food is the most important thing for people, and consumption is an eternal need, so how can it have cycles? There are too many constraints on consumption. The first constraint is income. During periods of rapid economic growth in developed countries, consumption appears robust. Wages
+rise by 10%, housing prices by 20%, and stocks are profitable. The wealth effect is at play; you
+feel increasingly wealthy and are willing to
+spend, even borrow money. However, when economic growth slows, assets stop appreciating, the wealth effect disappears, housing
+prices stagnate or even fall, and stock accounts
+stop generating profits. Although wages may still be rising, the rate of increase slows. You find yourself not becoming richer, and may even be becoming poorer. At this point, consumption immediately shrinks. The
+second constraint is debt.
+Developed countries generally have high household leverage ratios. A large portion of people's monthly income goes towards debt repayment: mortgages, car loans, credit card debt, student loans. Only after repaying these loans can they consume. Before 2008, the US engaged in rampant leverage.
+After the bubble burst,
+housing prices fell, but debt remained. For many, the value of their homes was now lower than their loan amounts. The
+pressure of
+debt
+repayment crushed their consumption capacity. It took US households 10 years to deleverage before consumption finally picked up. The third constraint is demographic constraints.
+Young people aged 20-35 are buying
+houses, cars, getting married, and having children, resulting in extremely strong consumption demand. Meanwhile, older people over 60 have already bought houses... With children and increased independence, consumer desires have declined significantly. Developed countries are generally entering an aging society, meaning a necessary shift in consumption patterns.
+Japan experienced sluggish consumption after the 1990s, and Europe followed suit after the 2010s. This wasn't a
+sudden decrease in consumer spending, but rather a change in the constraint of population structure. The
+fourth constraint is the expectation constraint: consumption depends not only on current income but also on expectations of future income. After the 2008 financial crisis, massive unemployment, plummeting housing prices, and shrinking
+401(k) retirement accounts led to widespread pessimism about the
+future. Even those with jobs and unchanged wages dared not spend. This
+explains why the US household savings rate surged from 2% to over 8%
+after 2009, and this is happening in China today. Regarding the technology industry, many believe it experiences exponential growth without cycles. We can only say that innovation is endless, but specific technology sectors always have cycles. The dot-com bubble of 2000 saw the
+Nasdaq plummet from 5,000 points to
+1,000 points, an 80% drop. In the
+1990s,
+Japan's electronics industry collapsed, destroying former global giants like Sony, Panasonic, Sharp, and Toshiba. The tech industry is struggling, and its cycles may be more drastic than those of traditional industries because technological iteration is too rapid, making it easier for competitive advantages to be overturned. The first constraint is the expansion limit of technological paradigms. Every technological paradigm has its diffusion curve. Initially, it experiences exponential growth, with penetration rates increasing rapidly from 1% to 5%, and from
+5% to 20%. However, once penetration approaches saturation, growth slows from 50% to
+80%. PC internet, from 1995 to 2007, saw penetration rates rise from a few percentage points to over 70%, a golden age. But by 2007, everyone who needed internet access was already online. Mobile internet, from 2007 to 2020, represents another new paradigm. But by 2020, everyone who needed a smartphone had already bought one. With only about 8 billion people globally, excluding children and the elderly, almost
+every adult owns a phone.
+Growth has plateaued. 5G hasn't brought new application scenarios. What will be the next paradigm? Perhaps AI, perhaps Web 3, but it's still unclear. Before a new paradigm emerges, mobile internet will enter a period of competition for existing users, and
+growth will slow.
+The second constraint is the cycle of capital expenditure. The technology industry requires massive capital investment. Data centers, chip manufacturing, and fiber optic network R&D all require significant investment. When everyone is investing, overcapacity occurs, leading to a price crash. The semiconductor industry is a prime
+example. During boom times,
+chip supply falls short of demand, prices soar, and all
+companies expand. New factories are built, increasing production capacity. However, demand does
+n't necessarily grow at the same pace, resulting in overcapacity, a price crash, and losses for companies. Those with severe losses go bankrupt or are acquired. The third
+constraint is regulatory oversight. As technology companies grow large, they
+inevitably face antitrust scrutiny.
+Microsoft faced antitrust investigations in the 1990s and nearly broke up; Google was
+fined billions of euros by the EU. Once regulatory constraints tighten, the expansion of technology companies is limited, and growth slows. Therefore, the technology industry also has cycles. No
+industry is without cycles; as long as there are constraints, there are cycles. Understanding the essence of cycles allows us to understand the investment logic of cyclical stocks. Cyclical stocks experience three phases during boom periods, corresponding to the first, third, and fifth waves in Elliott Wave Theory. The first phase, the capacity clearing phase (wave one), is crucial not for product prices
+but for the supply-demand inflection point. Many people wait until product
+prices start to rise... It might be too late to
+buy cyclical
+stocks now. The real buying opportunity is when the supply-demand inflection point appears. What is the supply-demand inflection point? It's when supply has contracted to a relatively low level, and demand has begun to pick up. The two lines are
+about to intersect. At this time, product prices may still be falling, even hitting new lows. The
+industry is in a bleak state,
+companies are suffering huge losses, and the media is
+predicting a downturn. However, stock prices have already
+started to rise because stock prices are priced in the future, not the present. The lithium mining market from 2019 to 2020 is a typical example. In 2018, the price of lithium carbonate plummeted from 170,000 yuan per ton to just over 40,000 yuan at the beginning of 2020, a drop of 75%.
+Everyone thought lithium was finished and that the overcapacity problem would never be solved. But those who understand cycles are looking at the supply side.
+When lithium prices fell below 50,000 yuan, a large number of high-cost lithium mines shut down. A number of small mining companies in Australia went bankrupt. Salt lake projects in South America were delayed. Capital expenditures
+plummeted. Supply was rapidly contracting. At
+the same time, what was happening on the demand side? The penetration rate of
+electric vehicles was accelerating. Tesla Model 3 was selling well globally, and Chinese companies like BYD and NIO were rising. Europe also began implementing carbon emission regulations, forcing automakers to produce electric vehicles. Governments around the world started subsidizing new energy vehicles, and demand was rising rapidly. Although
+lithium prices were still at their bottom in early 2020, the inflection point between supply and demand had already appeared, and lithium mining stocks began to rise. By 2021,
+lithium prices had really skyrocketed, and lithium mining stocks had multiplied several times over. So at this stage, you should
+not look at product prices,
+but at the hard data on the supply side. For
+lithium mining, look at global
+capital expenditure
+and new capacity; for copper mining, look at mine capital expenditure and new project
+commissioning plans; for iron ore, look at the production guidance of the four major
+mining
+companies. When capital expenditure falls to historical lows, when new capacity drops precipitously, and when no new mines come online, the
+bottom of supply may be approaching. At this time, even if product prices are still falling, you should start to position yourself.
+This stage is the most counterintuitive. The media is pessimistic, analysts are downgrading ratings, and financial statements are dismal, but
+you should buy contrarian. Most people can't do it because they are looking at what has already happened, not what is about to happen. Remember, don't wait for product prices to rise before buying. By then, the first wave has already ended. The second stage is the stage of simultaneous
+price and volume increases, which is the third wave. During this stage, product prices begin to rise, sales increase,
+and profits explode.
+This is the easiest stage to make money in, and also the stage with the most dramatic price increases. Why?
+Because the continuous rise in product prices has a very direct and strong stimulus to the market. Prices rise from 50,000 to 100,000, and the media
+starts reporting on the surge in lithium prices. From 100,000 to 200,000, lithium prices hit a new high. From 200,000 to 400,000, lithium is more expensive than gold; with lithium, you can go anywhere. Everyone is using
+calculators to calculate
+performance. The dynamic
+PE ratio drops from 100 times to 20 times, from 20 times to 10 times, and from 10 times to
+5 times, looking increasingly
+cheaper. During this stage, fundamentals and stock prices resonate in the same direction: prices rise, sales rise, performance rises, and stock prices rise—a positive feedback loop. However, there is an exception. If the stock price rises too sharply in the first wave, prematurely exhausting the valuation, and the
+product price increase is not dramatic enough, then the third wave may not follow.
+The market is too optimistic in the first wave, prematurely incorporating the gains of several years into the valuation. When
+performance truly explodes... Unless prices rise significantly more than expected,
+stock prices may stagnate. A key indicator for
+judging when the third wave ends is the supply-side reaction. When product prices rise to a certain level, new capacity will inevitably enter the market; this is a market law that no one can stop. This was the case with lithium mines
+in 2021. Lithium carbonate
+prices rose from 50,000 yuan per ton to 500,000 yuan, a tenfold increase. At this time, global lithium mine projects were accelerating production; new projects were being launched everywhere—Australia, Chile, Argentina, and Africa. Global lithium mine supply was expected to expand from
+500,000 tons of LCE in 2020 to over
+2 million tons by 2025. When you see a significant
+increase in new capacity, a surge in industry capital expenditure, and capacity utilization returning to
+over 90%, this is a signal that supply constraints are easing, and the price ceiling is approaching. The
+third stage is the earnings release stage, also known as the fifth wave. This stage is the most complex and dangerous.
+Product prices may still be high, or even slowly rising. Company performance may increase significantly quarter-on-quarter, and stock prices may continue to reach
+new highs. However, this is precisely when the risk is greatest. Why? Because there are too many variables
+affecting stock prices at
+this stage: the pace of earnings release, changes in product prices, the speed of new capacity deployment, and changes in demand. Policy changes, market expectations—any one of these variables can cause a stock
+price crash. Once the cycle reverses, the drop is often not just 10% or 20%, but a 50% or even 70% or 80% plunge. My operational principle for this
+phase is: do not open new positions. If you've held your shares through the first and third
+waves, your focus at
+this stage
+shouldn't be on buying more, but on when to sell. At this stage, the trend of product prices is far more important than valuation and performance. Many people are still using calculators to calculate valuations. They think a PE ratio of 10 is
+cheap,
+but that's useless. PE is a lagging indicator. What you need to watch is the trend of product prices. If product
+prices are still rising and the economic climate is still improving, then you can continue to hold.
+If product prices start to stagnate, trading sideways for several months
+without rising further, then you need to be wary. If product prices start to fall slightly,
+even by just a few points, but the trend has changed,
+you must decisively reduce your holdings. A reversal of the economic cycle is only a matter of
+time. Once prices start to fall, they will accelerate. This is exactly what happened with lithium prices
+in the second half of 2022. Prices stagnated from a high of 600,000, rose for two months, and then fell slightly to 550,000, 500,000, and 450,000.
+Many people are still using calculators to calculate PE ratios.
+Look, the PE ratio is only 5 now, super
+cheap. But lithium
+prices continue to fall, from 400,000 to 350,000, then 200,000, all the way down to 100,000 in 2023. Stock prices have halved from their peak, and many lithium mining
+stocks have fallen by more than 70%. Why? Because the supply side has reacted. When lithium prices rose to 600,000, all
+lithium mining projects worldwide were frantically expanding production, resulting in an explosive increase in supply. Projects were concentrated in one phase, leading to a marginal reversal between supply and demand. Although demand is still growing, the growth rate has slowed. Battery manufacturers' lithium salt
+inventories and car manufacturers' battery inventories are increasing. With the supply and demand reversal, prices collapsed. Another scenario: if you can't judge the trend of product prices, if you're not confident about the direction of the economic cycle, then just
+sell everything. Because if you've been right all along, holding from wave one to wave five, from 10 yuan to 300 yuan, you've already made 30 times your initial investment. This stage has so many variables, and if you can't grasp it, why take the risk? Take profits when you can. More importantly, if you didn't participate in the previous stages, don't enter the third stage. Many people saw
+lithium mining stocks repeatedly hitting new highs in 2022. Seeing
+lithium mining
+companies' quarterly profits in the billions or tens of billions, and witnessing the industry's boom, makes one unable to resist
+chasing the market. This is typical of retail investors who get burned. What
+you see as prosperity may be the peak of the cycle; what you think is the beginning may be the end. These people who chase the highs
+haven't experienced the
+first wave of capacity clearing, nor the third wave of price and volume
+surges. They completely lack understanding of the cycle's rhythm. They only
+see the prosperity, not the hidden dangers behind it. The most difficult part is switching cognitive frameworks between the three stages. In the first wave, ignore financial data and look for supply and demand inflection points. In the
+third wave, focus on product prices and profit explosions. In the fifth wave, ignore valuations and only look at
+product price trends and stock price
+technical trends. Most people can't do this because they use a so-called value investing framework to view all stages. Using a financial framework, in the first wave, they see such severe losses that they dare not buy. In the fifth wave,
+they see product prices still high and company performance
+so good that
+they are reluctant to
+sell. As a result, they hold from the peak all the way to the crash, giving back all their profits. True cycle masters are those who can
+switch freely between the three stages. More importantly, they know when to enter and when to exit.
+Entering the market requires courage because it requires buying against the trend amidst
+widespread pessimism. Leaving requires wisdom, because it means decisively withdrawing from a period of prosperity. Everything has a cycle, life has a cycle, and families have cycles. The cycle of life is also a combination of constraints and inertia. Constraints are your background, your resources, and your cognitive boundaries. Inertia is your habitual thinking, behavioral habits, and class inertia. But most people don't understand this cycle. They think their peak is forever and that there are no constraints on upward movement. Wrong!
+True social class
+isn't measured by your peak glory, but by what you have left when you're at your lowest point. Like a stock after the bubble has been removed, its true value lies in its market capitalization. Li Si, who rose to the position of Prime Minister in the Qin Dynasty, reaching the pinnacle of power, wept bitterly before his death in the marketplace of Xianyang, saying, "I wish we could go back to the days of hunting rabbits with our yellow dog outside the east gate of Shangcai! Is that possible?" He longed to return to the
+past, to those
+days of hunting rabbits with dogs in the countryside. Could he go back? No. Not only could he not go
+back, but he was utterly wiped out, his entire family wiped out. The Jia family in *Dream of the Red Chamber*, with its halls of jade
+and horses of gold, its extravagant lifestyle, even the Empress Dowager sent gifts for Grandmother Jia's birthday—they seemed to possess
+boundless wealth and power, destined for generations to come. But in the end, it was like birds returning to their nests after their food was eaten, leaving behind a desolate, white expanse. After their property was confiscated, the Jia family was so poor they didn't even have decent clothes. The same is
+true in modern times. At his peak,
+Xu Jiayin's
+net worth exceeded 200 billion. China's richest man, Evergrande's properties are all over the country, his football team has won numerous championships, he was always surrounded by entourages at banquets, a business leader—
+and what happened? He's now imprisoned, his
+overseas assets are frozen, and he faces global debt collection. After
+decades of hard work, for whom did he toil and for whom did he reap the rewards? Then look at Pan Shiyi. At the peak of
+SOHO China, he was also a real estate tycoon. But Pan Shiyi started selling
+properties in 2014, and in 2021, he sold the entire
+SOHO China to Blackstone. Now, Xu Jiayin is in jail,
+sewing, while Pan Shiyi and his wife are laughing and joking in
+the US. So, the truly smart people, the true aristocrats, are not those who are most glamorous at the peak, but those who can maintain their bottom line during every trough. What does it mean to maintain your bottom line? It means that in every downturn of your life, your trough is higher than the last. This is
+true class advancement. It's not about how high your peak is, but how high your trough is. The peak might be due to luck, leverage, or the dividends of the times, but the trough reveals your true strength, your understanding, your resources, your network, and your risk
+management ability. If you are a proletarian during your trough, then you are a proletarian. No matter how glorious your peak, if you remain aristocratic and bourgeois during your troughs, then you've truly become aristocratic and
+bourgeois. What is class? I'm
+not even talking about intergenerational inheritance; if you can't even secure your own future, how can you dare say you've elevated your class? So today, I'm talking about cycles, not just about investment,
+but about life.
+You need to understand the laws of cycles and even more so, respect their power. When
+you're at the height of your power, remember that the rabbit caught in the East Gate can never be caught again. When you're enjoying the prosperity of life, remember the desolation of the past. In the high phase of each cycle, prepare for the trough of the next cycle, elevate your trough, and hold your bottom line. Each trough should be higher than the last; only then can
+you create compound interest. Only then will your life and your family truly be on a
+path of great fortune, truly on the road to defying fate. That's all for this video. See you next time.
