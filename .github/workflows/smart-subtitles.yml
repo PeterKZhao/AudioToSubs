@@ -31,10 +31,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: smart-subtitles
-  cancel-in-progress: false
-
 jobs:
   smart_subs:
     runs-on: ubuntu-latest
