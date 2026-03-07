@@ -10,7 +10,7 @@ on:
       langs:
         description: "优先字幕语言（逗号分隔/可正则）"
         required: false
-        default: "zh.*,.*orig,en.*"   # ← 唯一改动
+        default: "zh.*,.*orig,en.*"
         type: string
       whisper_model:
         description: "Whisper模型：tiny/base/small/medium/large"
@@ -43,6 +43,7 @@ jobs:
         with:
           persist-credentials: true
           fetch-depth: 0
+          ref: main
 
       - name: Setup Node.js (for yt-dlp JS challenges)
         uses: actions/setup-node@v4
@@ -122,9 +123,9 @@ jobs:
             --sub-format "vtt/best" \
             --convert-subs srt \
             -o "${OUT_DIR}/%(title).200s_%(id)s.%(ext)s" \
-            "${URL}" \
             "${COOKIE_ARGS[@]}" \
-            "${UA_ARGS[@]}"
+            "${UA_ARGS[@]}" \
+            "${URL}"
 
       - name: Decide if Whisper is needed (fallback)
         id: postcheck
@@ -159,9 +160,9 @@ jobs:
             --js-runtimes node --remote-components ejs:github \
             -f "bestaudio/best" \
             -o "work/%(id)s.%(ext)s" \
-            "${URL}" \
             "${COOKIE_ARGS[@]}" \
-            "${UA_ARGS[@]}"
+            "${UA_ARGS[@]}" \
+            "${URL}"
 
       - name: Whisper generate subtitles (SRT+TXT+VTT) into per-video folder
         if: steps.postcheck.outputs.need_whisper == 'true'
@@ -216,9 +217,33 @@ jobs:
             exit 0
           fi
 
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add subs
           git commit -m "Add subtitles: ${VIDEO_ID} (${URL})" || exit 0
-          git push
+
+          max_attempts=6
+          attempt=1
+
+          while (( attempt <= max_attempts )); do
+            echo "Push attempt ${attempt}/${max_attempts}"
+
+            if ! git pull --rebase origin main; then
+              git rebase --abort || true
+              echo "Rebase failed. Another run may have touched the same files."
+              exit 1
+            fi
+
+            if git push origin HEAD:main; then
+              echo "Push succeeded."
+              exit 0
+            fi
+
+            echo "Push failed because remote main moved. Retrying..."
+            sleep $(( attempt * 2 ))
+            attempt=$(( attempt + 1 ))
+          done
+
+          echo "Push failed after ${max_attempts} attempts."
+          exit 1
