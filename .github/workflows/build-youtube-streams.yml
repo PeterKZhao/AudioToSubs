@@ -12,10 +12,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: youtube-streams-index
-  cancel-in-progress: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
