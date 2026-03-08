@@ -1,0 +1,1584 @@
+1
+00:00:02,966 --> 00:00:04,433
+Hi everyone,
+
+2
+00:00:04,433 --> 00:00:06,400
+if you're interested in AI, you
+
+3
+00:00:06,400 --> 00:00:09,100
+'ve probably heard of Hugging Face a lot,
+
+4
+00:00:09,100 --> 00:00:11,133
+but what exactly is Hugging Face?
+
+5
+00:00:11,133 --> 00:00:12,233
+In short,
+
+6
+00:00:12,233 --> 00:00:15,366
+it's a platform that specifically collects various AI models.
+
+7
+00:00:15,366 --> 00:00:17,800
+You can think of it as the App Store for AI, offering a
+
+8
+00:00:17,800 --> 00:00:21,100
+wide variety of AI models for you to try out.
+
+9
+00:00:21,100 --> 00:00:22,533
+In today's video,
+
+10
+00:00:22,533 --> 00:00:26,200
+I'll introduce how to make good use of Hugging Face's AI models,
+
+11
+00:00:26,200 --> 00:00:29,033
+including operating them directly in your browser
+
+12
+00:00:29,033 --> 00:00:31,800
+and downloading them to your computer
+
+13
+00:00:31,800 --> 00:00:34,200
+for greater freedom.
+
+14
+00:00:34,200 --> 00:00:36,933
+Okay, after opening the Hugging Face website,
+
+15
+00:00:36,933 --> 00:00:39,200
+first, click the "Sign Up" button in the upper right corner
+
+16
+00:00:39,200 --> 00:00:41,100
+to register a new account.
+
+17
+00:00:41,100 --> 00:00:44,833
+On the user information page, check the box to agree to the terms of service and
+
+18
+00:00:44,833 --> 00:00:46,266
+click "Create."
+
+19
+00:00:46,266 --> 00:00:47,800
+In the top navigation bar,
+
+20
+00:00:47,800 --> 00:00:49,633
+there's a "Models" button, which contains
+
+21
+00:00:49,633 --> 00:00:53,000
+over 2.5 million AI models. The easiest way to
+
+22
+00:00:55,066 --> 00:00:57,466
+find an AI model that meets your needs from such a huge library
+
+23
+00:00:57,466 --> 00:01:01,133
+is by "Task Type."
+
+24
+00:01:01,133 --> 00:01:03,300
+For example, if you want to generate images,
+
+25
+00:01:03,300 --> 00:01:06,700
+you can enable the "Text to Image" category below.
+
+26
+00:01:06,700 --> 00:01:10,200
+In addition, there's a very useful sorting function in the upper right corner.
+
+27
+00:01:10,200 --> 00:01:13,766
+You can select "Trending" to view recently popular models,
+
+28
+00:01:13,766 --> 00:01:18,233
+or apply different sorting criteria such as "Most Likes" and "Most Downloads."
+
+29
+00:01:18,233 --> 00:01:20,600
+Okay, let's jump right into the first model
+
+30
+00:01:20,600 --> 00:01:22,866
+and see what's interesting inside.
+
+31
+00:01:22,866 --> 00:01:25,066
+This model is called Z-Image, and the
+
+32
+00:01:25,066 --> 00:01:28,466
+development team is Alibaba's "Tongyi Lab".
+
+33
+00:01:28,466 --> 00:01:31,133
+Below the model name, there's a row of labels
+
+34
+00:01:31,133 --> 00:01:34,500
+listing the model's most important features and related information,
+
+35
+00:01:34,500 --> 00:01:36,766
+such as the main supported languages,
+
+36
+00:01:36,766 --> 00:01:39,666
+links to the model's papers, and licensing types.
+
+37
+00:01:39,666 --> 00:01:42,033
+Below that, there's some text and image information,
+
+38
+00:01:42,033 --> 00:01:44,933
+which is basically the model's "user manual,"
+
+39
+00:01:44,933 --> 00:01:47,233
+introducing the model's development background
+
+40
+00:01:47,233 --> 00:01:50,100
+and some usage precautions.
+
+41
+00:01:50,100 --> 00:01:53,033
+Okay, so how do we use this model?
+
+42
+00:01:53,033 --> 00:01:54,466
+For beginners, the
+
+43
+00:01:54,466 --> 00:01:58,700
+simplest way is through the Inference Providers section.
+
+44
+00:01:58,700 --> 00:02:00,500
+Inference Providers are
+
+45
+00:02:00,500 --> 00:02:03,000
+essentially service providers that help you "run models."
+
+46
+00:02:03,000 --> 00:02:06,166
+Users don't need to worry about their computer's capabilities
+
+47
+00:02:06,166 --> 00:02:09,133
+or installation and setup issues.
+
+48
+00:02:09,133 --> 00:02:14,033
+Hugging Face offers free users a $0.10 monthly credit.
+
+49
+00:02:14,033 --> 00:02:15,900
+If you feel this isn't enough,
+
+50
+00:02:15,900 --> 00:02:18,133
+you can upgrade to a Pro account, which
+
+51
+00:02:18,133 --> 00:02:20,800
+will have a $2 monthly credit.
+
+52
+00:02:20,800 --> 00:02:23,533
+Alternatively, you can switch to a pay-as-you-go plan.
+
+53
+00:02:23,533 --> 00:02:25,033
+For this plan,
+
+54
+00:02:25,033 --> 00:02:28,300
+you need to link a credit card to Hugging Face.
+
+55
+00:02:28,300 --> 00:02:29,566
+After linking,
+
+56
+00:02:29,566 --> 00:02:31,800
+you can switch to the next tab and
+
+57
+00:02:31,800 --> 00:02:34,600
+click the Add button to top up.
+
+58
+00:02:34,600 --> 00:02:37,666
+Of course, you don't necessarily have to go through Hugging Face.
+
+59
+00:02:37,666 --> 00:02:41,033
+If you're already a paying user of an AI service provider,
+
+60
+00:02:41,033 --> 00:02:43,100
+simply go to the "Settings" tab,
+
+61
+00:02:43,100 --> 00:02:45,300
+find the service provider's name,
+
+62
+00:02:45,300 --> 00:02:48,633
+and enter the API key you obtained from them.
+
+63
+00:02:48,633 --> 00:02:51,500
+When you use these models on Hugging Face, the
+
+64
+00:02:51,500 --> 00:02:55,500
+cost will be directly deducted from the service provider's account.
+
+65
+00:02:55,500 --> 00:02:58,500
+Okay, here's a random prompt:
+
+66
+00:02:58,500 --> 00:03:01,400
+ask the AI ​​to generate a young woman with long hair.
+
+67
+00:03:01,400 --> 00:03:03,933
+The background is an alleyway in a European town.
+
+68
+00:03:03,933 --> 00:03:05,366
+Clicking "Generate"
+
+69
+00:03:05,366 --> 00:03:09,400
+will generate an image that matches our description.
+
+70
+00:03:09,400 --> 00:03:12,000
+Okay, besides using Inference Providers,
+
+71
+00:03:12,000 --> 00:03:15,766
+another quick way to experience AI models is through Spaces.
+
+72
+00:03:15,766 --> 00:03:18,733
+If you think of an AI model as a "product,"
+
+73
+00:03:18,733 --> 00:03:21,900
+then Spaces are like "personal stores" in an online marketplace.
+
+74
+00:03:21,900 --> 00:03:25,233
+Each store uses its own way to package and display its products,
+
+75
+00:03:25,233 --> 00:03:27,866
+and even provides some value-added services.
+
+76
+00:03:27,866 --> 00:03:29,500
+In the navigation bar above,
+
+77
+00:03:29,500 --> 00:03:31,666
+you can find the Spaces button.
+
+78
+00:03:31,666 --> 00:03:34,433
+Clicking it will take you to a display page.
+
+79
+00:03:34,433 --> 00:03:37,933
+We can explore different Spaces through the categories below.
+
+80
+00:03:37,933 --> 00:03:41,233
+For example, here I've entered the "Image Generation" category.
+
+81
+00:03:41,233 --> 00:03:43,266
+Clicking on Z-Image,
+
+82
+00:03:43,266 --> 00:03:47,666
+you'll find that although the same AI model is running behind this Space,
+
+83
+00:03:47,666 --> 00:03:50,733
+this page offers more interactive options. For example,
+
+84
+00:03:50,733 --> 00:03:53,000
+you can specify in the "Negative Hints" field that the
+
+85
+00:03:53,000 --> 00:03:55,933
+generated image should not contain "trees."
+
+86
+00:03:55,933 --> 00:03:58,100
+You can also specify the image resolution
+
+87
+00:03:58,100 --> 00:03:59,866
+and aspect ratio,
+
+88
+00:03:59,866 --> 00:04:02,733
+such as applying a widescreen 16:9 ratio.
+
+89
+00:04:02,733 --> 00:04:04,466
+Finally, clicking "Generate"
+
+90
+00:04:04,466 --> 00:04:08,633
+will generate an image of a puppy playing with a ball on the grass.
+
+91
+00:04:08,633 --> 00:04:10,400
+Okay, you'll notice
+
+92
+00:04:10,400 --> 00:04:12,433
+a small green label at the top of the page.  The text
+
+93
+00:04:12,433 --> 00:04:14,533
+inside says "Running on Zero,"
+
+94
+00:04:14,533 --> 00:04:18,300
+which is a "GPU sharing" feature from Hugging Face. It
+
+95
+00:04:18,300 --> 00:04:21,966
+differs from the Inference Providers we introduced earlier in that
+
+96
+00:04:21,966 --> 00:04:25,633
+it charges based on the user's "duration."
+
+97
+00:04:25,633 --> 00:04:29,300
+Free users have about 4 minutes of usage per day,
+
+98
+00:04:29,300 --> 00:04:31,266
+while upgrading to a Pro account
+
+99
+00:04:31,266 --> 00:04:33,033
+extends this to 25 minutes,
+
+100
+00:04:33,033 --> 00:04:36,666
+giving you more time to explore different AI applications.
+
+101
+00:04:36,666 --> 00:04:39,200
+Okay, let's try another Space.
+
+102
+00:04:39,200 --> 00:04:41,833
+For example, this time we'll play with "speech synthesis." We'll
+
+103
+00:04:41,833 --> 00:04:44,966
+enter the first Qwen3-TTS
+
+104
+00:04:44,966 --> 00:04:48,466
+AI model, which can convert your input text into speech.
+
+105
+00:04:48,466 --> 00:04:50,533
+However, be careful; if you input Traditional Chinese, the
+
+106
+00:04:50,533 --> 00:04:53,600
+AI ​​might generate Cantonese narration.
+
+107
+00:04:53,600 --> 00:04:55,966
+Therefore, I've highlighted the sentence and
+
+108
+00:04:55,966 --> 00:04:58,966
+used the right-click menu to convert it to Simplified Chinese. Then, I'll
+
+109
+00:04:58,966 --> 00:05:01,933
+briefly describe the speech style and
+
+110
+00:05:01,933 --> 00:05:03,600
+click "Generate."
+
+111
+00:05:03,600 --> 00:05:05,333
+Okay, let's listen to it.
+
+112
+00:05:05,333 --> 00:05:07,133
+(No, stop talking!)
+
+113
+00:05:07,133 --> 00:05:09,500
+(I've heard enough of those high-sounding reasons!)
+
+114
+00:05:09,500 --> 00:05:12,033
+(Tonight, I just want to know whether you chose me
+
+115
+00:05:12,033 --> 00:05:14,000
+or chose to escape!)
+
+116
+00:05:14,000 --> 00:05:17,766
+OK, Hugging Face also has a feature that's great for beginners to experience AI models
+
+117
+00:05:17,766 --> 00:05:19,466
+called Hugging.  Chat
+
+118
+00:05:19,466 --> 00:05:21,600
+'s interface is very similar to ChatGPT; it
+
+119
+00:05:21,600 --> 00:05:24,266
+'s basically a large chat window.
+
+120
+00:05:24,266 --> 00:05:27,700
+You can switch between different open-source AI models in the lower left corner.
+
+121
+00:05:27,700 --> 00:05:31,766
+For example, I chose Kimi-K2.5, which has been generating a lot of discussion online recently.
+
+122
+00:05:31,766 --> 00:05:33,533
+Then we can
+
+123
+00:05:33,533 --> 00:05:35,700
+start chatting or enter questions through the dialog box at the bottom. We
+
+124
+00:05:35,700 --> 00:05:38,166
+can also upload files or pictures from our computer and
+
+125
+00:05:38,166 --> 00:05:41,033
+ask the AI ​​to do key summaries and data analysis.
+
+126
+00:05:41,033 --> 00:05:42,300
+Note that Hugging Chat
+
+127
+00:05:42,300 --> 00:05:45,000
+will also consume your account's usage limit.
+
+128
+00:05:45,000 --> 00:05:47,066
+Therefore, if your usage is relatively large,
+
+129
+00:05:47,066 --> 00:05:49,766
+remember to link your credit card and top up your account first. This way, you
+
+130
+00:05:49,766 --> 00:05:51,566
+don't have to worry about
+
+131
+00:05:51,566 --> 00:05:54,133
+running out of credit during use.
+
+132
+00:05:54,133 --> 00:05:57,533
+Okay, after trying some AI models on the Hugging Face website,
+
+133
+00:05:57,533 --> 00:06:00,933
+you might want to make some customized adjustments to a model
+
+134
+00:06:00,933 --> 00:06:03,400
+and integrate it into your own project. At
+
+135
+00:06:03,400 --> 00:06:05,700
+this time, we can consider
+
+136
+00:06:05,700 --> 00:06:09,133
+deploying these AI models on our local computer or on a cloud platform.
+
+137
+00:06:09,133 --> 00:06:11,000
+One popular
+
+138
+00:06:11,000 --> 00:06:14,133
+and beginner-friendly platform is Google Colab.
+
+139
+00:06:14,133 --> 00:06:17,033
+It's a cloud computer that you can use freely
+
+140
+00:06:17,033 --> 00:06:20,266
+and even provides free GPU computing resources.
+
+141
+00:06:20,266 --> 00:06:23,600
+Hugging Face has excellent integration with Google Colab,
+
+142
+00:06:23,600 --> 00:06:25,266
+and Hugging Face also provides a
+
+143
+00:06:25,266 --> 00:06:27,566
+very simple syntax called pipeline.  This
+
+144
+00:06:27,566 --> 00:06:29,600
+allows you to
+
+145
+00:06:29,600 --> 00:06:32,533
+quickly load Hugging Face's AI models with just a few lines of code.
+
+146
+00:06:34,100 --> 00:06:36,466
+For example, let's say I want to find an AI model
+
+147
+00:06:36,466 --> 00:06:40,100
+that can analyze whether customer reviews are positive or negative.
+
+148
+00:06:40,100 --> 00:06:42,600
+I can switch to the "Task" category and
+
+149
+00:06:42,600 --> 00:06:46,866
+use "Text Classification" as the filter.
+
+150
+00:06:46,866 --> 00:06:47,700
+Once found,
+
+151
+00:06:47,700 --> 00:06:50,500
+you can go directly to the Google Colab homepage and
+
+152
+00:06:50,500 --> 00:06:52,466
+click "Add Notebook."
+
+153
+00:06:52,466 --> 00:06:56,133
+To use Hugging Face's pipeline syntax in Google Colab,
+
+154
+00:06:56,133 --> 00:06:59,133
+we must first import the pipeline from a toolbox called "Transformers"
+
+155
+00:07:01,566 --> 00:07:04,033
+and then execute this line of code.
+
+156
+00:07:04,033 --> 00:07:05,166
+After execution,
+
+157
+00:07:05,166 --> 00:07:07,100
+we can type "pipeline" at the bottom
+
+158
+00:07:07,100 --> 00:07:09,766
+to call the AI ​​model we want to use. The
+
+159
+00:07:09,766 --> 00:07:12,933
+first parameter is the "Task" type, which is the
+
+160
+00:07:12,933 --> 00:07:16,466
+filter we just applied in Hugging Face.
+
+161
+00:07:16,466 --> 00:07:20,100
+So, I would type "text-classification" within the parentheses.
+
+162
+00:07:20,100 --> 00:07:22,666
+The second parameter is the model's "name." For
+
+163
+00:07:22,666 --> 00:07:24,666
+this, we just need to go back to Hugging Face,
+
+164
+00:07:24,666 --> 00:07:26,933
+click the "Copy" button next to the name,
+
+165
+00:07:26,933 --> 00:07:30,266
+and then return to Google Colab to paste it.
+
+166
+00:07:30,266 --> 00:07:32,966
+Okay, let's give this line of code a name.
+
+167
+00:07:32,966 --> 00:07:35,100
+For example, let's call it a "sentiment analyzer."
+
+168
+00:07:35,100 --> 00:07:37,166
+We can input any sentence and
+
+169
+00:07:37,166 --> 00:07:41,433
+let the AI ​​determine whether it represents a "positive" or "negative" sentiment.
+
+170
+00:07:41,433 --> 00:07:43,366
+Finally, we use the `print` syntax
+
+171
+00:07:43,366 --> 00:07:45,966
+to display the analysis results on the screen.
+
+172
+00:07:45,966 --> 00:07:47,900
+Okay, let's do a test. The
+
+173
+00:07:47,900 --> 00:07:49,300
+first time we run it, it will take a while
+
+174
+00:07:49,300 --> 00:07:52,366
+because Google Colab needs to download the AI ​​model from Hugging Face.
+
+175
+00:07:54,366 --> 00:07:55,233
+After it finishes running,
+
+176
+00:07:55,233 --> 00:07:57,766
+we can see the analysis results below, showing that the
+
+177
+00:07:57,766 --> 00:07:59,933
+AI ​​has 99% confidence that
+
+178
+00:07:59,933 --> 00:08:02,966
+the text expresses a "positive" sentiment.
+
+179
+00:08:02,966 --> 00:08:04,900
+However, you might find this analysis result
+
+180
+00:08:04,900 --> 00:08:07,700
+not very intuitive for the average user.
+
+181
+00:08:07,700 --> 00:08:09,900
+So, we can consider adjusting the code
+
+182
+00:08:09,900 --> 00:08:12,433
+to extract the keyword "positive"
+
+183
+00:08:12,433 --> 00:08:14,233
+and change it to Chinese.
+
+184
+00:08:14,233 --> 00:08:17,666
+So, I entered a set of square brackets and 0 after the original syntax to
+
+185
+00:08:17,666 --> 00:08:20,700
+indicate that we want to extract the first set of data within the square brackets. The
+
+186
+00:08:20,700 --> 00:08:23,166
+data's label name is "label."
+
+187
+00:08:23,166 --> 00:08:25,066
+Then I pressed Ctrl + Enter to
+
+188
+00:08:25,066 --> 00:08:27,033
+re-execute the code.
+
+189
+00:08:27,033 --> 00:08:27,833
+In this way, the
+
+190
+00:08:27,833 --> 00:08:31,033
+output only contains the keyword "positive."
+
+191
+00:08:31,033 --> 00:08:34,100
+Next, we can use a simple `IF` syntax
+
+192
+00:08:34,100 --> 00:08:36,966
+to check if the "analysis result" is positive.
+
+193
+00:08:36,966 --> 00:08:39,933
+We'll change the display to show the Chinese characters for "positive emotions" or
+
+194
+00:08:41,200 --> 00:08:43,500
+"negative emotions."
+
+195
+00:08:43,500 --> 00:08:46,100
+Okay, let's run the code again.
+
+196
+00:08:46,100 --> 00:08:49,266
+This time, the output will be "positive emotions."
+
+197
+00:08:49,266 --> 00:08:51,266
+If I change the sentence,
+
+198
+00:08:51,266 --> 00:08:54,333
+for example, complaining that no one is commenting on my posts, the
+
+199
+00:08:54,333 --> 00:08:58,366
+AI ​​will interpret it as expressing "negative emotions."
+
+200
+00:08:58,366 --> 00:09:01,433
+Google Colab, while very convenient, is primarily designed for
+
+201
+00:09:01,433 --> 00:09:04,433
+testing and learning, with
+
+202
+00:09:04,433 --> 00:09:07,533
+limitations on usage time and resource sharing.
+
+203
+00:09:07,533 --> 00:09:10,133
+Therefore, if you want a more stable environment
+
+204
+00:09:10,133 --> 00:09:12,833
+and to run an AI model for an extended period,
+
+205
+00:09:12,833 --> 00:09:15,500
+you can consider deploying the AI ​​model on your local computer for
+
+206
+00:09:15,500 --> 00:09:17,900
+complete control.
+
+207
+00:09:17,900 --> 00:09:19,700
+Before starting,
+
+208
+00:09:19,700 --> 00:09:22,200
+we need to complete some basic environment settings. The
+
+209
+00:09:22,200 --> 00:09:25,400
+first step is to install Python on your computer.
+
+210
+00:09:25,400 --> 00:09:27,500
+It's a well-known programming language
+
+211
+00:09:27,500 --> 00:09:31,266
+and a fundamental tool required for most AI models.
+
+212
+00:09:31,266 --> 00:09:32,533
+After downloading,
+
+213
+00:09:32,533 --> 00:09:35,200
+simply double-click the installer and
+
+214
+00:09:35,200 --> 00:09:38,033
+keep clicking "Next" to complete the installation.
+
+215
+00:09:38,033 --> 00:09:40,900
+If you are using Windows,
+
+216
+00:09:40,900 --> 00:09:42,233
+remember
+
+217
+00:09:42,233 --> 00:09:44,866
+to check the "Add to system path" option during installation
+
+218
+00:09:44,866 --> 00:09:47,366
+to ensure Python runs smoothly. The
+
+219
+00:09:47,366 --> 00:09:49,200
+second tool we need to install
+
+220
+00:09:49,200 --> 00:09:51,400
+is VS Code.  The Visual Studio Code editor
+
+221
+00:09:51,400 --> 00:09:54,600
+makes writing and managing code easier.
+
+222
+00:09:54,600 --> 00:09:56,900
+After downloading and installing VS Code,
+
+223
+00:09:56,900 --> 00:09:59,100
+you can open it directly.
+
+224
+00:10:01,200 --> 00:10:03,200
+First, create a new folder on your desktop or anywhere else
+
+225
+00:10:03,200 --> 00:10:05,200
+and give it any name.
+
+226
+00:10:05,200 --> 00:10:07,800
+Then, return to VS Code and click "Open Folder"
+
+227
+00:10:07,800 --> 00:10:10,466
+to point the path to this new folder.
+
+228
+00:10:10,466 --> 00:10:12,366
+New files
+
+229
+00:10:12,366 --> 00:10:15,033
+will then be automatically stored in this project folder.
+
+230
+00:10:15,033 --> 00:10:17,466
+Since running AI models locally
+
+231
+00:10:17,466 --> 00:10:20,366
+requires installing some special packages and tools,
+
+232
+00:10:20,366 --> 00:10:23,666
+to prevent these tools from affecting other projects on your computer,
+
+233
+00:10:23,666 --> 00:10:26,833
+we need to create a separate workspace for it—a
+
+234
+00:10:26,833 --> 00:10:29,266
+"virtual environment."
+
+235
+00:10:29,266 --> 00:10:32,166
+So, I go to the sidebar, open the extensions panel,
+
+236
+00:10:32,166 --> 00:10:35,866
+enter "Python" as the keyword to install its extensions,
+
+237
+00:10:35,866 --> 00:10:38,733
+and then press Ctrl + Shift + P
+
+238
+00:10:38,733 --> 00:10:41,166
+to select "Create Virtual Environment." For
+
+239
+00:10:41,166 --> 00:10:42,766
+virtual environment management,
+
+240
+00:10:42,766 --> 00:10:45,766
+we'll directly use Python's built-in Venv.
+
+241
+00:10:45,766 --> 00:10:47,400
+As for the Python version,
+
+242
+00:10:47,400 --> 00:10:50,533
+we'll choose the latest version downloaded from the official website.
+
+243
+00:10:50,533 --> 00:10:52,233
+After creating the virtual environment,
+
+244
+00:10:52,233 --> 00:10:53,933
+we must enable it.
+
+245
+00:10:53,933 --> 00:10:56,333
+So, I press Ctrl + Shift + P again
+
+246
+00:10:56,333 --> 00:10:57,766
+to bring up the command palette and
+
+247
+00:10:57,766 --> 00:11:00,400
+select the second option, "Select Interpreter."
+
+248
+00:11:00,400 --> 00:11:03,200
+Then, apply the `venv` option you just used.
+
+249
+00:11:03,200 --> 00:11:04,266
+After applying it,
+
+250
+00:11:04,266 --> 00:11:06,266
+if you open the terminal window and
+
+251
+00:11:06,266 --> 00:11:08,566
+see `venv` before the command, it
+
+252
+00:11:08,566 --> 00:11:11,033
+means the virtual environment is enabled.
+
+253
+00:11:11,033 --> 00:11:13,533
+Now we can safely install necessary tools within this virtual environment. For example,
+
+254
+00:11:15,400 --> 00:11:17,566
+AI models often use a suite
+
+255
+00:11:17,566 --> 00:11:18,900
+called PyTorch,
+
+256
+00:11:18,900 --> 00:11:20,800
+and the pipeline syntax we just practiced
+
+257
+00:11:20,800 --> 00:11:23,033
+uses the Transformers suite.
+
+258
+00:11:23,033 --> 00:11:24,566
+Okay, in the window below,
+
+259
+00:11:24,566 --> 00:11:25,766
+type `pip install` (the
+
+260
+00:11:25,766 --> 00:11:27,266
+syntax for installing packages)
+
+261
+00:11:27,266 --> 00:11:29,700
+to enter the names of these two packages
+
+262
+00:11:29,700 --> 00:11:32,133
+and press Enter to
+
+263
+00:11:32,133 --> 00:11:33,400
+start the installation. After installation,
+
+264
+00:11:33,400 --> 00:11:35,100
+we can do a test.
+
+265
+00:11:35,100 --> 00:11:37,766
+You can open the right-click menu in the blank space of the sidebar
+
+266
+00:11:37,766 --> 00:11:40,200
+to create a new Python file.
+
+267
+00:11:40,200 --> 00:11:42,833
+Then paste the syntax we just wrote in Google Colab into it,
+
+268
+00:11:44,266 --> 00:11:46,800
+press Ctrl + S to save,
+
+269
+00:11:46,800 --> 00:11:49,600
+and then type `python main.py` at the bottom
+
+270
+00:11:49,600 --> 00:11:51,433
+to execute the file.
+
+271
+00:11:51,433 --> 00:11:53,133
+If the settings are correct,
+
+272
+00:11:53,133 --> 00:11:54,566
+we will
+
+273
+00:11:54,566 --> 00:11:57,600
+see the same result as Google Colab in the terminal.
+
+274
+00:11:57,600 --> 00:11:59,433
+Okay, of course, what we can do locally is
+
+275
+00:11:59,433 --> 00:12:02,233
+not just execute a simple pipeline command.
+
+276
+00:12:02,233 --> 00:12:03,466
+You can also
+
+277
+00:12:03,466 --> 00:12:05,766
+make more in-depth adjustments and optimizations according to your needs,
+
+278
+00:12:05,766 --> 00:12:07,566
+such as integrating multiple different AI models.
+
+279
+00:12:07,566 --> 00:12:09,466
+To build more complex applications,
+
+280
+00:12:09,466 --> 00:12:10,733
+and best of all,
+
+281
+00:12:10,733 --> 00:12:13,333
+even if you're not good at programming, don't worry,
+
+282
+00:12:13,333 --> 00:12:16,000
+because we can use AI assistants like Claude or Gemini
+
+283
+00:12:16,000 --> 00:12:18,200
+to handle the code.
+
+284
+00:12:18,200 --> 00:12:19,833
+You just need to write a prompt,
+
+285
+00:12:19,833 --> 00:12:22,300
+explaining your computer's hardware specifications and requirements.
+
+286
+00:12:22,300 --> 00:12:25,433
+For example, you might want the AI ​​to recognize the image you provide
+
+287
+00:12:25,433 --> 00:12:28,566
+and pronounce what it sees.
+
+288
+00:12:28,566 --> 00:12:30,900
+Okay, so I pasted the prompt and
+
+289
+00:12:30,900 --> 00:12:32,933
+pressed Enter.
+
+290
+00:12:32,933 --> 00:12:34,533
+After the AI ​​gave its suggestions,
+
+291
+00:12:34,533 --> 00:12:36,433
+we can scroll down the page, copy the
+
+292
+00:12:36,433 --> 00:12:39,300
+necessary package syntax,
+
+293
+00:12:39,300 --> 00:12:40,933
+paste it into the terminal window,
+
+294
+00:12:40,933 --> 00:12:44,233
+and press Enter to start the installation.
+
+295
+00:12:44,233 --> 00:12:45,733
+After the package is installed,
+
+296
+00:12:45,733 --> 00:12:48,833
+we also copy the code provided by Gemini and paste it
+
+297
+00:12:48,833 --> 00:12:51,633
+into the original Python file.
+
+298
+00:12:51,633 --> 00:12:53,533
+Okay, let's do a test.
+
+299
+00:12:53,533 --> 00:12:57,700
+Gemini mentioned that the image must be named test_image,
+
+300
+00:12:57,700 --> 00:13:00,833
+so I dragged this image file into the VS Code window
+
+301
+00:13:00,833 --> 00:13:03,100
+and executed the code.
+
+302
+00:13:03,100 --> 00:13:03,833
+Similarly, the
+
+303
+00:13:03,833 --> 00:13:06,733
+first time you execute it, it needs to download the AI ​​model file,
+
+304
+00:13:06,733 --> 00:13:08,833
+so it takes a long time.
+
+305
+00:13:08,833 --> 00:13:11,633
+If an error message appears during the process,
+
+306
+00:13:11,633 --> 00:13:13,466
+you just need to paste the message into Gemini.
+
+307
+00:13:13,466 --> 00:13:16,600
+Just ask it to help fix and update the code.
+
+308
+00:13:16,600 --> 00:13:18,333
+If everything goes smoothly,
+
+309
+00:13:18,333 --> 00:13:21,600
+we'll see the newly generated audio file in the sidebar.
+
+310
+00:13:21,600 --> 00:13:24,966
+Click "Play" to listen to the AI's recognition results
+
+311
+00:13:24,966 --> 00:13:26,200
+(in this image).
+
+312
+00:13:26,200 --> 00:13:28,366
+(We can see a wooden round table)
+
+313
+00:13:28,366 --> 00:13:31,433
+(on which sits a magazine and a cup of coffee)
+
+314
+00:13:31,433 --> 00:13:35,200
+(the magazine cover has several interior design photos).
+
+315
+00:13:35,200 --> 00:13:37,900
+Okay, but sometimes we might encounter a situation
+
+316
+00:13:37,900 --> 00:13:40,166
+where our computer's hardware isn't powerful enough to
+
+317
+00:13:40,166 --> 00:13:42,866
+run some larger AI models.
+
+318
+00:13:42,866 --> 00:13:46,866
+In this case, you can consider using a cloud server for AI computation, which is the
+
+319
+00:13:46,866 --> 00:13:50,566
+Inference Providers service we introduced earlier.
+
+320
+00:13:50,566 --> 00:13:51,466
+For example,
+
+321
+00:13:51,466 --> 00:13:53,733
+suppose I want to use the "cloud" to run the Wan 2.2
+
+322
+00:13:53,733 --> 00:13:56,066
+video to generate an AI model.
+
+323
+00:13:56,066 --> 00:13:59,133
+Then we must first obtain a key from Hugging Face
+
+324
+00:13:59,133 --> 00:14:01,966
+so that the cloud service provider can verify our identity.
+
+325
+00:14:01,966 --> 00:14:04,400
+So I click "Create New Token,"
+
+326
+00:14:04,400 --> 00:14:06,633
+give it any name,
+
+327
+00:14:06,633 --> 00:14:10,000
+and check "Send Request to Inference Providers."
+
+328
+00:14:10,000 --> 00:14:12,366
+Finally, I scroll to the bottom and
+
+329
+00:14:12,366 --> 00:14:13,733
+click "Create."
+
+330
+00:14:13,733 --> 00:14:16,466
+Now we can copy the key.
+
+331
+00:14:16,466 --> 00:14:17,233
+Next,
+
+332
+00:14:17,233 --> 00:14:19,166
+we can go back to the model page and
+
+333
+00:14:19,166 --> 00:14:22,133
+click "Use this model" in the upper right corner.  In the
+
+334
+00:14:22,133 --> 00:14:23,633
+Inference Providers section,
+
+335
+00:14:23,633 --> 00:14:25,933
+you'll see a piece of code.
+
+336
+00:14:25,933 --> 00:14:28,533
+You can copy it by pressing Copy.
+
+337
+00:14:28,533 --> 00:14:32,000
+Since this code uses the Hugging Face Hub suite,
+
+338
+00:14:32,000 --> 00:14:33,600
+in VS Code,
+
+339
+00:14:33,600 --> 00:14:36,100
+you'll first need to
+
+340
+00:14:36,100 --> 00:14:38,833
+install it into the virtual environment using `pip install`.
+
+341
+00:14:38,833 --> 00:14:40,900
+Then, paste the Hugging Face code
+
+342
+00:14:40,900 --> 00:14:42,733
+into the window above.
+
+343
+00:14:42,733 --> 00:14:44,700
+As for the API key we just copied,
+
+344
+00:14:44,700 --> 00:14:47,733
+you can paste it directly into the API Key line.
+
+345
+00:14:47,733 --> 00:14:49,766
+One important point to note
+
+346
+00:14:49,766 --> 00:14:51,500
+is that the code provided on the official website
+
+347
+00:14:51,500 --> 00:14:55,000
+doesn't automatically save the generated video as a video file.
+
+348
+00:14:55,000 --> 00:14:58,100
+Therefore, we must manually create an MP4 file.
+
+349
+00:14:58,100 --> 00:15:01,833
+Type `wb` to represent "write" and "binary".
+
+350
+00:15:01,833 --> 00:15:04,566
+The MP4 file is currently empty,
+
+351
+00:15:04,566 --> 00:15:06,600
+so we need to continue using the `write` syntax to
+
+352
+00:15:06,600 --> 00:15:09,366
+write the AI-generated video into it.
+
+353
+00:15:09,366 --> 00:15:12,666
+Finally, close and save the file.
+
+354
+00:15:12,666 --> 00:15:14,800
+Okay, let's test it using the default prompt,
+
+355
+00:15:14,800 --> 00:15:18,433
+"A young man is walking on the street".
+
+356
+00:15:18,433 --> 00:15:19,266
+After a while,
+
+357
+00:15:19,266 --> 00:15:21,933
+an MP4 file will appear in the sidebar. Click on it to
+
+358
+00:15:21,933 --> 00:15:25,066
+see the generated video.
+
+359
+00:15:25,066 --> 00:15:28,600
+Okay, finally, if you're using Hugging Face...  Seeing some useful Spaces and
+
+360
+00:15:28,600 --> 00:15:32,366
+wanting to run them on your local computer is no problem.
+
+361
+00:15:32,366 --> 00:15:35,833
+For example, this Space is mainly used to repair blurry old photos.
+
+362
+00:15:35,833 --> 00:15:37,600
+If you want to download it to your computer,
+
+363
+00:15:37,600 --> 00:15:39,566
+you can choose "Run Locally."
+
+364
+00:15:39,566 --> 00:15:42,266
+This will show you a piece of Docker code.
+
+365
+00:15:42,266 --> 00:15:44,633
+Docker is a well-known software
+
+366
+00:15:44,633 --> 00:15:46,533
+that can package code and
+
+367
+00:15:46,533 --> 00:15:49,266
+make it usable anywhere.
+
+368
+00:15:49,266 --> 00:15:52,066
+So, let's go to the Docker website and
+
+369
+00:15:52,066 --> 00:15:55,466
+click "Download" to install Docker on our computer.
+
+370
+00:15:55,466 --> 00:15:57,533
+Then, start it directly.
+
+371
+00:15:57,533 --> 00:15:59,500
+Following Hugging Face's instructions,
+
+372
+00:15:59,500 --> 00:16:01,866
+we need to go to Docker's settings page
+
+373
+00:16:01,866 --> 00:16:04,366
+to enable the Containerized engine feature.
+
+374
+00:16:04,366 --> 00:16:05,800
+Click "Enable,"
+
+375
+00:16:05,800 --> 00:16:07,166
+then close Docker and
+
+376
+00:16:07,166 --> 00:16:09,566
+reopen it to apply the new settings.
+
+377
+00:16:09,566 --> 00:16:12,700
+Now, we can copy this code.
+
+378
+00:16:12,700 --> 00:16:14,866
+Open a terminal in the lower right corner of Docker
+
+379
+00:16:14,866 --> 00:16:17,266
+and paste the code using Ctrl + V. We're
+
+380
+00:16:17,266 --> 00:16:19,500
+ready to install this Space.
+
+381
+00:16:19,500 --> 00:16:20,700
+After installation,
+
+382
+00:16:20,700 --> 00:16:23,200
+a URL will be displayed at the bottom of the terminal.
+
+383
+00:16:23,200 --> 00:16:24,966
+Clicking it
+
+384
+00:16:24,966 --> 00:16:26,533
+will open a browser
+
+385
+00:16:26,533 --> 00:16:29,500
+with the same functionality as the original Space.
+
+386
+00:16:29,500 --> 00:16:31,300
+Okay, let's do a test.
+
+387
+00:16:31,300 --> 00:16:32,833
+I dragged a photo from my computer folder...  Take a
+
+388
+00:16:32,833 --> 00:16:34,766
+slightly blurry old photo,
+
+389
+00:16:34,766 --> 00:16:36,900
+then click "Submit" at the bottom.
+
+390
+00:16:36,900 --> 00:16:39,600
+Docker will then launch its local AI model
+
+391
+00:16:39,600 --> 00:16:43,300
+to generate a high-quality version with significantly improved clarity.
+
+392
+00:16:43,300 --> 00:16:47,200
+Okay, managing installed Spaces in Docker is also very simple.
+
+393
+00:16:47,200 --> 00:16:50,700
+You can use the buttons next to them to start or stop them.
+
+394
+00:16:50,700 --> 00:16:52,566
+And if you no longer need the Space,
+
+395
+00:16:52,566 --> 00:16:55,966
+just click the trash can button on the far right.
+
+396
+00:16:55,966 --> 00:16:58,100
+Okay, that's all for today's introduction to Hugging Face. See you next time! Bye!
+

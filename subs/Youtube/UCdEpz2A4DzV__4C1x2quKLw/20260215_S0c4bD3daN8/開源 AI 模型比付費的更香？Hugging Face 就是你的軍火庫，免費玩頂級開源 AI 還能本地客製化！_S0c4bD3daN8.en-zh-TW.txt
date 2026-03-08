@@ -1,0 +1,309 @@
+Hi everyone,
+if you're interested in AI, you've
+probably heard of Hugging Face a lot,
+but what exactly is Hugging Face?
+In short,
+it's a platform that specifically collects various AI models.
+You can think of it as the App Store for AI, offering a
+wide variety of AI models for you to try out.
+In today's video,
+I'll introduce how to make good use of Hugging Face's AI models,
+including operating them directly in your browser
+and downloading them to your computer
+for greater freedom.
+Okay, after opening the Hugging Face website,
+first, click the "Sign Up" button in the upper right corner
+to register a new account.
+On the user information page, check the box to agree to the terms of service and
+click "Create."
+In the top navigation bar,
+there's a "Models" button, which contains
+over 2.5 million AI models. The easiest way to
+find an AI model that meets your needs from such a huge library
+is by "Task Type."
+For example, if you want to generate images,
+you can enable the "Text to Image" category below. In
+addition, there's a very useful sorting function in the upper right corner.
+You can select "Trending" to view recently popular models,
+or apply different sorting criteria such as "Most Likes" and "Most Downloads."
+Okay, let's jump right into the first model and
+see what's interesting inside.
+This model is called Z-Image, and the
+development team is Alibaba's "Tongyi Lab".
+Below the model name, there's a row of labels
+listing the model's most important features and related information,
+such as the main supported languages,
+links to the model's papers, and licensing types.
+Below that, there's some text and image information, which
+is basically the model's "user manual,"
+introducing the model's development background
+and some usage precautions.
+Okay, so how do we use this model?
+For beginners, the
+simplest way is through the Inference Providers section.
+Inference Providers are
+essentially service providers that help you "run models."
+Users don't need to worry about their computer's capabilities
+or installation and setup issues.
+Hugging Face offers free users a $0.10 monthly credit.
+If you feel this isn't enough,
+you can upgrade to a Pro account, which
+will have a $2 monthly credit. Alternatively,
+you can switch to a pay-as-you-go plan. For
+this plan,
+you need to link a credit card to Hugging Face.
+After linking,
+you can switch to the next tab and
+click the Add button to top up.
+Of course, you don't necessarily have to go through Hugging Face.
+If you're already a paying user of an AI service provider,
+simply go to the "Settings" tab,
+find the service provider's name,
+and enter the API key you obtained from them.
+When you use these models on Hugging Face, the
+cost will be directly deducted from the service provider's account.
+Okay, here's a random prompt:
+ask the AI ​​to generate a young woman with long hair. The
+background is an alleyway in a European town.
+Clicking "Generate"
+will generate an image that matches our description.
+Okay, besides using Inference Providers,
+another quick way to experience AI models is through Spaces.
+If you think of an AI model as a "product,"
+then Spaces are like "personal stores" in an online marketplace.
+Each store uses its own way to package and display its products,
+and even provides some value-added services.
+In the navigation bar above,
+you can find the Spaces button.
+Clicking it will take you to a display page.
+We can explore different Spaces through the categories below.
+For example, here I've entered the "Image Generation" category.
+Clicking on Z-Image,
+you'll find that although the same AI model is running behind this Space,
+this page offers more interactive options.
+For example, you can specify in the "Negative Hints" field that the
+generated image should not contain "trees."
+You can also specify the image resolution
+and aspect ratio,
+such as applying a 16:9 aspect ratio for widescreen.
+Finally, clicking "Generate"
+will generate an image of a puppy playing with a ball on the grass.
+Okay, you'll notice
+a small green label at the top of the page. The text
+inside says "Running on Zero,"
+which is a "GPU sharing" feature from Hugging Face.
+It differs from the Inference Providers we introduced earlier in that
+it charges based on the user's "duration."
+Free users have about 4 minutes of usage per day,
+while upgrading to a Pro account
+extends this to 25 minutes,
+giving you more time to explore different AI applications.
+Okay, let's try another Space.
+For example, this time we'll play with "speech synthesis." We'll
+enter the first Qwen3-TTS
+AI model, which can convert your input text into speech.
+However, be careful; if you input Traditional Chinese, the
+AI ​​might generate Cantonese narration.
+Therefore, I've highlighted the sentence and
+used the right-click menu to convert it to Simplified Chinese. Then, I'll
+briefly describe the speech style and
+click "Generate."
+Okay, let's listen to it.
+(No, stop talking!)
+(I've heard enough of those high-sounding reasons!)
+(Tonight, I just want to know whether you chose me
+or chose to escape!)
+OK, Hugging Face also has a feature that's great for beginners to experience AI models
+called Hugging. Chat
+'s interface is very similar to ChatGPT; it
+'s basically a large chat window.
+You can switch between different open-source AI models in the lower left corner.
+For example, I chose Kimi-K2.5, which has been generating a lot of discussion online recently.
+Then we can
+start chatting or enter questions through the dialog box at the bottom. We
+can also upload files or pictures from our computer and
+ask the AI ​​to do key summaries and data analysis.
+Note that Hugging Chat
+will also consume your account's usage limit.
+Therefore, if your usage is relatively large,
+remember to link your credit card and top up your account first.
+This way, you don't have to worry about running out of credit during use.
+Okay, after trying some AI models on the Hugging Face website,
+you might want to make some customized adjustments to a model
+and integrate it into your own project. At
+this time, we can consider
+deploying these AI models on our local computer or on a cloud platform.
+One popular
+and beginner-friendly platform is Google Colab.
+It's a cloud computer that you can use freely and
+even provides free GPU computing resources.
+Hugging Face has excellent integration with Google Colab,
+and Hugging Face also provides a
+very simple syntax called pipeline. This
+allows you to
+quickly load Hugging Face's AI models with just a few lines of code. For
+example, let's say
+I want to find an AI model that
+can analyze whether customer reviews are positive or negative.
+I can switch to the "Task" category and
+use "Text Classification" as the filter.
+Once found,
+you can go directly to the Google Colab homepage and
+click "Add Notebook." To
+use Hugging Face's pipeline syntax in Google Colab,
+we must first import the pipeline from a toolbox called "Transformers"
+and then execute this line of code.
+After execution,
+we can type "pipeline" at the bottom
+to call the AI ​​model we want to use. The
+first parameter is the "Task" type, which is the
+filter we just applied in Hugging Face.
+So, I would type "text-classification" within the parentheses. The
+second parameter is the model's "name." For this,
+we just need to go back to Hugging Face,
+click the "Copy" button next to the name, and
+then return to Google Colab to paste it.
+Okay, let's give this line of code a name.
+For example, let's call it a "sentiment analyzer."
+We can input any sentence and
+let the AI ​​determine whether it represents a "positive" or "negative" sentiment.
+Finally, we use the `print` syntax to
+display the analysis results on the screen.
+Okay, let's do a test. The
+first time we run it, it will take a while
+because Google Colab needs to download the AI ​​model from Hugging Face.
+After it finishes running,
+we can see the analysis results below, showing
+that the AI ​​has 99% confidence
+that the text expresses a "positive" sentiment.
+However, you might find this analysis result
+not very intuitive for the average user.
+So, we can consider adjusting the code
+to extract the keyword "positive" and
+change it to Chinese.
+So, I entered a set of square brackets and 0 after the original syntax to
+indicate that we want to extract the first set of data within the square brackets. The
+data's label name is "label."
+Then I pressed Ctrl + Enter to
+re-execute the code.
+In this way, the
+output only contains the keyword "positive."
+Next, we can use a simple `IF` syntax
+to check if the "analysis result" is positive.
+We'll change the display to
+show the Chinese characters for "positive emotions" or "negative emotions."
+Okay, let's run the code again.
+This time, the output will be "positive emotions."
+If I change the sentence,
+for example, complaining that no one is commenting on my posts, the
+AI ​​will interpret it as expressing "negative emotions."
+Google Colab, while very convenient, is
+primarily designed for testing and learning, with
+limitations on usage time and resource sharing.
+Therefore, if you want a more stable environment
+and to run an AI model for an extended period,
+you can consider deploying the AI ​​model on your local computer for
+complete control.
+Before starting,
+we need to complete some basic environment settings. The
+first step is to install Python on your computer.
+It's a well-known programming language
+and a fundamental tool required for most AI models.
+After downloading, simply
+double-click the installer and
+keep clicking "Next" to complete the installation.
+If you are using Windows,
+remember
+to check the "Add to system path" option during installation
+to ensure Python runs smoothly. The
+second tool we need to install
+is VS Code. The Visual Studio Code editor
+makes writing and managing code easier. After downloading and installing VS Code, you can open it directly. First, create a new folder on your desktop or anywhere else and give it any name.
+Then, return to VS Code and click "
+Open Folder"
+to point
+the path to this new folder. New files will then be automatically stored in this project folder. Since running AI models locally requires installing some special packages and tools, to prevent
+these tools from affecting other projects
+on your computer, we need to create a separate workspace for it—a "virtual environment." So, I go to the sidebar, open the extensions panel, enter "Python" as the keyword to install its extensions, and then press Ctrl + Shift + P to select "Create Virtual Environment." For virtual environment management, we'll
+directly use
+Python's built-in Venv. As for the Python version, we'll choose the latest version downloaded from the official website. After
+creating the virtual environment,
+we must enable it. So, I press Ctrl + Shift + P again to bring up the command palette and select the second option, "Select Interpreter." Then, apply the `venv`
+option
+you just used. After applying it, if you open the terminal window and see `venv` before the command, it means the
+virtual environment is
+enabled. Now we can safely install necessary tools within this virtual environment. For example, AI models often use a suite called
+PyTorch,
+and the pipeline syntax we just practiced uses the
+Transformers suite. Okay, in the window below, type `pip install` (the syntax for installing packages) to
+enter the names of these two packages and press Enter to start the
+installation. After installation, we can do a test. You can open the right-click menu in the
+blank space of the sidebar
+to create a new Python file. Then paste the syntax we just wrote in Google Colab into it,
+press Ctrl + S to save, and then type `python main.py` at the bottom to execute the file. If the settings are
+correct,
+we will see the same result as Google Colab in the terminal. Okay, of course, what we can do
+locally is
+not just execute a simple pipeline command. You can also make more in-depth adjustments and optimizations according to your needs,
+such as integrating multiple different AI models. To build more complex applications, and best of all, even if you're not good at
+programming, don't worry,
+because we can use AI assistants like Claude or Gemini to handle the code. You just
+need to write a prompt,
+explaining your computer's hardware specifications and requirements. For example, you might want the AI ​​to recognize the
+image you provide
+and pronounce what it sees. Okay, so I pasted the prompt and pressed Enter. After the AI ​​gave its
+suggestions,
+we can scroll down the page, copy the necessary package syntax, paste it into the terminal window, and press
+Enter to start the installation. After the package is installed, we also copy the code provided by Gemini and paste it into the
+original Python file.
+Okay, let's do a test. Gemini mentioned that the image must be named test_image, so I dragged
+this image file into the VS Code window and executed the code. Similarly, the first time you execute it, it needs to
+download the AI ​​model file,
+so it takes a long time. If an error message appears during the process, you just need to
+paste the message into Gemini. Just
+ask it to help fix and update the code. If everything goes smoothly, we'll
+see the newly generated audio file in the sidebar.
+Click "Play" to listen to the AI's recognition results (in this
+image).
+(We can see a wooden round table) (on which sits a magazine and a cup of coffee) (the
+magazine cover has several interior design photos). Okay, but sometimes we might encounter a situation where our computer's hardware isn't powerful enough to run some larger AI models. In
+this case, you can consider using a cloud server for AI computation, which is the Inference Providers
+service
+we introduced earlier. For example, suppose I want to use the "cloud" to run the
+Wan 2.2
+video to generate an AI model. Then we must first obtain a key from Hugging Face so that the cloud service provider
+can verify our identity. So I click "Create New Token," give it any name, and check "Send Request to
+Inference Providers." Finally, I scroll to the bottom and click "Create." Now we can copy the key. Next, we can go back to the model page and click "Use this model" in the upper right corner. In the Inference Providers section,
+you'll see a piece of code.
+You can copy it by pressing Copy. Since this code uses the Hugging
+Face Hub suite,
+in VS Code,
+you'll first need to install it into the virtual environment using `pip install`. Then, paste the
+Hugging Face code
+into the window above. As for the API key we just copied, you can paste it directly
+into the API Key line.
+One important point to note is that the code provided on the official website doesn't automatically save the
+generated video as a video file. Therefore, we must manually create an MP4 file. Type `wb` to represent "write" and "binary". The
+MP4 file is currently empty, so we need to continue using the `
+write` syntax to write the AI-generated video into it. Finally,
+close and save the file. Okay, let's test it using the default prompt, "A young man is walking on the street". After a while, an MP4 file will appear in the sidebar. Click on it to see the
+generated video.
+Okay, finally, if you're using Hugging Face... Seeing some useful Spaces and wanting to run them on your
+local computer is no problem.
+For example, this Space is mainly used to repair blurry old photos. If you want to download it
+to your computer, you can choose "Run Locally." This will show you a piece of Docker code. Docker is a well-known software that can package code and make it usable anywhere. So, let's go to the Docker website and click "Download" to install Docker on our computer.
+Then, start it directly. Following Hugging Face's instructions, we need to
+go to Docker's settings page to enable the Containerized engine feature.
+Click "Enable," then close Docker
+and reopen it to apply the new settings. Now, we can copy this code. Open a
+terminal in the lower right corner of Docker and paste the code using Ctrl + V. We're ready to install this Space. After installation,
+a URL will be displayed at
+the bottom of the terminal. Clicking it will open a browser with the same functionality as the original Space. Okay, let's do a test. I dragged a photo from my computer folder... Take a slightly blurry old photo, then
+click "Submit" at the
+bottom. Docker
+will then launch its local AI model to generate a
+high-quality version with significantly improved clarity.
+Okay, managing installed Spaces in Docker is also very simple. You can use the buttons next to them to start or stop them. And if you no longer need
+the Space, just click the trash can button on the far right. Okay
+, that's all for today's introduction to Hugging Face.
+See you next time! Bye!
