@@ -69,7 +69,7 @@ jobs:
           echo "Resolved → URL: $CHANNEL_STREAMS_URL  DIR: $CHANNEL_DIR"
 
       - name: Fetch streams list + classify
-        run: python .github/scripts/fetch_streams.py
+        run: python scripts/fetch_streams.py
 
       - name: Commit & push changes
         run: |
