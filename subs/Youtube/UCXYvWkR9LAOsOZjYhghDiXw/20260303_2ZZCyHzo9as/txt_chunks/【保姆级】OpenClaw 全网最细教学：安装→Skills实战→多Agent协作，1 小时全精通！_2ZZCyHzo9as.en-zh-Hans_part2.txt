@@ -1,0 +1,182 @@
+model provider, model
+name, and then `to switch` to
+switch the model.
+This is a configuration for multiple agents.
+Based on this mechanism,
+you can
+set different agents for different tasks
+and automate them to
+complete different tasks.
+This improves both the
+quality and completion rate of the task,
+and it also saves on tokens
+because each agent has its own specific task,
+reducing the amount of pre-set information,
+including the memory you need to input.
+Finally, let's
+discuss another concept:
+when using OpenClaw,
+simple tasks are
+completed within the main process and
+main dialog window. However, for
+complex tasks,
+such as batch tasks
+or concurrent tasks,
+we can use OpenClaw's sub-agent mechanism. This means that
+multiple sub-agents can be created under one main agent.
+These sub-agents
+can help us complete tasks concurrently and in batches.
+Regarding the invocation of sub-agents...
+It doesn't require us to configure anything. The
+main agent will automatically spawn child agents to complete the task based on its type.
+For example, in the
+main agent's dialog window, I can
+send a command to
+schedule child agents to query the
+real-time weather for Beijing, Shanghai, Hangzhou, Tianjin, and Shenzhen today.
+This is a concurrent task.
+Okay, you
+can see the task is already running. The
+subagent queries the weather for Beijing,
+Shanghai, Hangzhou, Tianjin,
+and Shenzhen.
+They are executing sequentially.
+After each child agent completes its run,
+it returns the results to the main agent. Later,
+we can also run the command `
+/subagents list`
+to list which child agents are
+currently in the main agent for this task and
+their status. You
+can see that there are currently
+1, 2, 3, 4, and 5 active child agents.
+This shows the agents active in the last 30 minutes. There are
+none yet
+because this is our first time creating the task.
+We just need to understand the basic
+concept
+and framework.
+In most cases, the
+main agent
+will automatically determine the difficulty of the task and,
+when necessary,
+automatically spawn child agents
+to help us complete the task.
+You don't need to manually configure anything.
+Once all child agents complete their tasks, the
+dialog window for each child agent will automatically close,
+and the result will be returned to the main agent.
+This is the mechanism. So,
+we've basically covered OpenClaw from installation
+and basic configuration to
+advanced uses,
+such as skill installation,
+multi-agent configuration,
+and configuring child agents. We've thoroughly explained
+these core aspects.
+After watching this tutorial, I
+believe you'll be able to use OpenClaw
+and maximize its capabilities.
+Finally,
+to help you better understand
+what tasks OpenClaw can accomplish,
+besides the example of sending messages to a WeChat official account demonstrated in the video, it
+can be integrated into many other
+work scenarios.
+Here, I recommend a project
+on GitHub called "Awesome OpenClaw Use Cases." The
+author has
+compiled many currently popular and
+feasible use cases,
+such as
+daily article summaries for social media platforms like Reddit and
+YouTube,
+below which are examples of creative and building
+workflows for YouTube content creation and
+multi-agent content production workflows.  Let's take a look at a
+workflow orchestration productivity example.
+For instance, let's see a
+use case for the YouTube daily summary.
+After clicking,
+it explains
+how to use
+it, what the prompt command is, and
+which skills are required.
+For example, this scenario
+relies on the YouTube-four skill.
+First,
+we need to install this skill.
+It also tells you how to install it:
+first, tell OpenClaw to install the skill.
+After installation,
+the skill will automatically apply for an
+account and API key for the corresponding platform.
+Its logic and
+commands are written
+in the skills.md file.
+Specifically,
+it uses TranslatorAPI.com to
+register an account
+and apply for a key on this platform.
+Okay,
+after that,
+we can use it like this:
+For example, if you want to see a summary of a specific channel,
+you can send this command: "
+Every morning at 8 AM,
+crawl the summaries of these YouTube channels
+and return them to us."
+First, it needs to transcribe the content,
+then summarize it into
+two or three key points,
+including the video title, channel name,
+and link.  This guide
+covers the use of channel summaries
+and keyword summaries,
+explaining the
+usage methods for each scenario. It
+also outlines the functions of multi-agent content creation, including the
+problems it solves and the
+required skills.
+You can install these skills sequentially and
+configure them as follows.
+After installation, you can send a prompt command to
+obtain the results for that scenario.
+This repository of usage scenarios is invaluable
+for advanced use of
+OpenClaw.
+I'll also include this link in the video description. Once
+you've mastered all the configurations and
+basic skills, you
+can refer to these scenarios
+to better leverage OpenClaw's capabilities. You
+can also adapt it to your own work needs,
+as it contains many resources, ideas, and directions.
+So, that concludes the
+quick start guide to OpenClaw.
+Reflecting on my own
+experience,
+I believe OpenClaw's value lies
+not in its power,
+new inventions,
+cutting-edge technologies,
+or new features,
+but in finding an excellent entry point to bridge the gap
+between AI and practical work.
+The distance becomes closer than ever before,
+which is what I think is its most unique feature.
+When dozens of agents
+run concurrently in the background, and
+hundreds of skills are on standby,
+you see your
+rules being executed accurately time and time again. Then
+you realize
+that the future is already here;
+it's just that the distribution is uneven.
+Some people know how to use it, some
+don't,
+and some use it very well—
+that's the difference.
+So, through this video, I
+hope you can stand at the forefront of this map.
+
