@@ -10,7 +10,7 @@ on:
       langs:
         description: "优先字幕语言（逗号分隔/可正则）"
         required: false
-        default: "zh.*,.*orig,en.*"
+        default: "zh.*,.*orig"
         type: string
       whisper_model:
         description: "Whisper模型：tiny/base/small/medium/large"
