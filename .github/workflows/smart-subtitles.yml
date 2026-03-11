@@ -169,7 +169,7 @@ jobs:
             "${UA_ARGS[@]}" \
             "${URL}"
 
-      - name: Whisper generate subtitles (CN stable: SRT+TXT+VTT) into per-video folder
+      - name: Whisper generate subtitles
         if: steps.postcheck.outputs.need_whisper == 'true'
         env:
           MODEL: ${{ inputs.whisper_model }}
