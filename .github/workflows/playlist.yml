@@ -31,7 +31,7 @@ jobs:
   bilibili_playlist_subs_once:
     runs-on: ubuntu-latest
     env:
-      YTDLP_COOKIES_TXT: ${{ secrets.YTDLP_COOKIES_TXT }}
+      YTDLP_BILIBILI_COOKIES_TXT: ${{ secrets.YTDLP_BILIBILI_COOKIES_TXT }}
 
     steps:
       - name: Checkout
@@ -66,10 +66,10 @@ jobs:
           pip install -U yt-dlp
 
       - name: Write cookies.txt (optional)
-        if: ${{ env.YTDLP_COOKIES_TXT != '' }}
+        if: ${{ env.YTDLP_BILIBILI_COOKIES_TXT != '' }}
         shell: bash
         run: |
-          printf '%s' "$YTDLP_COOKIES_TXT" | tr -d '\r' > cookies.txt
+          printf '%s' "$YTDLP_BILIBILI_COOKIES_TXT" | tr -d '\r' > cookies.txt
 
       - name: Prepare folders
         shell: bash
