@@ -1,4 +1,4 @@
-name: Smart Subtitles (Commit Organized)
+name: Smart Subtitles CN Stable
 
 on:
   workflow_dispatch:
@@ -10,17 +10,22 @@ on:
       langs:
         description: "优先字幕语言（逗号分隔/可正则）"
         required: false
-        default: "zh.*,.*orig"
+        default: "zh.*,zh-CN,zh-Hans,cmn.*,.*orig"
         type: string
       whisper_model:
         description: "Whisper模型：tiny/base/small/medium/large"
         required: false
-        default: "small"
+        default: "medium"
         type: string
       whisper_language:
-        description: "Whisper识别语言（留空自动检测）"
+        description: "Whisper识别语言（默认中文）"
         required: false
-        default: ""
+        default: "zh"
+        type: string
+      whisper_prompt:
+        description: "Whisper初始提示词（用于稳定中文输出）"
+        required: false
+        default: "以下是中文普通话视频字幕。请始终使用简体中文转写，不要翻译成英文；保留原意，尽量使用中文标点；人名、品牌名、地名按中文语境转写。"
         type: string
       user_agent:
         description: "可选：浏览器UA"
@@ -164,25 +169,25 @@ jobs:
             "${UA_ARGS[@]}" \
             "${URL}"
 
-      - name: Whisper generate subtitles (SRT+TXT+VTT) into per-video folder
+      - name: Whisper generate subtitles (CN stable: SRT+TXT+VTT) into per-video folder
         if: steps.postcheck.outputs.need_whisper == 'true'
         env:
           MODEL: ${{ inputs.whisper_model }}
           WHISPER_LANG: ${{ inputs.whisper_language }}
+          WHISPER_PROMPT: ${{ inputs.whisper_prompt }}
           OUT_DIR: ${{ steps.detect.outputs.out_dir }}
         shell: bash
         run: |
           set -euo pipefail
           AUDIO_FILE="$(ls -1 work/* | head -n 1)"
 
-          LANG_ARGS=()
-          if [[ -n "${WHISPER_LANG}" ]]; then LANG_ARGS=(--language "${WHISPER_LANG}"); fi
-
           whisper "${AUDIO_FILE}" \
             --model "${MODEL}" \
+            --language "${WHISPER_LANG}" \
+            --task transcribe \
+            --initial_prompt "${WHISPER_PROMPT}" \
             --output_dir "${OUT_DIR}" \
-            --output_format "all" \
-            "${LANG_ARGS[@]}"
+            --output_format "all"
 
       - name: Convert SRT -> LRC (simple)
         if: steps.postcheck.outputs.need_whisper == 'true'
@@ -221,7 +226,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add subs
-          git commit -m "Add subtitles: ${VIDEO_ID} (${URL})" || exit 0
+          git commit -m "Add subtitles CN stable: ${VIDEO_ID} (${URL})" || exit 0
 
           max_attempts=6
           attempt=1
