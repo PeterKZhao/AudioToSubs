@@ -169,7 +169,7 @@ jobs:
             "${UA_ARGS[@]}" \
             "${URL}"
 
-      - name: Whisper generate subtitles
+      - name: Whisper generate subtitles by 50-min chunks
         if: steps.postcheck.outputs.need_whisper == 'true'
         env:
           MODEL: ${{ inputs.whisper_model }}
@@ -179,15 +179,27 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          AUDIO_FILE="$(ls -1 work/* | head -n 1)"
 
-          whisper "${AUDIO_FILE}" \
-            --model "${MODEL}" \
-            --language "${WHISPER_LANG}" \
-            --task transcribe \
-            --initial_prompt "${WHISPER_PROMPT}" \
-            --output_dir "${OUT_DIR}" \
-            --output_format "all"
+          AUDIO_FILE="$(ls -1 work/* | head -n 1)"
+          mkdir -p work/chunks "${OUT_DIR}/chunks"
+
+          # 先统一成 whisper 更友好的 wav / mono / 16k，再按 50 分钟切
+          ffmpeg -y -i "${AUDIO_FILE}" \
+            -vn -map 0:a:0 \
+            -ac 1 -ar 16000 -c:a pcm_s16le \
+            -f segment -segment_time 3000 -reset_timestamps 1 \
+            "work/chunks/part_%03d.wav"
+
+          for f in work/chunks/*.wav; do
+            echo "Transcribing $f"
+            whisper "$f" \
+              --model "${MODEL}" \
+              --language "${WHISPER_LANG}" \
+              --task transcribe \
+              --initial_prompt "${WHISPER_PROMPT}" \
+              --output_dir "${OUT_DIR}/chunks" \
+              --output_format "all"
+          done
 
       - name: Convert SRT -> LRC (simple)
         if: steps.postcheck.outputs.need_whisper == 'true'
