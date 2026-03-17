@@ -23,9 +23,19 @@ on:
         default: "zh"
         type: string
       whisper_prompt:
-        description: "Whisper初始提示词（用于稳定中文输出）"
+        description: "Whisper初始提示词（建议简短，不要写成长说明）"
         required: false
-        default: "以下是中文普通话视频字幕。请始终使用简体中文转写，不要翻译成英文；保留原意，尽量使用中文标点；人名、品牌名、地名按中文语境转写。"
+        default: "简体中文字幕，使用中文标点。"
+        type: string
+      whisper_chunk_seconds:
+        description: "音频切块秒数，例如 600/1200/3000"
+        required: false
+        default: "3600"
+        type: string
+      whisper_chunk_part:
+        description: "只转写第几块；all=全部，1=第一块，2=第二块"
+        required: false
+        default: "1"
         type: string
       user_agent:
         description: "可选：浏览器UA"
@@ -169,36 +179,75 @@ jobs:
             "${UA_ARGS[@]}" \
             "${URL}"
 
-      - name: Whisper generate subtitles by 50-min chunks
+      - name: Whisper generate subtitles by custom chunks
         if: steps.postcheck.outputs.need_whisper == 'true'
         env:
           MODEL: ${{ inputs.whisper_model }}
           WHISPER_LANG: ${{ inputs.whisper_language }}
           WHISPER_PROMPT: ${{ inputs.whisper_prompt }}
+          CHUNK_SECONDS: ${{ inputs.whisper_chunk_seconds }}
+          CHUNK_PART: ${{ inputs.whisper_chunk_part }}
           OUT_DIR: ${{ steps.detect.outputs.out_dir }}
         shell: bash
         run: |
           set -euo pipefail
 
-          AUDIO_FILE="$(ls -1 work/* | head -n 1)"
+          AUDIO_FILE="$(find work -maxdepth 1 -type f | head -n 1)"
+          if [[ -z "${AUDIO_FILE}" ]]; then
+            echo "No audio file found in work/"
+            exit 1
+          fi
+
           mkdir -p work/chunks "${OUT_DIR}/chunks"
 
-          # 先统一成 whisper 更友好的 wav / mono / 16k，再按 50 分钟切
           ffmpeg -y -i "${AUDIO_FILE}" \
             -vn -map 0:a:0 \
             -ac 1 -ar 16000 -c:a pcm_s16le \
-            -f segment -segment_time 3000 -reset_timestamps 1 \
+            -f segment -segment_time "${CHUNK_SECONDS}" -reset_timestamps 1 \
             "work/chunks/part_%03d.wav"
 
-          for f in work/chunks/*.wav; do
+          shopt -s nullglob
+          files=(work/chunks/*.wav)
+
+          if (( ${#files[@]} == 0 )); then
+            echo "No chunk files generated."
+            exit 1
+          fi
+
+          if [[ -n "${CHUNK_PART}" && "${CHUNK_PART}" != "all" ]]; then
+            idx=$((10#${CHUNK_PART} - 1))
+            if (( idx < 0 )); then
+              echo "Invalid CHUNK_PART=${CHUNK_PART}"
+              exit 1
+            fi
+            printf -v pick "work/chunks/part_%03d.wav" "${idx}"
+            if [[ ! -f "${pick}" ]]; then
+              echo "Chunk ${CHUNK_PART} not found: ${pick}"
+              exit 1
+            fi
+            files=("${pick}")
+          fi
+
+          n=0
+          for f in "${files[@]}"; do
+            n=$((n + 1))
             echo "Transcribing $f"
+
+            PROMPT_ARGS=()
+            if [[ -n "${WHISPER_PROMPT}" && $n -eq 1 ]]; then
+              PROMPT_ARGS=(--initial_prompt "${WHISPER_PROMPT}")
+            fi
+
             whisper "$f" \
               --model "${MODEL}" \
               --language "${WHISPER_LANG}" \
               --task transcribe \
-              --initial_prompt "${WHISPER_PROMPT}" \
+              --condition_on_previous_text False \
+              --no_speech_threshold 0.2 \
+              --temperature 0 \
+              "${PROMPT_ARGS[@]}" \
               --output_dir "${OUT_DIR}/chunks" \
-              --output_format "all"
+              --output_format all
           done
 
       - name: Convert SRT -> LRC (simple)
