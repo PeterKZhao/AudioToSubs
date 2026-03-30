@@ -33,13 +33,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install --upgrade yt-dlp
 
-      - name: Write cookies.txt (from secret)
+      - name: Write cookies.txt (from secret, optional)
         env:
           YTDLP_COOKIES_TXT: ${{ secrets.YTDLP_COOKIES_TXT }}
         run: |
           set -euo pipefail
           COOKIES_FILE="$RUNNER_TEMP/youtube_cookies.txt"
-          printf '%s' "$YTDLP_COOKIES_TXT" > "$COOKIES_FILE"
+          : > "$COOKIES_FILE"
+          if [[ -n "${YTDLP_COOKIES_TXT:-}" ]]; then
+            printf '%s' "$YTDLP_COOKIES_TXT" > "$COOKIES_FILE"
+          fi
           chmod 600 "$COOKIES_FILE"
           echo "COOKIES_FILE=$COOKIES_FILE" >> "$GITHUB_ENV"
 
@@ -48,27 +51,46 @@ jobs:
           CHANNEL_INPUT: ${{ github.event.inputs.channel }}
         run: |
           set -euo pipefail
-          if [[ "$CHANNEL_INPUT" == http* ]]; then
-            BASE="${CHANNEL_INPUT%/streams}"
-            CHANNEL_STREAMS_URL="${BASE}/streams"
-          else
-            HANDLE="${CHANNEL_INPUT}"
-            [[ "$HANDLE" != @* ]] && HANDLE="@${HANDLE}"
-            CHANNEL_STREAMS_URL="https://www.youtube.com/${HANDLE}/streams"
-          fi
-          CHANNEL_DIR=$(
-            echo "$CHANNEL_INPUT" \
-            | sed 's|https://www\.youtube\.com/||' \
-            | sed 's|^@||' \
-            | sed 's|/.*||' \
-            | tr '[:upper:]' '[:lower:]' \
-            | tr -cd '[:alnum:]_-'
-          )
-          echo "CHANNEL_STREAMS_URL=$CHANNEL_STREAMS_URL" >> "$GITHUB_ENV"
-          echo "CHANNEL_DIR=$CHANNEL_DIR"               >> "$GITHUB_ENV"
-          echo "Resolved → URL: $CHANNEL_STREAMS_URL  DIR: $CHANNEL_DIR"
+          python - <<'PY' >> "$GITHUB_ENV"
+          import os
+          from urllib.parse import urlparse
 
-      - name: Fetch streams list + classify
+          raw = os.environ["CHANNEL_INPUT"].strip()
+
+          if raw.startswith(("http://", "https://")):
+              channel_url = raw.rstrip("/")
+              for suffix in ("/streams", "/videos", "/shorts", "/featured", "/live"):
+                  if channel_url.endswith(suffix):
+                      channel_url = channel_url[:-len(suffix)]
+
+              path = urlparse(channel_url).path.strip("/")
+              parts = [p for p in path.split("/") if p]
+
+              if not parts:
+                  channel_dir = "channel"
+              elif parts[0].startswith("@"):
+                  channel_dir = parts[0][1:]
+              elif parts[0] in {"channel", "c", "user"} and len(parts) >= 2:
+                  channel_dir = parts[1]
+              else:
+                  channel_dir = parts[-1]
+          else:
+              handle = raw if raw.startswith("@") else f"@{raw}"
+              channel_url = f"https://www.youtube.com/{handle}"
+              channel_dir = handle[1:]
+
+          channel_dir = "".join(
+              ch.lower() for ch in channel_dir
+              if ch.isalnum() or ch in "_-"
+          ) or "channel"
+
+          print(f"CHANNEL_URL={channel_url}")
+          print(f"CHANNEL_DIR={channel_dir}")
+          PY
+
+          echo "Resolved → URL: $CHANNEL_URL  DIR: $CHANNEL_DIR"
+
+      - name: Fetch streams/videos list + classify
         run: python scripts/fetch_streams.py
 
       - name: Commit & push changes
@@ -78,7 +100,7 @@ jobs:
             git config user.name  "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add data/youtube/
-            git commit -m "Update ${{ github.event.inputs.channel }} streams index" || exit 0
+            git commit -m "Update ${{ github.event.inputs.channel }} streams/videos index" || exit 0
             git push
           else
             echo "No changes to commit"
