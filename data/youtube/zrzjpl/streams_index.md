@@ -2,14 +2,18 @@
 
 - Source: https://www.youtube.com/@zrzjpl/streams
 
-- Updated (UTC): 2026-03-08 10:42:19
+- Updated (UTC): 2026-03-30 14:08:55
 
-- Total entries: 43
+- Total entries: 47
 
 
 | Date | Members | Live status | Title | URL |
 |---|---:|---|---|---|
-| 2026-03-05 | Y | is_upcoming | 会员直播：中共造王者宋平和习近平的恩怨情仇 | https://www.youtube.com/watch?v=McbJTjYUSF8 |
+| 2026-03-26 | N | was_live | 周亮跟钟绍军是什么交情；他因为什么而落马？王岐山的九个秘书的结局；他的外围团队都有哪些人；王岐山是如何一步步变坏的？王岐山的警卫秘书陈臻是如何落马的？孙力军落马如何引起董宏落马；习近平如何敲打王岐山 | https://www.youtube.com/watch?v=tUEpaZ9FnQ0 |
+| 2026-03-21 | Y | was_live | 重庆市长胡衡华背后的神秘家族；这个家族与习近平家族的渊源；从马云身上赚走数十亿的神秘女性；彭丽媛的干妈为何保护过胡衡华；史上最牛正厅级保姆；湖南的政治特产和资源；湘钢系林武和刘捷不同的政治道路。 | https://www.youtube.com/watch?v=eqLjbT9s4MA |
+| 2026-03-19 | N | was_live | 胖东来分资产的真相剖析；胖东来核心竞争力的六大模式拆解；胖东来高利润的终极秘密；胖东来模式的两大致命缺陷；胖东来的两次生存危机和主要敌人；于东来的悟道机遇；胖东来应对权贵劫掠的自保之道。 | https://www.youtube.com/watch?v=akI9KzCNWP4 |
+| 2026-03-13 | N | was_live | 王小洪和王毅为什么还不退休？习近平--李强经济学的框架；习李经济学和凯恩斯主义的关系；和安倍经济学的关系；中国解决通缩的三个路径；习李经济学的结局预测。李克强｜刘鹤｜李强｜习近平 | https://www.youtube.com/watch?v=wERu_gnUhxg |
+| 2026-03-05 | Y | was_live | 会员直播：中共造王者宋平和习近平的恩怨情仇 | https://www.youtube.com/watch?v=McbJTjYUSF8 |
 | 2026-03-05 | N | was_live | 清华校长王希勤落马和清华腐败窝案；斩首行动为什么没让伊朗投降？美伊战争的三个阶段；霍尔木兹海峡还会封锁多久；为什么说以色列是美伊战争的最大赢家；美伊战争对中国战略的四大影响；伊朗会迎来民主吗？ | https://www.youtube.com/watch?v=CdaMD0nU2_c |
 | 2026-03-01 | Y | was_live | 辽宁省长王新伟的两个伯乐分别是谁？吉林省长胡玉亭的三个伯乐是谁？他如何与第一家庭建立了关系？他如何合法得进行利益输送？他背后的歌唱家是谁？黑龙江省长梁惠玲和83年选调生的关系；她的人生伯乐是谁 | https://www.youtube.com/watch?v=ttd-nqzY0r8 |
 | 2026-02-27 | N | was_live | 两次泰柬冲突背后的阴谋与算计；保守派如何暗算佩通坦；洪森为何与阿努廷共谋又闹掰；泰国赌场政策背后的利益博弈；泰国国王和军队的真实关系；泰国政治的三个阶段；自豪党的崛起；新总理阿努廷的政治根据地。 | https://www.youtube.com/watch?v=AysquaFJHrk |
@@ -22,7 +26,7 @@
 | 2026-02-09 | N | was_live | 五分钟讲清楚日本政坛框架；高市早苗的四次竞选过程；习近平的神助攻；她压倒性胜选的四大外部因素；高世的四大致命弱点；日本老登政治的终结；日本命运的十字路口；日本经济的最终症结在哪里；日本大选｜安倍晋三 | https://www.youtube.com/watch?v=_yqHs4tMv1s |
 | 2026-02-03 | N | was_live | 何卫东为什么会自决？他是如何意外成为军委副主席的？31军和越战帮如何内斗？何卫东究竟犯了多大的罪？他为何会感到冤枉？他有哪些短板和缺陷？他用什么手段自决？张又侠｜苗华｜火箭军腐败案｜习近平 | https://www.youtube.com/watch?v=b64ekVis8ZE |
 | 2026-01-28 | N | was_live | 张又侠落马的内幕；郭万钧、康日新等历史性间谍案对比；核武机密外流逻辑的严谨性；中国金融监管与外交部内部的派系斗争 | https://www.youtube.com/watch?v=B7bV6Zol2gk |
-| 2026-01-27 | Y | was_live | “政经鲁社长”正在直播！ | https://www.youtube.com/watch?v=EAm6D6zDfSE |
+| 2026-01-27 | Y | was_live | 【会员直播】 外交部大乱斗 | https://www.youtube.com/watch?v=EAm6D6zDfSE |
 | 2026-01-27 | Y | was_live | 马兴瑞大秘高世文被带走内幕；新任深圳市委书记和市长的背景：陕西赵一德的双重背景；马云和赵一德的桃园三兄弟；宁夏李邑飞的伯乐；原内蒙书记李纪恒到底会不会落马？内蒙古书记王伟中如何切换大腿？ | https://www.youtube.com/watch?v=1_CdbR8yi5I |
 | 2026-01-25 | N | was_live | 习近平大秘书钟绍军跟张又侠的关系；他如何牵扯到新疆马兴瑞案件中；他的女朋友到底是谁：他提拔了哪些官员；他为什么会沦落到如今的地步；习近平会如何处置他；郭文贵的靠山到底是谁。邓小平｜王瑞林｜贾廷安 | https://www.youtube.com/watch?v=Dcf_ZLAMaRA |
 | 2026-01-24 | N | was_live | 张又侠的白手套如何赚千亿；张又侠被抓对台海战争和中共权力格局的影响；习近平如何处置钟绍军；中共军队干部任用的新逻辑；中国经济未来的二元悖论；中国未来各行业发展前景分析； | https://www.youtube.com/watch?v=i12R0amAZYU |
